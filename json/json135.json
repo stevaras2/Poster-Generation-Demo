@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 100.8,
+    "y1": 70.56,
+    "x2": 511.2,
+    "y2": 289.44
+  },
+  "caption": "Figure 1: Embedding Visualizations. The top row depicts PCA visualizations for embeddings generated on ChGminer, and the bottom row depicts t-SNE visualizations for embeddings generated on email-Eu-core (both colored by class). (a) Represents the canonical graph factorization baseline, (b) represents DeepWalk, (c) represents node2vec, and (d) represents our supervised Poincar? embeddings.",
+  "imageText": [],
+  "renderURL": "jpeg135-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 79.19999694824219,
+    "y1": 300.3045349121094,
+    "x2": 534.4561767578125,
+    "y2": 339.0350036621094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 93.6,
+    "y1": 72.0,
+    "x2": 516.0,
+    "y2": 161.28
+  },
+  "caption": "Table 1: Overall Embedding Performance. This table depicts the performance of varying types of embedding schema on node classification and link prediction, with best results typeset in bold. Link prediction results are reported for train and test sets. Sizes of training and test sets for both tasks are additionally reported.",
+  "imageText": ["DeepWalk", "0.741", "0.669", "0.55", "/", "0.55", "0.55", "/", "0.55", "node2vec", "(p", "=", "q", "=", "0.25)", "0.761", "0.693", "0.57", "/", "0.55", "0.57", "/", "0.56", "Supervised", "Poincar?", "0.905", "0.686", "0.49", "/", "0.51", "0.51", "/", "0.51", "Hybrid", "Poincar?", "+", "Euclidean", "0.915", "0.710", "0.57", "/", "0.56", "0.58", "/", "0.57", "ChG-miner", "Train:", "18170", "Test:", "9082", "email-EU-core", "Train:", "19278", "Test:", "9638", "ChG-miner", "Train:", "5872", "Test:", "1468", "Train:", "804", "Test:", "201", "Node", "Classi?cation", "(Accuracy)", "Link", "Prediction", "(Average", "Precision)", "email-EU-core"],
+  "renderURL": "jpeg135-Table1-1.png",
+  "captionBoundary": {
+    "x1": 78.89099884033203,
+    "y1": 166.59951782226562,
+    "x2": 532.798095703125,
+    "y2": 194.4210205078125
+  }
+}]

@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "y1": 574.56,
+    "x2": 558.24,
+    "y2": 759.36
+  },
+  "caption": "Fig. 2 Fig. 1",
+  "imageText": [],
+  "renderURL": "jpeg030-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 257.80999755859375,
+    "y1": 752.0247192382812,
+    "x2": 536.1401977539062,
+    "y2": 756.6959838867188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 210.72,
+    "x2": 556.3199999999999,
+    "y2": 393.12
+  },
+  "caption": "Fig. 5a Fig.5b",
+  "imageText": [],
+  "renderURL": "jpeg030-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 310.25,
+    "y1": 386.6987609863281,
+    "x2": 550.7786865234375,
+    "y2": 391.3699951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 540.96,
+    "x2": 264.0,
+    "y2": 739.1999999999999
+  },
+  "caption": "Fig. 9b",
+  "imageText": [],
+  "renderURL": "jpeg030-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 222.77000427246094,
+    "y1": 732.2247314453125,
+    "x2": 253.23764038085938,
+    "y2": 736.89599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 326.88,
+    "x2": 269.28,
+    "y2": 534.24
+  },
+  "caption": "Fig. 9a",
+  "imageText": [],
+  "renderURL": "jpeg030-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 222.77000427246094,
+    "y1": 527.3587646484375,
+    "x2": 253.23764038085938,
+    "y2": 532.030029296875
+  }
+}]

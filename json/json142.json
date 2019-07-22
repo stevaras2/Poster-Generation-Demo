@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 70.56,
+    "x2": 545.28,
+    "y2": 350.4
+  },
+  "caption": "Figure 2. ResNeXt model architecture",
+  "imageText": [],
+  "renderURL": "jpeg142-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 358.63299560546875,
+    "y1": 355.3988037109375,
+    "x2": 495.3436584472656,
+    "y2": 361.0790100097656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 180.95999999999998,
+    "x2": 255.35999999999999,
+    "y2": 288.0
+  },
+  "caption": "Figure 4. [Left] Incorrect protein docking with RMSD value 16.37 ( 4.0) that was properly predicted as 0. [Right] Correct protein docking with RMSD value 0.5 (4.0) that was misclassified and predicted as 0.",
+  "imageText": [],
+  "renderURL": "jpeg142-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 292.71978759765625,
+    "x2": 286.3616943359375,
+    "y2": 331.2770080566406
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 64.8,
+    "y1": 560.64,
+    "x2": 261.12,
+    "y2": 598.0799999999999
+  },
+  "caption": "Table 5. ResNeXt50 Results on unbalanced dataset. lr is the initial learning rate and bs is the mini-batch size. Test results based on trained model with performance seen in Table 3.",
+  "imageText": ["ROC-AUC", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.850", "Hyperparameters", "Test", "F1", "Score", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.824"],
+  "renderURL": "jpeg142-Table5-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 599.5317993164062,
+    "x2": 286.35870361328125,
+    "y2": 627.1300048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 345.59999999999997,
+    "x2": 545.28,
+    "y2": 409.44
+  },
+  "caption": "Figure 1. Make cubes pipeline: (a). Randomly rotate atom positions of docked protein complex, (b). Find center of the interaction, (c). Find cluster center and all atoms within radius, (d). For each cluster, make cubes with 1 cubic angstrom voxels that are 0 if no atom and number for atom type otherwise",
+  "imageText": [],
+  "renderURL": "jpeg142-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 414.00579833984375,
+    "x2": 545.1088256835938,
+    "y2": 463.52099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 127.67999999999999,
+    "x2": 258.24,
+    "y2": 154.07999999999998
+  },
+  "caption": "Table 1. Results for SVM regression and corresponding hyperparameter values. Train scores were computed using 5-fold cross validation. C is the regularization parameter and gamma is the inverse of the radius of influence.",
+  "imageText": ["Hyperparameters", "Train", "Test", "R", "2", "C", "=", "4,", "=", "32", "0.4445", "0.171"],
+  "renderURL": "jpeg142-Table1-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 155.0177764892578,
+    "x2": 286.3586730957031,
+    "y2": 193.57501220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 445.91999999999996,
+    "x2": 545.28,
+    "y2": 484.32
+  },
+  "caption": "Table 4. ResNeXt101 Results for classification and corresponding hyperparameter values. lr is the initial learning rate and bs is the mini-batch size.",
+  "imageText": ["ROC-AUC", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.903", "0.864", "Hyperparameters", "Train", "Test", "F1", "Score", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.851", "0.825"],
+  "renderURL": "jpeg142-Table4-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 489.6947937011719,
+    "x2": 545.108642578125,
+    "y2": 517.29296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 51.839999999999996,
+    "y1": 346.56,
+    "x2": 274.08,
+    "y2": 384.0
+  },
+  "caption": "Table 2. Results for SVM classification and corresponding hyperparameter values. C is the regularization parameter and gamma is the inverse of the radius of influence.",
+  "imageText": ["ROC-AUC", "C", "=", "2,", "=", "64", "0.950", "0.876", "Hyperparameters", "Train", "Test", "F1", "Score", "C", "=", "2,", "=", "32", "0.888", "0.705"],
+  "renderURL": "jpeg142-Table2-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 385.3778076171875,
+    "x2": 286.35870361328125,
+    "y2": 412.9750061035156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 329.76,
+    "y1": 542.88,
+    "x2": 523.1999999999999,
+    "y2": 688.3199999999999
+  },
+  "caption": "Figure 3. ResNeXt50 normalized confusion matrix where label is a binary value predicting correctness of protein binding orientation",
+  "imageText": [],
+  "renderURL": "jpeg142-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 692.4197387695312,
+    "x2": 545.10888671875,
+    "y2": 709.0590209960938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 348.96,
+    "x2": 545.28,
+    "y2": 387.36
+  },
+  "caption": "Table 3. ResNeXt50 Results for classification and corresponding hyperparameter values. lr is the initial learning rate and bs is the mini-batch size.",
+  "imageText": ["ROC-AUC", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.981", "0.954", "Hyperparameters", "Train", "Test", "F1", "Score", "lr", "=", "0.5e", "3,", "bs", "=", "32", "0.956", "0.929"],
+  "renderURL": "jpeg142-Table3-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 392.9137878417969,
+    "x2": 545.1088256835938,
+    "y2": 420.5119934082031
+  }
+}]

@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 354.71999999999997,
+    "x2": 495.35999999999996,
+    "y2": 468.47999999999996
+  },
+  "caption": "Figure 3: UNIT translates an image from the GTA5 style domain to the Cityscapes style domain.",
+  "imageText": ["(a)", "Input", "to", "UNIT", "model.", "(b)", "Output", "from", "UNIT", "model."],
+  "renderURL": "jpeg52-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 113.02098083496094,
+    "y1": 478.52252197265625,
+    "x2": 498.98211669921875,
+    "y2": 484.5249938964844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 72.0,
+    "x2": 485.28,
+    "y2": 174.23999999999998
+  },
+  "caption": "Figure 2: Ground truth examples from the Cityscapes and GTA5 datasets.",
+  "imageText": ["(a)", "Cityscapes", "ground", "truth.", "(b)", "GTA5", "ground", "truth."],
+  "renderURL": "jpeg52-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 159.1719970703125,
+    "y1": 185.64553833007812,
+    "x2": 452.82958984375,
+    "y2": 191.64801025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 193.92,
+    "y1": 115.67999999999999,
+    "x2": 418.08,
+    "y2": 170.4
+  },
+  "caption": "Table 2: MIoU scores for our two models evaluated on the CityScapes dataset after 100 epochs of training from scratch.",
+  "imageText": ["Baseline", "0.48", "UNIT-Mapped", "0.51", "MIoU", "Scores", "(training", "from", "scratch)"],
+  "renderURL": "jpeg52-Table2-1.png",
+  "captionBoundary": {
+    "x1": 107.69100189208984,
+    "y1": 178.18551635742188,
+    "x2": 504.0034484863281,
+    "y2": 195.09698486328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 329.76,
+    "x2": 487.2,
+    "y2": 542.88
+  },
+  "caption": "Figure 1: Selected images from Cityscapes and GTA5 datasets.",
+  "imageText": ["(c)", "Cityscapes,", "image", "2.", "(d)", "GTA5,", "image", "2.", "(a)", "Cityscapes,", "image", "1.", "(b)", "GTA5,", "image", "1."],
+  "renderURL": "jpeg52-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 180.1280059814453,
+    "y1": 558.8375854492188,
+    "x2": 431.8730163574219,
+    "y2": 564.8400268554688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 173.76,
+    "y1": 605.76,
+    "x2": 438.24,
+    "y2": 660.0
+  },
+  "caption": "Table 1: MIoU scores for our two models evaluated on the CityScapes dataset after 120 epochs of training using transfer learning.",
+  "imageText": ["Baseline", "0.56", "UNIT-Mapped", "0.55", "MIoU", "Scores", "(training", "using", "transfer", "learning)"],
+  "renderURL": "jpeg52-Table1-1.png",
+  "captionBoundary": {
+    "x1": 107.69100189208984,
+    "y1": 668.5945434570312,
+    "x2": 504.0034484863281,
+    "y2": 685.5059814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 70.56,
+    "x2": 487.2,
+    "y2": 189.6
+  },
+  "caption": "Figure 4: A comparison of our data pipelines for our baseline",
+  "imageText": ["(a)", "Baseline", "Model", "(b)", "UNIT-Mapped", "Model"],
+  "renderURL": "jpeg52-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 183.6800079345703,
+    "y1": 199.80453491210938,
+    "x2": 428.3215026855469,
+    "y2": 205.8070068359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 424.8,
+    "x2": 495.84,
+    "y2": 558.72
+  },
+  "caption": "Figure 5: Baseline and UNIT-mapped show similar training loss curves and MIoU curves for 120 epochs.",
+  "imageText": ["(a)", "Training", "loss.", "(b)", "MIoU", "scores", "during", "training", "on", "testing", "dataset."],
+  "renderURL": "jpeg52-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 568.51953125,
+    "x2": 503.9974670410156,
+    "y2": 585.4310302734375
+  }
+}]

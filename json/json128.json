@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.96,
+    "y1": 372.96,
+    "x2": 266.4,
+    "y2": 518.4
+  },
+  "caption": "Figure 8: RMSE as a function of number of epochs for different kernels.",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 50.17300033569336,
+    "y1": 530.513671875,
+    "x2": 264.82513427734375,
+    "y2": 547.4500122070312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.96,
+    "y1": 73.92,
+    "x2": 266.4,
+    "y2": 219.35999999999999
+  },
+  "caption": "Figure 6: RMSE for different number of factors. 14 factors seems to be the optimal.",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 50.17300033569336,
+    "y1": 232.14871215820312,
+    "x2": 264.8241271972656,
+    "y2": 249.08502197265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 345.59999999999997,
+    "y1": 73.92,
+    "x2": 563.04,
+    "y2": 219.35999999999999
+  },
+  "caption": "Figure 7: RMSE as a function of number of epochs for different update schemes",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 347.17498779296875,
+    "y1": 232.14871215820312,
+    "x2": 561.8270263671875,
+    "y2": 249.08502197265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 345.59999999999997,
+    "y1": 372.96,
+    "x2": 563.04,
+    "y2": 518.4
+  },
+  "caption": "Figure 9: Histogram for predictions using matrix factorization.",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 347.17498779296875,
+    "y1": 530.513671875,
+    "x2": 561.8251342773438,
+    "y2": 547.4500122070312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 134.88,
+    "y1": 123.83999999999999,
+    "x2": 477.12,
+    "y2": 279.36
+  },
+  "caption": "Table 1: Top 10 most popular movies by weighted score",
+  "imageText": ["The", "Shawshank", "Redemption", "8.5", "8358.0", "8.445871", "The", "Godfather", "8.5", "6024.0", "8.425442", "Dilwale", "Dulhania", "Le", "Jayenge", "9.1", "661.0", "8.421477", "The", "Dark", "Knight", "8.3", "12269.0", "8.265479", "Fight", "Club", "8.3", "9678.0", "8.256387", "Pulp", "Fiction", "8.3", "8670.0", "8.251408", "Schindler’s", "List", "8.3", "4436.0", "8.206643", "Whiplash", "8.3", "4376.0", "8.205408", "Spirited", "Away", "8.3", "3968.0", "8.196059", "Life", "Is", "Beautiful", "8.3", "3643.0", "8.187177", "Movie", "Title", "Avg", "Votes", "Num", "Votes", "Weighted", "Score"],
+  "renderURL": "jpeg128-Table1-1.png",
+  "captionBoundary": {
+    "x1": 183.98500061035156,
+    "y1": 296.7137145996094,
+    "x2": 428.0127868652344,
+    "y2": 301.69500732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.96,
+    "y1": 46.559999999999995,
+    "x2": 563.04,
+    "y2": 192.0
+  },
+  "caption": "Figure 1: RMSE for different values of w1. (w2 = 1 - w1) Figure 2: Histogram for predictions using TF-IDF similarity.",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 31.444000244140625,
+    "y1": 205.30471801757812,
+    "x2": 587.2383422851562,
+    "y2": 210.2860107421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 126.72,
+    "y1": 273.59999999999997,
+    "x2": 280.32,
+    "y2": 424.32
+  },
+  "caption": "Table 2: Movies most similar to Skyfall",
+  "imageText": ["Octopussy", "0.8358", "Transporter", "0.8298", "Safe", "house", "0.8287", "Unlocked", "0.8106", "Undercover", "Man", "0.8062", "Push", "0.8033", "Sniper", "2", "0.8007", "Patriot", "Games", "0.8005", "2047", "Sights", "Death", "0.7952", "Interceptor", "0.7951", "Similar", "Movies", "Sim", "Score"],
+  "renderURL": "jpeg128-Table2-1.png",
+  "captionBoundary": {
+    "x1": 117.38899993896484,
+    "y1": 441.668701171875,
+    "x2": 289.4390563964844,
+    "y2": 446.6499938964844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 222.72,
+    "y1": 583.68,
+    "x2": 397.44,
+    "y2": 704.16
+  },
+  "caption": "Figure 4: KNN Item-based Ratings Prediction Histogram",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 223.33900451660156,
+    "y1": 716.8806762695312,
+    "x2": 385.3377685546875,
+    "y2": 733.8170166015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 409.91999999999996,
+    "y1": 583.68,
+    "x2": 584.16,
+    "y2": 704.16
+  },
+  "caption": "Figure 5: KNN User-based Ratings Prediction Histogram",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 410.677001953125,
+    "y1": 716.8806762695312,
+    "x2": 572.6738891601562,
+    "y2": 733.8170166015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 589.92,
+    "x2": 214.07999999999998,
+    "y2": 711.36
+  },
+  "caption": "Figure 3: KNN training RMSE with different values of k",
+  "imageText": [],
+  "renderURL": "jpeg128-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 36.0,
+    "y1": 715.836669921875,
+    "x2": 197.9998321533203,
+    "y2": 732.7730102539062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 341.76,
+    "y1": 273.59999999999997,
+    "x2": 472.32,
+    "y2": 412.32
+  },
+  "caption": "Table 3: Learning rate with test RMSE",
+  "imageText": ["0.020", "0.927403", "0.025", "0.927003", "0.030", "0.927009", "0.035", "0.927358", "0.040", "0.927994", "0.05", "0.929483", "0.1", "0.938572", "0.2", "0.950744", "0.4", "0.970215", "Learning", "Rate", "RMSE"],
+  "renderURL": "jpeg128-Table3-1.png",
+  "captionBoundary": {
+    "x1": 322.2569885253906,
+    "y1": 441.668701171875,
+    "x2": 494.91864013671875,
+    "y2": 446.6499938964844
+  }
+}]

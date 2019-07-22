@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 90.72,
+    "y1": 66.72,
+    "x2": 505.44,
+    "y2": 265.44
+  },
+  "caption": "Figure 3. a) classification model b) R-CNN localization baseline c) CAM localization model",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 132.28399658203125,
+    "y1": 280.4177551269531,
+    "x2": 464.6005554199219,
+    "y2": 285.82000732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 374.88,
+    "y1": 100.8,
+    "x2": 474.24,
+    "y2": 167.04
+  },
+  "caption": "Figure 8. IoU distribution (in 100s)",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 360.8450012207031,
+    "y1": 182.08975219726562,
+    "x2": 488.0372619628906,
+    "y2": 187.49200439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 110.88,
+    "y1": 66.72,
+    "x2": 234.23999999999998,
+    "y2": 153.12
+  },
+  "caption": "Figure 6. Train and validation accuracy",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 101.63600158691406,
+    "y1": 167.96572875976562,
+    "x2": 243.2462158203125,
+    "y2": 173.36798095703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 516.0,
+    "x2": 246.23999999999998,
+    "y2": 588.0
+  },
+  "caption": "Figure 7. Examples of False Negative Predictions",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 83.3219985961914,
+    "y1": 603.2127075195312,
+    "x2": 261.5599670410156,
+    "y2": 608.614990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 350.88,
+    "y1": 286.56,
+    "x2": 498.24,
+    "y2": 356.15999999999997
+  },
+  "caption": "Figure 9. Examples of prediction with no overlapping",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 327.77301025390625,
+    "y1": 371.1547546386719,
+    "x2": 521.109375,
+    "y2": 376.5570068359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 286.56,
+    "x2": 270.24,
+    "y2": 353.28
+  },
+  "caption": "Figure 1. (left) Lung with Pneumonia, (mid) Unhealthy/Diseased Lung (no Pneumonia), (right) Healthy lung",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.9379997253418,
+    "y1": 367.69775390625,
+    "x2": 289.44464111328125,
+    "y2": 384.0589904785156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 138.72,
+    "x2": 522.24,
+    "y2": 205.44
+  },
+  "caption": "Figure 2. (left) Original input image, (mid) predicted lung location, (right) segmented lung",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 219.96377563476562,
+    "x2": 542.5612182617188,
+    "y2": 236.32501220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 660.0,
+    "x2": 535.1999999999999,
+    "y2": 697.4399999999999
+  },
+  "caption": "Table 1: Confusion matrix for our model",
+  "imageText": ["Confusion", "Matrix", "Predicted", "True", "Predicted", "False", "Actual", "True", "2230", "210", "Actual", "False", "110", "1823"],
+  "renderURL": "jpeg56-Table1-1.png",
+  "captionBoundary": {
+    "x1": 343.1860046386719,
+    "y1": 709.0585327148438,
+    "x2": 505.69586181640625,
+    "y2": 715.0609741210938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 501.59999999999997,
+    "x2": 541.4399999999999,
+    "y2": 540.0
+  },
+  "caption": "Table 1: Classification accuracy for our model & baselines",
+  "imageText": ["Test", "73.02%", "58.18%", "83.00%", "92.47%", "Classi?er", "LR", "SVM", "RF", "Our", "Model", "Training", "75.86%", "74.17%", "86.39%", "93.07%"],
+  "renderURL": "jpeg56-Table1-1.png",
+  "captionBoundary": {
+    "x1": 307.57501220703125,
+    "y1": 551.1355590820312,
+    "x2": 541.3075561523438,
+    "y2": 557.1380004882812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 278.88,
+    "x2": 270.24,
+    "y2": 345.12
+  },
+  "caption": "Figure 4. (Left) Original image, (mid) segmented lung (right) Class activation heatmap when we feed in only original image",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.9379997253418,
+    "y1": 360.228759765625,
+    "x2": 289.4366149902344,
+    "y2": 376.5899963378906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 333.59999999999997,
+    "x2": 522.24,
+    "y2": 396.47999999999996
+  },
+  "caption": "Figure 5. Heatmap with threshold cutoff value of (left) 0.2 (mid) 0.45 (right) 0.7",
+  "imageText": [],
+  "renderURL": "jpeg56-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 410.749755859375,
+    "x2": 542.0407104492188,
+    "y2": 427.1109924316406
+  }
+}]

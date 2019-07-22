@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 301.92,
+    "y1": 188.64,
+    "x2": 516.0,
+    "y2": 257.28
+  },
+  "caption": "Figure 1: Uplift modelling creation process",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 312.5849914550781,
+    "y1": 269.2947082519531,
+    "x2": 500.2682189941406,
+    "y2": 274.2760009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 403.68,
+    "x2": 298.08,
+    "y2": 568.3199999999999
+  },
+  "caption": "Figure 2: Features in Hillstorm Dataset",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 102.31099700927734,
+    "y1": 580.4066772460938,
+    "x2": 275.3802185058594,
+    "y2": 585.3880004882812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 301.92,
+    "y1": 55.68,
+    "x2": 516.0,
+    "y2": 161.28
+  },
+  "caption": "Figure 4: Qini Curve [Rad07]",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 342.1960144042969,
+    "y1": 173.53073120117188,
+    "x2": 470.65460205078125,
+    "y2": 178.51202392578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 292.8,
+    "x2": 298.08,
+    "y2": 407.03999999999996
+  },
+  "caption": "Figure 3: Uplift modelling based on 2 different models",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 85.03900146484375,
+    "y1": 419.4067077636719,
+    "x2": 292.65350341796875,
+    "y2": 436.3429870605469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 266.88,
+    "x2": 292.32,
+    "y2": 329.28
+  },
+  "caption": "Table 1: Model accuracy on test set without using one hot vector representation for data representation",
+  "imageText": ["BBLR", "58.12", "%", "59.83", "%", "60.02", "%", "DT", "49.81", "%", "49.34", "%", "48.89", "%", "3NN", "59.34", "%", "60.61", "%", "61.26", "%", "Con?g", "Visit", "Conversion", "Spend", "LR", "57.85", "%", "59.67", "%", "59.44", "%"],
+  "renderURL": "jpeg296-Table1-1.png",
+  "captionBoundary": {
+    "x1": 85.03900146484375,
+    "y1": 342.27471923828125,
+    "x2": 292.657470703125,
+    "y2": 371.1669921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 532.8,
+    "x2": 292.32,
+    "y2": 595.1999999999999
+  },
+  "caption": "Table 2: Model accuracy on test set with one hot vector representation for data representation",
+  "imageText": ["BBLR", "85.79", "%", "84.27", "%", "85.28", "%", "DT", "63.57", "%", "61.39", "%", "63.74", "%", "3NN", "87.01", "%", "87.83", "%", "86.21", "%", "Con?g", "Visit", "Conversion", "Spend", "LR", "85.01", "%", "85.72", "%", "84.27", "%"],
+  "renderURL": "jpeg296-Table2-1.png",
+  "captionBoundary": {
+    "x1": 85.03900146484375,
+    "y1": 608.2276611328125,
+    "x2": 292.654541015625,
+    "y2": 625.1640014648438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 55.68,
+    "x2": 285.12,
+    "y2": 189.12
+  },
+  "caption": "Figure 5: Loss function during model training for the case when we we used one hot vector representation for training data and a 3 layer NN for training",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 85.03900146484375,
+    "y1": 201.88473510742188,
+    "x2": 292.6605529785156,
+    "y2": 242.7320556640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 343.68,
+    "y1": 81.6,
+    "x2": 468.47999999999996,
+    "y2": 144.0
+  },
+  "caption": "Table 3: F-scores for the three models",
+  "imageText": ["BBLR", "0.7689", "0.749", "3NN", "0.801", "0.79", "DT", "0.7129", "0.6366", "Model", "Train", "Test", "LR", "0.753", "0.7313"],
+  "renderURL": "jpeg296-Table3-1.png",
+  "captionBoundary": {
+    "x1": 323.2120056152344,
+    "y1": 157.31069946289062,
+    "x2": 489.6460266113281,
+    "y2": 162.2919921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 301.92,
+    "y1": 262.56,
+    "x2": 516.0,
+    "y2": 573.12
+  },
+  "caption": "Figure 6: ROC Curves for Predictive Response Modelling",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 302.6189880371094,
+    "y1": 585.8587036132812,
+    "x2": 510.23834228515625,
+    "y2": 602.7950439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 344.64,
+    "x2": 298.08,
+    "y2": 656.16
+  },
+  "caption": "Figure 7: Qini curve for uplift modelling for train and test data",
+  "imageText": [],
+  "renderURL": "jpeg296-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 85.03900146484375,
+    "y1": 668.2867431640625,
+    "x2": 292.6614685058594,
+    "y2": 685.2230224609375
+  }
+}]

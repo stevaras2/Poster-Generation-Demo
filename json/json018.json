@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 100.8,
+    "y1": 184.79999999999998,
+    "x2": 511.2,
+    "y2": 342.24
+  },
+  "caption": "Figure 1: Two possible realizations of a deltaic reservoir obtained using Direct Sampling. Highlighted portions show how the two realizations are different from each other.",
+  "imageText": ["Realization", "1", "Realization", "2"],
+  "renderURL": "jpeg018-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 91.46399688720703,
+    "y1": 347.989990234375,
+    "x2": 520.522705078125,
+    "y2": 364.7300109863281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 163.68,
+    "y1": 532.8,
+    "x2": 441.59999999999997,
+    "y2": 689.28
+  },
+  "caption": "Figure 3: A 3 ? 3 filter for ??? cell. Similar filters are used for remaining grid cells",
+  "imageText": ["Realizat", "Realiza"],
+  "renderURL": "jpeg018-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 133.82000732421875,
+    "y1": 694.1160278320312,
+    "x2": 478.0378723144531,
+    "y2": 699.0960083007812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 100.8,
+    "y1": 381.12,
+    "x2": 523.1999999999999,
+    "y2": 520.3199999999999
+  },
+  "caption": "Figure 2: Two possible realizations of a stone-wall obtained using Direct Sampling.",
+  "imageText": [],
+  "renderURL": "jpeg018-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 130.22000122070312,
+    "y1": 523.81005859375,
+    "x2": 481.78179931640625,
+    "y2": 528.7900390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 373.91999999999996,
+    "x2": 512.16,
+    "y2": 528.0
+  },
+  "caption": "Figure 5: (Left) A 1D patch is shown in orange. All the highlighted cells have a common filter. (Right) Simulation result after training filters constant in patches",
+  "imageText": [],
+  "renderURL": "jpeg018-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 109.0999984741211,
+    "y1": 540.8500366210938,
+    "x2": 502.41217041015625,
+    "y2": 557.469970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 99.84,
+    "y1": 324.0,
+    "x2": 507.35999999999996,
+    "y2": 474.24
+  },
+  "caption": "Figure 4: Simulations of the two scenarios using the trained filters",
+  "imageText": [],
+  "renderURL": "jpeg018-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 165.6199951171875,
+    "y1": 481.69000244140625,
+    "x2": 445.9443664550781,
+    "y2": 486.6700134277344
+  }
+}]

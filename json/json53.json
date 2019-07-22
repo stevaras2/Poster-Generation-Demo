@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 422.88,
+    "x2": 546.24,
+    "y2": 523.1999999999999
+  },
+  "caption": "Figure 2. Spectrogram. Orange dots stand for the peaks of power over time (horizontal axis) and frequency (vertical axis). The brighter dots are, the more powerful.",
+  "imageText": [],
+  "renderURL": "jpeg53-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 527.9896850585938,
+    "x2": 545.1087646484375,
+    "y2": 555.3090209960938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 72.0,
+    "x2": 546.24,
+    "y2": 284.15999999999997
+  },
+  "caption": "Figure 1. Convolutional Recurrent Neural Network (C-RNN)",
+  "imageText": [],
+  "renderURL": "jpeg53-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 187.9810028076172,
+    "y1": 300.4227600097656,
+    "x2": 407.24542236328125,
+    "y2": 305.82501220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 70.56,
+    "x2": 287.03999999999996,
+    "y2": 270.24
+  },
+  "caption": "Figure 3. Confusion matrix on test set. Horizontal axis represents predicted labels of SongNet. Vertical axis represents the groundtruth. Diagonal numbers indicate correctly classified samples.",
+  "imageText": [],
+  "renderURL": "jpeg53-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 274.7377624511719,
+    "x2": 286.3587341308594,
+    "y2": 302.0579833984375
+  }
+}]

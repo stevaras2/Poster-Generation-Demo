@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "I",
+  "page": 0,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 319.68,
+    "y1": 552.96,
+    "x2": 551.04,
+    "y2": 701.76
+  },
+  "caption": "TABLE I MARKET FEATURES: WEEKLY DATASET",
+  "imageText": ["*", "Also", "considered", "in", "the", "monthly", "dataset", "Stock", "Market", "Mexico", "Mexican", "Stock", "Exchange", "Index?", "US", "S&P", "500", "Index?", "Global", "Volatility", "Index?", "Currency", "Dollar", "Index?", "Trader", "positions", "on", "USDMXN", "Other", "Global", "Economic", "Surprise", "Indices", "Commodities", "Index?", "Global", "Global", "High-Yield", "Indices", "Emerging", "Market", "Bond", "Index", "Bond", "Index", "Federal", "Funds", "Rate?", "Debt", "holdings", "US", "Bond", "yields", "(3m,", "6m,", "1Y", "and", "10Y)?", "Type", "Country", "Variables", "Fixed", "Income", "Mexico", "Bond", "yields", "(3m,", "6m,", "1Y", "and", "10Y)"],
+  "renderURL": "jpeg76-TableI-1.png",
+  "captionBoundary": {
+    "x1": 368.6319885253906,
+    "y1": 524.4857177734375,
+    "x2": 502.57318115234375,
+    "y2": 541.2427368164062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 70.56,
+    "y1": 188.64,
+    "x2": 282.24,
+    "y2": 349.44
+  },
+  "caption": "TABLE II FUNDAMENTAL FEATURES: MONTHLY DATASET",
+  "imageText": ["US", "M2", "Money", "Supply", "PPI,", "Producer", "Price", "Index", "Debt", "Mexico", "National", "Debt", "US", "National", "Debt", "Sentiment", "US", "PMI,", "Purchasing", "Managers", "Index", "Investor", "Sentiment", "Other", "Mexico", "M2", "Money", "Supply", "PPI,", "Producer", "Price", "Index", "US", "CPI,", "Consumer", "Price", "Index", "Labor", "US", "Unemployment", "Market", "Non-farm", "Payroll", "Prices", "Mexico", "CPI,", "Consumer", "Price", "Index", "US", "IP,", "Industrial", "Production", "Trade", "Balance", "(Exports", "-", "Imports)", "Type", "Country", "Variables", "Economic", "Mexico", "IP,", "Industrial", "Production", "Activity", "Trade", "Balance", "(Exports", "-", "Imports)"],
+  "renderURL": "jpeg76-TableII-1.png",
+  "captionBoundary": {
+    "x1": 95.70000457763672,
+    "y1": 154.01405334472656,
+    "x2": 257.1058349609375,
+    "y2": 170.77105712890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 526.56,
+    "x2": 549.12,
+    "y2": 649.4399999999999
+  },
+  "caption": "Fig. 1. NN architecture. ?Second hidden layer only for the market variables model.",
+  "imageText": ["Input", "Hidden", "Hidden?", "Output", "O1", "H2p", "H22", "H21", "H1m", "H12", "H11", "In", "I2", "I1", "...", "...", "..."],
+  "renderURL": "jpeg76-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 661.7919921875,
+    "x2": 533.736328125,
+    "y2": 675.5609741210938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 63.839999999999996,
+    "y1": 642.72,
+    "x2": 289.44,
+    "y2": 728.16
+  },
+  "caption": "TABLE IV BINARY CLASSIFICATION: ACCURACY (%)",
+  "imageText": ["Model", "Market", "FundamentalsTrain", "Validate", "Test", "Train", "Validate", "Test", "Logistic", "62.5", "55.2", "53.0", "67.8", "39.1", "44.9", "Lasso", "59.1", "58.8", "53.6", "58.5", "53.6", "34.8", "Ridge", "60.1", "61.8", "54.2", "59.0", "53.6", "37.7", "SVM", "59.1", "60.0", "56.0", "65.4", "53.6", "40.6", "NN", "69.7", "56.4", "54.2", "65.5", "55.1", "40.6", "GBC", "81.9", "52.1", "48.2", "Note:", "Best", "performance", "on", "test", "set", "marked", "in", "red."],
+  "renderURL": "jpeg76-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 103.92500305175781,
+    "y1": 607.4849853515625,
+    "x2": 248.8751678466797,
+    "y2": 624.2420043945312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 572.64,
+    "x2": 528.0,
+    "y2": 700.3199999999999
+  },
+  "caption": "Fig. 3. Conditional density of 3-month Mexican T-Bills",
+  "imageText": [],
+  "renderURL": "jpeg76-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 341.7760009765625,
+    "y1": 713.0780029296875,
+    "x2": 529.4240112304688,
+    "y2": 717.8800048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 58.559999999999995,
+    "y1": 300.0,
+    "x2": 294.24,
+    "y2": 513.12
+  },
+  "caption": "TABLE III SELECTED PARAMETERS",
+  "imageText": ["Continuous", "Trees", "=", "500", "Depth", "=", "3", "·", "=", "0.01", "GBC/GBR", "Binary", "Trees", "=", "100", "Depth", "=", "7", "·", "=", "0.0005", "Continuous", "Neuron", "=", "500", "Neuron", "=", "50", "Epoch", "=", "2000", "Epoch", "=", "7000", "Batch", "=", "32", "Batch", "=", "32", "Dropout", "=", "0.2", "Dropout", "=", "0.2", "NN", "Binary", "Neuron", "=", "250", "Neuron", "=", "100", "Epoch", "=", "1000", "Epoch", "=", "5000", "Batch", "=", "64", "Batch", "=", "Full", "Dropout", "=", "0.2", "Î", "=", "5,·", "=", "0.03", "Continuous", "C", "=", "100", "C", "=", "14.5", "„", "=", "0.00001", "„", "=", "0.0014", "SVM/SVR", "Binary", "C", "=", "1000", "C", "=", "11.5", "„", "=", "0.0001", "„", "=", "0.001", "Continuous", "ÎLASSO", "=", "0.0002", "ÎLASSO", "=", "0.75", "ÎRidge", "=", "0.0071", "ÎRidge", "=", "0.29", "Model", "Framework", "Market", "Fundamentals", "Regularized", "Binary", "ÎLASSO", "=", "0.39", "ÎLASSO", "=", "0.0785", "Regression", "ÎRidge", "=", "0.14", "ÎRidge", "=", "1.13"],
+  "renderURL": "jpeg76-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 134.4820098876953,
+    "y1": 265.7591857910156,
+    "x2": 218.32647705078125,
+    "y2": 282.5161437988281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 288.96,
+    "x2": 528.0,
+    "y2": 415.2
+  },
+  "caption": "Fig. 2. Confusion matrix of the SVM model on the market variables dataset",
+  "imageText": [],
+  "renderURL": "jpeg76-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 427.81402587890625,
+    "x2": 558.00146484375,
+    "y2": 432.6159973144531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 65.75999999999999,
+    "y1": 151.68,
+    "x2": 287.03999999999996,
+    "y2": 237.12
+  },
+  "caption": "TABLE V CONTINUOUS TARGET: ACCURACY (%)",
+  "imageText": ["Model", "Market", "FundamentalsTrain", "Validate", "Test", "Train", "Validate", "Test", "Linear", "65.3", "65.9", "58.8", "54.5", "55.9", "50.0", "Lasso", "63.2", "67.1", "57.0", "50.5", "63.2", "52.9", "Ridge", "63.6", "67.1", "60.0", "52.0", "52.9", "50.0", "SVR", "67.3", "56.7", "58.2", "55.9", "45.6", "54.5", "NN", "79.2", "54.9", "60.0", "65.2", "45.6", "54.4", "GBR", "73.9", "50.6", "56.4", "Note:", "Best", "performance", "on", "test", "set", "marked", "in", "red."],
+  "renderURL": "jpeg76-TableV-1.png",
+  "captionBoundary": {
+    "x1": 109.18499755859375,
+    "y1": 116.51411437988281,
+    "x2": 243.61517333984375,
+    "y2": 133.2711181640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 440.64,
+    "x2": 269.28,
+    "y2": 567.36
+  },
+  "caption": "Fig. 4. Confusion matrix of the Ridge model on the market variables data",
+  "imageText": [],
+  "renderURL": "jpeg76-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 579.8170166015625,
+    "x2": 298.8016052246094,
+    "y2": 584.6190185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 566.88,
+    "x2": 281.28,
+    "y2": 707.04
+  },
+  "caption": "Fig. 7. Variable importance for ridge regression on the market variables dataset under the continuous target framework",
+  "imageText": [],
+  "renderURL": "jpeg76-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 719.9509887695312,
+    "x2": 298.80157470703125,
+    "y2": 733.718994140625
+  }
+}]

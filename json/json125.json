@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 97.92,
+    "y1": 50.879999999999995,
+    "x2": 514.0799999999999,
+    "y2": 174.23999999999998
+  },
+  "caption": "Fig. 3. Accuracy of different models and input features on training and test sets.",
+  "imageText": ["Hybrid", "99%", "81%", "Neural", "Network", "Article", "Context", "99.9%", "72.1%", "Social", "Context", "85.1%", "65.1%", "Hybrid", "100%", "83.26%", "LR", "with", "Iterative", "Classi?cation", "Hybrid", "100%", "87.7%", "Logistic", "Regression", "(LR)", "Article", "Context", "100%", "81.5%", "Social", "Context", "100%", "81.5%", "Model", "Type", "Input", "Features", "Training", "Accuracy", "Test", "Accuracy", "Naive", "Bayes", "Article", "Context", "98.6%", "71.5%"],
+  "renderURL": "jpeg125-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 155.59500122070312,
+    "y1": 188.07077026367188,
+    "x2": 456.4085693359375,
+    "y2": 193.4730224609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 439.68,
+    "x2": 596.16,
+    "y2": 553.4399999999999
+  },
+  "caption": "Fig. 2. Shares per article (left) and shares per user (right) histograms generated from the dataset. The y-axis is on a logarithmic scale.",
+  "imageText": [],
+  "renderURL": "jpeg125-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 567.5986938476562,
+    "x2": 563.0372314453125,
+    "y2": 583.4620361328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 393.59999999999997,
+    "y1": 50.879999999999995,
+    "x2": 481.44,
+    "y2": 178.07999999999998
+  },
+  "caption": "Fig. 1. A graph visualization of a small subset of the dataset. User nodes (left column) are shown in the blue, while article nodes (right column) are shown in red for fake articles and green for real articles. Edges between users indicate follower-followee relationships, and edges between users and articles indicate articles shared by a user.",
+  "imageText": [],
+  "renderURL": "jpeg125-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 192.53872680664062,
+    "x2": 563.0372314453125,
+    "y2": 239.78399658203125
+  }
+}]

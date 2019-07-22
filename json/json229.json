@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 234.72,
+    "y1": 109.92,
+    "x2": 377.28,
+    "y2": 242.39999999999998
+  },
+  "caption": "Figure 3: Correlation Matrix",
+  "imageText": [],
+  "renderURL": "jpeg229-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 236.9239959716797,
+    "y1": 259.1764221191406,
+    "x2": 375.07794189453125,
+    "y2": 264.6309814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 164.64,
+    "y1": 72.0,
+    "x2": 447.35999999999996,
+    "y2": 205.44
+  },
+  "caption": "Figure 5: Final Results",
+  "imageText": [],
+  "renderURL": "jpeg229-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 250.5449981689453,
+    "y1": 222.54747009277344,
+    "x2": 361.45452880859375,
+    "y2": 228.00201416015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 234.72,
+    "y1": 240.0,
+    "x2": 377.28,
+    "y2": 337.44
+  },
+  "caption": "Figure 4: FCNN Structure",
+  "imageText": [],
+  "renderURL": "jpeg229-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 240.5,
+    "y1": 354.2904357910156,
+    "x2": 367.8626403808594,
+    "y2": 359.7449951171875
+  }
+}]

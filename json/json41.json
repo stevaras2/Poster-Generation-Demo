@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 404.64,
+    "y1": 183.84,
+    "x2": 511.2,
+    "y2": 395.03999999999996
+  },
+  "caption": "Figure 3: Architecture for our CNN",
+  "imageText": [],
+  "renderURL": "jpeg41-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 385.2179870605469,
+    "y1": 402.3713073730469,
+    "x2": 530.33251953125,
+    "y2": 408.85198974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 358.56,
+    "y1": 294.71999999999997,
+    "x2": 546.24,
+    "y2": 394.08
+  },
+  "caption": "Figure 8: Plot of inference time vs. test error",
+  "imageText": [],
+  "renderURL": "jpeg41-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 362.31201171875,
+    "y1": 401.32733154296875,
+    "x2": 543.4524536132812,
+    "y2": 407.8080139160156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 113.75999999999999,
+    "x2": 531.36,
+    "y2": 192.0
+  },
+  "caption": "Figure 7: Sample paintings for Claude Monet (far left), Childe Hassam (left), Giovanni Battista Piranesi (right) and Gustave Dore (far right)",
+  "imageText": [],
+  "renderURL": "jpeg41-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 61.20000076293945,
+    "y1": 199.6693572998047,
+    "x2": 550.8021240234375,
+    "y2": 217.05999755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 70.56,
+    "y1": 209.76,
+    "x2": 541.4399999999999,
+    "y2": 288.0
+  },
+  "caption": "Figure 1: Example input paintings by Monet, Matisse, Aivazovsky, and Sargent",
+  "imageText": [],
+  "renderURL": "jpeg41-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 146.2449951171875,
+    "y1": 295.1533203125,
+    "x2": 465.755859375,
+    "y2": 301.6340026855469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 436.8,
+    "x2": 537.12,
+    "y2": 553.92
+  },
+  "caption": "Figure 2: Examples of feature extraction",
+  "imageText": ["(a)", "Example", "painting", "(b)", "SIFT", "keypoints", "(c)", "HOG", "gradients", "(d)", "Color", "histogram"],
+  "renderURL": "jpeg41-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 223.83401489257812,
+    "y1": 563.3973388671875,
+    "x2": 388.16644287109375,
+    "y2": 569.8779907226562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 267.84,
+    "x2": 558.24,
+    "y2": 392.15999999999997
+  },
+  "caption": "Figure 4: Accuracy across models (a) SVM (b) CNN",
+  "imageText": [],
+  "renderURL": "jpeg41-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 102.05999755859375,
+    "y1": 399.6073303222656,
+    "x2": 514.6895141601562,
+    "y2": 406.0880126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 530.88,
+    "x2": 528.0,
+    "y2": 666.72
+  },
+  "caption": "Figure 6: Confusion Matrices (x-axis = predicted class, y-axis = true class)",
+  "imageText": ["(a)", "SVM", "(b)", "CNN"],
+  "renderURL": "jpeg41-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 155.46600341796875,
+    "y1": 676.4733276367188,
+    "x2": 456.5361328125,
+    "y2": 682.9539794921875
+  }
+}]

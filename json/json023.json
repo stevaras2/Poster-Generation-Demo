@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 52.8,
+    "x2": 289.44,
+    "y2": 175.2
+  },
+  "caption": "Fig. 4: Red and blue content of all pixels in a sample image. Blue points were categorized by the EM algorithm as “background”, and red points were categorized as “jelly”. Contour lines for the two probability distributions are also shown.",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 183.47854614257812,
+    "x2": 301.0626220703125,
+    "y2": 233.31695556640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 53.76,
+    "x2": 572.16,
+    "y2": 300.96
+  },
+  "caption": "Fig. 5: Image segmentation methods. (a) Raw image. (b) Jelly segmented using a grayscale threshold. (c) Jelly segmented using EM-based technique.",
+  "imageText": ["(b)", "(c)", "(a)"],
+  "renderURL": "jpeg023-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 318.9969787597656,
+    "y1": 311.2555236816406,
+    "x2": 571.1006469726562,
+    "y2": 339.17596435546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.0,
+    "y1": 52.8,
+    "x2": 554.4,
+    "y2": 225.12
+  },
+  "caption": "Fig. 3: The orientation is bucketed into one of 14 categories, 1-12 for the in-plane angle from vertical, and 13-14 for the 3D out-of-plane angle.",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 318.99700927734375,
+    "y1": 232.87051391601562,
+    "x2": 571.1005859375,
+    "y2": 260.79095458984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 113.75999999999999,
+    "y1": 53.76,
+    "x2": 236.16,
+    "y2": 225.12
+  },
+  "caption": "Fig. 2: Jelly orientation. A manual estimate of the jelly’s orientation is shown in red. The estimated orientation for this example is 44? (category 2) with a depth of 0?.",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 232.87051391601562,
+    "x2": 301.06256103515625,
+    "y2": 260.79095458984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 330.71999999999997,
+    "y1": 325.92,
+    "x2": 559.1999999999999,
+    "y2": 556.3199999999999
+  },
+  "caption": "Fig. 8: Test images confusion matrix.",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 366.5840148925781,
+    "y1": 564.509521484375,
+    "x2": 520.0279541015625,
+    "y2": 570.511962890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 52.8,
+    "x2": 302.4,
+    "y2": 262.08
+  },
+  "caption": "Fig. 6: 50 strongest features found by the SURF algorithm. (a) Jelly image with tentacles. (b) Jelly image with tentacles removed.",
+  "imageText": ["(a)", "(b)"],
+  "renderURL": "jpeg023-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 273.2594909667969,
+    "x2": 301.0626220703125,
+    "y2": 301.179931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 330.71999999999997,
+    "y1": 53.76,
+    "x2": 559.1999999999999,
+    "y2": 286.08
+  },
+  "caption": "Fig. 7: Training images confusion matrix.",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 357.8320007324219,
+    "y1": 294.5705261230469,
+    "x2": 528.7802124023438,
+    "y2": 300.572998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 174.72,
+    "x2": 568.3199999999999,
+    "y2": 314.4
+  },
+  "caption": "Fig. 1: Sample paraphyllina image (MBARI).",
+  "imageText": [],
+  "renderURL": "jpeg023-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 349.3240051269531,
+    "y1": 322.0675354003906,
+    "x2": 537.2880249023438,
+    "y2": 328.07000732421875
+  }
+}]

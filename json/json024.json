@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 144.0,
+    "y1": 324.96,
+    "x2": 468.47999999999996,
+    "y2": 543.36
+  },
+  "caption": "Figure 1: An example of input data",
+  "imageText": [],
+  "renderURL": "jpeg024-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 222.34539794921875,
+    "y1": 550.8419799804688,
+    "x2": 389.6502685546875,
+    "y2": 558.719970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 97.92,
+    "x2": 544.3199999999999,
+    "y2": 245.28
+  },
+  "caption": "Table 1: Selected input and target features",
+  "imageText": [],
+  "renderURL": "jpeg024-Table1-1.png",
+  "captionBoundary": {
+    "x1": 203.6920928955078,
+    "y1": 249.6420135498047,
+    "x2": 408.29931640625,
+    "y2": 257.52001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 125.75999999999999,
+    "y1": 355.68,
+    "x2": 486.24,
+    "y2": 627.36
+  },
+  "caption": "Figure 2: Performance of different classifiers",
+  "imageText": [],
+  "renderURL": "jpeg024-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 215.51339721679688,
+    "y1": 641.322021484375,
+    "x2": 432.4790954589844,
+    "y2": 649.2000122070312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 272.64,
+    "x2": 564.0,
+    "y2": 459.35999999999996
+  },
+  "caption": "Figure 3: Comparison of performance Figure 4: Performance of DTs regression of different classifiers for rate prediction",
+  "imageText": [],
+  "renderURL": "jpeg024-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 86.39988708496094,
+    "y1": 469.48199462890625,
+    "x2": 542.722412109375,
+    "y2": 493.20001220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 144.0,
+    "y1": 49.92,
+    "x2": 468.47999999999996,
+    "y2": 286.08
+  },
+  "caption": "Figure 5: Relative importance of different input featuers",
+  "imageText": [],
+  "renderURL": "jpeg024-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 171.52420043945312,
+    "y1": 291.6419982910156,
+    "x2": 440.468994140625,
+    "y2": 299.5199890136719
+  }
+}]

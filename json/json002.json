@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 52.8,
+    "x2": 558.24,
+    "y2": 343.2
+  },
+  "caption": "Fig. 3. A simplified depiction of the recurrent model used. At each time step the network outputs an estimate of the object count and an (x,y) coordinate pair specifying the next glimpse location, which is used along with the input image to produce the series of focus windows described elsewhere in this paper.",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 357.0937805175781,
+    "x2": 558.0006103515625,
+    "y2": 404.61700439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 274.56,
+    "x2": 558.24,
+    "y2": 360.0
+  },
+  "caption": "Fig. 1. A representation of the input to the recurrent network. Here, three windows of decreasing size and increasing resolution are shown.",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 374.14178466796875,
+    "x2": 558.000732421875,
+    "y2": 400.7439880371094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 411.84,
+    "x2": 559.1999999999999,
+    "y2": 660.0
+  },
+  "caption": "Fig. 2. The original image from which the above windows were obtained.",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 674.0547485351562,
+    "x2": 558.0006713867188,
+    "y2": 690.1959838867188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 52.8,
+    "x2": 299.03999999999996,
+    "y2": 187.2
+  },
+  "caption": "Fig. 4. Comparison of performance of the feedforward network and attention model, controlling for training time.",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 200.5537872314453,
+    "x2": 298.80059814453125,
+    "y2": 216.69500732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 52.8,
+    "x2": 559.1999999999999,
+    "y2": 189.12
+  },
+  "caption": "Fig. 5. Demonstration of the efficacy of the glimpse location decision mechanism. Lower count images after only a few glimpses, while higher-count images could not, indicating that glimpses were indeed targeted at the relevant areas of the image (i.e. the locations of the objects) after sufficient training",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 202.5237579345703,
+    "x2": 558.0006103515625,
+    "y2": 250.0479736328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 265.92,
+    "x2": 558.24,
+    "y2": 364.32
+  },
+  "caption": "Fig. 6. Repeated version of the previous experiment, but with the model’s field of view restricted entirely to the focus window. The effect observed in the original version was not replicated here, indicated that the low-resolution peripheral image data was indeed enabling proper functioning of the attention mechanism",
+  "imageText": [],
+  "renderURL": "jpeg002-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 378.2257995605469,
+    "x2": 558.0006713867188,
+    "y2": 425.7489929199219
+  }
+}]

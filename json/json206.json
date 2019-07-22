@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 434.88,
+    "x2": 564.0,
+    "y2": 594.24
+  },
+  "caption": "Fig. 1. Dataset depiction. (a) Discharge vs cycle number for the first 1,000 cycles of our 124 cells. The variation in lifetime (150 to 2300 cycles) comes from different charging policies. Red and blue indicate high and low cycle life, respectively. (b) A detailed view of (a), showing only the first 100 cycles. A clear ranking of cycle life has not emerged by cycle 100. (c) Histogram of the capacity ratio between cycle 100 and cycle 2. For most cells in this dataset, the capacity initially rises in the first 100 cycles, suggesting prediction will be difficult.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 311.9729919433594,
+    "y1": 606.8040161132812,
+    "x2": 563.0314331054688,
+    "y2": 674.3699951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 306.71999999999997,
+    "x2": 301.44,
+    "y2": 490.08
+  },
+  "caption": "Fig. 2. Voltage visualizations for feature generation. (a) Voltage vs discharge capacity for cycles 1 through 100 for a typical lithium-ion battery. (b) Discharge capacity as a function of voltage (y-axis) and cycle number (xaxis). This plot is another way to visualize the data in (a). (c) Discharge capacity as a function of voltage (y-axis) and cycle number (x-axis) with the second-cycle capacity subtracted. (d) Baseline-subtracted capacity vs cycle number at 2.9 V. The peak around cycle 50 can be attributed to a temperature rise in the environmental testing chamber.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 502.75201416015625,
+    "x2": 300.0171813964844,
+    "y2": 570.3189697265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 70.56,
+    "y1": 53.76,
+    "x2": 540.0,
+    "y2": 243.35999999999999
+  },
+  "caption": "Fig. 3. Mean percent error vs number of cycles used in prediction for (a) elastic net regression, (b) random forest regression, and (c) AdaBoost regression.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 256.0660095214844,
+    "x2": 563.030517578125,
+    "y2": 260.86798095703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 70.56,
+    "y1": 53.76,
+    "x2": 540.0,
+    "y2": 217.44
+  },
+  "caption": "Fig. 4. Mean percent error vs number of cycles used in prediction for (a) elastic net regression, (b) random forest regression, and (c) AdaBoost regression.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 229.3470001220703,
+    "x2": 563.030517578125,
+    "y2": 234.14898681640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 65.75999999999999,
+    "y1": 255.84,
+    "x2": 283.2,
+    "y2": 444.47999999999996
+  },
+  "caption": "Fig. 5. Feature weights for elastic net regression as a function of number of cycles used in prediction. The weights are normalized by the standard deviation of the features to enable direct comparison.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 48.95899963378906,
+    "y1": 456.56103515625,
+    "x2": 300.0171203613281,
+    "y2": 479.2950134277344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 255.84,
+    "x2": 546.24,
+    "y2": 441.12
+  },
+  "caption": "Fig. 6. Feature importance for random forest regression as a function of number of cycles used in prediction.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 311.9729919433594,
+    "y1": 453.2270202636719,
+    "x2": 563.0311889648438,
+    "y2": 466.9960021972656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 480.0,
+    "x2": 546.24,
+    "y2": 664.3199999999999
+  },
+  "caption": "Fig. 7. Feature importance for AdaBoost regression as a function of number of cycles used in prediction.",
+  "imageText": [],
+  "renderURL": "jpeg206-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 311.9729919433594,
+    "y1": 676.8820190429688,
+    "x2": 563.0311889648438,
+    "y2": 690.6500244140625
+  }
+}]

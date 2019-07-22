@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 324.96,
+    "y1": 416.64,
+    "x2": 573.12,
+    "y2": 575.04
+  },
+  "caption": "Table 1: Key results from experiments. Models are distinguished by input type, whereby each training examples were either defined as individual frames or by video (i.e. sequence of frames). The error metric reported is RMSE of GDI score.",
+  "imageText": ["Video", "4.2", "11.3", "1D-CNN", "CNN", "+", "CNN", "+", "LSTM", "Video", "1.4", "4.4", "CNN", "Frame", "8.1", "8.2", "Frame", "11.6", "11.4", "(trained)", "VGG16", "Frame", "10.1", "9.5", "trained)", "VGG16", "(pre-", "Frame", "0.0", "13.0", "Regression", "Linear", "Guess", "Mean", "Frame", "13.7", "13.7", "Error", "Validation", "Error", "Training", "Type", "Model", "Input"],
+  "renderURL": "jpeg31-Table1-1.png",
+  "captionBoundary": {
+    "x1": 334.25,
+    "y1": 579.8128662109375,
+    "x2": 563.3399658203125,
+    "y2": 631.2999877929688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 104.64,
+    "x2": 311.03999999999996,
+    "y2": 171.35999999999999
+  },
+  "caption": "Figure 2: Flow of information for GDI prediction. Video is captured by Gillette Children’s hospital and processed by DensePose [15]. These DensePose frames are then passed through GDI-Net to predict GDI score.",
+  "imageText": [],
+  "renderURL": "jpeg31-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 75.50399780273438,
+    "y1": 175.452880859375,
+    "x2": 304.3984680175781,
+    "y2": 215.17999267578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 329.76,
+    "y1": 200.64,
+    "x2": 569.28,
+    "y2": 294.24
+  },
+  "caption": "Figure 1: A sample RGB image (left) processed by DensePose (right). Each pixel is assigned to a corresponding point on a human skin mesh [6].",
+  "imageText": [],
+  "renderURL": "jpeg31-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 346.010009765625,
+    "y1": 298.12286376953125,
+    "x2": 551.9905395507812,
+    "y2": 326.0899963378906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 355.68,
+    "y1": 72.0,
+    "x2": 542.4,
+    "y2": 628.3199999999999
+  },
+  "caption": "Figure 3: (Top) Learning curve for top performing model. (Middle) Regression plot comparing True GDI vs. Predicted GDI on the validation set. (Bottom) Architecture of top performing model. Each frame is separately processed by the 2D CNN and concatenated in sequence before passing to the LSTM.",
+  "imageText": [],
+  "renderURL": "jpeg31-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 331.3699951171875,
+    "y1": 632.3728637695312,
+    "x2": 566.458984375,
+    "y2": 695.6400146484375
+  }
+}]

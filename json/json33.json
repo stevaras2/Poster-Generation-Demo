@@ -1,0 +1,261 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 598.56,
+    "x2": 296.15999999999997,
+    "y2": 648.48
+  },
+  "caption": "TABLE 1: Logistic Regression Results",
+  "imageText": ["1", "Ran", "with", "100", "iterations.", "Accuracy", "(%)", "Training", "Time1(s)", "Classes", "3", "10", "50", "3", "10", "50", "Baseline", "79.51", "64.64", "43.89", "25", "122", "1089"],
+  "renderURL": "jpeg33-Table1-1.png",
+  "captionBoundary": {
+    "x1": 95.70600128173828,
+    "y1": 654.7279663085938,
+    "x2": 255.29600524902344,
+    "y2": 660.7529907226562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 126.72,
+    "x2": 277.44,
+    "y2": 260.15999999999997
+  },
+  "caption": "Figure 4. A sketch of how we carried out Transfer Learning",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 76.14099884033203,
+    "y1": 271.51898193359375,
+    "x2": 274.8610534667969,
+    "y2": 276.3389892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 192.0,
+    "x2": 568.3199999999999,
+    "y2": 382.08
+  },
+  "caption": "Figure 5. Linear Regression’s Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 356.2770080566406,
+    "y1": 393.3500061035156,
+    "x2": 513.9249267578125,
+    "y2": 398.1700134277344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 553.92,
+    "x2": 542.4,
+    "y2": 635.04
+  },
+  "caption": "Figure 6. Banana Doodles Figure 7. Hockey Stick Doodles",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 335.02801513671875,
+    "y1": 646.64697265625,
+    "x2": 556.9400024414062,
+    "y2": 651.4669799804688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 315.84,
+    "y1": 190.56,
+    "x2": 557.28,
+    "y2": 276.48
+  },
+  "caption": "TABLE 6: Transfer Learning Training Time Results",
+  "imageText": ["VGG", "138,357,544", "207", "1", "Training", "time", "includes", "?ne-tuning", "of", "the", "top-most", "2", "In-", "ception", "layers", "MobileNet", "4,253,864", "103", "ResNet50", "25,636,712", "152", "No.", "Parameters", "Training", "Time/Iters", "Inception", "v3", "23,851,784", "5401"],
+  "renderURL": "jpeg33-Table6-1.png",
+  "captionBoundary": {
+    "x1": 329.5059814453125,
+    "y1": 283.26800537109375,
+    "x2": 543.4959106445312,
+    "y2": 289.2929992675781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 79.67999999999999,
+    "y1": 505.91999999999996,
+    "x2": 271.2,
+    "y2": 636.9599999999999
+  },
+  "caption": "TABLE 5: Transfer Learning Accuracy Results",
+  "imageText": ["ResNet50", "92.1", "62.72", "1", "ImageNet’s", "accuracy", "refers", "to", "the", "top-5", "ac-", "curacy", "on", "the", "ImageNet", "validation", "dataset", "[2].", "2", "QuickDraw’s", "accuracy", "refers", "to", "the", "accuracy", "on", "3", "classes", "on", "our", "validation", "set.", "3", "Accuracy", "is", "calculated", "after", "?ne-tuning", "the", "top-most", "2", "Inception", "layers.", "MobileNet", "89.5", "75.4", "VGG", "90.1", "95.58", "Inception", "v3", "93.7", "45.723", "Accuracy", "(%)", "ImageNet1", "QuickDraw2"],
+  "renderURL": "jpeg33-Table5-1.png",
+  "captionBoundary": {
+    "x1": 78.60100555419922,
+    "y1": 643.7079467773438,
+    "x2": 272.40106201171875,
+    "y2": 649.7329711914062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 70.56,
+    "x2": 289.44,
+    "y2": 120.47999999999999
+  },
+  "caption": "Figure 1. Examples of the data",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 124.39600372314453,
+    "y1": 131.760009765625,
+    "x2": 226.60403442382812,
+    "y2": 136.58001708984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 449.76,
+    "x2": 568.3199999999999,
+    "y2": 546.24
+  },
+  "caption": "Figure 3. CNN Versions: a sketch of how we progressively simplified our CNN for doodle classification",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 557.1010131835938,
+    "x2": 558.0,
+    "y2": 570.9210205078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 322.56,
+    "y1": 285.59999999999997,
+    "x2": 550.0799999999999,
+    "y2": 409.44
+  },
+  "caption": "Figure 2. CNN architecture",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 391.5320129394531,
+    "y1": 420.2649841308594,
+    "x2": 481.4679870605469,
+    "y2": 425.0849914550781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 67.67999999999999,
+    "x2": 556.3199999999999,
+    "y2": 151.68
+  },
+  "caption": "TABLE 4: CNN Results with binarized input features",
+  "imageText": ["1", "Ran", "with", "100", "iterations.", "V1:", "89.02", "87.22", "77.46", "220", "590", "2685", "V2:", "89.12", "86.67", "77.38", "215", "585", "2715", "V3:", "88.2", "86.6", "70.3", "186", "560", "2455", "V4:", "89.1", "85.6", "70.3", "239", "628", "3043", "Accuracy", "(%)", "Training", "Time1(s)", "Classes", "3", "10", "50", "3", "10", "50"],
+  "renderURL": "jpeg33-Table4-1.png",
+  "captionBoundary": {
+    "x1": 325.8360290527344,
+    "y1": 158.17300415039062,
+    "x2": 547.1661376953125,
+    "y2": 164.197998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 266.88,
+    "x2": 555.36,
+    "y2": 445.44
+  },
+  "caption": "Figure 8. Confusion matrix for V2",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 379.3919982910156,
+    "y1": 456.66497802734375,
+    "x2": 493.6079406738281,
+    "y2": 461.4849853515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 641.76,
+    "x2": 295.2,
+    "y2": 703.1999999999999
+  },
+  "caption": "TABLE 3: CNN Results with non-binarized input features",
+  "imageText": ["1", "Ran", "with", "100", "iterations.", "V1:", "91.43", "89.34", "81.79", "225", "619", "2808", "V2:", "91.33", "89.22", "81.83", "230", "622", "2808", "Accuracy", "(%)", "Training", "Time1(s)", "Classes", "3", "10", "50", "3", "10", "50"],
+  "renderURL": "jpeg33-Table3-1.png",
+  "captionBoundary": {
+    "x1": 55.67099380493164,
+    "y1": 709.2669677734375,
+    "x2": 295.33099365234375,
+    "y2": 715.2919921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 508.79999999999995,
+    "x2": 568.3199999999999,
+    "y2": 699.36
+  },
+  "caption": "Figure 9. CNN Training plot",
+  "imageText": [],
+  "renderURL": "jpeg33-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 387.75201416015625,
+    "y1": 710.9049682617188,
+    "x2": 482.4479675292969,
+    "y2": 715.7249755859375
+  }
+}]

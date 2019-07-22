@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 188.64,
+    "y1": 72.0,
+    "x2": 423.35999999999996,
+    "y2": 266.4
+  },
+  "caption": "Figure 3: Confusion matrix for CNN predictions.",
+  "imageText": [],
+  "renderURL": "jpeg21-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 207.87899780273438,
+    "y1": 274.030517578125,
+    "x2": 404.1221923828125,
+    "y2": 280.0329895019531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 316.8,
+    "x2": 538.0799999999999,
+    "y2": 401.76
+  },
+  "caption": "Figure 1: Examples of log-scaled mel-spectrograms for three different genres.",
+  "imageText": ["Hip-Hop", "Metal", "Reggae"],
+  "renderURL": "jpeg21-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 150.61398315429688,
+    "y1": 411.8485412597656,
+    "x2": 461.38726806640625,
+    "y2": 417.85101318359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 135.84,
+    "y1": 556.8,
+    "x2": 476.15999999999997,
+    "y2": 639.36
+  },
+  "caption": "Table 1: Accuracy of predictions by model used.",
+  "imageText": ["Feed-forward", "Neural", "Network", ".96", ".55", ".54", ".64", ".26", ".25", "Convolution", "Neural", "Network", ".95", ".84", ".82", ".85", ".59", ".53", "Support", "Vector", "Machine", ".97", ".60", ".60", ".75", ".32", ".28", "K-Nearest", "Neighbors", "1.00", ".52", ".54", "1.00", ".21", ".21", "Train", "CV", "Test", "Train", "CV", "Test", "With", "data", "processing", "Without", "data", "processing"],
+  "renderURL": "jpeg21-Table1-1.png",
+  "captionBoundary": {
+    "x1": 208.90499877929688,
+    "y1": 547.6405639648438,
+    "x2": 402.787109375,
+    "y2": 553.6430053710938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 141.6,
+    "y1": 72.0,
+    "x2": 470.4,
+    "y2": 185.28
+  },
+  "caption": "Figure 2: CNN architecture.",
+  "imageText": [],
+  "renderURL": "jpeg21-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 249.81100463867188,
+    "y1": 192.64651489257812,
+    "x2": 362.1890869140625,
+    "y2": 198.64898681640625
+  }
+}]

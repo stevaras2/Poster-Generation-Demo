@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 228.95999999999998,
+    "y1": 641.76,
+    "x2": 366.24,
+    "y2": 740.16
+  },
+  "caption": "Figure 3: A is a core point. B and C are border points. N is a noise point.",
+  "imageText": [],
+  "renderURL": "jpeg216-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 119.25900268554688,
+    "y1": 753.75146484375,
+    "x2": 476.013916015625,
+    "y2": 759.2059936523438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 183.84,
+    "y1": 71.52,
+    "x2": 411.35999999999996,
+    "y2": 143.04
+  },
+  "caption": "Figure 2: Three samples of the train set.",
+  "imageText": [],
+  "renderURL": "jpeg216-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 200.45599365234375,
+    "y1": 156.20848083496094,
+    "x2": 394.8157653808594,
+    "y2": 161.66302490234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 134.88,
+    "x2": 523.1999999999999,
+    "y2": 376.32
+  },
+  "caption": "Figure 4: The left panel shows the image before processing, the right panel shows the image after processing.",
+  "imageText": [],
+  "renderURL": "jpeg216-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 389.2614440917969,
+    "x2": 523.271240234375,
+    "y2": 408.2650146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 183.84,
+    "y1": 410.88,
+    "x2": 411.35999999999996,
+    "y2": 552.96
+  },
+  "caption": "Figure 1: The upper three figures are examples of photons. The lower three figures are examples of particles.",
+  "imageText": [],
+  "renderURL": "jpeg216-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 566.4934692382812,
+    "x2": 523.27685546875,
+    "y2": 585.4970703125
+  }
+}]

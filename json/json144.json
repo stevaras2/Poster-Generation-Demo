@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 75.84,
+    "y1": 507.84,
+    "x2": 535.1999999999999,
+    "y2": 660.0
+  },
+  "caption": "Figure 2. Schematic of workflow. Raw 7-dimensional data for the mixture of T cells and target cells (left, plotted in twodimensions as FSC-A/SSC-A) is projected onto a two-dimensional subspace by PCA (middle) and clustered using k-means or unsupervised EM (right). Each dot represents a single cell training example. PCA labels are reassigned to original 7-D data (far right) and compared with the manual gating strategy (polygonal boundary drawn by hand) on the original dot plot.",
+  "imageText": [],
+  "renderURL": "jpeg144-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 71.991943359375,
+    "y1": 673.1102294921875,
+    "x2": 539.950439453125,
+    "y2": 716.8765258789062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 60.0,
+    "x2": 537.12,
+    "y2": 166.07999999999998
+  },
+  "caption": "Figure 4. Clustering on the test set. Result of semi-supervised EM clustering on two test datasets (10000 examples each) using the hyperparameters set by the training set (á = 0.00004, ?? = 2, ?? = 4).",
+  "imageText": ["2D", "PCA", "7D", "original", "2D", "PCA", "7D", "original", "Test", "set", "1:", "317", "iterations", "Test", "set", "2:", "89", "iterations"],
+  "renderURL": "jpeg144-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 169.2902374267578,
+    "x2": 533.674072265625,
+    "y2": 186.1240234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 96.0,
+    "x2": 539.04,
+    "y2": 651.36
+  },
+  "caption": "Figure 3. A. Clustering results for k-means and unsupervised EM with k=4 clusters and varying PCA subspace dimension. B. Number of iterations until convergence for both models, varying the number of PCA principal components or cluster number. C. 2D PCA projection of the labeled dataset using eigenvectors generated from the unlabeled set for semi-supervised EM. D. Number of iterations until convergence is plotted against varying alpha coefficients for the labeled ground truth examples. E. Clustering results for different alpha values (cluster number k=4). Top row: 2D PCA projection; bottom row: 7-D original data.",
+  "imageText": ["E", "B", "C", "D", "A"],
+  "renderURL": "jpeg144-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 71.99993896484375,
+    "y1": 666.2736206054688,
+    "x2": 539.9551391601562,
+    "y2": 717.4293823242188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 504.96,
+    "x2": 481.44,
+    "y2": 624.0
+  },
+  "caption": "Figure 1. 2D dot plot of flow cytometry data. Each dot represents a single cell. The two axes represent light intensity of a particular color/channel (log10 scale). The overlap in cell populations shown in the middle and right plots makes traditional manual gating using polygonal boundaries impossible, despite clear, visually-distinct populations. (From Victor Tieu, Qi Lab, Stanford University, unpublished data).",
+  "imageText": [],
+  "renderURL": "jpeg144-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 71.99996948242188,
+    "y1": 639.5097045898438,
+    "x2": 539.9496459960938,
+    "y2": 683.26806640625
+  }
+}]

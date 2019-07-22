@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 93.6,
+    "y1": 204.95999999999998,
+    "x2": 518.4,
+    "y2": 354.24
+  },
+  "caption": "Figure 4. Training data (top row): 10cm cylindrical water phantom with of 2cm calcium inserts. Testing data: 7.1x7.1cm water phantom with 1.4x1.4cm calcium inserts.",
+  "imageText": ["Projection", "Phantom", "ta", "Te", "st", "in", "g\t\r  ", "da", "Water\t\r  thickness(cm)", "Calcium\t\r  thickness(cm)", "\t\r  d", "at", "a", "Tr", "ai", "ni", "ng"],
+  "renderURL": "jpeg019-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 98.89408111572266,
+    "y1": 362.6136779785156,
+    "x2": 520.3892822265625,
+    "y2": 382.18389892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 130.56,
+    "y1": 414.71999999999997,
+    "x2": 485.28,
+    "y2": 530.4
+  },
+  "caption": "Figure 3. Schematic diagram of neural network",
+  "imageText": ["\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "?(!)", "=", "?!", "?", "=", "È", "!", "?", "!", "?(È", "!", "?", "!", ")", "?(!)", "=", "1", "?(È", "!", "?", "!", ")", "?(!)", "=", "1", "?(!)", "=", "1?"],
+  "renderURL": "jpeg019-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 321.462890625,
+    "y1": 535.4136962890625,
+    "x2": 529.4674682617188,
+    "y2": 542.50390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 154.56,
+    "y1": 195.84,
+    "x2": 482.4,
+    "y2": 328.32
+  },
+  "caption": "Figure 2. Schematic diagram of the process for calculating the input of the neural network model.",
+  "imageText": ["\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "\t\r  ", "Detector", "\t\r  ", "\t\r  ", "\t\r  ", "X-ray", "source"],
+  "renderURL": "jpeg019-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 91.30007934570312,
+    "y1": 339.09368896484375,
+    "x2": 520.6095581054688,
+    "y2": 346.18389892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 70.56,
+    "y1": 101.75999999999999,
+    "x2": 534.24,
+    "y2": 219.35999999999999
+  },
+  "caption": "Figure 5. Empirical error on the hold-out cross validation set (left) and average absolute thickness of calcium (middle) and water (right).",
+  "imageText": [],
+  "renderURL": "jpeg019-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 89.89408111572266,
+    "y1": 226.77369689941406,
+    "x2": 532.1417846679688,
+    "y2": 246.58392333984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 38.879999999999995,
+    "y1": 351.84,
+    "x2": 564.0,
+    "y2": 685.4399999999999
+  },
+  "caption": "Figure 6. The results of network with one hidden layer (number of elements of hidden layer = 13) (left) and with two hidden layers (number of elements in each hidden layer = 3, ë =0.01) (right)",
+  "imageText": [],
+  "renderURL": "jpeg019-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 71.89408111572266,
+    "y1": 692.8536987304688,
+    "x2": 529.1021728515625,
+    "y2": 712.6638793945312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 150.72,
+    "y1": 502.56,
+    "x2": 460.32,
+    "y2": 619.1999999999999
+  },
+  "caption": "Figure 1. Example comparison of spectra incident on detector (blue) and spectra detected after pulse pileup effect (green). No object is placed in the x-ray beam path (left), and 9cm of water and 1 cm of calcium are placed (right).",
+  "imageText": [],
+  "renderURL": "jpeg019-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 80.89408111572266,
+    "y1": 627.5736694335938,
+    "x2": 539.9021606445312,
+    "y2": 659.8638916015625
+  }
+}]

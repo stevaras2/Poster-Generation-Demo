@@ -1,0 +1,21 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 98.88,
+    "x2": 558.24,
+    "y2": 288.0
+  },
+  "caption": "Figure 1: Visualization of the three news source models [Left: number articles/event, Center: Whether reported on event, Right: normalized number of articles/event]. PCA of 600 event dimensions to 2D. Plotted are 100 news sources with most articles about the Israel in the summer of 2014.",
+  "imageText": ["Gaussian", "Mixture", "Models", "and", "Hierarchical", "Clustering", "Models", "resulted", "in", "similar", "outlet", "pro?les", "and", "so", "we", "pro-", "(c)", "Normalized", "propensity", "(b)", "Binary", "model", "has", "more", "spread,", "local", "news", "still", "separate", "(a)", "Propensity", "model", "represents", "lo-", "cal", "news", "as", "strong", "outliers."],
+  "renderURL": "jpeg059-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 57.387718200683594,
+    "x2": 557.9989013671875,
+    "y2": 86.279052734375
+  }
+}]

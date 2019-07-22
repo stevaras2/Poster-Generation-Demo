@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 53.76,
+    "x2": 581.28,
+    "y2": 267.36
+  },
+  "caption": "Fig. 2. Comparing the effects of bandwidth on the neural, target and combined models.",
+  "imageText": [],
+  "renderURL": "jpeg034-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 279.7550354003906,
+    "x2": 558.0015869140625,
+    "y2": 293.52301025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 91.67999999999999,
+    "y1": 53.76,
+    "x2": 261.12,
+    "y2": 215.04
+  },
+  "caption": "Fig. 6. Weighted linear regression based on photo features and average pattern of neural response.",
+  "imageText": [],
+  "renderURL": "jpeg034-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 227.33204650878906,
+    "x2": 298.8016052246094,
+    "y2": 241.10101318359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 384.96,
+    "y1": 53.76,
+    "x2": 486.24,
+    "y2": 305.28
+  },
+  "caption": "Fig. 1. Structure of the online dating task for the neuroimaging study.",
+  "imageText": [],
+  "renderURL": "jpeg034-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 317.99798583984375,
+    "y1": 318.0080261230469,
+    "x2": 553.2035522460938,
+    "y2": 322.80999755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 56.64,
+    "x2": 89.75999999999999,
+    "y2": 289.92
+  },
+  "caption": "Fig. 3. Eliminating features from the neural model.",
+  "imageText": [],
+  "renderURL": "jpeg034-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 89.5780029296875,
+    "y1": 277.1300354003906,
+    "x2": 263.2225036621094,
+    "y2": 281.9320068359375
+  }
+}]

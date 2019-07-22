@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 48.48,
+    "x2": 293.28,
+    "y2": 169.92
+  },
+  "caption": "Figure 1. Original data and EM predictions. The accuracy of the predictions is poor.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.992000579833984,
+    "y1": 181.96336364746094,
+    "x2": 287.4342041015625,
+    "y2": 200.5980224609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 304.8,
+    "y1": 95.52,
+    "x2": 548.16,
+    "y2": 219.35999999999999
+  },
+  "caption": "Figure 4. Decision boundaries for LR and GDA Algorithms. Boundaries from the two algorithms were very similar.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 310.1099853515625,
+    "y1": 230.4923553466797,
+    "x2": 542.5540161132812,
+    "y2": 261.28204345703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 304.8,
+    "y1": 363.84,
+    "x2": 548.16,
+    "y2": 477.12
+  },
+  "caption": "Figure 5. Results from Bagging Using Random Forests.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 313.9779968261719,
+    "y1": 489.2993469238281,
+    "x2": 538.6847534179688,
+    "y2": 495.780029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 701.76,
+    "x2": 293.28,
+    "y2": 743.04
+  },
+  "caption": "Figure 3. LR Confusion Matrix on the Validation Set.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 63.35300064086914,
+    "y1": 754.5403442382812,
+    "x2": 279.0735168457031,
+    "y2": 761.02099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 304.8,
+    "y1": 600.48,
+    "x2": 548.16,
+    "y2": 684.9599999999999
+  },
+  "caption": "Figure 6. Analysis Results for Different Maximum Depth of DT.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 310.1099853515625,
+    "y1": 696.6553344726562,
+    "x2": 542.552001953125,
+    "y2": 715.2900390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 216.48,
+    "x2": 293.28,
+    "y2": 293.28
+  },
+  "caption": "Figure 2. Analysis Results",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 117.31500244140625,
+    "y1": 304.9773254394531,
+    "x2": 225.11068725585938,
+    "y2": 311.4580078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 48.48,
+    "x2": 293.28,
+    "y2": 238.07999999999998
+  },
+  "caption": "Figure 11. Accuracy on the validation set for specific time periods. Accuracy improves for individual time periods, indicating that hit songs have features unique to their time period.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 54.992000579833984,
+    "y1": 249.84837341308594,
+    "x2": 287.42974853515625,
+    "y2": 292.7930908203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 292.8,
+    "x2": 293.28,
+    "y2": 495.35999999999996
+  },
+  "caption": "Figure 8. Analysis results. The LR and NN algorithms were the most successful.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 54.99199676513672,
+    "y1": 506.4543762207031,
+    "x2": 287.43170166015625,
+    "y2": 525.0900268554688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 304.8,
+    "y1": 207.84,
+    "x2": 548.16,
+    "y2": 377.28
+  },
+  "caption": "Figure 10. Features of hit songs released in winter vary from features of other songs.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 310.1099853515625,
+    "y1": 388.55633544921875,
+    "x2": 542.5529174804688,
+    "y2": 407.1910095214844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 48.48,
+    "x2": 293.28,
+    "y2": 235.2
+  },
+  "caption": "Figure 7. Accuracy of NN with increasing epoch. The peak accuracy on the validation set with regularization was achieved with approximately 19000 epochs.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.992000579833984,
+    "y1": 247.3063201904297,
+    "x2": 287.4363098144531,
+    "y2": 278.094970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 304.8,
+    "y1": 48.48,
+    "x2": 548.16,
+    "y2": 147.35999999999999
+  },
+  "caption": "Figure 9. Error analysis for the two strongest- performing algorithms.",
+  "imageText": [],
+  "renderURL": "jpeg16-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 310.1099853515625,
+    "y1": 158.9823455810547,
+    "x2": 542.5508422851562,
+    "y2": 177.61700439453125
+  }
+}]

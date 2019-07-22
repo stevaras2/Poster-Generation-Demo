@@ -1,0 +1,261 @@
+[{
+  "renderDpi": 150,
+  "name": "V",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 78.72,
+    "y1": 398.88,
+    "x2": 274.08,
+    "y2": 577.4399999999999
+  },
+  "caption": "TABLE V. Structure of Residual-CNN",
+  "imageText": ["256", "Neuron", "Leaky", "ReLu", "Output", "[y1,", "y2]", "One-hot", "encoding", "CNN", "with", "3", "?", "3,", "256", "features", "CNN", "with", "3", "?", "3,", "256", "features", "CNN", "with", "3", "?", "3,", "128", "features", "Discriminator", "Input", "128", "?", "128", "Gray", "Scale", "CNN", "with", "1", "?", "1,", "1", "feature", "Output", "128", "?", "128", "Gray", "Scale", "Residual", "2-Layer", "CNN", "with", "3", "?", "3,", "128", "features", "Residual", "2-Layer", "CNN", "with", "3", "?", "3,", "128", "features", "Residual", "2-Layer", "CNN", "with", "3", "?", "3,", "128", "features", "CNN", "with", "3", "?", "3,", "128", "features", "CNN", "with", "3", "?", "3,", "128", "features", "Generator", "Input", "128", "?", "128", "Gray", "Scale"],
+  "renderURL": "jpeg42-TableV-1.png",
+  "captionBoundary": {
+    "x1": 98.29199981689453,
+    "y1": 589.0258178710938,
+    "x2": 254.78614807128906,
+    "y2": 593.509033203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 507.84,
+    "x2": 582.24,
+    "y2": 574.0799999999999
+  },
+  "caption": "TABLE VI. Structure of CycleGAN with “simple” CNN layers",
+  "imageText": ["2", "?", "Generator", "2", "?", "Discriminator", "Input", "64", "?", "64", "Gray/Colored", "Input", "64", "?", "64", "Gray/Colored", "CNN", "with", "3", "?", "3,", "128", "features", "CNN", "with", "3", "?", "3,", "256", "features", "CNN", "with", "3", "?", "3,", "64", "features", "CNN", "with", "3", "?", "3,", "256", "features", "Flattening", "Output", "128", "?", "128", "Gray/Color", "Output", "[y1,", "y2]", "One-hot", "encoding"],
+  "renderURL": "jpeg42-TableVI-1.png",
+  "captionBoundary": {
+    "x1": 317.0140075683594,
+    "y1": 586.1217651367188,
+    "x2": 562.0988159179688,
+    "y2": 601.0659790039062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 415.68,
+    "x2": 290.4,
+    "y2": 598.0799999999999
+  },
+  "caption": "FIG. 8. Model losses of CycleGAN",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 106.19499969482422,
+    "y1": 613.6577758789062,
+    "x2": 246.88319396972656,
+    "y2": 618.1409912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 141.6,
+    "x2": 290.4,
+    "y2": 224.16
+  },
+  "caption": "FIG. 7. Generated test images from CycleGAN",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 80.81999969482422,
+    "y1": 239.20680236816406,
+    "x2": 272.25982666015625,
+    "y2": 243.69000244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VII",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 29.279999999999998,
+    "x2": 562.56,
+    "y2": 96.47999999999999
+  },
+  "caption": "TABLE VII. Inception score of various models",
+  "imageText": ["CycleGAN", "ResCNN", "CNN", "Perceptron", "Mean", "2.25", "1.38", "1.02", "1.21", "Variance", "0.20", "0.23", "0.025", "0.29", "5", "d.", "CycleGAN", "A", "relatively", "simple", "CycleGAN", "struc-", "ture", "is", "implemented", "for", "this", "work.", "This", "is", "because", "Cycle-", "GAN", "consumes", "more", "than", "twice", "the", "memory", "compared", "to", "its", "vanilla", "counterparts.", "Expanding", "our", "network", "to"],
+  "renderURL": "jpeg42-TableVII-1.png",
+  "captionBoundary": {
+    "x1": 345.7019958496094,
+    "y1": 97.75379943847656,
+    "x2": 533.4017944335938,
+    "y2": 102.23699951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 114.72,
+    "y1": 490.56,
+    "x2": 238.07999999999998,
+    "y2": 514.0799999999999
+  },
+  "caption": "TABLE II. Useful tags for CelebA dataset",
+  "imageText": ["Male", "Eyeglasses", "Goatee", "No", "Beard", "Mustache"],
+  "renderURL": "jpeg42-TableII-1.png",
+  "captionBoundary": {
+    "x1": 91.27300262451172,
+    "y1": 526.1317749023438,
+    "x2": 261.80853271484375,
+    "y2": 530.614990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 112.8,
+    "y1": 557.76,
+    "x2": 241.44,
+    "y2": 642.24
+  },
+  "caption": "FIG. 1. Sample images from the two datasets",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 84.58200073242188,
+    "y1": 657.3018188476562,
+    "x2": 268.5016784667969,
+    "y2": 661.7850341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 111.83999999999999,
+    "y1": 297.59999999999997,
+    "x2": 241.44,
+    "y2": 332.15999999999997
+  },
+  "caption": "TABLE I. Tags for HK Polytechnic dataset",
+  "imageText": ["File", "Name", "File", "Size", "Gender", "Skin", "Color", "Hat", "Ethnicity", "Hair", "Style", "Glasses", "Beard"],
+  "renderURL": "jpeg42-TableI-1.png",
+  "captionBoundary": {
+    "x1": 88.93399810791016,
+    "y1": 344.21978759765625,
+    "x2": 264.1500244140625,
+    "y2": 348.7030029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 547.68,
+    "x2": 572.16,
+    "y2": 653.28
+  },
+  "caption": "FIG. 2. Vanila GAN Model for beard removal",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 346.7279968261719,
+    "y1": 668.1567993164062,
+    "x2": 532.3826293945312,
+    "y2": 672.6400146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 132.0,
+    "x2": 539.04,
+    "y2": 233.28
+  },
+  "caption": "FIG. 4. Generated images from multilayer perceptron",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 331.0570068359375,
+    "y1": 248.06080627441406,
+    "x2": 548.0499267578125,
+    "y2": 252.54400634765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 353.76,
+    "x2": 539.04,
+    "y2": 454.08
+  },
+  "caption": "FIG. 5. Generated images from simple CNN",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 349.8819885253906,
+    "y1": 469.28179931640625,
+    "x2": 529.2232666015625,
+    "y2": 473.7650146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 51.839999999999996,
+    "x2": 291.36,
+    "y2": 210.23999999999998
+  },
+  "caption": "FIG. 3. Cycle GAN Model for beard removal",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 85.3759994506836,
+    "y1": 225.6887969970703,
+    "x2": 267.701416015625,
+    "y2": 230.1719970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 584.64,
+    "x2": 539.04,
+    "y2": 685.4399999999999
+  },
+  "caption": "FIG. 6. Generated images from residual CNN",
+  "imageText": [],
+  "renderURL": "jpeg42-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 347.0559997558594,
+    "y1": 700.5758056640625,
+    "x2": 532.0496826171875,
+    "y2": 705.0590209960938
+  }
+}]

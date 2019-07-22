@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 86.88,
+    "x2": 555.36,
+    "y2": 215.04
+  },
+  "caption": "Figure 3: Distribution of funding dates.",
+  "imageText": [],
+  "renderURL": "jpeg88-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 354.87298583984375,
+    "y1": 226.41653442382812,
+    "x2": 511.9033508300781,
+    "y2": 232.41900634765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 34.56,
+    "x2": 294.24,
+    "y2": 215.04
+  },
+  "caption": "Figure 2: Imbalanced dataset: 1 = IPO or acquired, 0 = closed or operating",
+  "imageText": [],
+  "renderURL": "jpeg88-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 52.46900177001953,
+    "y1": 226.41653442382812,
+    "x2": 304.9199523925781,
+    "y2": 243.3280029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 128.64,
+    "y1": 36.0,
+    "x2": 478.08,
+    "y2": 93.11999999999999
+  },
+  "caption": "Table 4: Metrics Results",
+  "imageText": ["Classi?cation", "Models", "Evaluation", "MetricsF1", "Score", "Accuracy", "AUC", "Score", "TPR", "FPR", "Logistic", "Regression", "44.22%", "72.54%", "79.00%", "69.80%", "26.96%", "Random", "Forest", "39.16%", "84.03%", "79.31%", "32.94%", "6.52%", "K-Nearest", "Neighbors", "46.44%", "73.33%", "79.89%", "74.12%", "26.81%"],
+  "renderURL": "jpeg88-Table4-1.png",
+  "captionBoundary": {
+    "x1": 257.2590026855469,
+    "y1": 100.2635269165039,
+    "x2": 354.7430419921875,
+    "y2": 106.2659912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 174.72,
+    "y1": 121.92,
+    "x2": 435.35999999999996,
+    "y2": 296.15999999999997
+  },
+  "caption": "Figure 4: ROC Curve",
+  "imageText": [],
+  "renderURL": "jpeg88-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 262.9419860839844,
+    "y1": 307.07952880859375,
+    "x2": 349.05865478515625,
+    "y2": 313.0820007324219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 91.67999999999999,
+    "y1": 457.91999999999996,
+    "x2": 518.4,
+    "y2": 629.28
+  },
+  "caption": "Figure 5: Confusion Matrix of Random Forest Figure 6: Confusion Matrix of KNN",
+  "imageText": [],
+  "renderURL": "jpeg88-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 86.23400115966797,
+    "y1": 640.6715698242188,
+    "x2": 506.05035400390625,
+    "y2": 646.6740112304688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 210.72,
+    "y1": 328.8,
+    "x2": 399.36,
+    "y2": 458.4
+  },
+  "caption": "Figure 1: Selected Features and Corresponding Examples",
+  "imageText": [],
+  "renderURL": "jpeg88-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 191.14700317382812,
+    "y1": 469.04254150390625,
+    "x2": 420.85467529296875,
+    "y2": 475.0450134277344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 196.79999999999998,
+    "y1": 36.0,
+    "x2": 410.4,
+    "y2": 81.11999999999999
+  },
+  "caption": "Table 1: Dataset split and up-sample",
+  "imageText": ["Original", "29428", "1635", "1635Up-sample", "50040", "Validation", "Set", "(5%)", "Test", "Set", "(5%)", "Training", "Set", "(90%)"],
+  "renderURL": "jpeg88-Table1-1.png",
+  "captionBoundary": {
+    "x1": 233.18899536132812,
+    "y1": 88.55753326416016,
+    "x2": 378.8122863769531,
+    "y2": 94.55999755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 204.0,
+    "y1": 519.84,
+    "x2": 403.2,
+    "y2": 555.36
+  },
+  "caption": "Table 2: Setting of hyperparameters tuning",
+  "imageText": ["Hyperparameters", "Range", "Number", "of", "trees", "(in", "RF)", "5-50", "K", "(number", "of", "neighbours)", "10-100"],
+  "renderURL": "jpeg88-Table2-1.png",
+  "captionBoundary": {
+    "x1": 220.48699951171875,
+    "y1": 567.74755859375,
+    "x2": 391.5148620605469,
+    "y2": 573.75
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 204.0,
+    "y1": 638.88,
+    "x2": 403.2,
+    "y2": 674.4
+  },
+  "caption": "Table 3: Summary of hyperparameters",
+  "imageText": ["Hyperparameters", "Value", "Number", "of", "trees", "(in", "RF)", "25", "K", "(number", "of", "neighbours)", "92"],
+  "renderURL": "jpeg88-Table3-1.png",
+  "captionBoundary": {
+    "x1": 229.20899963378906,
+    "y1": 686.87158203125,
+    "x2": 382.7924499511719,
+    "y2": 692.8740234375
+  }
+}]

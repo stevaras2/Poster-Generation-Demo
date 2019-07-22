@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 236.64,
+    "x2": 271.68,
+    "y2": 433.91999999999996
+  },
+  "caption": "Figure 4. PCA Graph for K means",
+  "imageText": [],
+  "renderURL": "jpeg111-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 40.275001525878906,
+    "y1": 423.35150146484375,
+    "x2": 165.7220001220703,
+    "y2": 427.3699951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 323.52,
+    "x2": 537.12,
+    "y2": 509.28
+  },
+  "caption": "Table 1 Summarizes some of the variables explored in respect to their individual correlation to our success metric, MN_EARN_WNE_P10, mean earnings of students working and not enrolled 10 years after entry.",
+  "imageText": ["ADM_RATE", "Admission", "rate", "0.586", "SAT_AVG", "Average", "SAT", "equivalent", "of", "admitted", "students", "0.821", "SATVRMID", "Midpoint", "SAT", "scores", "at", "institution", "(critical", "reading)", "0.807", "SATMTMID", "Midpoint", "SAT", "scores", "at", "institution", "(math)", "0.710", "SATWRMID", "Midpoint", "SAT", "scores", "at", "institution", "(writing)", "0.807", "NPT4_PUB", "Average", "net", "price", "for", "(public", "institutions)", "0.561", "NPT4_PRIV", "Average", "net", "price", "for", "(private", "for-profit", "and", "non-profit", "inst.)", "0.480", "DBT_MED", "Median", "original", "amount", "loan", "principal", "upon", "entering", "repayment", "0.492", "AVGFACSAL", "Average", "faculty", "salary", "0.622", "INEXPFTE", "Instructional", "expenditures", "per", "full-time", "equivalent", "student", "0.525", "institution", "through", "metrics", "such", "as", "tuition,", "average", "debt", "upon", "leaving", "college,", "average", "faculty", "salary", "and", "institutional", "spending", "per", "student.", "Key", "Description", "Correlation", "We", "also", "considered", "finances", "–", "both", "of", "the", "student", "population", "and", "from", "the", "perspective", "of", "the"],
+  "renderURL": "jpeg111-Table1-1.png",
+  "captionBoundary": {
+    "x1": 72.0250015258789,
+    "y1": 518.6515502929688,
+    "x2": 487.3703308105469,
+    "y2": 533.1700439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 281.76,
+    "y1": 75.84,
+    "x2": 552.48,
+    "y2": 261.12
+  },
+  "caption": "Figure 2. Accuracy declined at higher levels of earnings.",
+  "imageText": [],
+  "renderURL": "jpeg111-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 286.3800048828125,
+    "y1": 251.3115234375,
+    "x2": 492.0421447753906,
+    "y2": 255.33001708984375
+  }
+}]

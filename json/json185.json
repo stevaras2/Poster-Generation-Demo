@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 130.56,
+    "x2": 539.04,
+    "y2": 271.2
+  },
+  "caption": "Figure 2: Algorithm Accuracy Results & Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg185-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 176.9010009765625,
+    "y1": 296.30169677734375,
+    "x2": 435.0975646972656,
+    "y2": 301.2829895019531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 72.0,
+    "x2": 497.28,
+    "y2": 249.12
+  },
+  "caption": "Figure 3: Training curves for classification LSTM (left) and generation LSTM (right)",
+  "imageText": [],
+  "renderURL": "jpeg185-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 119.79499816894531,
+    "y1": 273.7046813964844,
+    "x2": 492.20068359375,
+    "y2": 278.68597412109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 346.56,
+    "x2": 540.0,
+    "y2": 441.12
+  },
+  "caption": "Figure 1: Natural Language Features",
+  "imageText": ["(a)", "(b)", "(c)", "(d)"],
+  "renderURL": "jpeg185-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 224.91500854492188,
+    "y1": 455.8087158203125,
+    "x2": 387.08502197265625,
+    "y2": 460.7900085449219
+  }
+}]

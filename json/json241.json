@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 123.83999999999999,
+    "y1": 70.56,
+    "x2": 488.15999999999997,
+    "y2": 188.16
+  },
+  "caption": "Figure 2: Diagram of the ensemble voting model and convolutional neural network",
+  "imageText": [],
+  "renderURL": "jpeg241-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 155.12100219726562,
+    "y1": 199.48855590820312,
+    "x2": 456.8826904296875,
+    "y2": 205.49102783203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 146.88,
+    "y1": 72.0,
+    "x2": 465.12,
+    "y2": 199.2
+  },
+  "caption": "Figure 3: The head movement data of two high-anxiety participants. One participant our best model classified correctly as having high anxiety; the other was misclassified.",
+  "imageText": [],
+  "renderURL": "jpeg241-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 210.60055541992188,
+    "x2": 504.0013732910156,
+    "y2": 227.51202392578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 146.88,
+    "y1": 72.0,
+    "x2": 465.12,
+    "y2": 199.2
+  },
+  "caption": "Figure 1: Plot of head movement data across pitch, yaw, and roll for two tracking channels for each of two participants. One participant (red) was recorded to have low anxiety at the time of the survey, while the other participant (purple) was recorded to have high anxiety.",
+  "imageText": [],
+  "renderURL": "jpeg241-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 209.65451049804688,
+    "x2": 504.1511535644531,
+    "y2": 235.58197021484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 189.6,
+    "y1": 71.52,
+    "x2": 419.03999999999996,
+    "y2": 233.28
+  },
+  "caption": "Table 1: High-anxiety patient classification results on 30 experiences from the held-out patient test set. Best model in each category (baselines, simple classifiers, ensembles+CNN) is bolded.",
+  "imageText": ["Precision-Weighted", "Ensemble", "39.2", "32.4", "50.0", "Recall-Weighted", "Ensemble", "37.0", "23.8", "83.3", "F1-Weighted", "Ensemble", "40.5", "26.8", "83.3", "Equal-Weighted", "Ensemble", "35.9", "28.1", "50.0", "CNN", "21.6", "17.0", "18.6", "LogReg", "sstat", "23.5", "18.2", "33.3", "LogReg", "dft", "33.3", "25.0", "50.0", "MultinomialNB", "sstat", "37.0", "23.8", "83.3", "MultinomialNB", "dft", "43.5", "29.4", "83.3", "DecisionTree", "sstat", "40.1", "32.3", "53.0", "DecisionTree", "dft", "28.3", "22.0", "40.3", "All-True", "baseline", "33.3", "20.0", "100.", "Coin", "?ip", "28.0", "19.9", "48.3", "Model", "F1", "Precision", "Recall"],
+  "renderURL": "jpeg241-Table1-1.png",
+  "captionBoundary": {
+    "x1": 107.69100189208984,
+    "y1": 242.29452514648438,
+    "x2": 504.0019226074219,
+    "y2": 259.20599365234375
+  }
+}]

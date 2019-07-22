@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 63.839999999999996,
+    "y1": 42.72,
+    "x2": 548.16,
+    "y2": 129.12
+  },
+  "caption": "Figure 3: Winning rates against heuristic AI",
+  "imageText": ["Training", "epochs", "1", "2", "10", "20", "50", "Reinforcement", "(?nal", "state)", "(%)", "41", "60", "64", "65", "40", "Reinforcement", "(state", "pair)", "(%)", "52", "49", "50", "59", "50", "Supervised", "(deep", "neural", "net)", "(%)", "2", "50", "67", "81", "75", "71", "78", "73", "74", "75", "76", "Training", "set", "size", "10", "20", "50", "200", "500", "1000", "2000", "4000", "12000", "20000", "40000", "Supervised", "(linear)", "(%)", "1", "5", "9", "59", "52", "62", "78", "69", "81", "76", "77"],
+  "renderURL": "jpeg037-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 208.6699981689453,
+    "y1": 141.37667846679688,
+    "x2": 403.3301086425781,
+    "y2": 146.35797119140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 485.76,
+    "x2": 534.24,
+    "y2": 605.28
+  },
+  "caption": "Figure 2: Learning curve for final state (yellow) and state pair (cyan) reinforcement learning models.",
+  "imageText": [],
+  "renderURL": "jpeg037-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 315.9630126953125,
+    "y1": 611.5296630859375,
+    "x2": 552.4849853515625,
+    "y2": 628.4660034179688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 485.76,
+    "x2": 278.4,
+    "y2": 605.28
+  },
+  "caption": "Figure 1: Learning curve for supervised linear (blue) and deep neural net (red) models.",
+  "imageText": [],
+  "renderURL": "jpeg037-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 59.51900100708008,
+    "y1": 611.5296630859375,
+    "x2": 296.0369567871094,
+    "y2": 628.4660034179688
+  }
+}]

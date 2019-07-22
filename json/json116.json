@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 305.76,
+    "y1": 415.68,
+    "x2": 550.0799999999999,
+    "y2": 703.1999999999999
+  },
+  "caption": "TABLE I. RESULTS",
+  "imageText": ["*", "Categorical", "variables", "were", "one", "hot", "encoded", "with", "a", "cutoff", "frequency", "threshold.", "Random", "Forest,", "Best", "50", "99.98%", "97.25%", "Random", "Forest,", "Max", "Depth", "=", "10", "5", "94.36%", "94.50%", "Random", "Forest", "5", "99.79%", "96.50%", "Random", "Forest,", "Max", "Depth", "=", "10", "50", "95.42%", "95.20%", "Random", "Forest", "50", "99.70%", "96.85%", "Linear", "SVM,", "Cost", "=", "1", "5", "89.55%", "88.60%", "Rbf", "SVM,", "Cost", "=", "1,", "Gamma", "=", "1", "50", "94.50%", "91.15%", "Rbf", "SVM,", "Cost", "=", "1,", "Gamma", "=", "0.01", "50", "87.37%", "87.05%", "Rbf", "SVM,", "Cost", "=", "1,", "Gamma", "=", "100", "50", "99.30%", "81.45%", "Rbf", "SVM,", "Cost", "=", "10,", "Gamma", "=", "1", "50", "96.81%", "89.85%", "Rbf", "SVM,", "Cost", "=", "100,", "Gamma", "=", "100", "50", "99.70%", "81.90%", "Rbf", "SVM,", "Cost", "=", "1,", "Gamma", "=", "1", "5", "94.41%", "90.40%", "Linear", "SVM,", "Cost", "=", "10", "50", "89.40%", "89.20%", "Linear", "SVM,", "Cost", "=", "1", "50", "88.70%", "88.00%", "Accuracy", "Test", "Accuracy", "Cutoff*", "Train", "Model", "Metrics"],
+  "renderURL": "jpeg116-TableI-1.png",
+  "captionBoundary": {
+    "x1": 386.7099914550781,
+    "y1": 405.5957946777344,
+    "x2": 469.8957214355469,
+    "y2": 409.2499694824219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 44.64,
+    "y1": 67.67999999999999,
+    "x2": 289.44,
+    "y2": 181.92
+  },
+  "caption": "TABLE IV. ABLATION STUDY",
+  "imageText": ["Remove", "diff", "between", "url", "and", "site", "first", "seen", "date", "90.5%", "91.0%", "90.0%", "90.5%", "Remove", "ratio", "of", "url", "traffic", "to", "site", "traffic", "91.2%", "91.3%", "91.2%", "91.2%", "Remove", "url", "length", "feature", "91.0%", "91.5%", "90.6%", "91.0%", "Remove", "Na?ve", "Bayes", "Prob", "feature", "87.5%", "84.6%", "91.2%", "87.5%", "SVM", "RBF", "91.2%", "91.1%", "91.4%", "91.1%", "Accuracy", "Precision", "Recall", "AUC", "Model", "Metrics"],
+  "renderURL": "jpeg116-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 111.26000213623047,
+    "y1": 57.065792083740234,
+    "x2": 222.71401977539062,
+    "y2": 60.719970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 305.76,
+    "y1": 260.64,
+    "x2": 550.0799999999999,
+    "y2": 320.15999999999997
+  },
+  "caption": "TABLE II. CONFUSION MATRIX",
+  "imageText": ["Actual", "Spam", "87", "920", "Spam", "903", "90", "Actual", "Not", "Predicted", "Not", "Spam", "Predicted", "Spam", "N", "=", "2000", "RBF", "SVM,", "Best"],
+  "renderURL": "jpeg116-TableII-1.png",
+  "captionBoundary": {
+    "x1": 368.5899963378906,
+    "y1": 249.92578125,
+    "x2": 487.9688720703125,
+    "y2": 253.5799560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 305.76,
+    "y1": 344.64,
+    "x2": 551.04,
+    "y2": 766.0799999999999
+  },
+  "caption": "TABLE III. CONFUSION MATRIX",
+  "imageText": ["Actual", "Spam", "27", "1030", "Spam", "912", "31", "Actual", "Not", "Predicted", "Not", "Spam", "Predicted", "Spam", "N", "=", "2000", "Random", "Forest,", "Best"],
+  "renderURL": "jpeg116-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 366.9100036621094,
+    "y1": 334.6758117675781,
+    "x2": 489.5257873535156,
+    "y2": 338.3299865722656
+  }
+}]

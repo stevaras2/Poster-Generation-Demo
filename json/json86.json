@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 52.8,
+    "x2": 299.03999999999996,
+    "y2": 222.23999999999998
+  },
+  "caption": "Fig. 1: Condos sale price distribution on the map",
+  "imageText": [],
+  "renderURL": "jpeg86-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 75.23999786376953,
+    "y1": 229.56753540039062,
+    "x2": 277.56048583984375,
+    "y2": 235.57000732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 257.76,
+    "x2": 299.03999999999996,
+    "y2": 369.12
+  },
+  "caption": "Table I: Accuracy and variance metrics for different methods",
+  "imageText": [],
+  "renderURL": "jpeg86-TableI-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 376.5255432128906,
+    "x2": 298.8010559082031,
+    "y2": 382.52801513671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 52.8,
+    "x2": 299.03999999999996,
+    "y2": 228.48
+  },
+  "caption": "Fig. 2: R2 as a function of training set size for LR and GB",
+  "imageText": [],
+  "renderURL": "jpeg86-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 235.92855834960938,
+    "x2": 298.7956237792969,
+    "y2": 241.9310302734375
+  }
+}]

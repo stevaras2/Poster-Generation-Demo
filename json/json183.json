@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 146.88,
+    "y1": 181.92,
+    "x2": 465.12,
+    "y2": 264.0
+  },
+  "caption": "Table 1: Model performance measured by classification accuracy",
+  "imageText": ["Naive", "Bayes", "0.666", "0.611", "0.678", "0.619", "0.601", "0.560", "Logistic", "Regression", "0.742", "0.641", "0.747", "0.637", "0.777", "0.671", "Kernel", "SVM", "0.996", "0.609", "0.975", "0.611", "N/A", "N/A", "Random", "Forest", "0.999", "0.587", "0.999", "0.584", "N/A", "N/A", "Binary", "features", "Count", "features", "TF-IDF", "features", "Train", "Dev", "Train", "Dev", "Train", "Dev"],
+  "renderURL": "jpeg183-Table1-1.png",
+  "captionBoundary": {
+    "x1": 176.1280059814453,
+    "y1": 265.0635070800781,
+    "x2": 435.5641174316406,
+    "y2": 271.06597900390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 146.88,
+    "y1": 542.88,
+    "x2": 465.12,
+    "y2": 696.0
+  },
+  "caption": "Figure 3: Confusion matrix for logistic regression with TF-IDF features",
+  "imageText": ["(a)", "Without", "example", "weighting", "(b)", "With", "example", "weighting"],
+  "renderURL": "jpeg183-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 161.6079864501953,
+    "y1": 705.7435302734375,
+    "x2": 450.3937072753906,
+    "y2": 711.7459716796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 166.56,
+    "y1": 70.56,
+    "x2": 445.44,
+    "y2": 140.16
+  },
+  "caption": "Figure 2: Typical neural network model architecture",
+  "imageText": [],
+  "renderURL": "jpeg183-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 200.5959930419922,
+    "y1": 148.48654174804688,
+    "x2": 411.4045104980469,
+    "y2": 154.489013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 156.0,
+    "y1": 72.0,
+    "x2": 456.47999999999996,
+    "y2": 165.12
+  },
+  "caption": "Table 2: Model performance of different neural networks measured by classification accuracy (number after \"CNN\" in the model’s name denotes the number of convolutional layers in the model, the number following \"RNN\" denotes the number of units in LSTM layer of the network). \"Top1\" column denotes the results if considering the top one label predicted by the models, \"top3\" - if considering top three labels.",
+  "imageText": ["CNN", "2", "71.38", "64.41", "84.1", "64.83", "84.28", "CNN1-RNN", "100", "81.62", "66.72", "87.3", "66.18", "86.89", "CNN1-RNN", "200", "84.63", "66.81", "87.4", "66.34", "86.78", "CNN2-RNN", "200", "79.67", "66.28", "86.2", "66.18", "86.09", "Ensemble", "of", "four", "models", "83.59", "68.85", "88.72", "68.38", "88.44", "Train", "Dev", "Test", "top1", "top3", "top1", "top3"],
+  "renderURL": "jpeg183-Table2-1.png",
+  "captionBoundary": {
+    "x1": 107.69100189208984,
+    "y1": 166.46554565429688,
+    "x2": 504.17083740234375,
+    "y2": 216.10400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 166.56,
+    "y1": 246.72,
+    "x2": 445.44,
+    "y2": 421.44
+  },
+  "caption": "Figure 5: Visualization of word embeddings for different news categories",
+  "imageText": [],
+  "renderURL": "jpeg183-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 158.62399291992188,
+    "y1": 429.1665344238281,
+    "x2": 453.3774108886719,
+    "y2": 435.16900634765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 146.88,
+    "y1": 79.67999999999999,
+    "x2": 465.12,
+    "y2": 241.92
+  },
+  "caption": "Figure 1: Statistical analysis of dataset: (a) Number of samples per category (b) Average number of words in the combined news description",
+  "imageText": ["(a)", "(b)"],
+  "renderURL": "jpeg183-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 107.64099884033203,
+    "y1": 252.02352905273438,
+    "x2": 504.0034484863281,
+    "y2": 268.93499755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 80.64,
+    "x2": 505.44,
+    "y2": 242.39999999999998
+  },
+  "caption": "Figure 4: Typical model accuracy and loss curves (train and dev) for neural network models",
+  "imageText": ["(a)", "Model", "accuracy", "(b)", "Model", "loss"],
+  "renderURL": "jpeg183-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 121.74299621582031,
+    "y1": 252.39852905273438,
+    "x2": 490.2594909667969,
+    "y2": 258.4010009765625
+  }
+}]

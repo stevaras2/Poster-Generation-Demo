@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 172.79999999999998,
+    "y1": 404.15999999999997,
+    "x2": 439.2,
+    "y2": 481.91999999999996
+  },
+  "caption": "Figure 3: Transition matrix for hidden Markov model.",
+  "imageText": ["...", "0", "0", "0", "0", ".", ".", ".", "1", "??????", "T", "=", "??????", "1?", "pgene", "pgene", "0", "0", ".", ".", ".", "0", "0", "1?", "ptransition", "ptransition", "0", ".", ".", ".", "0", "0", "0", "1?", "pgene", "pgene", ".", ".", ".", "0"],
+  "renderURL": "jpeg146-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 198.08094787597656,
+    "y1": 499.01055908203125,
+    "x2": 413.9205627441406,
+    "y2": 505.0130310058594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 132.0,
+    "y1": 408.96,
+    "x2": 480.47999999999996,
+    "y2": 491.03999999999996
+  },
+  "caption": "Table 1: Recall and precision results from validation and test sets for selected hyperparameters",
+  "imageText": ["DBSCAN", "33.1", "35.0", "14.3", "70.0", "Hidden", "Markov", "Model", "23.4", "70.7", "12.2", "42.9", "Logistic", "Regression", "87.5", "85.4", "47.4", "94.7", "Neural", "Network", "90.0", "81.8", "55.3", "80.8", "Method", "Recall", "(%)", "Precision", "(%)", "Recall", "(%)", "Precision", "(%)", "Validation", "Data", "Test", "Data"],
+  "renderURL": "jpeg146-Table1-1.png",
+  "captionBoundary": {
+    "x1": 117.26000213623047,
+    "y1": 400.29150390625,
+    "x2": 494.4341125488281,
+    "y2": 406.2939758300781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 145.92,
+    "y1": 116.64,
+    "x2": 466.08,
+    "y2": 236.16
+  },
+  "caption": "Figure 5: Example output from supervised learning models for the probability of the initiation class shown in black with read data in blue and orange. Left: logistic regression. Right: neural network.",
+  "imageText": [],
+  "renderURL": "jpeg146-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 244.45553588867188,
+    "x2": 503.99725341796875,
+    "y2": 261.36700439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.96,
+    "y1": 170.88,
+    "x2": 503.03999999999996,
+    "y2": 336.0
+  },
+  "caption": "Figure 1: Top: example data with genes. Orange and blue are reads, black indicates TUs.2 Bottom: example of two read regions before (left of arrow) and after (right of arrow) segmentation.",
+  "imageText": ["??", "+"],
+  "renderURL": "jpeg146-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 344.4645690917969,
+    "x2": 503.1863098144531,
+    "y2": 361.3770446777344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 165.6,
+    "y1": 489.59999999999997,
+    "x2": 446.4,
+    "y2": 595.1999999999999
+  },
+  "caption": "Figure 2: Transformation of read data for selected gene. Single location read distribution (Poisson) is shown on the left and the distribution after taking a moving average (Gaussian) is on the right.",
+  "imageText": [],
+  "renderURL": "jpeg146-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 603.0195922851562,
+    "x2": 504.00152587890625,
+    "y2": 619.9310302734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 145.92,
+    "y1": 511.68,
+    "x2": 466.08,
+    "y2": 631.1999999999999
+  },
+  "caption": "Figure 4: Example output from unsupervised models shown in black with read data in blue and orange. DBSCAN is on the left and values of 0 indicate outliers, which are positive results. HMM is on the right and the black trace shows the mean of the hidden state at each position.",
+  "imageText": [],
+  "renderURL": "jpeg146-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 639.508544921875,
+    "x2": 503.9974060058594,
+    "y2": 667.3289794921875
+  }
+}]

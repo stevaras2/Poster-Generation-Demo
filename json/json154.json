@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.39999999999999,
+    "y1": 541.92,
+    "x2": 269.28,
+    "y2": 644.64
+  },
+  "caption": "Figure 6. Comparison of mean accuracies of different input featurizations on T4 lyzozyme mutant classifcation task.",
+  "imageText": ["train", "test", "r2v", "(W2)", "r2v", "(v_dot)", "r2v", "(v_freq)", "BLOSUM62", "one-hot", "0.0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0", "accuracy"],
+  "renderURL": "jpeg154-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 54.9379997253418,
+    "y1": 663.4357299804688,
+    "x2": 290.9256286621094,
+    "y2": 679.7969970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 113.75999999999999,
+    "y1": 236.64,
+    "x2": 224.16,
+    "y2": 348.0
+  },
+  "caption": "Table 1. ProteinNet dataset. The number of training example proteins is shown for each threshold of sequence similarity to the proteins withheld in the CASP11 test dataset. The number of examples in the validation and test sets are also shown. Note that the number of amino acids per protein is on the order of 100s.",
+  "imageText": ["TEST", "78", "30%", "22,344", "50%", "29,936", "70%", "36,005", "90%", "42,507", "95%", "43,544", "100%", "87,573", "VAL", "224", "SEQ.", "SIM.", "THRESHOLD", "PROTEINS"],
+  "renderURL": "jpeg154-Table1-1.png",
+  "captionBoundary": {
+    "x1": 54.893001556396484,
+    "y1": 359.22674560546875,
+    "x2": 290.9317321777344,
+    "y2": 408.4649963378906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 66.72,
+    "x2": 508.32,
+    "y2": 305.28
+  },
+  "caption": "Figure 1. Definition of a target residueís 3D context. (a) To give each target residue a consistent notion of direction, we defined orthogonal (X, Y, Z) axes, shown as (R, G, B) arrows, to elicit a change of coordinate basis. (b) Example target residue (alanine) with context of 10 nearest amino acids by ·C-·C distance. Sidechains are hidden; the · carbons of each residue are shown as small spheres with a rainbow color-mapping from N to C terminus. Note the structureís original basis (top-left) and redefined target-centric unit-vectors (center).",
+  "imageText": ["(b)", "(a)"],
+  "renderURL": "jpeg154-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 327.02874755859375,
+    "x2": 542.9260864257812,
+    "y2": 420.10198974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 72.0,
+    "x2": 541.4399999999999,
+    "y2": 180.0
+  },
+  "caption": "Figure 4. The confusion matrix for the model on the training dataset is shown in (a). For comparison, the scores present the BLOSUM62 empirical substitution matrix are shown in (b). The BLOSUM baseline indicates that some level of confusion is expected based on empirical tolerated substitution frequencies.",
+  "imageText": ["(a)", "r2v", "confusion", "matrix", "(b)", "BLOSUM", "score", "matrix"],
+  "renderURL": "jpeg154-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 197.13272094726562,
+    "x2": 542.9334106445312,
+    "y2": 246.3709716796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 363.84,
+    "y1": 524.64,
+    "x2": 482.4,
+    "y2": 638.4
+  },
+  "caption": "Figure 5. The first 2 principal components of the embedding vectors for each residue are shown (44.5% and 9.4% variance explained, respectively). Residues are identified by single letter code and colored by chemical property (blue: polar positive, red: polar negative, green: polar neutral, black: non-polar aliphatic, purple: non-polar aromatic, yellow: cysteine, brown: other).",
+  "imageText": [],
+  "renderURL": "jpeg154-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 652.9227294921875,
+    "x2": 542.93359375,
+    "y2": 713.1199951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 422.88,
+    "x2": 283.2,
+    "y2": 510.24
+  },
+  "caption": "Figure 3. Loss and accuracy metrics over training epochs. The average negative log likelihood loss value is shown for the training (blue) and validation (orange) datasets are shown in (a). The accuracy of the model on the validation dataset is shown in (b).",
+  "imageText": ["(a)", "(b)"],
+  "renderURL": "jpeg154-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.93800354003906,
+    "y1": 526.9967651367188,
+    "x2": 289.43975830078125,
+    "y2": 565.2760009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 124.8,
+    "x2": 270.24,
+    "y2": 250.07999999999998
+  },
+  "caption": "Figure 2. Core CBOW architecture employed by the r2v model.",
+  "imageText": [],
+  "renderURL": "jpeg154-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.9379997253418,
+    "y1": 265.3257751464844,
+    "x2": 283.39263916015625,
+    "y2": 270.72802734375
+  }
+}]

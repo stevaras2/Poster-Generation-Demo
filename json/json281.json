@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 135.84,
+    "y1": 89.75999999999999,
+    "x2": 476.15999999999997,
+    "y2": 135.35999999999999
+  },
+  "caption": "Table 1",
+  "imageText": ["75", "0.32%", "79666", "823", "29957", "100", "0.73%", "32873", "271", "16449", "Minimum", "#", "of", "Job", "Applications", "per", "Job", "Density", "#", "of", "Job", "Applications", "#", "of", "Jobs", "#", "of", "Users"],
+  "renderURL": "jpeg281-Table1-1.png",
+  "captionBoundary": {
+    "x1": 291.1659851074219,
+    "y1": 73.6335220336914,
+    "x2": 320.5257873535156,
+    "y2": 79.635986328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 288.96,
+    "x2": 297.12,
+    "y2": 372.0
+  },
+  "caption": "Table 2",
+  "imageText": ["4", "Methods", "75", "63732", "15934", "100", "26298", "6575", "Applications", "per", "Job", "Training", "Testing", "Minimum", "#", "of", "Job"],
+  "renderURL": "jpeg281-Table2-1.png",
+  "captionBoundary": {
+    "x1": 189.6750030517578,
+    "y1": 280.0935363769531,
+    "x2": 219.03477478027344,
+    "y2": 286.09600830078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 320.64,
+    "x2": 302.4,
+    "y2": 412.32
+  },
+  "caption": "Figure 4: Spectral Co-clustering",
+  "imageText": [],
+  "renderURL": "jpeg281-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 140.1510009765625,
+    "y1": 419.7275390625,
+    "x2": 268.8677978515625,
+    "y2": 425.7300109863281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 190.56,
+    "x2": 302.4,
+    "y2": 281.28
+  },
+  "caption": "Figure 3: NMTF (Nonnegative Matrix Trifactorization)",
+  "imageText": [],
+  "renderURL": "jpeg281-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 289.5775146484375,
+    "x2": 302.670654296875,
+    "y2": 306.489013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 70.56,
+    "x2": 302.4,
+    "y2": 162.23999999999998
+  },
+  "caption": "Figure 2: K-means",
+  "imageText": [],
+  "renderURL": "jpeg281-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 166.8560028076172,
+    "y1": 170.33755493164062,
+    "x2": 242.16329956054688,
+    "y2": 176.34002685546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 135.84,
+    "y1": 88.8,
+    "x2": 273.12,
+    "y2": 181.44
+  },
+  "caption": "Figure 1",
+  "imageText": [],
+  "renderURL": "jpeg281-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 187.76699829101562,
+    "y1": 73.6335220336914,
+    "x2": 221.25128173828125,
+    "y2": 79.635986328125
+  }
+}]

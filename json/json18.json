@@ -1,0 +1,241 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 386.88,
+    "x2": 300.0,
+    "y2": 480.96
+  },
+  "caption": "Figure 4: LSTM Structure Diagram (12)",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 86.05400085449219,
+    "y1": 494.2077331542969,
+    "x2": 264.1971740722656,
+    "y2": 499.18902587890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 231.84,
+    "x2": 560.16,
+    "y2": 349.91999999999996
+  },
+  "caption": "Figure 5: Encoder-Decoder Model Diagram",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 341.2040100097656,
+    "y1": 362.2527160644531,
+    "x2": 527.89013671875,
+    "y2": 367.2340087890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 307.68,
+    "x2": 547.1999999999999,
+    "y2": 417.12
+  },
+  "caption": "Figure 11: Encoder Decoder Model Generated Music",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 320.6050109863281,
+    "y1": 429.3607177734375,
+    "x2": 548.4945678710938,
+    "y2": 434.3420104980469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 333.59999999999997,
+    "y1": 35.519999999999996,
+    "x2": 535.1999999999999,
+    "y2": 169.92
+  },
+  "caption": "Figure 10: Encoder Decoder Model Average Loss",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 328.8450012207031,
+    "y1": 182.39474487304688,
+    "x2": 540.2494506835938,
+    "y2": 187.37603759765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 107.52,
+    "x2": 288.0,
+    "y2": 210.23999999999998
+  },
+  "caption": "Figure 9: Music Generated from LSTM Algorithm",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 65.5719985961914,
+    "y1": 222.28775024414062,
+    "x2": 284.680419921875,
+    "y2": 227.26904296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 433.44,
+    "x2": 300.0,
+    "y2": 527.04
+  },
+  "caption": "Figure 1: Beethoven’s Fifth Symphony music sheet",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 65.125,
+    "y1": 539.94970703125,
+    "x2": 285.13201904296875,
+    "y2": 544.9310302734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 225.6,
+    "x2": 557.28,
+    "y2": 364.32
+  },
+  "caption": "Figure 3: A MIDI-file played in Synthesia",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 343.1549987792969,
+    "y1": 376.4287109375,
+    "x2": 525.9379272460938,
+    "y2": 381.4100036621094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 358.56,
+    "y1": 35.519999999999996,
+    "x2": 510.24,
+    "y2": 184.32
+  },
+  "caption": "Figure 2: Matrix representation of LSTM Model data",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 318.1319885253906,
+    "y1": 197.13772583007812,
+    "x2": 550.9639282226562,
+    "y2": 202.1190185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 273.59999999999997,
+    "x2": 300.0,
+    "y2": 333.12
+  },
+  "caption": "Table 1: Results for all the models",
+  "imageText": ["LSTM", ".5345", "(CE)", ".7986", "(CE)", "22,290", "36%,", "89%", "Enc-Dec", ".04473", "(BCE)", ".06773", "(BCE)", "408,700", "23%,", "30%", "Naive", "Bayes", "22.1%", "(Pred)", "3.18%", "(Pred)", "10,570", "47%,", "93%", "Vanilla", "NN", ".01904", "(CE)", ".1260", "(CE)", "10,570", "47%,", "53%", "Model", "Train", "Loss", "Test", "Loss", "Sample", "Size", "Turing", "Test"],
+  "renderURL": "jpeg18-Table1-1.png",
+  "captionBoundary": {
+    "x1": 110.95899963378906,
+    "y1": 257.49798583984375,
+    "x2": 239.29991149902344,
+    "y2": 261.4830322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 346.56,
+    "y1": 624.48,
+    "x2": 522.24,
+    "y2": 751.1999999999999
+  },
+  "caption": "Figure 8: LSTM Model Loss",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 372.6409912109375,
+    "y1": 763.732666015625,
+    "x2": 496.4562683105469,
+    "y2": 768.7139892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 99.84,
+    "y1": 35.519999999999996,
+    "x2": 250.07999999999998,
+    "y2": 140.16
+  },
+  "caption": "Figure 6: GRU Model Diagram(3)",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 100.39399719238281,
+    "y1": 152.30075073242188,
+    "x2": 249.86085510253906,
+    "y2": 157.28204345703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 497.76,
+    "x2": 250.07999999999998,
+    "y2": 639.36
+  },
+  "caption": "Figure 7: Neural network performance on a dataset with ca. 10,000 values, with 1024 neurons.",
+  "imageText": [],
+  "renderURL": "jpeg18-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 50.400001525878906,
+    "y1": 651.720703125,
+    "x2": 299.8585205078125,
+    "y2": 668.656982421875
+  }
+}]

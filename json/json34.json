@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 70.56,
+    "x2": 544.3199999999999,
+    "y2": 207.35999999999999
+  },
+  "caption": "Figure 1. a. Conv-LSTM b. bi-ConvLSTM Cell",
+  "imageText": [],
+  "renderURL": "jpeg34-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 341.42999267578125,
+    "y1": 213.09677124023438,
+    "x2": 512.5449829101562,
+    "y2": 218.4990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 372.0,
+    "x2": 248.16,
+    "y2": 532.3199999999999
+  },
+  "caption": "Figure 4. Sequence-1: SILog, RMSE, a1, a2, a3 (from top to bottom)",
+  "imageText": [],
+  "renderURL": "jpeg34-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 536.7918090820312,
+    "x2": 286.35870361328125,
+    "y2": 553.152099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 567.84,
+    "x2": 248.16,
+    "y2": 629.28
+  },
+  "caption": "Figure 5. Sequence-6: SILog, RMSE (from top to bottom)",
+  "imageText": [],
+  "renderURL": "jpeg34-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 63.61399841308594,
+    "y1": 635.3838500976562,
+    "x2": 272.86285400390625,
+    "y2": 640.7861328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 241.92,
+    "x2": 248.16,
+    "y2": 345.12
+  },
+  "caption": "Figure 3. x (LHS), y*, y (RHS)",
+  "imageText": [],
+  "renderURL": "jpeg34-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 112.07599639892578,
+    "y1": 351.5478210449219,
+    "x2": 224.3981170654297,
+    "y2": 356.9500732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 72.0,
+    "x2": 569.28,
+    "y2": 210.23999999999998
+  },
+  "caption": "Figure 2. UNoIT Detail",
+  "imageText": [],
+  "renderURL": "jpeg34-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 255.2779998779297,
+    "y1": 215.61172485351562,
+    "x2": 339.94775390625,
+    "y2": 221.01397705078125
+  }
+}]

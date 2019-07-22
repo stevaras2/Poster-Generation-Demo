@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 72.0,
+    "x2": 505.44,
+    "y2": 328.32
+  },
+  "caption": "Figure 2: Hybrid Siamese Network",
+  "imageText": [],
+  "renderURL": "jpeg180-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 235.86900329589844,
+    "y1": 351.0085144042969,
+    "x2": 376.3814697265625,
+    "y2": 357.010986328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 330.71999999999997,
+    "x2": 505.44,
+    "y2": 366.24
+  },
+  "caption": "Figure 1: Process for K-NN",
+  "imageText": [],
+  "renderURL": "jpeg180-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 351.8550109863281,
+    "y1": 370.5265197753906,
+    "x2": 463.12725830078125,
+    "y2": 376.52899169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 444.0,
+    "x2": 505.44,
+    "y2": 572.16
+  },
+  "caption": "Figure 3: Loss Curve",
+  "imageText": [],
+  "renderURL": "jpeg180-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 365.06500244140625,
+    "y1": 576.5655517578125,
+    "x2": 449.91644287109375,
+    "y2": 582.5679931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 237.6,
+    "x2": 497.28,
+    "y2": 411.35999999999996
+  },
+  "caption": "Table 1: Results",
+  "imageText": ["OurModel", "76%", "0.16", "69%", "0.20", "CNN", "+", "Bi", "-LSTM", "+", "Manhattan", "73%", "0.18", "LSTM", "+", "Attention", "+", "FNN", "62%", "0.25", "LSTM", "+", "Manhattan", "Distance", "Model", "Accuracy(%)", "MSE"],
+  "renderURL": "jpeg180-Table1-1.png",
+  "captionBoundary": {
+    "x1": 373.5140075683594,
+    "y1": 417.60052490234375,
+    "x2": 441.1600646972656,
+    "y2": 423.6029968261719
+  }
+}]

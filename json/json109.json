@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "II",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 299.52,
+    "x2": 555.36,
+    "y2": 554.4
+  },
+  "caption": "TABLE II",
+  "imageText": ["65+", "4%", "age", "[0,18)", "1%", "[18,25)", "16%", "[25,30)", "12%", "[30,35)", "13%", "[35,40)", "13%", "[40,45)", "12%", "[45,50)", "10%", "[50,55)", "8%", "[55,60)", "6%", "[60,65)", "4%", "Amer-Indian-Eskimo", "1%", "other", "1%", "Black", "10%", "Asian-Pac-Islander", "3%", "Female", "33%", "race", "White", "85%", "Protected", "Var", "Value", "Distribution", "sex", "Male", "67%", "PROTECTED", "VARIABLE", "DISTRIBUTION", "IN", "UCI", "INCOME", "DATA"],
+  "renderURL": "jpeg109-TableII-1.png",
+  "captionBoundary": {
+    "x1": 417.01702880859375,
+    "y1": 286.6989440917969,
+    "x2": 454.1828308105469,
+    "y2": 292.1011962890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 258.71999999999997,
+    "x2": 296.15999999999997,
+    "y2": 461.28
+  },
+  "caption": "TABLE I",
+  "imageText": ["native", "country", "Cat", "Country", "of", "origin", "education", "Cat", "Max", "level", "of", "education", "workclass", "Cat", "Employer", "type", "occupation", "Cat", "Occupation", "type", "marital", "status", "Cat", "Marital", "status", "type", "relationship", "Cat", "Family", "relationship", "type", "sex", "Cat", "Female,", "Male", "race", "Cat", "Racial", "category", "fnlwgt", "Cont", "Inverse", "sampling", "probability", "income", "Cat", ">$50K,", "?$50K", "capital", "gain", "Cont", "Capital", "gains", "via", "investments", "capital", "loss", "Cont", "Capital", "losses", "via", "investments", "education", "num", "Cont", "Max", "level", "of", "education", "(num)", "hours", "per", "week", "Cont", "Hours", "worked", "per", "week", "Feature", "Type", "Description", "age", "Cont", "Age", "of", "the", "individual", "UCI", "ADULT", "INCOME", "DATASET", "SCHEMA"],
+  "renderURL": "jpeg109-TableI-1.png",
+  "captionBoundary": {
+    "x1": 159.30999755859375,
+    "y1": 244.95388793945312,
+    "x2": 193.4899139404297,
+    "y2": 250.35614013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 67.67999999999999,
+    "x2": 297.12,
+    "y2": 136.32
+  },
+  "caption": "TABLE IV",
+  "imageText": ["Opportunity", "(á", "=", "10)", "85.40", "0.004", "0.000", "0.013", "Odds", "(á", "=", "10)", "85.64", "0.004", "0.000", "0.014", "Parity", "(á", "=", "10)", "85.59", "0.004", "0.001", "0.015", "Method", "Accuracy", "Var", "of", "y?", "Var", "of", "FP", "Var", "of", "TP", "Basic", "85.57", "0.005", "0.000", "0.024", "TABLE", "OF", "RESULTS", "-", "RACE", "AS", "PROTECTED", "VARIABLE"],
+  "renderURL": "jpeg109-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 156.072998046875,
+    "y1": 54.58773422241211,
+    "x2": 196.72665405273438,
+    "y2": 59.989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 536.64,
+    "x2": 306.24,
+    "y2": 696.0
+  },
+  "caption": "Fig. 3. Accuracy for basic and parity models, with/without postprocessing step enforcing demographic parity (DP)",
+  "imageText": ["Demographic", "parity", "Figure", "3", "shows", "the", "proportion", "of"],
+  "renderURL": "jpeg109-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 710.4677124023438,
+    "x2": 298.8006591796875,
+    "y2": 726.3299560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 156.48,
+    "x2": 297.12,
+    "y2": 225.12
+  },
+  "caption": "TABLE V",
+  "imageText": ["Opportunity", "(á", "=", "10)", "85.10", "0.011", "0.001", "0.023", "Odds", "(á", "=", "10)", "84.81", "0.008", "0.001", "0.009", "Parity", "(á", "=", "10)", "82.72", "0.004", "0.001", "0.018", "Method", "Accuracy", "Var", "of", "y?", "Var", "of", "FP", "Var", "of", "TP", "Basic", "85.67", "0.016", "0.002", "0.040", "TABLE", "OF", "RESULTS", "-", "AGE", "AS", "PROTECTED", "VARIABLE"],
+  "renderURL": "jpeg109-TableV-1.png",
+  "captionBoundary": {
+    "x1": 157.5659942626953,
+    "y1": 143.28475952148438,
+    "x2": 195.2338409423828,
+    "y2": 148.68701171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 244.79999999999998,
+    "x2": 299.52,
+    "y2": 359.03999999999996
+  },
+  "caption": "Fig. 2. ROC Curve comparison for basic and opportunity models, with/without post-processing step enforcing equality of opportunity (EO)",
+  "imageText": ["male", "female", "original", "enforced", "EO", "opportunity", "ra", "te", "iti", "ve", "p", "os", "Tr", "ue", "1.0", "0.8", "0.6", "0.4", "0.2", "0.0", "0.00", "0.05", "0.10", "0.15", "False", "positive", "rate", "basic", "ra", "te", "iti", "ve", "p", "os", "Tr", "ue", "1.0", "0.8", "0.6", "0.4", "0.2", "0.0", "0.00", "0.05", "0.10", "0.15", "False", "positive", "rate"],
+  "renderURL": "jpeg109-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 380.7297058105469,
+    "x2": 298.80072021484375,
+    "y2": 407.053955078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 53.76,
+    "x2": 298.08,
+    "y2": 93.11999999999999
+  },
+  "caption": "Fig. 1. Adversarial model setup",
+  "imageText": ["Predictor", "P", "Adversary", "Ax", "?", "y,", "?", "?"],
+  "renderURL": "jpeg109-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 115.00299835205078,
+    "y1": 108.4487533569336,
+    "x2": 237.7978515625,
+    "y2": 113.85101318359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 286.08,
+    "x2": 556.3199999999999,
+    "y2": 413.28
+  },
+  "caption": "TABLE III",
+  "imageText": ["Basic", "+", "DP", "83.63", "0.01", "0.04", "0.29", "Parity", "+", "DP", "83.64", "0.00", "0.04", "0.31", "Basic", "+", "EO", "85.46", "0.16", "0.06", "0.02", "Opportunity", "+", "EO", "85.45", "0.16", "0.07", "0.02", "Beutel", "[1]", "82.33", "0.19", "0.15", "0.07", "Zhang", "[7]", "84.5", "–", "0.01", "0.01", "Opportunity", "(á", "=", "10)", "85.44", "0.14", "0.47", "0.00", "Odds", "(á", "=", "10)", "85.02", "0.11", "0.03", "0.03", "Parity", "(á", "=", "10)", "83.92", "0.02", "0.03", "0.29", "Method", "Accuracy", "Parity-Gap", "FP-Gap", "TP-Gap", "Basic", "85.66", "0.16", "0.06", "0.10", "TABLE", "OF", "RESULTS", "-", "SEX", "AS", "PROTECTED", "VARIABLE"],
+  "renderURL": "jpeg109-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 415.52398681640625,
+    "y1": 273.1369934082031,
+    "x2": 455.67559814453125,
+    "y2": 278.53924560546875
+  }
+}]

@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 505.91999999999996,
+    "x2": 563.04,
+    "y2": 674.4
+  },
+  "caption": "Figure 4: Dropout probability versus test auROC",
+  "imageText": [],
+  "renderURL": "jpeg031-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 343.5660095214844,
+    "y1": 685.631591796875,
+    "x2": 538.4343872070312,
+    "y2": 691.634033203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 42.72,
+    "y1": 290.88,
+    "x2": 569.28,
+    "y2": 424.32
+  },
+  "caption": "Figure 3: Example hyperparameter tuning plots for single motif embedding",
+  "imageText": ["(a)", "Convolution", "?lter", "width", "(b)", "Pooling", "?lter", "width", "(c)", "Number", "of", "?lters", "per", "layer"],
+  "renderURL": "jpeg031-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 155.6099853515625,
+    "y1": 437.34552001953125,
+    "x2": 456.3907165527344,
+    "y2": 443.3479919433594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 337.91999999999996,
+    "y1": 88.8,
+    "x2": 544.3199999999999,
+    "y2": 230.39999999999998
+  },
+  "caption": "Figure 2: Single motif embedding, data needs",
+  "imageText": [],
+  "renderURL": "jpeg031-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 349.7980041503906,
+    "y1": 241.62954711914062,
+    "x2": 532.2032470703125,
+    "y2": 247.63201904296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 42.72,
+    "y1": 53.76,
+    "x2": 569.28,
+    "y2": 144.48
+  },
+  "caption": "Figure 8: DeepLIFT interpretation sequence logos, multi-task classification problem",
+  "imageText": ["(a)", "CTCF,", "(b)", "SIX5", "(c)", "ZNF"],
+  "renderURL": "jpeg031-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 137.87701416015625,
+    "y1": 158.01553344726562,
+    "x2": 474.1246643066406,
+    "y2": 164.01800537109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 332.64,
+    "y1": 638.88,
+    "x2": 550.0799999999999,
+    "y2": 694.0799999999999
+  },
+  "caption": "Figure 1: TAL1 (ENCODE) transcription factor motif, depicted as sequence logo",
+  "imageText": [],
+  "renderURL": "jpeg031-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 306.0,
+    "y1": 710.1515502929688,
+    "x2": 576.0009155273438,
+    "y2": 727.1129760742188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 42.72,
+    "y1": 53.76,
+    "x2": 569.28,
+    "y2": 144.48
+  },
+  "caption": "Figure 5: Multi motif embedding, ENCODE motif sequence logos",
+  "imageText": ["(a)", "CTCF,", "known", "motif", "1", "(b)", "SIX5,", "known", "motif", "1", "(c)", "ZNF143,", "known", "motif", "2"],
+  "renderURL": "jpeg031-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 173.56301879882812,
+    "y1": 158.01553344726562,
+    "x2": 438.43865966796875,
+    "y2": 164.01800537109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 42.72,
+    "y1": 252.0,
+    "x2": 569.28,
+    "y2": 382.08
+  },
+  "caption": "Figure 6: Data size needs by task, multiple motif embedding",
+  "imageText": ["(a)", "Data", "size,", "overall", "task", "(b)", "Data", "size,", "motif", "1", "(c)", "Data", "size,", "motif", "2"],
+  "renderURL": "jpeg031-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 185.32901000976562,
+    "y1": 395.53253173828125,
+    "x2": 426.6730041503906,
+    "y2": 401.5350036621094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 42.72,
+    "y1": 492.96,
+    "x2": 569.28,
+    "y2": 626.4
+  },
+  "caption": "Figure 7: Hyperparameter tuning plots, combined for all 3 tasks",
+  "imageText": ["(a)", "Convolution", "?lter", "width", "(b)", "Pooling", "?lter", "width", "(c)", "Number", "of", "?lters", "per", "layer"],
+  "renderURL": "jpeg031-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 178.69398498535156,
+    "y1": 639.3015747070312,
+    "x2": 433.30810546875,
+    "y2": 645.3040161132812
+  }
+}]

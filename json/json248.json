@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "V",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 366.71999999999997,
+    "y1": 224.64,
+    "x2": 504.0,
+    "y2": 302.4
+  },
+  "caption": "Fig. V. Final portfolio value under different soft buy/sell value.",
+  "imageText": ["Network", "GOOG", "AAPL", "Soft=1", "66.61", "235.42", "Soft=5", "448.15", "342.22", "Soft=10", "50.77", "943.07", "Soft=20", "120.14", "19.247", "Soft=50", "5716.30", "8566.56"],
+  "renderURL": "jpeg248-FigureV-1.png",
+  "captionBoundary": {
+    "x1": 329.1719970703125,
+    "y1": 308.2790222167969,
+    "x2": 542.0294189453125,
+    "y2": 313.08099365234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 475.68,
+    "x2": 268.32,
+    "y2": 628.3199999999999
+  },
+  "caption": "Fig. IV. Plots of reward and cost against training steps.The first row are the cost and reward of AAPL, and second row are the cost and reward of GOOG. The plummets and spikes are due to the random explorations.",
+  "imageText": [],
+  "renderURL": "jpeg248-FigureIV-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 640.8250122070312,
+    "x2": 298.80169677734375,
+    "y2": 663.5590209960938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 517.92,
+    "x2": 528.0,
+    "y2": 558.24
+  },
+  "caption": "Fig. VI. Final portfolio value of Facebook, Twitter, and NVIDIA.",
+  "imageText": ["MODEL", "FB", "TWTR", "NVDA", "Baseline", "1435.60", "205.02", "1761.86", "“Soft”", "buy", "1142.12", "235.96", "6046.56"],
+  "renderURL": "jpeg248-FigureVI-1.png",
+  "captionBoundary": {
+    "x1": 325.15899658203125,
+    "y1": 564.5180053710938,
+    "x2": 546.0423583984375,
+    "y2": 569.3200073242188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 171.84,
+    "x2": 297.12,
+    "y2": 233.28
+  },
+  "caption": "Fig. III. Graph of our model, StockAgentDeepQNetwork.",
+  "imageText": ["Action", "Q-value", "of", "action", "5", "Q-value", "of", "action", "4", "Q-value", "of", "action", "3", "Q-value", "of", "action", "2", "Q-value", "of", "action", "1", "Input", "State"],
+  "renderURL": "jpeg248-FigureIII-1.png",
+  "captionBoundary": {
+    "x1": 80.80699920654297,
+    "y1": 245.4550323486328,
+    "x2": 271.9934997558594,
+    "y2": 250.25701904296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 53.76,
+    "x2": 539.04,
+    "y2": 134.4
+  },
+  "caption": "Fig. II. Processed stock data for Apple.",
+  "imageText": [],
+  "renderURL": "jpeg248-FigureII-1.png",
+  "captionBoundary": {
+    "x1": 238.50900268554688,
+    "y1": 147.13099670410156,
+    "x2": 373.4906005859375,
+    "y2": 151.9329833984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VIII",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 52.8,
+    "x2": 528.0,
+    "y2": 192.0
+  },
+  "caption": "Fig. VIII. Plots of reward against training steps using SADQNbold with í = 1, ã = 0.8 and EHC = 0.25.",
+  "imageText": [],
+  "renderURL": "jpeg248-FigureVIII-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 204.79200744628906,
+    "x2": 558.0016479492188,
+    "y2": 218.56097412109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IX",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.0,
+    "y1": 459.84,
+    "x2": 535.1999999999999,
+    "y2": 544.3199999999999
+  },
+  "caption": "Fig. IX. Plots of reward and cost against training steps. The stock is based on AAPL",
+  "imageText": [],
+  "renderURL": "jpeg248-FigureIX-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 556.676025390625,
+    "x2": 558.0016479492188,
+    "y2": 570.4450073242188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VII",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 94.56,
+    "y1": 236.64,
+    "x2": 258.24,
+    "y2": 314.4
+  },
+  "caption": "Fig. VII. Final portfolio value under different exploration rates.",
+  "imageText": ["å", "=", "0.01", "458.92", "1713.68", "å", "=", "0.05", "592.98", "476.66", "å", "=", "0.1", "116.36", "264.31", "å", "=", "0.2", "-30.76", "129.55", "Exploration", "rate", "GOOG", "AAPL", "å", "=", "0", "249.63", "1905.90"],
+  "renderURL": "jpeg248-FigureVII-1.png",
+  "captionBoundary": {
+    "x1": 69.63300323486328,
+    "y1": 320.6300354003906,
+    "x2": 283.1678161621094,
+    "y2": 325.4320068359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 332.64,
+    "y1": 160.79999999999998,
+    "x2": 538.0799999999999,
+    "y2": 318.24
+  },
+  "caption": "Fig. I. Lunar Lander environment.",
+  "imageText": [],
+  "renderURL": "jpeg248-FigureI-1.png",
+  "captionBoundary": {
+    "x1": 376.81298828125,
+    "y1": 331.1020202636719,
+    "x2": 494.3878479003906,
+    "y2": 335.90399169921875
+  }
+}]

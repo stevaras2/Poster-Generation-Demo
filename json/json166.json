@@ -1,0 +1,21 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 474.71999999999997,
+    "x2": 513.12,
+    "y2": 643.68
+  },
+  "caption": "Figure 1a illustrates a typical setup of a Single-Fiber Electromyography(EMG) test. Electromyography (EMG) measures muscle response or electrical activity in response to a nerve’s stimulation of the muscle. The test is used to help detect neuromuscular abnormalities. An example electrical signal output from the repeated simulation, is shown in Figure 1b. Using many of these muscle simulations, it is possible to diagnose Myasthenia Gravis.",
+  "imageText": ["(a)", "Single", "Fiber", "Electromyography", "Schematic", "(b)", "RNG", "Muscle", "Simulation", "Output"],
+  "renderURL": "jpeg166-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 90.00001525878906,
+    "y1": 407.7906494140625,
+    "x2": 513.0017700195312,
+    "y2": 460.5918884277344
+  }
+}]

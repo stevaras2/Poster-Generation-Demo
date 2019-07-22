@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 181.92,
+    "y1": 163.68,
+    "x2": 431.03999999999996,
+    "y2": 285.12
+  },
+  "caption": "Figure 3: Results form the two model problems with variations of the amount of spatial resolution in the data and the amount of noise in the data",
+  "imageText": [],
+  "renderURL": "jpeg209-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 297.7456970214844,
+    "x2": 539.9948120117188,
+    "y2": 314.6819763183594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 68.64,
+    "x2": 545.28,
+    "y2": 131.04
+  },
+  "caption": "Table 1: Parameters used for system identification of test systems",
+  "imageText": ["u,", "v,", "p", "?p/?x", "Fig.", "1a", "less", "?,", "?", "(1,3)", "(-1,1)", "N/A", "N/A", "2D", "Euler", "w/", "ñ", "=", "1,", "U?", "=", "1", "Test", "System", "Observations", "y", "Grammar", "x1-Range", "x2-Range", "t-Range", "t", "Points", "Adv-Di?", "w/", "D", "=", "1,", "v", "=", "0.5", "u", "?u/?t", "Fig.", "1a", "(0,1)", "N/A", "(0,1)", "200"],
+  "renderURL": "jpeg209-Table1-1.png",
+  "captionBoundary": {
+    "x1": 162.17799377441406,
+    "y1": 144.27468872070312,
+    "x2": 449.81707763671875,
+    "y2": 149.2559814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 68.64,
+    "x2": 541.4399999999999,
+    "y2": 225.12
+  },
+  "caption": "Figure 2: Solution to test systems and denoising example",
+  "imageText": ["(c)", "Total", "variation", "?lter", "(a)", "The", "solution", "to", "the", "advection-", "di?usion", "equation", "in", "the", "domain", "x", ">", "0", "and", "t", ">", "0", "(b)", "The", "pressure", "?eld", "of", "inviscid", "?ow", "over", "around", "a", "circular", "cylinder"],
+  "renderURL": "jpeg209-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 180.8300018310547,
+    "y1": 241.57174682617188,
+    "x2": 431.1720886230469,
+    "y2": 246.55303955078125
+  }
+}]

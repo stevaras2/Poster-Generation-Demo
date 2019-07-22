@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 528.0,
+    "x2": 294.24,
+    "y2": 672.0
+  },
+  "caption": "Figure IV.2: Dilated convolution neural network architecture used in this project.",
+  "imageText": [],
+  "renderURL": "jpeg19-FigureIV-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 681.1046142578125,
+    "x2": 300.0188903808594,
+    "y2": 698.2850341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 343.68,
+    "x2": 276.0,
+    "y2": 430.08
+  },
+  "caption": "Figure IV.1: A dilated convolution layer, illustrated with filter size 2 and dilation rate 4. The light yellow nodes have 20 channels of MFCC features, and each blue node has number of channels equal to the number of filters used.",
+  "imageText": [],
+  "renderURL": "jpeg19-FigureIV-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 439.0826110839844,
+    "x2": 300.1986389160156,
+    "y2": 480.1730041503906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 340.8,
+    "y1": 240.0,
+    "x2": 534.24,
+    "y2": 286.08
+  },
+  "caption": "Table IV.1: Comparison of different model architectures: C denotes a convolution layer, DC denotes a dilated convolution layer, M denotes a max pooling layer, A denotes an average pooling layer, and F denotes a fully connected layer; O denotes the output of the model.",
+  "imageText": ["DC", "M", "F", "O", "0.94", "0.8", "C", "A", "F", "O", "0.94", "0.81", "DC", "A", "DC", "A", "O", "0.99", "0.86", "Model", "Training", "Accuracy", "Test", "Accuracy", "C", "M", "F", "O", "0.8475", "0.78"],
+  "renderURL": "jpeg19-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 311.6969909667969,
+    "y1": 294.2525939941406,
+    "x2": 564.2484130859375,
+    "y2": 347.2969970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 58.559999999999995,
+    "y1": 202.56,
+    "x2": 301.92,
+    "y2": 749.28
+  },
+  "caption": "Table V.3: Comparison: Train and test accuracy of the four classical algorithms, using different feature inputs.",
+  "imageText": ["•", "The", "performance", "of", "GDA", "is", "very", "abnormal", "compared", "to", "the", "other", "algorithms.", "Using", "the", "raw", "input,", "it", "fails", "to", "achieve", "100%", "accuracy", "on", "the", "training", "set", "while", "all", "the", "other", "three", "algorithms", "achieved", "this.", "We", "suspect", "this", "is", "because", "GDA", "makes", "strong", "underlying", "assumptions", "of", "the", "data", "to", "come", "from", "a", "Gaussian", "Distribution,", "while", "music", "temporal", "data", "generally", "does", "not", "follow", "a", "Gaussian", "Distribution.", "We", "also", "observe", "that", "after", "the", "feature", "extraction,", "GDA", "tend", "to", "perform", "better", "on", "the", "later", "layers", "of", "the", "CNN,", "which", "has", "a", "smaller", "number", "of", "activations.", "This", "is", "likely", "because", "GDA", "tend", "to", "perform", "better", "on", "low", "dimensional", "data.", "Also,", "that", "GDA", "works", "better", "in", "layer", "2", "than", "layer", "1", "corresponds", "to", "our", "observation", "from", "Figure", "IV.3(c),", "that", "the", "data", "points", "of", "each", "genre", "tend", "to", "cluster", "together", "in", "convolution", "layer", "2.", "•", "The", "performance", "of", "logistic", "regression", "and", "RF", "improved", "after", "PCA,", "and", "improved", "further", "with", "layer", "1", "and", "2", "of", "the", "Dilated", "CNN", "features.", "Interestingly,", "they", "out", "performed", "the", "DCNN,", "which", "was", "used", "to", "extract", "the", "features!", "We", "believe", "that", "there", "a", "few", "possible", "reasons.", "First,", "our", "neural", "network", "architecture", "might", "not", "yet", "be", "optimized", "for", "this", "problem,", "since", "there", "is", "still", "a", "gap", "between", "the", "training", "and", "test", "accuracy.", "Second,", "classical", "algorithms", "have", "much", "fewer", "parameters", "compared", "to", "the", "neural", "network,", "so", "they", "may", "actually", "have", "a", "regularizing", "effect", "on", "the", "activations", "of", "the", "neural", "network,", "thus", "helping", "us", "get", "higher", "test", "accuracy.", "•", "The", "column", "of", "results", "for", "SVM", "is", "particularly", "interesting.", "We", "see", "that", "SVM", "performs", "extremely", "poorly", "when", "applied", "to", "the", "raw", "input.", "There", "is", "a", "huge", "gap", "between", "the", "train", "and", "test", "accuracy,", "which", "indicates", "severe", "over?tting.", "This", "is", "likely", "because", "the", "kernalized", "SVM", "has", "very", "strong", "predictive", "powers", "and", "will", "end", "up", "?tting", "very", "complex", "boundaries", "to", "the", "raw", "input", "in", "a", "high", "dimensional", "space", "that", "do", "not", "generalize", "to", "the", "test", "data.", "However,", "after", "PCA,", "SVM", "performs", "even", "worse.", "Compare", "this", "with", "the", "three", "other", "algorithms,", "whose", "performance", "increases", "after", "PCA.", "These", "results", "lead", "us", "to", "suspect", "that", "dimension", "reduction", "on", "the", "data", "does", "not", "help", "with", "the", "performance", "of", "SVM.", "However,", "when", "we", "use", "the", "layers", "of", "the", "DCNN", "as", "input,", "the", "performance", "of", "SVM", "increases", "dramatically.", "This", "indicates", "that", "the", "DCNN", "extracts", "low", "dimensional", "features", "from", "the", "raw", "input", "in", "a", "way", "that", "is", "fundamentally", "different", "from", "PCA.", "In", "particular,", "compare", "the", "results", "of", "PCA", "and", "DCNN"],
+  "renderURL": "jpeg19-TableV-1.png",
+  "captionBoundary": {
+    "x1": 48.68299865722656,
+    "y1": 155.85159301757812,
+    "x2": 300.193115234375,
+    "y2": 173.031005859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 154.56,
+    "x2": 553.4399999999999,
+    "y2": 269.28
+  },
+  "caption": "Figure VI.1: LR on First Layer of DCNN of test data with true (left) and predicted (right) genres",
+  "imageText": [],
+  "renderURL": "jpeg19-FigureVI-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 277.8326110839844,
+    "x2": 563.042724609375,
+    "y2": 295.01300048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "y1": 199.68,
+    "x2": 298.08,
+    "y2": 339.36
+  },
+  "caption": "Figure III.1: 2D MFCC array of a classical and a metal music piece from the dataset, with the horizontal axis as time, and the vertical axis as MFCC values.",
+  "imageText": [],
+  "renderURL": "jpeg19-FigureIII-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 348.10662841796875,
+    "x2": 300.0279541015625,
+    "y2": 377.2420349121094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 373.91999999999996,
+    "y1": 432.0,
+    "x2": 501.12,
+    "y2": 559.1999999999999
+  },
+  "caption": "Figure V.1: DCNN confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg19-FigureV-1.png",
+  "captionBoundary": {
+    "x1": 361.9700012207031,
+    "y1": 567.358642578125,
+    "x2": 513.0465698242188,
+    "y2": 572.5830078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 319.68,
+    "y1": 197.76,
+    "x2": 555.36,
+    "y2": 261.12
+  },
+  "caption": "Table V.2: Comparison of different model architectures: filter sizes and pool sizes.",
+  "imageText": ["8,", "8,", "4,", "d16", "16,", "8,", "2,", "d4", "0.825", "0.69", "8,", "16,", "8,", "d32", "24,", "16,", "2,", "d4", "0.9575", "0.84", "8,", "64,", "8,", "d32", "24,", "16,", "2,", "d4", "0.9925", "0.84", "16,", "64,", "8,", "d32", "64,", "16,", "2,", "d4", "1", "0.84", "First", "?lter", "second", "?lter", "Train", "Accuracy", "Test", "Accuracy", "1,", "8,", "4,", "32", "16,", "4,", "2,", "8", "0.51", "0.49", "8,", "8,", "4,", "32", "16,", "4,", "2,", "8", "0.93", "0.85"],
+  "renderURL": "jpeg19-TableV-1.png",
+  "captionBoundary": {
+    "x1": 311.697021484375,
+    "y1": 270.1026306152344,
+    "x2": 563.2096557617188,
+    "y2": 287.2820129394531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 606.72,
+    "x2": 276.0,
+    "y2": 635.04
+  },
+  "caption": "Table V.1: Different Model architecture’s comparison",
+  "imageText": ["Model", "Train", "Accuracy", "Test", "Accuracy", "2-layer", "Dilated", "CNN", "0.915", "0.87", "3-layer", "Dilated", "CNN", "0.9125", "0.79"],
+  "renderURL": "jpeg19-TableV-1.png",
+  "captionBoundary": {
+    "x1": 63.0050048828125,
+    "y1": 644.0016479492188,
+    "x2": 285.70159912109375,
+    "y2": 649.2260131835938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 56.64,
+    "x2": 294.24,
+    "y2": 317.28
+  },
+  "caption": "Figure IV.3: Three different feature vectors of the test set data points (music pieces), with the vectors reduced to 3D using PCA. The colors represent true genre labels of each test data point.",
+  "imageText": ["(b)", "DCNN", "Layer", "1", "(c)", "DCNN", "Layer", "2", "(a)", "Raw", "?attened", "MFCC", "vector"],
+  "renderURL": "jpeg19-FigureIV-1.png",
+  "captionBoundary": {
+    "x1": 48.96401596069336,
+    "y1": 328.21759033203125,
+    "x2": 300.02899169921875,
+    "y2": 369.3070068359375
+  }
+}]

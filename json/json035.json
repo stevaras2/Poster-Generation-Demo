@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 82.56,
+    "y1": 184.79999999999998,
+    "x2": 529.4399999999999,
+    "y2": 330.24
+  },
+  "caption": "Table 2: Logistic Regression Error Rates for each Feature Set",
+  "imageText": ["Top", "10", "Logistic", "Boosting", "Features", "(Test", "Set)", "11.57", "12.10", "11.32", "Top", "10", "Logistic", "Exponential", "Features", "11.50", "1.10", "12.30", "Top", "10", "Logistic", "Exponential", "Features", "(Test", "Set)", "10.95", "12.26", "11.32", "All", "Features", "(Test", "Set)", "12.31", "13.00", "11.32", "Top", "10", "Logistic", "Boosting", "Features", "11.71", "1.07", "12.30", "Four", "Hypotheses", "11.58", "0.00", "11.58", "All", "Features", "11.26", "2.35", "12.30", "Issues", "Principal", "Components", "12.36", "0.00", "12.36", "Two", "Factors", "12.36", "0.00", "12.36", "Principal", "Components", "11.61", "1.35", "12.36", "Warmth", "Principal", "Components", "12.36", "0.08", "12.36", "Error", "Rate", "Estimated", "Positive", "True", "Positive"],
+  "renderURL": "jpeg035-Table2-1.png",
+  "captionBoundary": {
+    "x1": 171.656005859375,
+    "y1": 177.54879760742188,
+    "x2": 440.3450927734375,
+    "y2": 182.53009033203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 494.88,
+    "x2": 427.2,
+    "y2": 681.6
+  },
+  "caption": "Table 1: Logistic Regression predicting being Independent",
+  "imageText": ["3For", "instance,", "we", "have", "only", "69", "people", "in", "Colorado", "Model", "1", "Interest", "in", "Pres.", "Election", "?1.251???", "Warmth", "to", "Congress", "?0.010???", "Warmth", "to", "US", "President", "?0.004", "Voted", "in", "National", "Elections", "?0.718???", "Social", "Class", "?0.145???", "Warmth", "to", "Supreme", "Court", "?0.001", "Gov.", "Pays", "Attention", "to", "People", "?0.278??", "Warmth", "to", "Middle", "Class", "?0.008?", "US", "Better", "O?", "Unconcerned", "with", "World", "?0.310??", "(Intercept)", "?9.090", "Num.", "obs.", "3,365", "???p", "<", "0.001,", "??p", "<", "0.01,", "?p", "<", "0.05"],
+  "renderURL": "jpeg035-Table1-1.png",
+  "captionBoundary": {
+    "x1": 177.2050018310547,
+    "y1": 476.7847595214844,
+    "x2": 431.46929931640625,
+    "y2": 481.76605224609375
+  }
+}]

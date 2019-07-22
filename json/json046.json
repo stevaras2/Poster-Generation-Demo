@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 61.44,
+    "x2": 524.16,
+    "y2": 195.35999999999999
+  },
+  "caption": "Figure 2: The number of circles predicted may not always correlate with the ground-truth number of circles.",
+  "imageText": [],
+  "renderURL": "jpeg046-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 307.2760009765625,
+    "y1": 205.6134033203125,
+    "x2": 525.5459594726562,
+    "y2": 221.4090576171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 66.72,
+    "y1": 394.56,
+    "x2": 295.2,
+    "y2": 536.16
+  },
+  "caption": "Figure 4: LDA performs better for most trials when we predict the number of circles using AICC selection, rather than using the number of ground-truth circles.",
+  "imageText": [],
+  "renderURL": "jpeg046-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 546.119384765625,
+    "x2": 290.2701416015625,
+    "y2": 571.8770751953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 61.44,
+    "x2": 301.44,
+    "y2": 211.2
+  },
+  "caption": "Figure 3: The average BER Scores across the four algorithms that were tested. BER scores are obtained by subtracting the average BER error from 1, so a higher score means better performance.",
+  "imageText": [],
+  "renderURL": "jpeg046-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 221.109375,
+    "x2": 290.26904296875,
+    "y2": 256.83001708984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 294.71999999999997,
+    "y1": 203.51999999999998,
+    "x2": 538.0799999999999,
+    "y2": 389.28
+  },
+  "caption": "Figure 1: Graphical interpretation of an ego network. The large, red node signifies the ego node. The alters are colored according to the ground-truth circles they were placed in.",
+  "imageText": [],
+  "renderURL": "jpeg046-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 307.2760009765625,
+    "y1": 399.1443786621094,
+    "x2": 525.5449829101562,
+    "y2": 424.90203857421875
+  }
+}]

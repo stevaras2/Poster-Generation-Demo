@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 52.8,
+    "x2": 512.16,
+    "y2": 233.28
+  },
+  "caption": "Fig. 1. This graph shows the accuracy of model on the withheld testing data for a variety of choices for the number of topics/size of latent feature vectors K. Given the irrelevance of many of the articles recommmended by the journal, selecting K = 100 optimized the recall of relevant articles with respect to the precision of the overall model, and was high enough to ensure user-provided recommendations were maintained with high confidence.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 244.0559844970703,
+    "x2": 558.001708984375,
+    "y2": 293.68994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 309.59999999999997,
+    "x2": 526.0799999999999,
+    "y2": 503.03999999999996
+  },
+  "caption": "Fig. 2. This graph shows the model accuracy on the training data with respect to the number of topics/size of feature vectors K when conducting the hyperparameter search. Note that for the purposes of low computation costs, parameters were treated as independent when conducting this search and were sequentially optimized although a grid search would have likely been more optimal.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 514.22900390625,
+    "x2": 558.0032348632812,
+    "y2": 563.863037109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 310.56,
+    "x2": 253.44,
+    "y2": 476.15999999999997
+  },
+  "caption": "Fig. 4. This graph shows the proportion of documents that received predicted rating rij in the intervals depicted on the x-axis for K = 25, including new predictions of articles not originally predicted by the Comparative Psychology journal model with the yellow bars. Given the sparseness of the training matrix and also the high confidence in predicting original ”user” recommendations, there are a large number of new articles predicted, especially as the confidence decreases.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 53.99998474121094,
+    "y1": 486.9560241699219,
+    "x2": 298.8016357421875,
+    "y2": 545.5560302734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 52.8,
+    "x2": 555.36,
+    "y2": 222.23999999999998
+  },
+  "caption": "Fig. 5. This table shows the rankings of the provided article recommendations, where as illustrated irrelevant articles received lower rankings than more relevant articles",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 233.00502014160156,
+    "x2": 558.0017700195312,
+    "y2": 255.739013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 52.8,
+    "x2": 253.44,
+    "y2": 218.4
+  },
+  "caption": "Fig. 3. This graph shows the proportion of documents that received predicted rating rij in the intervals depicted on the x-axis for K = 25, where a higher rating corresponds to a prediction that user i is more likely to like document j. The blue bars represent training data and the green bars represent withheld ”user” information. As the data suggest, the provided recommendations received high scores (as they should given that a user has expressed interest already) and many of the withheld documents (around 50%) occurred as a top 20 prediction for the article.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 229.46400451660156,
+    "x2": 298.80401611328125,
+    "y2": 297.0299987792969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 266.88,
+    "x2": 555.36,
+    "y2": 409.44
+  },
+  "caption": "Fig. 6. This table shows the rankings of the withheld articles, with NP indicating that the withheld article in question was not predicted as a similar article of interest by our CTR algorithm. Note that all of these withheld articles with the possible exception of 1 that were not recommended were classified as ? or irrelevant to the user.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 420.5670166015625,
+    "x2": 558.0018310546875,
+    "y2": 461.2350158691406
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 472.79999999999995,
+    "x2": 555.36,
+    "y2": 551.04
+  },
+  "caption": "Fig. 7. This table shows the rankings of the new recommendations (within the top 20) provided by our recommendation platform that were not present in the list of similar items generated by the IJCP content-based recommendation.",
+  "imageText": [],
+  "renderURL": "jpeg008-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 562.18701171875,
+    "x2": 558.001708984375,
+    "y2": 593.8880004882812
+  }
+}]

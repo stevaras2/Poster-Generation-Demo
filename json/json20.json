@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 651.84,
+    "x2": 554.4,
+    "y2": 692.16
+  },
+  "caption": "Table 1: Comparison of classification accuracy between Deep Softmax Autoencoder and baseline two layer neural network",
+  "imageText": ["Classi?cation", "Accuracies", "Train", "Set", "(6000", "Examples)", "Dev", "Set", "(1000", "Examples)", "Test", "Set", "(1000", "Examples)", "Two", "Layer", "Neural", "Network", "52.0%", "38.1%", "36.4%", "Deep", "Softmax", "Autoencoder", "94.9%", "64.1%", "65.3%"],
+  "renderURL": "jpeg20-Table1-1.png",
+  "captionBoundary": {
+    "x1": 71.69100189208984,
+    "y1": 692.841552734375,
+    "x2": 540.0000610351562,
+    "y2": 709.7529907226562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 163.68,
+    "y1": 518.88,
+    "x2": 448.32,
+    "y2": 616.3199999999999
+  },
+  "caption": "Figure 3: Deep Softmax Autoencoder accuracy curves with the epoch number on the x-axis",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 123.66000366210938,
+    "y1": 623.892578125,
+    "x2": 488.3409118652344,
+    "y2": 629.89501953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 141.6,
+    "y1": 72.0,
+    "x2": 470.4,
+    "y2": 215.04
+  },
+  "caption": "Figure 2: Model architecture of combined deep autoencoder and feed-forward multi-class classifier, referred to as a Deep Softmax Autoencoder",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 223.36953735351562,
+    "x2": 540.00439453125,
+    "y2": 240.281005859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 128.64,
+    "x2": 495.35999999999996,
+    "y2": 233.28
+  },
+  "caption": "Figure 6: Visualization of PCA on 4-dim logits as potential encodings",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 166.52499389648438,
+    "y1": 241.01455688476562,
+    "x2": 445.4777526855469,
+    "y2": 247.01702880859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 234.72,
+    "y1": 70.56,
+    "x2": 377.28,
+    "y2": 153.12
+  },
+  "caption": "Figure 1: Visualization of PCA on raw input data",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 207.83900451660156,
+    "y1": 160.77255249023438,
+    "x2": 404.16192626953125,
+    "y2": 166.7750244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 168.95999999999998,
+    "y1": 72.0,
+    "x2": 443.03999999999996,
+    "y2": 133.44
+  },
+  "caption": "Table 2: Objective metrics over a held-out test set of 1000 examples for the Deep Softmax Autoencoder",
+  "imageText": ["Jazz", "0.606", "0.627", "0.616", "Metal", "0.515", "0.554", "0.5337", "Pop", "0.670", "0.608", "0.638", "Deep", "Softmax", "Autoencoder", "Precision", "Recall", "F1", "Score", "Classical", "0.783", "0.775", "0.779"],
+  "renderURL": "jpeg20-Table2-1.png",
+  "captionBoundary": {
+    "x1": 99.13300323486328,
+    "y1": 134.80453491210938,
+    "x2": 512.5609741210938,
+    "y2": 140.8070068359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 211.67999999999998,
+    "y1": 162.72,
+    "x2": 400.32,
+    "y2": 306.24
+  },
+  "caption": "Figure 4: Confusion matrix of the Deep Softmax Autoencoder’s predictions on a test set of 1000 held-out examples",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 75.97000122070312,
+    "y1": 313.71453857421875,
+    "x2": 536.0327758789062,
+    "y2": 319.7170104980469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 542.88,
+    "x2": 495.35999999999996,
+    "y2": 649.4399999999999
+  },
+  "caption": "Figure 5: Visualization of PCA on bottleneck 64-dim encodings",
+  "imageText": [],
+  "renderURL": "jpeg20-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 178.42999267578125,
+    "y1": 656.6705322265625,
+    "x2": 433.5721130371094,
+    "y2": 662.6729736328125
+  }
+}]

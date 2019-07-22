@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 72.0,
+    "x2": 287.03999999999996,
+    "y2": 328.32
+  },
+  "caption": "Figure 1. Star rating accuracy generated with various algorithms under various dataset sizes.",
+  "imageText": [],
+  "renderURL": "jpeg032-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 343.4857482910156,
+    "x2": 286.3586120605469,
+    "y2": 359.84698486328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 250.07999999999998,
+    "x2": 535.1999999999999,
+    "y2": 305.28
+  },
+  "caption": "Table 2. Detailed n-gram configurations.",
+  "imageText": ["N-gram", "Base", "Stop-wordRemoval?", "Min", "DF", "Max", "DF", "1", "Word", "Yes", "None", "None", "5", "Char", "No", "1%", "90%", "2", "or", "3", "Word", "No", "2", "20%"],
+  "renderURL": "jpeg032-Table2-1.png",
+  "captionBoundary": {
+    "x1": 354.3819885253906,
+    "y1": 240.46188354492188,
+    "x2": 499.5927429199219,
+    "y2": 245.8641357421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 375.84,
+    "x2": 569.28,
+    "y2": 678.24
+  },
+  "caption": "Figure 3. Star-rating accuracy and polarity accuracy generated with various feature configurations.",
+  "imageText": [],
+  "renderURL": "jpeg032-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 692.6976928710938,
+    "x2": 545.108642578125,
+    "y2": 709.0590209960938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 368.64,
+    "x2": 287.03999999999996,
+    "y2": 626.4
+  },
+  "caption": "Figure 2. Polarity accuracy generated with various algorithms under various dataset sizes.",
+  "imageText": [],
+  "renderURL": "jpeg032-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 641.0366821289062,
+    "x2": 286.3586730957031,
+    "y2": 657.3980102539062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 314.4,
+    "y1": 428.15999999999997,
+    "x2": 553.4399999999999,
+    "y2": 484.79999999999995
+  },
+  "caption": "Table 1. Accuracy of the predictors trained with different class balance techniques.",
+  "imageText": ["Training", "Set", "Accuracy", "Test", "Set", "Accuracy", "No", "Balance", "0.585", "0.551", "Class", "Weight", "0.718", "0.614", "Over-sample", "0.610", "0.562", "Sub-sample", "0.720", "0.581"],
+  "renderURL": "jpeg032-Table1-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 407.43365478515625,
+    "x2": 545.1085815429688,
+    "y2": 423.794921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 423.84,
+    "x2": 287.03999999999996,
+    "y2": 678.24
+  },
+  "caption": "Figure 4. Aspect accuracy generated using an overall predictor and an aspect-specific predictor.",
+  "imageText": [],
+  "renderURL": "jpeg032-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 692.6976928710938,
+    "x2": 286.35870361328125,
+    "y2": 709.0590209960938
+  }
+}]

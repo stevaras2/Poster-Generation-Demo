@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 118.56,
+    "y1": 89.75999999999999,
+    "x2": 493.44,
+    "y2": 150.23999999999998
+  },
+  "caption": "Table 2: Comparison of mean validation set RMSE for different loss functions and transformations",
+  "imageText": ["No", "transform", "109.47", "126.20", "109.28", "110.55", "Log", "transform", "118.32", "126.07", "120.07", "106.11", "Hanning", "smoothing", "107.43", "102.96", "122.78", "119.70", "Type", "of", "smoothing", "or", "loss", "function", "used", "Huber", "sqHuber", "Mean", "squared", "error", "Mean", "absolute", "error"],
+  "renderURL": "jpeg67-Table2-1.png",
+  "captionBoundary": {
+    "x1": 107.93000030517578,
+    "y1": 80.6075210571289,
+    "x2": 503.7634582519531,
+    "y2": 86.6099853515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 236.64,
+    "x2": 487.2,
+    "y2": 358.56
+  },
+  "caption": "Figure 4: Prediction vs. ground truths for CS107 Autumn 2018.",
+  "imageText": ["(a)", "Trained", "on", "logarithmic", "scale", "of", "data", "with", "MAE", "(b)", "Hann-smoothed", "with", "sqHuber"],
+  "renderURL": "jpeg67-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 178.79299926757812,
+    "y1": 368.6305236816406,
+    "x2": 433.20782470703125,
+    "y2": 374.63299560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 174.72,
+    "y1": 340.8,
+    "x2": 437.28,
+    "y2": 461.28
+  },
+  "caption": "Figure 1: Full dataset. White: Train. Yellow: Test(Seen courses). Green: Test(Unseen courses)",
+  "imageText": [],
+  "renderURL": "jpeg67-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 116.98100280761719,
+    "y1": 468.6955261230469,
+    "x2": 495.0218811035156,
+    "y2": 474.697998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 247.67999999999998,
+    "y1": 326.88,
+    "x2": 364.32,
+    "y2": 413.28
+  },
+  "caption": "Figure 3: sqHuber Loss",
+  "imageText": [],
+  "renderURL": "jpeg67-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 258.7969970703125,
+    "y1": 421.259521484375,
+    "x2": 353.20257568359375,
+    "y2": 427.2619934082031
+  }
+}]

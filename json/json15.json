@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 315.84,
+    "x2": 529.4399999999999,
+    "y2": 427.2
+  },
+  "caption": "Figure 4. LSTM model diagram",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 351.6934814453125,
+    "y1": 434.9195861816406,
+    "x2": 504.82196044921875,
+    "y2": 442.87158203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 315.84,
+    "x2": 251.04,
+    "y2": 427.2
+  },
+  "caption": "Figure 3. Simple Neural Network Model",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 69.45670318603516,
+    "y1": 434.9195861816406,
+    "x2": 263.59417724609375,
+    "y2": 442.87158203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 45.6,
+    "y1": 513.6,
+    "x2": 305.28,
+    "y2": 606.24
+  },
+  "caption": "Figure 1. Spectrogram before/after FIR",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 70.95796966552734,
+    "y1": 618.0733032226562,
+    "x2": 262.0812072753906,
+    "y2": 626.0252685546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 327.84,
+    "y1": 639.84,
+    "x2": 530.4,
+    "y2": 703.1999999999999
+  },
+  "caption": "Figure 2. SVR model",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 377.96551513671875,
+    "y1": 711.1513061523438,
+    "x2": 478.6965026855469,
+    "y2": 719.103271484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 621.6,
+    "x2": 552.0,
+    "y2": 725.28
+  },
+  "caption": "Table 1 is adopted from Tacotron project[1]. After asking 10 Stanford students, we obtained the mean score of for these three models, respectively. Detailed mean scores rated by 10 students are shown in Table 2. We put our generated sample wav files in the web (https://www.xiaowang.me/cs229).",
+  "imageText": ["Table1:", "Mean", "Opinion", "Score", "Standard", "Rating", "5", "4", "3", "2", "1", "Label", "Excellent", "Good", "Fair", "Poor", "Bad"],
+  "renderURL": "jpeg15-Table1-1.png",
+  "captionBoundary": {
+    "x1": 306.65570068359375,
+    "y1": 514.4862670898438,
+    "x2": 550.4285888671875,
+    "y2": 621.521484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 93.6,
+    "x2": 262.08,
+    "y2": 221.28
+  },
+  "caption": "Figure 5. Seq2Seq with attention diagram",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 65.70355987548828,
+    "y1": 229.2469940185547,
+    "x2": 267.1889953613281,
+    "y2": 237.198974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.96,
+    "y1": 77.75999999999999,
+    "x2": 533.28,
+    "y2": 230.39999999999998
+  },
+  "caption": "Figure 6. Training loss after 250 iterations",
+  "imageText": [],
+  "renderURL": "jpeg15-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 324.6708068847656,
+    "y1": 238.2545623779297,
+    "x2": 531.8563232421875,
+    "y2": 246.20654296875
+  }
+}]

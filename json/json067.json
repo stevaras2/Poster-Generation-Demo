@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 74.88,
+    "x2": 561.12,
+    "y2": 247.2
+  },
+  "caption": "Figure 1. (a) Measured power draw and histogram of states for dishwasher, (b)State transition model, (c) Predicted state sequence via Viterbi algorithm",
+  "imageText": [],
+  "renderURL": "jpeg067-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 70.86599731445312,
+    "y1": 262.0757751464844,
+    "x2": 541.1355590820312,
+    "y2": 277.93902587890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 96.0,
+    "y1": 304.8,
+    "x2": 275.03999999999996,
+    "y2": 415.2
+  },
+  "caption": "Figure 2. Schematic of difference HMM",
+  "imageText": [],
+  "renderURL": "jpeg067-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 70.86599731445312,
+    "y1": 429.6307373046875,
+    "x2": 223.1871795654297,
+    "y2": 435.0329895019531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 74.88,
+    "x2": 301.44,
+    "y2": 182.4
+  },
+  "caption": "Figure 4. Clustered households via k-means ++ clustering(k = 5), Least Square error for various k values",
+  "imageText": [],
+  "renderURL": "jpeg067-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 70.86599731445312,
+    "y1": 196.56173706054688,
+    "x2": 300.0202331542969,
+    "y2": 212.42498779296875
+  }
+}]

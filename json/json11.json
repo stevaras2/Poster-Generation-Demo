@@ -1,0 +1,21 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "y1": 49.92,
+    "x2": 510.24,
+    "y2": 404.64
+  },
+  "caption": "Fig. 1: The black dashed line above represents the minimum achievable MSE based off inherent noise in metabolic data. Comparisons of training networks on data from two subjects using (a) all features, (b) step and EMG features, (c) step features only and (d) EMG features only.",
+  "imageText": ["(c)", "(d)", "(a)", "(b)"],
+  "renderURL": "jpeg11-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 414.5895080566406,
+    "x2": 557.9979858398438,
+    "y2": 444.5029602050781
+  }
+}]

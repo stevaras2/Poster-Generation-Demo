@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 572.64,
+    "x2": 547.1999999999999,
+    "y2": 719.04
+  },
+  "caption": "Table 1. Sample Number in clusters",
+  "imageText": ["Theory", "&", "Reinforcement", "14", "cannot", "tell", "Recommendation", "N/A", "24", "Physical", "Sciences", "23", "51", "Athletics", "&", "Sensing", "Devices", "18", "20", "Natural", "Language", "40", "45", "Life", "Sciences", "38", "30", "Computer", "Vision", "33", "37", "Audio", "&", "Music", "25", "24", "Finance", "&", "Commerce", "42", "48", "General", "Machine", "Learning", "42", "cannot", "tell", "Cluster", "Website", "k-means", "number", "number"],
+  "renderURL": "jpeg050-Table1-1.png",
+  "captionBoundary": {
+    "x1": 362.4820251464844,
+    "y1": 554.0220947265625,
+    "x2": 506.3438720703125,
+    "y2": 559.6530151367188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 193.92,
+    "x2": 294.24,
+    "y2": 295.2
+  },
+  "caption": "Figure 3. Weight distribution of reading list and recommend reports",
+  "imageText": ["(a)", "k-means", "(b)", "LDA"],
+  "renderURL": "jpeg050-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 56.6929931640625,
+    "y1": 299.7291259765625,
+    "x2": 298.1534118652344,
+    "y2": 317.31500244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 62.879999999999995,
+    "x2": 294.24,
+    "y2": 165.12
+  },
+  "caption": "Figure 2. Weight distribution of reading list",
+  "imageText": ["(a)", "k-means", "(b)", "LDA"],
+  "renderURL": "jpeg050-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 89.91899108886719,
+    "y1": 169.4630889892578,
+    "x2": 264.97967529296875,
+    "y2": 175.093994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 62.879999999999995,
+    "x2": 551.04,
+    "y2": 165.12
+  },
+  "caption": "Figure 1. Clusters",
+  "imageText": ["(a)", "Clusters", "in", "3d", "space", "(b)", "Clusters", "in", "2d", "space"],
+  "renderURL": "jpeg050-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 397.9949951171875,
+    "y1": 169.4630889892578,
+    "x2": 471.1083679199219,
+    "y2": 175.093994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.199999999999996,
+    "y1": 247.67999999999998,
+    "x2": 300.0,
+    "y2": 678.72
+  },
+  "caption": "Table 2. Most frequent words in each cluster",
+  "imageText": ["Table", "2,", "k", "means", "algorithm", "clusters", "narrow", "topics", "well,", "which", "usually", "comes", "with", "“landmark”", "words,", "like", "“sale”", "and", "“stock”", "to", "“Finance", "and", "Commerce”;", "“gene”", "and", "“cancer”", "to", "“Life", "Sciences”;", "“song”", "and", "“music”", "to", "“Audio", "&", "Music”,", "etc.", "K", "means", "can", "not", "perform", "well", "for", "the", "“General", "Machine", "Learning”", "and", "“Theory", "&", "Reinforcement”", "categories.", "This", "is", "because", "all", "the", "documents", "are", "CS229", "course", "projects", "and", "every", "report", "more", "or", "less", "mention", "the", "key", "words", "like", "“svm”,", "“learning”,", "“supervised”.", "When", "we", "conduct", "clustering", "on", "this", "document", "set,", "key", "words", "to", "machine", "learning", "area", "will", "become", "completely", "indiscriminative.", "What", "we", "learn", "here", "is", "that", "we", "have", "to", "provide", "a", "training", "set", "that", "contains", "different", "examples", "in", "some", "aspects", "to", "cluster", "well.", "System", "user", "review", "busi", "rate", "movi", "restaurant", "yelp", "recommend", "item", "star", "factor", "football", "borad", "defens", "statist", "injuri", "Recommend", "game", "player", "team", "season", "win", "nba", "polici", "quarterabck", "hero", "Atheletics", "&", "Sensing", "Devices", "Sensor", "activ", "packet", "jet", "traf?c", "motion", "damag", "simul", "quantum", "structur", "memori", "seismic", "acceleromet", "Physical", "Sciences", "song", "music", "audio", "sound", "chord", "note", "voic", "speaker", "genr", "melodi", "frequenc", "guitar", "Audio", "&", "Music", "image", "color", "pixel", "cnn", "face", "convolut", "layer", "descriptor", "object", "recognit", "visual", "neural", "webcam", "Computer", "Vision", "surviv", "brain", "tissu", "gene", "patient", "tumor", "cancer", "thyroid", "cell", "diseas", "diabet", "Life", "Sciences", "bill", "document", "token", "sentenc", "answer", "tf", "idf", "question", "text", "recip", "link", "code", "comment", "Natural", "Language", "Finance", "&", "Commerce", "sale", "store", "price", "stock", "market", "trade", "company", "strategy", "employee", "return"],
+  "renderURL": "jpeg050-Table2-1.png",
+  "captionBoundary": {
+    "x1": 88.00499725341797,
+    "y1": 238.9430694580078,
+    "x2": 266.6153564453125,
+    "y2": 244.573974609375
+  }
+}]

@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 505.44,
+    "x2": 291.36,
+    "y2": 579.36
+  },
+  "caption": "Table 1. Test Accuracies. Trained and tested with audio feature data + onehot genres.",
+  "imageText": ["RBF", "SVM", "0.77(±0.05)", "0.25", "(±", "0.04)", "Sig", "SVM", "0.74", "(±", "0.07)", "0.09", "(±", "0.04)", "Poly", "SVM", "0.17", "(±", "0.02)", "0.48", "(±", "0.05)", "Perceptron", "0.76", "(±", "0.05)", "0.13", "(±", "0.10)", "Scaled", "Unscaled"],
+  "renderURL": "jpeg22-Table1-1.png",
+  "captionBoundary": {
+    "x1": 51.590999603271484,
+    "y1": 582.5183715820312,
+    "x2": 295.3786926269531,
+    "y2": 597.1080322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 327.84,
+    "y1": 78.24,
+    "x2": 548.16,
+    "y2": 238.07999999999998
+  },
+  "caption": "Table 2. Results of tuned RBF-kerneled SVM on test set. A: Precision, B: Recall, C: F1-score, D: Support (number of songs in playlist).",
+  "imageText": ["Playlist", "A", "B", "C", "D", "“Swagger”", "0.65", "0.62", "0.64", "76", "“Spread", "the", "Gospel”", "1.00", "0.93", "0.96", "40", "“’90’s", "Baby", "Makers”", "0.74", "0.79", "0.76", "47", "“Tender”", "0.75", "0.36", "0.49", "33", "“Have", "a", "Great", "Day!”", "0.69", "0.83", "0.75", "100", "“Dance", "Rising”", "0.85", "0.94", "0.89", "99", "“Sad", "Vibe”", "0.71", "0.83", "0.77", "42", "“Afternoon", "Acoustic”", "0.79", "0.80", "0.80", "76", "“Kitchen", "Swagger”", "0.49", "0.43", "0.46", "75", "“All", "The", "Feels”", "0.85", "0.88", "0.86", "65", "“Jazz", "Vibes”", "0.92", "0.92", "0.92", "118", "“Celtic", "Punk”", "1.00", "0.94", "0.97", "49", "“Country", "by", "the", "...”", "0.95", "0.84", "0.89", "49"],
+  "renderURL": "jpeg22-Table2-1.png",
+  "captionBoundary": {
+    "x1": 317.739990234375,
+    "y1": 255.51837158203125,
+    "x2": 561.0704956054688,
+    "y2": 270.10699462890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 325.92,
+    "y1": 565.92,
+    "x2": 552.0,
+    "y2": 616.3199999999999
+  },
+  "caption": "Table 3. Train and test accuracy on the toy dataset for various architectures (activation functions in parentheses).",
+  "imageText": ["2", "(identity", "+", "sigmoid)", "0.91", "0.77", "1", "(sigmoid)", "0.89", "0.82", "#", "Hidden", "layers", "Train", "Test"],
+  "renderURL": "jpeg22-Table3-1.png",
+  "captionBoundary": {
+    "x1": 317.71600341796875,
+    "y1": 619.391357421875,
+    "x2": 560.1918334960938,
+    "y2": 633.9810180664062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 109.92,
+    "x2": 282.24,
+    "y2": 227.04
+  },
+  "caption": "Fig. 4. 2D node2vec data on related artists graph. D’Angelo, Tim McGraw, and BobMarley and theWailers are seed nodes, plotting 4 nearest neighbors of each. Isolated clusters demonstrate the lack of similarity in these groups.",
+  "imageText": [],
+  "renderURL": "jpeg22-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 51.805999755859375,
+    "y1": 240.37432861328125,
+    "x2": 294.9183654785156,
+    "y2": 264.926025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 124.8,
+    "x2": 555.36,
+    "y2": 171.35999999999999
+  },
+  "caption": "Fig. 1. Ratio of audio features to genre features for a sample track, x (i ) .",
+  "imageText": [],
+  "renderURL": "jpeg22-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 321.6600036621094,
+    "y1": 185.3443603515625,
+    "x2": 556.4893798828125,
+    "y2": 189.97100830078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 308.64,
+    "x2": 289.44,
+    "y2": 375.36
+  },
+  "caption": "Table 4. Train and test accuracy on various users using final neural network architecture. Jacob’s dataset is relatively separable, while Myles’ playlists are heavily overlapping in sound.",
+  "imageText": ["Jacob", "1.00", "0.90", "Kevin", "0.94", "0.78", "Miz", "0.62", "0.40", "Myles", "0.64", "0.15", "User", "Train", "Test"],
+  "renderURL": "jpeg22-Table4-1.png",
+  "captionBoundary": {
+    "x1": 51.590999603271484,
+    "y1": 377.71435546875,
+    "x2": 294.245849609375,
+    "y2": 402.2659912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 51.839999999999996,
+    "y1": 432.0,
+    "x2": 294.24,
+    "y2": 538.0799999999999
+  },
+  "caption": "Fig. 3. User playlists, mapped to two dimensions via PCA. We can see that Jacob’s set is far more separable than Myles’, even in two-dimensions",
+  "imageText": ["(a)", "Jacob’s", "playlists", "(b)", "Myles’", "playlists"],
+  "renderURL": "jpeg22-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 51.678001403808594,
+    "y1": 553.8853149414062,
+    "x2": 294.0413513183594,
+    "y2": 568.4749755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.0,
+    "y1": 77.75999999999999,
+    "x2": 286.08,
+    "y2": 245.28
+  },
+  "caption": "Fig. 2. Results of training neural network with one hidden layer (sigmoid activation) and LogSoftmax output layer, minimizing NLL loss with L2 regularization over 150 epochs.",
+  "imageText": [],
+  "renderURL": "jpeg22-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 51.805999755859375,
+    "y1": 258.6053466796875,
+    "x2": 294.04150390625,
+    "y2": 283.1569519042969
+  }
+}]

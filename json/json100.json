@@ -1,0 +1,241 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 45.6,
+    "y1": 49.92,
+    "x2": 303.36,
+    "y2": 427.2
+  },
+  "caption": "Fig. 1. Data preprocessing.",
+  "imageText": ["Approx.", "2k", "features", "Normalization", "and", "scaling", "Bigram", "extraction", "(min.", "1%", "freq)", "Concatenated", "sequence", "\"int\",", "\"!!VAR\",", "\";\",", "...,", "\"TranslationUnit\",", "\"VarDecl\",", "\"endblock\",", "...", "libclang", "C++", "parser", "AST", "traversal", "\"TranslationUnit\",", "\"VarDecl\",", "\"endblock\",", "\"FunctionDecl\",", "\"CompoundStmt\",", "\"CallExpr\",", "...", "Processed", "tokens", "\"int\",", "\"!!VAR\",", "\";\",", "\"int\",", "\"main\",", "\"(\",\")\",", "\"{\",", "\"scanf\",", "\"(\",", "\"!!STR\",", "\",\",", "\"&\",", "\"!!VAR\",", "\")\",", "\";\",", "...", "Abstract", "syntax", "tree", "TranslationUnit", "VarDecl", "n", "FunctionDecl", "main", "CompoundStmt", "CallExpr", "scanf", "...", "Raw", "tokens", "\"int\",", "\"n\",", "\";\",", "\"int\",", "\"main\",", "\"(\",\")\",", "\"{\",", "\"scanf\",", "\"(\",", "\"\\\"%d\\\"\",", "\",\",", "\"&\",", "\"n\",", "\")\",", "\";\",", "...", "Source", "code", "int", "n;", "//", "my", "var", "int", "main()", "{", "scanf(\"%d\",", "&n);", "..."],
+  "renderURL": "jpeg100-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 128.9600067138672,
+    "y1": 439.5730285644531,
+    "x2": 220.02633666992188,
+    "y2": 444.375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 365.76,
+    "y1": 600.0,
+    "x2": 509.28,
+    "y2": 686.4
+  },
+  "caption": "Fig. 2. Neural network architecture.",
+  "imageText": ["Output", "Sigmoids/", "Softmax", "ReLU", "(100)", "Input", "(~2000)"],
+  "renderURL": "jpeg100-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 377.5639953613281,
+    "y1": 698.885986328125,
+    "x2": 497.4502868652344,
+    "y2": 703.68798828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 398.88,
+    "x2": 269.28,
+    "y2": 447.35999999999996
+  },
+  "caption": "TABLE V STRONGEST INDICATORS OF HIGH SKILL LEVEL",
+  "imageText": ["ifdef", "#", "ifdef", "assert", "endif", "#", "endif", "assert", "(", "(", "...", "FunctionTemplate", "TemplateTypeParameter", "__VA_ARGS__", "FunctionTemplate", "ifdef", "LOCAL", "LOCAL"],
+  "renderURL": "jpeg100-TableV-1.png",
+  "captionBoundary": {
+    "x1": 94.03201293945312,
+    "y1": 375.40704345703125,
+    "x2": 254.96180725097656,
+    "y2": 389.176025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 501.59999999999997,
+    "x2": 274.08,
+    "y2": 550.0799999999999
+  },
+  "caption": "TABLE VI STRONGEST INDICATORS OF LOW SKILL LEVEL",
+  "imageText": ["cin", ">>", "cin", ">>", "!!VAR", ">>", "cout", "<<", "cout", "TranslationUnit", "InclusionDirective", "TranslationUnit", "std", ";", "IfStmt", "BinaryOperator", "main", "main", "("],
+  "renderURL": "jpeg100-TableVI-1.png",
+  "captionBoundary": {
+    "x1": 95.04400634765625,
+    "y1": 477.7710266113281,
+    "x2": 253.94618225097656,
+    "y2": 491.53900146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 55.68,
+    "x2": 297.59999999999997,
+    "y2": 168.48
+  },
+  "caption": "Fig. 4. Neural network test accuracy for country by actual country",
+  "imageText": ["0", "0.25", "0.5", "0.75", "1", "Iran", "Egypt", "United", "States", "Vietnam", "Ukraine", "Poland", "India", "China", "Russian", "Bangladesh"],
+  "renderURL": "jpeg100-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 63.856998443603516,
+    "y1": 188.9240264892578,
+    "x2": 285.1308288574219,
+    "y2": 193.72601318359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VIII",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 345.59999999999997,
+    "y1": 396.0,
+    "x2": 524.16,
+    "y2": 444.47999999999996
+  },
+  "caption": "TABLE VIII STRONGEST INDICATORS OF AN AMERICAN COMPETITOR",
+  "imageText": ["(", "std", "<<", "std", "ld", ">", ">", "struct", "|", "(", "::", "<", "ld", "std", "::", "|", ",", "std", "struct", ";", "template", "ClassTemplate", "endblock", "ClassTemplate", "os", "<<"],
+  "renderURL": "jpeg100-TableVIII-1.png",
+  "captionBoundary": {
+    "x1": 340.45599365234375,
+    "y1": 372.0360412597656,
+    "x2": 534.5617065429688,
+    "y2": 385.80401611328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VII",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 285.59999999999997,
+    "x2": 548.16,
+    "y2": 334.08
+  },
+  "caption": "TABLE VII STRONGEST INDICATORS OF A CHINESE COMPETITOR",
+  "imageText": ["=", "getchar", "getchar", "getchar", "(", "char", "!!VAR", ";", "char", "cstdio", "cstdio", ">", "<", "cstdio", "cstring", "cstring", ">", "<", "cstring", ">", "!!CHR", "<", "!!CHR", "{", "scanf", "UnexposedExpr", "CharacterLiteral", ">=", "!!CHR"],
+  "renderURL": "jpeg100-TableVII-1.png",
+  "captionBoundary": {
+    "x1": 346.740966796875,
+    "y1": 261.6602478027344,
+    "x2": 528.2757568359375,
+    "y2": 275.42919921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 64.8,
+    "y1": 580.8,
+    "x2": 281.28,
+    "y2": 700.3199999999999
+  },
+  "caption": "TABLE II DATA SET USED FOR RANK PREDICTION",
+  "imageText": ["Codeforces", "Rank", "Rating", "#", "in", "%", "of", "Bounds", "Data", "Data", "Legendary", "Grandmaster", "3000+", "378", "0.63%", "International", "Grandmaster", "2600-2999", "1319", "2.20%", "Grandmaster", "2400-2599", "1781", "2.97%", "International", "Master", "2300-2399", "1733", "2.89%", "Master", "2100-2299", "6375", "10.64%", "Candidate", "Master", "1900-2099", "8756", "14.61%", "Expert", "1600-1899", "17824", "29.75%", "Specialist", "1400-1599", "11445", "19.10%", "Pupil", "1200-1399", "7405", "12.36%", "Newbie", "0-1199", "2896", "4.83%", "Total", "59912", "100.00%"],
+  "renderURL": "jpeg100-TableII-1.png",
+  "captionBoundary": {
+    "x1": 107.39400482177734,
+    "y1": 556.90087890625,
+    "x2": 241.59823608398438,
+    "y2": 570.6688842773438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 48.96,
+    "y1": 252.0,
+    "x2": 300.0,
+    "y2": 289.44
+  },
+  "caption": "TABLE I DATA FORMAT FOR EACH SUBMISSION",
+  "imageText": ["Country", "Rating", "Source", "Code", "RU", "2193", "#include", "<iostream>\\n#include...", "US", "1747", "#include", "<bits/stdc++.h>\\nusing...", "·", "·", "·", "·", "·", "·", "·", "·", "·"],
+  "renderURL": "jpeg100-TableI-1.png",
+  "captionBoundary": {
+    "x1": 109.76898193359375,
+    "y1": 227.74708557128906,
+    "x2": 239.22299194335938,
+    "y2": 241.51507568359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 372.0,
+    "y1": 77.75999999999999,
+    "x2": 501.12,
+    "y2": 197.28
+  },
+  "caption": "TABLE III DATA SET USED FOR COUNTRY PREDICTION",
+  "imageText": ["Country", "#", "in", "%", "of", "Data", "Data", "India", "12331", "29.31%", "China", "8818", "20.96%", "Russia", "6761", "16.07%", "Bangladesh", "4536", "10.78%", "Vietnam", "1753", "4.17%", "Ukraine", "1694", "4.03%", "Poland", "1664", "3.95%", "Egypt", "1662", "3.95%", "United", "States", "1450", "3.45%", "Iran", "1406", "3.34%", "Total", "42075", "100.00%"],
+  "renderURL": "jpeg100-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 363.64898681640625,
+    "y1": 54.10798645019531,
+    "x2": 511.37054443359375,
+    "y2": 67.876953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 329.76,
+    "y1": 78.72,
+    "x2": 542.4,
+    "y2": 155.04
+  },
+  "caption": "TABLE IV ACCURACY FOR EACH MODEL (10-FOLD CROSS VALIDATION)",
+  "imageText": ["Train", "Test", "Train", "Test", "Random/constant", "30.0%", "30.0%", "10.0%", "10.0%", "Linear", "regresion", "69.6%", "60.1%", "N/A", "N/A", "GDA", "75.7%", "67.2%", "75.0%", "65.0%", "Logistic", "regression", "86.1%", "71.6%", "92.2%", "68.4%", "Neural", "network", "94.4%", "77.2%", "97.0%", "72.5%", "Accuracy", "(Country)", "Model", "Accuracy", "(Rank±1)"],
+  "renderURL": "jpeg100-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 333.7769775390625,
+    "y1": 54.10792541503906,
+    "x2": 541.237060546875,
+    "y2": 67.87689208984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 564.9599999999999,
+    "x2": 560.64,
+    "y2": 677.76
+  },
+  "caption": "Fig. 3. Neural network test accuracy for rank (±1) by actual rank",
+  "imageText": ["0", "0.25", "0.5", "0.75", "1", "Pupil", "Newbie", "Expert", "Specialist", "Master", "Candidate", "Master", "Grandmaster", "International", "Master", "Legendary", "Grandmaster", "International", "Grandmaster"],
+  "renderURL": "jpeg100-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 327.59698486328125,
+    "y1": 698.22900390625,
+    "x2": 547.4171142578125,
+    "y2": 703.031005859375
+  }
+}]

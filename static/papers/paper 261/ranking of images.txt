@@ -1,0 +1,14 @@
+1) jpeg261-Figure2-1.png
+2) jpeg261-TableIV-1.png
+3) jpeg261-Figure4-1.png
+4) jpeg261-TableVII-1.png
+5) jpeg261-Figure5-1.png
+6) jpeg261-TableI-1.png
+7) jpeg261-TableVI-1.png
+8) jpeg261-Figure1-1.png
+9) jpeg261-Figure3-1.png
+10) jpeg261-Figure6-1.png
+11) jpeg261-TableV-1.png
+12) jpeg261-TableII-1.png
+13) jpeg261-TableVIII-1.png
+14) jpeg261-TableIII-1.png

@@ -1,0 +1,65 @@
+first sentence
+last sentence
+the concerted action of sequence specific transcription factors onto cis regulatory elements in dna is the core mechanism through which gene regulation is accomplished in most eukaryotes 
+abstract
+mechanistic dissection of the logic of these interactions is therefore of critical importance for understanding cellular responses to external and internal stimuli in a wide variety of contexts such as organismal development and disease 
+however despite many decades of intensive studies the goal of mapping out this cis regulatory logic is still far from achieved 
+massively parallel reporter assays mpra are a potentially extremely powerful tool that can be applied for this purpose but extracting cis regulatory interactions from their output is not trivial for the human eye 
+here we apply deep learning approaches to mpra datasets to understand the individual contribution to gene expression activity of transcription factor tf motifs and the relationships between them and show that convolutional neural networks cnns are capable of learning both aspects of cisregulatory logic 
+we then build on our cnn models and develop generative adversarial networks gans that can produce novel regulatory sequences with particular gene expression activities 
+gene regulation in most eukaryotes is driven by the action of sequence specific transcription factors which recognize specific dna sequence motifs binding sites tfbss within larger cis regulatory elements cres and act in concert to affect the expression of their cognate genes 
+introduction
+these cres typically contain multiple binding sites for several different transcription factors it is the integration of the activity of all these factors within an individual cre that determines its activity and the integration of the activity of all cres that together act on a gene that drives changes in its expression 
+the complexity of cis regulatory logic is considerable each human gene is associated with on average about a dozen putative cres two technological and analytical developments hold great promise for resolving that challenge the first one is the development of mpras which allow the regulatory activity of many thousands of both endogenous as well as synthetic dna sequences to be assayed simultaneously on a large scale the second advance involves the application of deep learning techniques to discerning gene regulatory logic with the hope that machine learning will prove to be more effective where humans have not succeeded so far 
+deep learning approaches have already demonstrated remarkable performance on a wide variety of problems in genomics 6 such as predicting transcription factor binding accessible chromatin regions nucleosome positioning rna splicing outcomes and many others and they have more recently also seen initial applications to mpras involving endogenous 7 and random sequences beyond the simple development of predictive models another highly promising deep learning based approach in this area is the generation of novel dna sequences following the what i cannot create i do not understand principle the activity of which can subsequently be tested in an mpra 
+initial work in this area has shown the ability of generative deep learning methods to generate dna sequence de novo
+initial applications to mpras involving endogenous 7 and random sequences 8 have shown that deep learning frameworks are capable of capturing the underlying regulatory grammars encoded in dna sequences 
+related work
+more broadly approaches applying deep learning to dna sequence are at this point well developed in the literature 
+here we present a novel framework for end to end generation of sequences to minimize any developer defined loss function on a set of dna sequences with associated scores for some property s of interest 
+the backbone of this project is an end to end sequence generation pipeline that takes a set of sequences and some corresponding property s to learn then trains a gan that can generate sequence designed to exhibit the given property s 
+methods
+throughout this paper we examine this pipeline in the con 
+we used two mpra datasets in this study 
+mpra datasets and data preprocessing
+the first one 11 was carried out in the budding yeast saccharomyces cerevisiae and includes testing the activity of 5 000 synthetic sequences containing defined numbers of tfbss for factors known to be important in regulating gene expression upon changes in nutrient availability 
+regulatory activity was measured under a range of six different increasing amino acid concentrations 
+the sharpr mpra dataset 17 is significantly larger containing 500 000 endogenous 145 bp long human sequences that tile 15 000 putative regulatory regions at 5 bp intervals 
+these sequences were assayed in two different human cell lines the erythroid k562 and the hepatic hepg2 with two different promoters dna sequences were one hot encoded following established practices 
+we also log transformed the regression targets so we could use the relu non linearity as the output of our regression networks 
+the first part of the pipeline involves building a neural net that learns to predict the effects on gene expression of a given set of regulatory sequences 
+predicting gene expression
+we largely follow cnn based approaches previously developed to tackle such tasks because it is not a priori clear exactly which architecture is best suited for a given prediction task we implement a random search training 100 models with random numbers of convolutional and dense layers randomly sized kernels and random numbers of hidden units
+the deeplift framework 9 was used to assign feature importance scores of mpra prediction models to each nucleotide in input sequences 
+feature importance scoring
+to de novo generate regulatory sequences we start with the improved wasserstein gan 14 18 the core architecture of which we modify for our purposes in two ways 
+generating regulatory sequence
+first in addition to the random seed z we also input a continuous vector t with the same shape as the output from the regressor trained in the previous phase 
+the vector t is drawn from a normal distribution fit to the distribution of expressions in the mpra dataset being trained on 
+the generator outputs a one hot encoded sequence vector making use of the gumbel softmax activation function to remain differentiable 
+the discriminator is trained in classic wgan gp fashion feeding examples from both real sequences from the mpra dataset and generated ones from the generator 
+formally this loss is calculated as 1 where we update the discriminator by maximizing with respect to l d 
+for the generator we feed the generated sequence into both the discriminator and the regressor from the previous phase and the generator is updated by minimizing with respect to a weighted average of the two losses 
+these losses are weighed with a tunable term as follows 3 5 
+evaluating generated sequences
+the simplest way to evaluate generated sequences is to check whether they contain tfbss known to be relevant for gene regulation under the conditions tested in the training set 
+motif counts
+to do this we can simply count frequency of each motif or motif combination in generated sequences and compare it to either the real data or randomly generated sequence 
+the best method for evaluating the quality of a generated distribution given an actual distribution is to do calculate the loo leave one out accuracy of a 1 nn algorithm in a learned feature space 
+1 nearest neighbor
+to ensure that the generated sequences are not simply overfitting the regressor network used to train the generator we use an ensemble of several of the next best regressors produced by the random architecture search to predict the expression of the generated sequences and compare it to the initial target expression t 
+predicting expression
+throughout training we used the default hyperparameters for the adam optimizer the default hyperparameters for the wgan gp algorithm 
+hyperparameters
+after random architecture search on the yeast mpra dataset we arrived at an optimal model with a test mse of 0 0266 to confirm that the neural net s models are not just learning to predict expression but are also identifying the key regulatory sequences driving we applied deeplift featue importance scoring 9 on the input sequences 
+yeast mpra
+the relevant motif indeed tend to be the most highly scoring sequences with two examples shown in
+the sharpr mpra dataset is significantly more difficult to predict than the yeast mpras as it exhibits poor reproducibility between the experimental replicates 7 and the between replicate correlation sets an upper limit on the achievable model performance 
+sharpr mpra
+we are still in the process of identifying the optimal performing models for this dataset 
+here we show using the yeast mpra dataset that first our cnn regression architecture is capable of learning regulatory activity from mpra datasets and even surpasses the baseline established by van dijk using physical models and second that our proposed modified wgan deep learning architecture is capable of de novo generating dna sequence using the measured regulatory activities of known sequences as input 
+conclusions
+as the sharpr mpra dataset is much larger and more difficult to predict we are still in the process of finding the optimal approach for predicting and generating sequences on it and this is where the next steps for this project are primarily oriented towards 
+training wgan with various values and annealing the parameter over time are among the strategies we are focusing on next additionally the suite of evaluation tools we have built can be applied to any generated dna sequences and comparing against existing sequence generation approaches
+optimal real value generated 1 nn loo 0 5 0 89 predicted expression mse 0 0 64324 5176 ation based on the promise such approaches have shown in the language generation literature 
+metric

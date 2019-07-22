@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 96.96,
+    "y1": 255.84,
+    "x2": 238.07999999999998,
+    "y2": 371.03999999999996
+  },
+  "caption": "Fig. 8: The results of K=2, Ward Hierarchical Clustering using Euclidean Distance on the PCA squiggle set. We then projected the clusters onto the first two linear discriminant functions.",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 379.27252197265625,
+    "x2": 280.798583984375,
+    "y2": 421.1409606933594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 61.919999999999995,
+    "y1": 70.56,
+    "x2": 273.12,
+    "y2": 191.04
+  },
+  "caption": "Fig. 7: The presence of 4 clusters may imply the existence of 4 distinct sources, which may be further investigated by the SETI team.",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 198.72354125976562,
+    "x2": 280.798583984375,
+    "y2": 228.63702392578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 360.0,
+    "x2": 289.44,
+    "y2": 463.2
+  },
+  "caption": "Fig. 4: Significance Features from the Different Models",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 470.9945373535156,
+    "x2": 280.79864501953125,
+    "y2": 476.99700927734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 337.91999999999996,
+    "y1": 142.56,
+    "x2": 479.03999999999996,
+    "y2": 269.28
+  },
+  "caption": "Fig. 5: Silhouette Scores from Different Methods",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 307.6400146484375,
+    "y1": 276.94952392578125,
+    "x2": 509.5618591308594,
+    "y2": 282.9519958496094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 70.56,
+    "x2": 289.44,
+    "y2": 167.04
+  },
+  "caption": "Fig. 3: The ROC curve of the logistic family smooths out at the top bend, resulting in a higher AUC metric. The ROC curve of tree-based methods is less smooth.",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 174.71749877929688,
+    "x2": 280.7986145019531,
+    "y2": 204.6300048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 294.71999999999997,
+    "y1": 391.68,
+    "x2": 530.4,
+    "y2": 472.32
+  },
+  "caption": "Fig. 6: Principal Components Visualizations for Different Clustering Schemes",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 295.20001220703125,
+    "y1": 479.3485412597656,
+    "x2": 521.9984741210938,
+    "y2": 497.3059997558594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 294.71999999999997,
+    "y1": 176.64,
+    "x2": 399.36,
+    "y2": 320.15999999999997
+  },
+  "caption": "Fig. 1: Squiggle Spectrograms",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 295.20001220703125,
+    "y1": 327.8825378417969,
+    "x2": 398.1634216308594,
+    "y2": 345.8399963378906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 427.68,
+    "y1": 178.56,
+    "x2": 523.1999999999999,
+    "y2": 320.15999999999997
+  },
+  "caption": "Fig. 2: Non-Squiggle Spectrograms",
+  "imageText": [],
+  "renderURL": "jpeg027-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 428.4010009765625,
+    "y1": 327.8825378417969,
+    "x2": 521.9995727539062,
+    "y2": 345.8399963378906
+  }
+}]

@@ -1,0 +1,361 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 325.92,
+    "y1": 333.59999999999997,
+    "x2": 424.32,
+    "y2": 452.15999999999997
+  },
+  "caption": "Figure 1: Real MNIST digits sample.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 319.5000305175781,
+    "y1": 455.7265319824219,
+    "x2": 430.38372802734375,
+    "y2": 472.68798828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 446.88,
+    "y1": 332.64,
+    "x2": 548.16,
+    "y2": 454.08
+  },
+  "caption": "Figure 2: Synthetic MNIST digits sample, manually labelled.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 447.1190490722656,
+    "y1": 455.7265319824219,
+    "x2": 558.0028076171875,
+    "y2": 483.64697265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 53.76,
+    "x2": 565.4399999999999,
+    "y2": 208.32
+  },
+  "caption": "Figure 4: Convolutional NN 4-layer classifier architecture.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 324.1310119628906,
+    "y1": 218.63253784179688,
+    "x2": 556.78759765625,
+    "y2": 224.635009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 228.0,
+    "x2": 566.4,
+    "y2": 358.08
+  },
+  "caption": "Figure 5: Convolutional NN 5-layer classifier architecture.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 324.1310119628906,
+    "y1": 368.6515197753906,
+    "x2": 556.78759765625,
+    "y2": 374.65399169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 326.88,
+    "x2": 261.12,
+    "y2": 427.2
+  },
+  "caption": "Figure 3: Fully-connected NN classifier architecture.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 69.81900024414062,
+    "y1": 438.4305419921875,
+    "x2": 280.099609375,
+    "y2": 444.4330139160156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 403.68,
+    "y1": 396.96,
+    "x2": 477.12,
+    "y2": 458.4
+  },
+  "caption": "Figure 6: Particular of the architecture of the modified GANs discriminator used as semi-supervised classifier showing the two output layers.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 469.4115295410156,
+    "x2": 561.421875,
+    "y2": 497.33197021484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 53.76,
+    "x2": 279.36,
+    "y2": 120.47999999999999
+  },
+  "caption": "Table 1: Supervised learning classifier results on test accuracy for real and synthetic images",
+  "imageText": ["FCNN", "0.978", "0.957", "0.979", "0.969", "0.983", "0.962", "CNN-4l", "0.986", "0.971", "0.989", "0.970", "0.989", "0.974", "CNN-5l", "0.994", "0.972", "0.988", "0.973", "0.985", "0.969", "Real", "Syn", "Real", "Syn", "Real", "Syn", "Lin", "softmax", "0.919", "0.923", "0.921", "0.921", "0.916", "0.913", "Models", "Epochs", "5", "50", "100"],
+  "renderURL": "jpeg102-Table1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 131.35549926757812,
+    "x2": 292.5046691894531,
+    "y2": 148.31695556640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 90.72,
+    "y1": 163.68,
+    "x2": 255.35999999999999,
+    "y2": 232.32
+  },
+  "caption": "Table 2: Supervised learning classifier results on train accuracy on real images",
+  "imageText": ["CNN-4l", "0.995", "1.000", "1.000", "CNN-5l", "0.996", "0.998", "0.998", "Lin", "softmax", "0.923", "0.936", "0.937", "FCNN", "0.989", "0.999", "0.999", "Models", "Epochs", "5", "50", "100"],
+  "renderURL": "jpeg102-Table2-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 248.19955444335938,
+    "x2": 292.504638671875,
+    "y2": 265.1600341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 226.56,
+    "x2": 510.24,
+    "y2": 331.2
+  },
+  "caption": "Figure 8: CNN-5l model loss",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 382.3420104980469,
+    "y1": 342.613525390625,
+    "x2": 498.57562255859375,
+    "y2": 348.6159973144531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 77.75999999999999,
+    "x2": 510.24,
+    "y2": 183.35999999999999
+  },
+  "caption": "Figure 7: CNN-5l model accuracy",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 372.468994140625,
+    "y1": 193.67251586914062,
+    "x2": 508.448486328125,
+    "y2": 199.67498779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 336.0,
+    "y1": 350.88,
+    "x2": 541.4399999999999,
+    "y2": 398.4
+  },
+  "caption": "Table 4: Semi-supervised modified GANs results on train accuracy for label classification of real images",
+  "imageText": ["Semi-gan", "(all", "labeled)", "0.995", "1.000", "1.000", "Semi-gan", "(half/half)", "0.974", "1.000", "1.000", "Models", "Epochs", "5", "50", "100"],
+  "renderURL": "jpeg102-Table4-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 413.8355407714844,
+    "x2": 558.004638671875,
+    "y2": 430.7969970703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 53.76,
+    "x2": 510.24,
+    "y2": 158.4
+  },
+  "caption": "Figure 10: Confusion matrix for CNN-5l over synthetic images of test dataset",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 169.31253051757812,
+    "x2": 561.421630859375,
+    "y2": 186.27398681640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 336.0,
+    "y1": 244.79999999999998,
+    "x2": 541.4399999999999,
+    "y2": 291.36
+  },
+  "caption": "Table 3: Semi-supervised modified GANs results on test accuracy for label classification of real images",
+  "imageText": ["Semi-gan", "(all", "labeled)", "0.973", "0.979", "0.977", "Semi-gan", "(half/half)", "0.857", "0.932", "0.933", "Models", "Epochs", "5", "50", "100"],
+  "renderURL": "jpeg102-Table3-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 306.9035339355469,
+    "x2": 558.004638671875,
+    "y2": 323.864990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 495.84,
+    "x2": 245.28,
+    "y2": 601.4399999999999
+  },
+  "caption": "Figure 9: Confusion matrix for CNN-5l over real images of test dataset",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 612.0045776367188,
+    "x2": 295.9217834472656,
+    "y2": 628.9660034179688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 264.96,
+    "x2": 245.28,
+    "y2": 437.28
+  },
+  "caption": "Figure 11: Saliency attention for CNN-5l on a real digit sample.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 439.257568359375,
+    "x2": 280.79852294921875,
+    "y2": 456.2190246582031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "14",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 466.56,
+    "x2": 510.24,
+    "y2": 643.1999999999999
+  },
+  "caption": "Figure 14: Class Activation attention Class Activation Attention for CNN-5l on a synthetic digit sample.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure14-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 644.7145385742188,
+    "x2": 546.2985229492188,
+    "y2": 661.676025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "12",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 106.56,
+    "y1": 488.64,
+    "x2": 243.35999999999999,
+    "y2": 659.04
+  },
+  "caption": "Figure 12: Saliency attention for CNN-5l on a synthetic digit sample.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure12-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 661.5625610351562,
+    "x2": 280.7984924316406,
+    "y2": 678.5230102539062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "13",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 264.96,
+    "x2": 510.24,
+    "y2": 436.32
+  },
+  "caption": "Figure 13: Class Activation attention Class Activation Attention for CNN-5l on a real digit sample.",
+  "imageText": [],
+  "renderURL": "jpeg102-Figure13-1.png",
+  "captionBoundary": {
+    "x1": 319.5,
+    "y1": 438.6455383300781,
+    "x2": 546.2985229492188,
+    "y2": 455.60699462890625
+  }
+}]

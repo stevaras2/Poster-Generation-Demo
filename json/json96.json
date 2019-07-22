@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 150.72,
+    "y1": 209.76,
+    "x2": 461.28,
+    "y2": 315.36
+  },
+  "caption": "Figure 2: Comparative histograms of predicted and actual prices for the top 3 models: SVR, KMC, and NN",
+  "imageText": [],
+  "renderURL": "jpeg96-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 113.26100158691406,
+    "y1": 322.8707580566406,
+    "x2": 498.7445373535156,
+    "y2": 328.27301025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 205.92,
+    "y1": 193.92,
+    "x2": 406.08,
+    "y2": 386.4
+  },
+  "caption": "Figure 1: Geographic spread of price labels (with filtered outliers)",
+  "imageText": [],
+  "renderURL": "jpeg96-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 187.57400512695312,
+    "y1": 394.10675048828125,
+    "x2": 424.4302062988281,
+    "y2": 399.5090026855469
+  }
+}]

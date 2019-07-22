@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 76.8,
+    "y1": 72.96,
+    "x2": 535.1999999999999,
+    "y2": 180.0
+  },
+  "caption": "Figure 5. DQN algorithm generates Pacing Rate and Remaining Budget",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 147.0,
+    "y1": 186.692626953125,
+    "x2": 464.2742614746094,
+    "y2": 193.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 360.0,
+    "x2": 522.24,
+    "y2": 461.28
+  },
+  "caption": "Figure 6. DDPG algorithm generates Pacing Rate and Remaining Budget",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 144.0,
+    "y1": 467.192626953125,
+    "x2": 467.9415283203125,
+    "y2": 474.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 589.92,
+    "x2": 525.12,
+    "y2": 691.1999999999999
+  },
+  "caption": "Figure 4. DQN algorithm generates Pacing Rate and Remaining Budget",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 147.0,
+    "y1": 697.442626953125,
+    "x2": 464.2742614746094,
+    "y2": 704.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 96.96,
+    "y1": 317.76,
+    "x2": 514.0799999999999,
+    "y2": 409.44
+  },
+  "caption": "Figure 3. Smoothed Baseline algorithm generates Pacing Rate and Remaining Budget",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 114.75,
+    "y1": 415.442626953125,
+    "x2": 496.50103759765625,
+    "y2": 422.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 210.72,
+    "x2": 512.16,
+    "y2": 300.0
+  },
+  "caption": "Figure 2. Baseline algorithm generates Pacing Rate and Remaining Budget",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 138.75,
+    "y1": 306.692626953125,
+    "x2": 472.1556396484375,
+    "y2": 313.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 150.72,
+    "y1": 489.59999999999997,
+    "x2": 460.32,
+    "y2": 616.3199999999999
+  },
+  "caption": "Figure 1. Real-time Bidding in Advertising",
+  "imageText": [],
+  "renderURL": "jpeg256-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 213.75,
+    "y1": 622.442626953125,
+    "x2": 397.6537170410156,
+    "y2": 629.25
+  }
+}]

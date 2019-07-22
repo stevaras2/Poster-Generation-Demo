@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "11",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 87.84,
+    "y1": 72.0,
+    "x2": 790.0799999999999,
+    "y2": 561.12
+  },
+  "caption": "Figure 11: t-SNE visualization of found clusters",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 342.9219970703125,
+    "y1": 573.20361328125,
+    "x2": 535.0111694335938,
+    "y2": 579.2060546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 61.44,
+    "x2": 299.03999999999996,
+    "y2": 204.95999999999998
+  },
+  "caption": "Figure 1: Number of applications received by Lending Club per year",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 220.45455932617188,
+    "x2": 290.27056884765625,
+    "y2": 238.41204833984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 168.48,
+    "x2": 530.4,
+    "y2": 368.15999999999997
+  },
+  "caption": "Figure 3: Regression Task: Processed Lending Club Data for 2015",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 307.2760009765625,
+    "y1": 383.7885437011719,
+    "x2": 525.5465698242188,
+    "y2": 401.7460021972656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 515.52,
+    "x2": 295.2,
+    "y2": 659.04
+  },
+  "caption": "Figure 2: Classification Task: Processed Lending Club Data for 2015",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 674.3365478515625,
+    "x2": 290.27056884765625,
+    "y2": 692.2950439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 362.88,
+    "x2": 295.2,
+    "y2": 489.12
+  },
+  "caption": "Figure 4: F-measure values by algorithm and year",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 81.48799896240234,
+    "y1": 504.4505310058594,
+    "x2": 280.77984619140625,
+    "y2": 510.4530029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.28,
+    "y1": 84.47999999999999,
+    "x2": 530.4,
+    "y2": 151.2
+  },
+  "caption": "Figure 5: Confusion matrices for year 2009",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 329.7799987792969,
+    "y1": 166.02554321289062,
+    "x2": 503.03948974609375,
+    "y2": 172.02801513671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 557.76,
+    "x2": 530.4,
+    "y2": 730.0799999999999
+  },
+  "caption": "Figure 6: Debt-To-Income of Approved Applications 2007-2015",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 307.2760009765625,
+    "y1": 744.8685913085938,
+    "x2": 525.5464477539062,
+    "y2": 762.8260498046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 61.44,
+    "x2": 530.4,
+    "y2": 204.95999999999998
+  },
+  "caption": "Figure 8: Most significant features by year",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 331.4389953613281,
+    "y1": 220.45553588867188,
+    "x2": 501.3809814453125,
+    "y2": 226.4580078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 61.44,
+    "x2": 295.2,
+    "y2": 233.28
+  },
+  "caption": "Figure 7: Loan Amounts of Approved Applications 2007-2015",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 248.80557250976562,
+    "x2": 290.2704772949219,
+    "y2": 266.7630615234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 524.64,
+    "x2": 530.4,
+    "y2": 668.16
+  },
+  "caption": "Figure 9: Degree of variance captured by PCA",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 323.489013671875,
+    "y1": 683.1175537109375,
+    "x2": 509.3313293457031,
+    "y2": 689.1199951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 61.44,
+    "x2": 295.2,
+    "y2": 204.95999999999998
+  },
+  "caption": "Figure 10: Regression results for Interest Rate.",
+  "imageText": [],
+  "renderURL": "jpeg039-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 87.80000305175781,
+    "y1": 220.45156860351562,
+    "x2": 274.46929931640625,
+    "y2": 226.45404052734375
+  }
+}]

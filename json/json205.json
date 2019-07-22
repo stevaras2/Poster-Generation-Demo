@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.16,
+    "y1": 502.56,
+    "x2": 487.2,
+    "y2": 637.92
+  },
+  "caption": "Figure 3: Boxplots of test set errors. Each model has roughly the same distribution of errors.",
+  "imageText": ["Absolute", "difference", "boxplots", "for", "test", "data", "ce", "so", "lu", "te", "d", "iff", "er", "en", "e", "ab", "Av", "er", "ag", "5", "4", "3", "2", "1", "Lin", "Reg", "Lin", "Reg", "(aug", "data)", "MARS", "MARS", "(aug", "data)", "Learning", "model", "MSE", "boxplots", "for", "test", "data", "r", "ua", "re", "e", "rro", "n", "sq", "M", "ea", "35", "30", "25", "20", "15", "10", "5", "0", "Lin", "Reg", "Lin", "Reg", "(aug", "data)", "MARS", "MARS", "(aug", "data)", "Learning", "model"],
+  "renderURL": "jpeg205-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 102.18099975585938,
+    "y1": 654.9287109375,
+    "x2": 509.8174133300781,
+    "y2": 659.9100341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 130.56,
+    "y1": 63.839999999999996,
+    "x2": 470.4,
+    "y2": 235.2
+  },
+  "caption": "Figure 2: Examples of test set optimized configurations and their corresponding predicted configurations.",
+  "imageText": ["--", "ti", "o", "n", "s", "c", "o", "n", "fi", "g", "u", "ra", "te", "d", "d", "ic", "P", "re", "ti", "o", "n", "s", "c", "o", "n", "fi", "g", "u", "ra", "e", "d", "m", "iz", "p", "ti", "O"],
+  "renderURL": "jpeg205-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 75.90399932861328,
+    "y1": 246.65170288085938,
+    "x2": 536.0912475585938,
+    "y2": 251.63299560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 130.56,
+    "y1": 102.72,
+    "x2": 481.44,
+    "y2": 149.28
+  },
+  "caption": "Figure 4: Example of configuration with overlapping transistors that is scaled until constraints are satisfied.",
+  "imageText": ["Predicted", "configuration", "Scaled", "configuration", "31", "2", "1", "3", "2"],
+  "renderURL": "jpeg205-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 70.28600311279297,
+    "y1": 163.54470825195312,
+    "x2": 541.7120361328125,
+    "y2": 168.5260009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 216.95999999999998,
+    "y1": 566.88,
+    "x2": 395.03999999999996,
+    "y2": 645.12
+  },
+  "caption": "Figure 5: Predicted configuration of value iteration by discretization method",
+  "imageText": [],
+  "renderURL": "jpeg205-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 138.61300659179688,
+    "y1": 657.3696899414062,
+    "x2": 473.385009765625,
+    "y2": 662.3510131835938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 131.51999999999998,
+    "y1": 477.59999999999997,
+    "x2": 480.47999999999996,
+    "y2": 589.92
+  },
+  "caption": "Figure 1: Representation of two ‘particles’ of possible configurations leading to a more compact design.",
+  "imageText": ["y1", "3", "H", "1", "2", "x1", "W", "3", "h1", "2", "2", "1", "1", "3", "w1"],
+  "renderURL": "jpeg205-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 80.7750015258789,
+    "y1": 604.3206787109375,
+    "x2": 531.2247924804688,
+    "y2": 609.302001953125
+  }
+}]

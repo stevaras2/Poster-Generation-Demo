@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 201.6,
+    "y1": 445.91999999999996,
+    "x2": 410.4,
+    "y2": 486.24
+  },
+  "caption": "Figure 2: Recurrent neural network to process captions.",
+  "imageText": [],
+  "renderURL": "jpeg59-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 195.07699584960938,
+    "y1": 497.6115417480469,
+    "x2": 416.9241027832031,
+    "y2": 503.614013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 109.92,
+    "y1": 202.56,
+    "x2": 460.32,
+    "y2": 318.24
+  },
+  "caption": "Figure 4: Query: [dog]",
+  "imageText": ["GRU-CNN", "Baseline"],
+  "renderURL": "jpeg59-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 259.88299560546875,
+    "y1": 184.33737182617188,
+    "x2": 352.1168518066406,
+    "y2": 190.33984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 109.92,
+    "y1": 361.91999999999996,
+    "x2": 460.32,
+    "y2": 478.08
+  },
+  "caption": "Figure 5: Query: [a guy riding a bike next to a train]",
+  "imageText": ["GRU-CNN", "Baseline"],
+  "renderURL": "jpeg59-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 196.55593872070312,
+    "y1": 343.6805419921875,
+    "x2": 415.44439697265625,
+    "y2": 349.6830139160156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 183.84,
+    "y1": 333.59999999999997,
+    "x2": 428.15999999999997,
+    "y2": 414.24
+  },
+  "caption": "Figure 1: 19-layer VGG network, without last fully-connected layer",
+  "imageText": [],
+  "renderURL": "jpeg59-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 170.66400146484375,
+    "y1": 425.12152099609375,
+    "x2": 441.3377380371094,
+    "y2": 431.1239929199219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 186.72,
+    "y1": 346.56,
+    "x2": 425.28,
+    "y2": 416.15999999999997
+  },
+  "caption": "Table 1: Recall@K (in %) results on the test set. For GloVe, we use it as initialization of the word vectors, and fine-tune it in the training.",
+  "imageText": ["GRU", "+", "GloVe", "37.0", "86.8", "7.3", "LSTM", "+", "GloVe", "35.4", "86.2", "7.5", "Baseline", "+", "Weight", "19.8", "65.5", "10.5", "GRU", "(Vendrov", "et", "al.,", "2015)", "36.3", "85.8", "7.6", "Method", "R@1", "R@10", "Mean", "r", "Baseline", "10.3", "17.1", "176.1"],
+  "renderURL": "jpeg59-Table1-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 427.2765197753906,
+    "x2": 504.003173828125,
+    "y2": 444.23797607421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 141.6,
+    "y1": 545.76,
+    "x2": 470.4,
+    "y2": 660.0
+  },
+  "caption": "Figure 3: R@10 measure variation throughout the epochs (left), and its dependency on the length of the caption (right).",
+  "imageText": [],
+  "renderURL": "jpeg59-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 671.560546875,
+    "x2": 504.0030822753906,
+    "y2": 688.52197265625
+  }
+}]

@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 62.879999999999995,
+    "x2": 524.16,
+    "y2": 105.11999999999999
+  },
+  "caption": "Table 2: Comparison of Performance Metrics Across All Models",
+  "imageText": ["KNN", "0.84", "0.8419", "0.75", "0.5", "0.78", "0.65", "Bootstrap", "Random", "Forest", "0.99", "0.9890", "0.9265", "0.81", "0.91", "0.95", "Models", "5-fold", "CV", "Accuracy", "Train", "Accuracy", "Test", "Accuracy", "Precision", "Recall", "Speci?city", "Logistic", "Regression", "0.88", "0.9044", "0.8088", "0.77", "0.89", "0.81"],
+  "renderURL": "jpeg155-Table2-1.png",
+  "captionBoundary": {
+    "x1": 157.08599853515625,
+    "y1": 116.47725677490234,
+    "x2": 440.4605712890625,
+    "y2": 123.04998779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "y1": 144.48,
+    "x2": 261.12,
+    "y2": 286.08
+  },
+  "caption": "Figure 6: Bootstrap Random Forest Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 302.2762756347656,
+    "x2": 290.269287109375,
+    "y2": 322.39801025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 294.71999999999997,
+    "x2": 278.4,
+    "y2": 454.08
+  },
+  "caption": "Figure 1: This Kaplan-Meier Survival Analysis curve shows some correlation between complete response and likelihood of survival, with p-value = 0.12.",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 466.89727783203125,
+    "x2": 290.2693176269531,
+    "y2": 503.3580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 62.879999999999995,
+    "x2": 527.04,
+    "y2": 126.24
+  },
+  "caption": "Table 1: Re-encoding of Labels Example for SITE 02",
+  "imageText": ["...", "...", "...", "Tumor", "Location", "Origin", "Description", "After", "Re-Encoding", "C500", "Nipple", "(areolar)", "0", "C501", "Central", "portion", "of", "breast", "(subareolar)", "area", "w", "1", "cm", "around", "areolar", "complex", "1", "C502", "Upper", "inner", "quadrant", "(UIQ)", "of", "breast", "2", "C503", "Lower", "inner", "quadrant", "(LIQ)", "of", "breast", "3"],
+  "renderURL": "jpeg155-Table1-1.png",
+  "captionBoundary": {
+    "x1": 181.031005859375,
+    "y1": 137.2002716064453,
+    "x2": 416.5121154785156,
+    "y2": 143.77301025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 418.56,
+    "x2": 496.32,
+    "y2": 560.16
+  },
+  "caption": "Figure 4: KNN Confusion Matrix (K=3)",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 328.0140075683594,
+    "y1": 576.042236328125,
+    "x2": 504.80682373046875,
+    "y2": 582.614990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 597.6,
+    "x2": 516.0,
+    "y2": 738.24
+  },
+  "caption": "Figure 5: Random Forest Depth vs. Score",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 325.0849914550781,
+    "y1": 754.03125,
+    "x2": 507.7359924316406,
+    "y2": 760.60400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 240.48,
+    "x2": 516.0,
+    "y2": 381.12
+  },
+  "caption": "Figure 3: KNN K vs. Accuracy",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 347.6719970703125,
+    "y1": 397.0522766113281,
+    "x2": 485.1484375,
+    "y2": 403.625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "y1": 453.59999999999997,
+    "x2": 261.12,
+    "y2": 595.1999999999999
+  },
+  "caption": "Figure 2: Logistic Regression Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg155-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 75.88999938964844,
+    "y1": 610.9952392578125,
+    "x2": 286.3809814453125,
+    "y2": 617.5679931640625
+  }
+}]

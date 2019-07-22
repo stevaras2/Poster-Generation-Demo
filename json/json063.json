@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 432.0,
+    "x2": 289.44,
+    "y2": 562.0799999999999
+  },
+  "caption": "Fig. 4. T-SNE — z-index of x-axis=3.29",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 98.16899871826172,
+    "y1": 576.0986938476562,
+    "x2": 254.6326904296875,
+    "y2": 581.5009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 322.56,
+    "y1": 53.76,
+    "x2": 549.12,
+    "y2": 183.35999999999999
+  },
+  "caption": "Fig. 5. Diffusion Maps — z-index of x-axis=-7.08",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 339.56201171875,
+    "y1": 197.16574096679688,
+    "x2": 531.6401977539062,
+    "y2": 202.5679931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 256.8,
+    "x2": 289.44,
+    "y2": 387.36
+  },
+  "caption": "Fig. 3. LLE — z-index of x-axis=-6.91",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 100.74600219726562,
+    "y1": 401.1477355957031,
+    "x2": 252.05401611328125,
+    "y2": 406.54998779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 82.56,
+    "x2": 289.44,
+    "y2": 212.16
+  },
+  "caption": "Fig. 2. PCA — z-index of x-axis=7.18",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 101.73699951171875,
+    "y1": 226.19674682617188,
+    "x2": 251.06344604492188,
+    "y2": 231.5989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 100.8,
+    "y1": 408.96,
+    "x2": 252.0,
+    "y2": 672.0
+  },
+  "caption": "Fig. 8. PCA Test Data Mapped Using Own PCA Parameters — Divided by X0 dimension median",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 686.4407348632812,
+    "x2": 298.80059814453125,
+    "y2": 702.3040161132812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 53.76,
+    "x2": 305.28,
+    "y2": 206.4
+  },
+  "caption": "Fig. 1. DNA Microarray",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 128.3719940185547,
+    "y1": 220.04776000976562,
+    "x2": 224.42901611328125,
+    "y2": 225.45001220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 508.79999999999995,
+    "x2": 305.28,
+    "y2": 689.28
+  },
+  "caption": "Fig. 6. Kaplan-Meier — All Training Data",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 94.27799987792969,
+    "y1": 702.7877197265625,
+    "x2": 258.5245361328125,
+    "y2": 708.1900024414062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 360.0,
+    "y1": 53.76,
+    "x2": 511.2,
+    "y2": 317.28
+  },
+  "caption": "Fig. 7. PCA Train Data — Divided by X0 dimension median",
+  "imageText": [],
+  "renderURL": "jpeg063-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 318.9119873046875,
+    "y1": 331.0887451171875,
+    "x2": 552.2896728515625,
+    "y2": 336.4909973144531
+  }
+}]

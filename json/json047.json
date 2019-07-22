@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 80.64,
+    "x2": 542.4,
+    "y2": 280.32
+  },
+  "caption": "Figure 1. A zoomed-out view of the road network that we trained and tested our Q-learning algorithm on. The small yellow dots are cars traveling through the network, while the larger yellow rectangles represent induction loop sensors",
+  "imageText": [],
+  "renderURL": "jpeg047-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 307.44000244140625,
+    "y1": 294.7907409667969,
+    "x2": 541.4449462890625,
+    "y2": 333.0699462890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 80.64,
+    "x2": 542.4,
+    "y2": 244.32
+  },
+  "caption": "Figure 3. Average amount of CO2 emissions per distance traveled by cars in the simulation.",
+  "imageText": [],
+  "renderURL": "jpeg047-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 307.44000244140625,
+    "y1": 258.6397399902344,
+    "x2": 541.4387817382812,
+    "y2": 275.0009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 313.92,
+    "x2": 290.4,
+    "y2": 480.47999999999996
+  },
+  "caption": "Figure 2. Average number of cars waiting at stoplights during the simulation. All differences are highly significant.",
+  "imageText": [],
+  "renderURL": "jpeg047-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 55.439998626708984,
+    "y1": 494.7547607421875,
+    "x2": 289.44482421875,
+    "y2": 511.11602783203125
+  }
+}]

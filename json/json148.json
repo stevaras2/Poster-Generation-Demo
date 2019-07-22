@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 75.84,
+    "y1": 136.79999999999998,
+    "x2": 277.44,
+    "y2": 267.36
+  },
+  "caption": "Fig. 3. Overview of methods used.",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 116.65599822998047,
+    "y1": 279.9210205078125,
+    "x2": 236.14370727539062,
+    "y2": 284.7229919433594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 53.76,
+    "x2": 314.4,
+    "y2": 227.04
+  },
+  "caption": "Fig. 6. Logistic regression with L2 regularization ë = 0.01 run on the DNA methylation + PCA dataset varying the number of the first principal components used. Overfitting occurs with increasing principal components.",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 239.93202209472656,
+    "x2": 298.8016357421875,
+    "y2": 262.6669921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 276.96,
+    "x2": 297.12,
+    "y2": 426.24
+  },
+  "caption": "Fig. 7. Peformance of GDA on the Immune Cell Fractions dataset with Box-Cox Transformations with varied values of ë compared to the baseline GDA on this dataset with no transformation. The MLE estimate of lambda is ?9.",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 53.99998474121094,
+    "y1": 438.7660217285156,
+    "x2": 298.8016357421875,
+    "y2": 470.4670104980469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 513.6,
+    "x2": 302.4,
+    "y2": 668.16
+  },
+  "caption": "Fig. 1. Explained Variance vs Principal Components Index Plot (70% Variance obtained by using 176 Principal Components, out of which 141 had more than 0.1% variance",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 681.0349731445312,
+    "x2": 298.8016052246094,
+    "y2": 703.77001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 338.88,
+    "y1": 53.76,
+    "x2": 533.28,
+    "y2": 364.32
+  },
+  "caption": "Fig. 2. A) The first three principal components with PCA applied to the DNA methylation dataset, B) The first three principal components with PCA applied after MethylMix",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 376.1850280761719,
+    "x2": 558.0032348632812,
+    "y2": 398.9200134277344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 62.879999999999995,
+    "x2": 544.3199999999999,
+    "y2": 460.32
+  },
+  "caption": "Fig. 4. Best performance of each model on A) the DNA Methylation data with PCA, B) The DNA Methylation data with MethylMix, C) The Immune Cell Fractions data",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 472.6770324707031,
+    "x2": 558.0035400390625,
+    "y2": 495.4120178222656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 319.68,
+    "y1": 523.68,
+    "x2": 551.04,
+    "y2": 697.4399999999999
+  },
+  "caption": "Fig. 5. Confusion matrix of logistic regression on the DNA methylation + PCA dataset using the first 59 principal components.",
+  "imageText": [],
+  "renderURL": "jpeg148-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 710.1069946289062,
+    "x2": 558.0017700195312,
+    "y2": 723.8759765625
+  }
+}]

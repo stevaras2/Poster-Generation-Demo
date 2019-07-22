@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 301.92,
+    "y1": 673.4399999999999,
+    "x2": 503.03999999999996,
+    "y2": 717.12
+  },
+  "caption": "Table 1: Dataset Head",
+  "imageText": [],
+  "renderURL": "jpeg041-Table1-1.png",
+  "captionBoundary": {
+    "x1": 363.4520263671875,
+    "y1": 664.4337158203125,
+    "x2": 462.44329833984375,
+    "y2": 669.4150390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 126.72,
+    "y1": 399.84,
+    "x2": 238.07999999999998,
+    "y2": 480.96
+  },
+  "caption": "Figure 1: Decision tree classifier",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 112.3270034790039,
+    "y1": 494.19073486328125,
+    "x2": 252.33436584472656,
+    "y2": 499.1720275878906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 325.92,
+    "y1": 392.64,
+    "x2": 500.15999999999997,
+    "y2": 556.3199999999999
+  },
+  "caption": "Figure 2: Hybrid Model Flow Chart",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 334.0350036621094,
+    "y1": 568.345703125,
+    "x2": 491.8553466796875,
+    "y2": 573.3270263671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 132.96,
+    "y1": 71.52,
+    "x2": 462.24,
+    "y2": 537.6
+  },
+  "caption": "Figure 7: User Profile Detection (package user is the user booked the hotel with the flight)",
+  "imageText": ["(g)", "Density", "of", "not-package", "users", "(e)", "Density", "of", "not-mobile", "users", "(f)", "Density", "of", "package", "users", "(c)", "Density", "of", "users", "city", "(d)", "Density", "of", "mobile", "users", "(a)", "Density", "of", "users", "country", "(b)", "Density", "of", "users", "region"],
+  "renderURL": "jpeg041-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 99.38099670410156,
+    "y1": 552.0836791992188,
+    "x2": 495.898193359375,
+    "y2": 557.0650024414062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 516.48,
+    "x2": 513.12,
+    "y2": 560.16
+  },
+  "caption": "Table 2: Accuracy Comparison",
+  "imageText": ["Accuracy", "Hybrid", "Model", "Content-based", "Train", "61.29%", "61.29%", "Test", "53.62%", "51.03%"],
+  "renderURL": "jpeg041-Table2-1.png",
+  "captionBoundary": {
+    "x1": 345.22894287109375,
+    "y1": 506.3776550292969,
+    "x2": 480.6673278808594,
+    "y2": 511.35894775390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 109.92,
+    "y1": 362.88,
+    "x2": 255.35999999999999,
+    "y2": 463.2
+  },
+  "caption": "Figure 4: SVD converge",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 129.85800170898438,
+    "y1": 476.1717224121094,
+    "x2": 234.7930450439453,
+    "y2": 481.15301513671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 109.92,
+    "y1": 500.64,
+    "x2": 255.35999999999999,
+    "y2": 600.9599999999999
+  },
+  "caption": "Figure 5: SVD rank and RMSE",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 112.97699737548828,
+    "y1": 613.7546997070312,
+    "x2": 251.67527770996094,
+    "y2": 618.7360229492188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 109.92,
+    "y1": 225.6,
+    "x2": 255.35999999999999,
+    "y2": 325.92
+  },
+  "caption": "Figure 3: Cosine threshold",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 124.1989974975586,
+    "y1": 338.5897216796875,
+    "x2": 240.45748901367188,
+    "y2": 343.5710144042969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 306.71999999999997,
+    "y1": 71.52,
+    "x2": 519.36,
+    "y2": 144.0
+  },
+  "caption": "Figure 6: Clustered utility matrix (left) and utility matrix after SVD",
+  "imageText": [],
+  "renderURL": "jpeg041-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 302.6189880371094,
+    "y1": 156.62673950195312,
+    "x2": 523.2754516601562,
+    "y2": 173.56402587890625
+  }
+}]

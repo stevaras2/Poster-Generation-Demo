@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 562.56,
+    "x2": 561.12,
+    "y2": 664.3199999999999
+  },
+  "caption": "Fig. 1: A. Schematic of the checkerboard discrimination task design. B. Location of PMd on a macaque brain. 101 units were recorded from this region.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 316.0169982910156,
+    "y1": 681.7608032226562,
+    "x2": 562.0961303710938,
+    "y2": 706.1690063476562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 321.59999999999997,
+    "x2": 561.12,
+    "y2": 412.32
+  },
+  "caption": "Fig. 2: A.Firing rates from 10 example units during a left and right reach. Data is aligned to movement onset (blue line). B. Average firing rate across all neurons during the reach (t = 0 refers to movement onset). Dotted lines refer to right reaches. C. PCA performed on the neural activity. Black circles correspond to -300 ms prior to movement onset, while the blue circles correspond to movement onset.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 316.0169677734375,
+    "y1": 419.5137939453125,
+    "x2": 562.0950927734375,
+    "y2": 483.7730712890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 221.76,
+    "x2": 299.03999999999996,
+    "y2": 410.4
+  },
+  "caption": "Fig. 3: A. Accuracy of three classifiers that aim to classify the motor choice from neural activity prior to, during, and after movement onset. B. Accuracy of three classifiers that aim to classify the overrepresented color from neural activity prior to, during, and after stimulus presentation. Bold lines are the mean; shaded area represents the standard error across the 10 folds.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 53.99998474121094,
+    "y1": 428.623779296875,
+    "x2": 300.0810546875,
+    "y2": 492.883056640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 79.67999999999999,
+    "x2": 299.03999999999996,
+    "y2": 195.35999999999999
+  },
+  "caption": "Fig. 4: Projection of neural data onto the first two components (PC1 and PC2) for different time points across the trial for the first data fold. Each point corresponds to a single trial; the color of the point corresponds to the reach direction. Note that the color labels switch because the sign is non-identifiable.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 211.30677795410156,
+    "x2": 300.0801696777344,
+    "y2": 265.60296630859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 66.72,
+    "y1": 304.8,
+    "x2": 281.28,
+    "y2": 491.03999999999996
+  },
+  "caption": "Fig. 5: Classifier accuracy for kernelized SVM and logistic regression with inputs projected onto the first 5, 10, or 101 principal components for A) short reaction times and B) slow reaction times. Pale colors correspond to decoders that use PCA-processed inputs.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 496.6168212890625,
+    "x2": 300.0783386230469,
+    "y2": 540.9500732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 230.88,
+    "x2": 561.12,
+    "y2": 360.0
+  },
+  "caption": "Fig. 6: The histograms show the decoding accuracy of logistic regression classifiers that use single neuron activity (101 classifiers in total). The plots on the right show the decoding accuracy of a decoding using 1 neuron, 2 neurons, 3 neurons, etc. The numbers correspond to how the neurons are labeled in the data (labeled in chronological order). The dotted line gives the mean decoding accuracy when using full population data.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 316.0169982910156,
+    "y1": 377.92877197265625,
+    "x2": 562.098876953125,
+    "y2": 452.15106201171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 273.59999999999997,
+    "x2": 299.03999999999996,
+    "y2": 444.47999999999996
+  },
+  "caption": "Fig. 7: Observing how well decoders from specific times perform across other times in the trial. Grey: movement onset decoder; red: pre-movement movement decoder; dark purple/green: optimal decoder (from Figure 3A). Top row: results for short RT; bottom row: results for long RT.",
+  "imageText": [],
+  "renderURL": "jpeg011-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 461.5347900390625,
+    "x2": 300.0792236328125,
+    "y2": 505.8680419921875
+  }
+}]

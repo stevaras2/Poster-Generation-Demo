@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 115.67999999999999,
+    "x2": 496.32,
+    "y2": 264.0
+  },
+  "caption": "Figure 2: Inceptionv3 Network",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 250.0800018310547,
+    "y1": 267.7749938964844,
+    "x2": 362.0230407714844,
+    "y2": 271.8699951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 120.0,
+    "y1": 69.6,
+    "x2": 470.4,
+    "y2": 207.35999999999999
+  },
+  "caption": "Figure 5: Misclassified images",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 250.0800018310547,
+    "y1": 210.15499877929688,
+    "x2": 361.9241027832031,
+    "y2": 214.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 252.95999999999998,
+    "x2": 496.32,
+    "y2": 343.2
+  },
+  "caption": "Figure 6: Image Augmentation",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 249.0800018310547,
+    "y1": 346.5849914550781,
+    "x2": 363.1289978027344,
+    "y2": 350.67999267578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 136.79999999999998,
+    "y1": 474.71999999999997,
+    "x2": 491.03999999999996,
+    "y2": 560.16
+  },
+  "caption": "Figure 7: Inceptionv3 minus top layer, no data augmentation (left), data augmentation with shift & flip (middle), data augmentation with flip and zoom (right)",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 151.4499969482422,
+    "y1": 572.0250244140625,
+    "x2": 482.0299987792969,
+    "y2": 586.5499877929688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 140.16,
+    "x2": 527.04,
+    "y2": 214.07999999999998
+  },
+  "caption": "Figure 1: Example Structural Images",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 238.47999572753906,
+    "y1": 217.15499877929688,
+    "x2": 373.4970397949219,
+    "y2": 221.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 129.6,
+    "y1": 69.6,
+    "x2": 483.35999999999996,
+    "y2": 94.08
+  },
+  "caption": "Table 1: Summary of Accuracies for Classification Models",
+  "imageText": ["SVM", "based", "on", "activations", "from", "layer", "288", "of", "InceptionV3", "95.0%", "75.0%"],
+  "renderURL": "jpeg39-Table1-1.png",
+  "captionBoundary": {
+    "x1": 200.0500030517578,
+    "y1": 97.93502807617188,
+    "x2": 411.7721862792969,
+    "y2": 102.030029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 110.88,
+    "y1": 401.76,
+    "x2": 503.03999999999996,
+    "y2": 565.4399999999999
+  },
+  "caption": "Figure 4: Learning curve for retrained Inceptionv3 (left) and example Tensorboard plot (right)",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 134.25,
+    "y1": 568.425048828125,
+    "x2": 477.947021484375,
+    "y2": 572.52001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 228.0,
+    "y1": 158.88,
+    "x2": 405.12,
+    "y2": 290.4
+  },
+  "caption": "Figure 3: Tuning of the  parameter for Inceptionv3-SVM",
+  "imageText": [],
+  "renderURL": "jpeg39-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 202.0800018310547,
+    "y1": 294.17498779296875,
+    "x2": 410.2090148925781,
+    "y2": 298.2699890136719
+  }
+}]

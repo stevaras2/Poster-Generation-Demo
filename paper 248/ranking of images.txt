@@ -1,0 +1,9 @@
+1) jpeg248-FigureI-1.png
+2) jpeg248-FigureIII-1.png
+3) jpeg248-FigureVIII-1.png
+4) jpeg248-FigureII-1.png
+5) jpeg248-FigureIV-1.png
+6) jpeg248-FigureVII-1.png
+7) jpeg248-FigureIX-1.png
+8) jpeg248-FigureV-1.png
+9) jpeg248-FigureVI-1.png

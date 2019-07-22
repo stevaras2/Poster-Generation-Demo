@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 482.88,
+    "x2": 289.44,
+    "y2": 549.12
+  },
+  "caption": "Figure 2. Variational Auto Encoder",
+  "imageText": [],
+  "renderURL": "jpeg184-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 95.8798828125,
+    "y1": 564.0369873046875,
+    "x2": 211.14622497558594,
+    "y2": 569.280029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 509.28,
+    "y1": 75.84,
+    "x2": 538.0799999999999,
+    "y2": 210.23999999999998
+  },
+  "caption": "Figure 4. tSNE for GloVe: GloVe makes use of feature space more efficiently, grasping more subtle meanings of words",
+  "imageText": [],
+  "renderURL": "jpeg184-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 293.3999938964844,
+    "y1": 187.71697998046875,
+    "x2": 509.73431396484375,
+    "y2": 202.08001708984375
+  }
+}]

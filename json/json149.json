@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 340.8,
+    "y1": 78.72,
+    "x2": 514.0799999999999,
+    "y2": 195.35999999999999
+  },
+  "caption": "Figure 4. Periodical change of learning rate with respect to number of epochs",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 210.83680725097656,
+    "x2": 540.0018920898438,
+    "y2": 226.27899169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 315.84,
+    "y1": 314.88,
+    "x2": 539.04,
+    "y2": 422.4
+  },
+  "caption": "Figure 5. Network structure of combining Resnet34 with our own designed features.",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 438.2587890625,
+    "x2": 540.0047607421875,
+    "y2": 453.70098876953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 374.88,
+    "x2": 279.36,
+    "y2": 625.4399999999999
+  },
+  "caption": "Figure 6. Macro-F1 on train and validation datasets. The top figure is for the Resnet34 model without our own features, and the highest validation-F1 it reached is 0.4189 at 40th epoch. The bottom figure is for the Resnet34 model with our own features concatenated, and the highest validation-F1 it reached is 0.4110 at 49th epoch.",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 641.2777709960938,
+    "x2": 297.0010070800781,
+    "y2": 711.5150146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "y1": 348.0,
+    "x2": 311.03999999999996,
+    "y2": 406.08
+  },
+  "caption": "Figure 1. The left 4 images are the input of one sample. Each image has a resolution of 512x512.",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 421.94281005859375,
+    "x2": 296.99676513671875,
+    "y2": 437.385009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 585.6,
+    "x2": 541.4399999999999,
+    "y2": 689.28
+  },
+  "caption": "Figure 3. Representative images of how we segment proteins.",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 704.9967651367188,
+    "x2": 540.004638671875,
+    "y2": 720.4390258789062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 304.8,
+    "x2": 541.4399999999999,
+    "y2": 408.47999999999996
+  },
+  "caption": "Figure 2. Representative images of how we find relative proportion of protein in nucleus.",
+  "imageText": [],
+  "renderURL": "jpeg149-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 423.80877685546875,
+    "x2": 540.0048217773438,
+    "y2": 439.2509765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 96.0,
+    "x2": 596.16,
+    "y2": 198.23999999999998
+  },
+  "caption": "Table 1. Performance of different models, evaluated by Kaggle leaderboard(LB) score, which is the macro-F1 on test set. Loss is evaluated by binary cross-entropy loss.",
+  "imageText": ["pre-trained", "weight", "for", "4th", "layer", "+", "threshold", "+", "additional", "dropout", "40", "0.0700", "0.0790", "0.394", "pre-trained", "weight", "for", "4th", "layer", "+", "threshold", "+", "TTA", "40", "0.0509", "0.0799", "0.401", "40", "0.0499", "0.0795", "0.403", "pre-trained", "weight", "for", "4th", "layer", "+", "threshold", "40", "0.0502", "0.0795", "0.387", "zero", "initial", "weight", "for", "4th", "layer", "+", "threshold", "(baseline)", "20", "0.0716", "0.0808", "0.366", "Model", "Epoch", "Train", "Loss", "Val", "Loss", "Kaggle", "LB", "zero", "initial", "weight", "for", "4th", "layer"],
+  "renderURL": "jpeg149-Table1-1.png",
+  "captionBoundary": {
+    "x1": 315.0,
+    "y1": 215.0637969970703,
+    "x2": 540.0018920898438,
+    "y2": 252.4239501953125
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 265.44,
+    "x2": 583.1999999999999,
+    "y2": 462.24
+  },
+  "caption": "Figure 4: GAM smoothed over dependency plots for solar and wind energy",
+  "imageText": [],
+  "renderURL": "jpeg217-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 147.5469970703125,
+    "y1": 469.70355224609375,
+    "x2": 447.72998046875,
+    "y2": 475.7060241699219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 35.519999999999996,
+    "x2": 583.1999999999999,
+    "y2": 231.35999999999999
+  },
+  "caption": "Figure 3: GAM original dependency plots for solar and wind energy",
+  "imageText": [],
+  "renderURL": "jpeg217-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 161.3699951171875,
+    "y1": 238.98953247070312,
+    "x2": 433.90679931640625,
+    "y2": 244.99200439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 150.72,
+    "y1": 70.56,
+    "x2": 444.47999999999996,
+    "y2": 217.92
+  },
+  "caption": "Figure 1: Sample weather timeseries data [7]",
+  "imageText": [],
+  "renderURL": "jpeg217-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 207.97000122070312,
+    "y1": 228.88851928710938,
+    "x2": 387.3067626953125,
+    "y2": 234.8909912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 99.84,
+    "y1": 228.48,
+    "x2": 496.32,
+    "y2": 363.36
+  },
+  "caption": "Table 1: RMSE errors",
+  "imageText": ["GAM", "0.121", "0.369", "940000", "11081", "0.047", "0.0725", "25000", "2000", "SVM", "0.218", "0.385", "940000", "11081", "0.049", "0.074", "25000", "2000", "Neural", "Network", "0.121", "0.371", "940000", "11081", "0.082", "0.533", "25000", "2000", "Linear", "regression", "0.129", "0.395", "940000", "11081", "0.11", "0.163", "25000", "2000", "Training", "error", "(RMSE)", "Test", "error", "(RMSE)", "Training", "set", "size", "Test", "set", "size", "Training", "set", "size", "Test", "set", "size", "(RMSE)", "Test", "error", "(RMSE)", "Model", "Training", "error", "Solar", "energy", "Wind", "energy"],
+  "renderURL": "jpeg217-Table1-1.png",
+  "captionBoundary": {
+    "x1": 253.60299682617188,
+    "y1": 373.88153076171875,
+    "x2": 341.6723937988281,
+    "y2": 379.8840026855469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 145.92,
+    "y1": 35.519999999999996,
+    "x2": 449.28,
+    "y2": 198.23999999999998
+  },
+  "caption": "Figure 2: Neural Network Architecture",
+  "imageText": [],
+  "renderURL": "jpeg217-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 219.64599609375,
+    "y1": 209.23355102539062,
+    "x2": 375.63031005859375,
+    "y2": 215.23602294921875
+  }
+}]

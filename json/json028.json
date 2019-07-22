@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 186.72,
+    "y1": 487.68,
+    "x2": 422.4,
+    "y2": 663.36
+  },
+  "caption": "Figure 1 2152 decline curves used to learn to predict production in the future  ",
+  "imageText": ["shale", "gas", "production", "decline", "-", "all", "curves", ")", "da", "y", "cf", "/", "(", "m", "ra", "te", "io", "n", "du", "ct", "p", "ro", "18000", "16000", "14000", "12000", "10000", "8000", "6000", "4000", "2000", "0", "0", "20", "40", "60", "80", "100", "120", "140", "month", "\t\r  "],
+  "renderURL": "jpeg028-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 129.64889526367188,
+    "y1": 669.56591796875,
+    "x2": 467.51580810546875,
+    "y2": 676.0800170898438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 93.6,
+    "y1": 279.36,
+    "x2": 503.03999999999996,
+    "y2": 508.32
+  },
+  "caption": "Figure 2 High-productivity, good fit (upper left); High-productivity, bad fit (upper right);",
+  "imageText": ["\t\r  ", "\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 102.69819641113281,
+    "y1": 513.5658569335938,
+    "x2": 492.23870849609375,
+    "y2": 520.0799560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 201.12,
+    "x2": 498.71999999999997,
+    "y2": 430.08
+  },
+  "caption": "Figure 4 Predicted curves with l (known months) increasing for a bad fitting; error vs. l  ",
+  "imageText": ["Well", "1923", "-", "LWLR", "r", "E", "rro", "liz", "ed", "nd", "ar", "S", "ta", "1.2", "1", "0.8", "0.6", "0.4", "0.2", "0", "20", "40", "60", "80", "100", "120", "Month", "Well", "1923", "-", "LWLR", "known", "curve", "predicted", "curve", "test", "curve", "ay", ")", "cf", "/", "d", "(", "m", "ra", "te", "io", "n", "du", "ct", "p", "ro", "5000", "4000", "3000", "2000", "1000", "0", "20", "40", "60", "80", "100", "120", "month", "Well", "1923", "-", "LWLR", "known", "curve", "predicted", "curve", "test", "curve", "ay", ")", "cf", "/", "d", "(", "m", "ra", "te", "io", "n", "du", "ct", "p", "ro", "5000", "4000", "3000", "2000", "1000", "0", "20", "40", "60", "80", "100", "120", "month", "Well", "1923", "-", "LWLR", "known", "curve", "predicted", "curve", "test", "curve", "ay", ")", "cf", "/", "d", "(", "m", "ra", "te", "io", "n", "du", "ct", "p", "ro", "5000", "4000", "3000", "2000", "1000", "0", "20", "40", "60", "80", "100", "120", "month", "\t\r  ", "\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 108.3989028930664,
+    "y1": 435.56591796875,
+    "x2": 488.8714904785156,
+    "y2": 442.0799865722656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 99.84,
+    "y1": 73.92,
+    "x2": 503.03999999999996,
+    "y2": 180.48
+  },
+  "caption": "Figure 3 Predicted curves with l (known months) increasing for a good fitting; error vs. l  ",
+  "imageText": ["Well", "1219", "-", "LWLR", "r", "E", "rro", "liz", "ed", "nd", "ar", "S", "ta", "1.2", "1", "0.8", "0.6", "0.4", "0.2", "0", "20", "40", "60", "80", "100", "120", "Month", "Well", "1219", "-", "LWLR", "known", "curve", "predicted", "curve", "test", "curve", "ay", ")", "cf", "/", "d", "(", "m", "ra", "te", "io", "n", "du", "ct", "p", "ro", "5000", "4000", "3000", "2000", "1000", "0", "20", "40", "60", "80", "100", "120", "month", "\t\r  "],
+  "renderURL": "jpeg028-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 106.17970275878906,
+    "y1": 185.9658966064453,
+    "x2": 491.1526184082031,
+    "y2": 192.47998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 151.68,
+    "x2": 504.0,
+    "y2": 366.24
+  },
+  "caption": "Figure 5 High-productivity, good fit (upper left); High-productivity, bad fit (upper right);",
+  "imageText": ["\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 102.69819641113281,
+    "y1": 373.1659240722656,
+    "x2": 492.2442626953125,
+    "y2": 379.67999267578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 633.6,
+    "x2": 503.03999999999996,
+    "y2": 742.0799999999999
+  },
+  "caption": "Figure 6 Decline curves in the high productivity wells (left) and the low productivity wells (right)  ",
+  "imageText": ["\t\r  ", "\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 90.47899627685547,
+    "y1": 747.5658569335938,
+    "x2": 506.7913818359375,
+    "y2": 754.0799560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 434.88,
+    "x2": 503.03999999999996,
+    "y2": 570.72
+  },
+  "caption": "Figure 8 Errors of three methods calculated from Leave-One-Out cross validation  ",
+  "imageText": ["\t\r  ", "l?", "Discussion\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 118.97270202636719,
+    "y1": 575.9658813476562,
+    "x2": 478.2976989746094,
+    "y2": 582.47998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 104.64,
+    "x2": 507.35999999999996,
+    "y2": 321.12
+  },
+  "caption": "Figure 7 High-productivity, good fit (upper left); High-productivity, bad fit (upper right);",
+  "imageText": ["\t\r  ", "\t\r  "],
+  "renderURL": "jpeg028-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 102.69819641113281,
+    "y1": 326.3659362792969,
+    "x2": 492.2442626953125,
+    "y2": 332.8800048828125
+  }
+}]

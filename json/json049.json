@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 126.72,
+    "x2": 572.16,
+    "y2": 192.0
+  },
+  "caption": "TABLE I: Parameter Tuning for Selected Models",
+  "imageText": ["Random", "Forests", "number", "of", "estimators,", "number", "of", "features", "K-Nearest", "Neighbors", "number", "of", "neighbors", "Support", "Vector", "Machine", "kernel", "function,", "cost,", "gamma", "Decision", "Trees", "number", "of", "trees", "Classi?cation", "Model", "Tuning", "Parameters", "Lasso,", "Ridge", "Based", "Methods", "regularizing/penalizing", "term"],
+  "renderURL": "jpeg049-TableI-1.png",
+  "captionBoundary": {
+    "x1": 336.5009765625,
+    "y1": 109.3565444946289,
+    "x2": 538.5126342773438,
+    "y2": 115.3590087890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 325.92,
+    "x2": 546.24,
+    "y2": 478.08
+  },
+  "caption": "Fig. 2: 10-fold CV showing Multinomial Deviance of Lasso Fit",
+  "imageText": [],
+  "renderURL": "jpeg049-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 485.99151611328125,
+    "x2": 563.0354614257812,
+    "y2": 503.948974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 237.6,
+    "x2": 560.16,
+    "y2": 543.36
+  },
+  "caption": "TABLE IV: Sample data dictionary",
+  "imageText": ["Code", "De?nition", "1", "EE201", "Analyst", "recommendation", "(1-5)", "2", "PX", "LAST", "Last", "Price", "3", "BS035", "(BS)", "Total", "assets", "4", "BS081", "(BS)", "Shares", "outstanding", "5", "BS010", "(BS)", "Cash", "and", "cash", "equivalents", "6", "BS047", "(BS)", "Short-term", "debt", "7", "BS051", "(BS)", "Long-term", "debt", "8", "BS050", "(BS)", "Total", "current", "liabilities", "9", "BS061", "(BS)", "Preferred", "equity", "10", "BS032", "(BS)", "Net", "PP&E", "11", "BS015", "(BS)", "Total", "current", "assets", "12", "BS013", "(BS)", "Inventories", "13", "BS012", "(BS)", "Accounts", "and", "notes", "receivable", "14", "BS036", "(BS)", "Accounts", "payable", "15", "BS011", "(BS)", "Short-term", "investments", "16", "BS029", "(BS)", "Long-term", "investments", "and", "receivables", "17", "BS161", "(BS)", "Goodwill", "18", "BS138", "(BS)", "Total", "intangible", "assets", "19", "BS030", "(BS)", "Gross", "PP&E", "20", "BS065", "(BS)", "Retained", "earnings", "and", "other", "equities", "21", "BS052", "(BS)", "Other", "long-term", "22", "BS014", "(BS)", "Other", "current", "assets", "23", "BS033", "(BS)", "Other", "long-term", "assets", "liabilities", "24", "BS048", "(BS)", "Other", "short-term", "liabilities", "25", "BS064", "(BS)", "Share", "capital", "&", "APAC", "26", "BS091", "(BS)", "Number", "of", "treasury", "shares", "27", "BS080", "(BS)", "Pension", "and", "post-retirement", "obligations", "28", "BS031", "(BS)", "Accumulated", "depreciation", "29", "BS180", "(BS)", "Rental", "expense", "30", "BS187", "(BS)", "Future", "minimum", "operating", "lease", "obligations", "31", "BS089", "(BS)", "Intangible", "and", "other", "assets", "32", "BS210", "(BS)", "Total", "capital", "leases"],
+  "renderURL": "jpeg049-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 364.864990234375,
+    "y1": 220.53964233398438,
+    "x2": 510.1495361328125,
+    "y2": 226.5421142578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 65.75999999999999,
+    "y1": 162.72,
+    "x2": 283.2,
+    "y2": 337.44
+  },
+  "caption": "Fig. 3: Performance Comparison of Different Classifiers for Analyst Recommendations",
+  "imageText": [],
+  "renderURL": "jpeg049-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 344.9345397949219,
+    "x2": 300.0215148925781,
+    "y2": 362.8919982910156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 62.879999999999995,
+    "y1": 621.6,
+    "x2": 286.08,
+    "y2": 714.24
+  },
+  "caption": "TABLE III: Results for Regression: Stock Price Prediction",
+  "imageText": ["Boosting", "27.0", "Bagging", "28.5", "Random", "Forests", "27.1", "Support", "Vector", "Regression", "29.7", "K-Nearest", "Neighbors", "(5)", "39.3", "Linear", "Regression", "with", "Ridge", "38.1", "Linear", "Regression", "with", "Lasso", "33.1", "Regression", "Model", "Test", "Root", "Mean", "Squared", "Error", "Linear", "Regression", "41.1"],
+  "renderURL": "jpeg049-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 54.3549919128418,
+    "y1": 604.3594360351562,
+    "x2": 294.6329345703125,
+    "y2": 610.3618774414062
+  }
+}]

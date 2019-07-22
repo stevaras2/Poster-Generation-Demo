@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "II",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 600.9599999999999,
+    "x2": 553.4399999999999,
+    "y2": 696.0
+  },
+  "caption": "TABLE II METRIC: GRADUATION RATE",
+  "imageText": ["Extra", "Trees", "Reg.", "0.89", "0.65", "Bagged", "XGBoost", "0.93", "0.64", "Ridge", "0.76", "0.47", "Lasso", "0.65", "0.54", "SVM", "0.99", "-0.03", "Random", "Forest", "0.93", "0.55", "XGBoost", "0.98", "0.52", "AdaBoost", "0.87", "0.52", "Model", "Training", "Set", "R2", "Score", "Test", "Set", "R2", "Score", "Least-Squares", "0.77", "0.46"],
+  "renderURL": "jpeg175-TableII-1.png",
+  "captionBoundary": {
+    "x1": 385.9630126953125,
+    "y1": 566.2249755859375,
+    "x2": 485.2436218261719,
+    "y2": 582.9819946289062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 444.0,
+    "x2": 553.4399999999999,
+    "y2": 539.04
+  },
+  "caption": "TABLE I METRIC: % OF STUDENTS PROGRESSING TO COLLEGE",
+  "imageText": ["Extra", "Trees", "Reg.", "0.87", "0.68", "Bagged", "XGBoost", "0.93", "0.68", "Ridge", "0.74", "0.58", "Lasso", "0.65", "0.57", "SVM", "0.99", "-0.03", "Random", "Forest", "0.94", "0.62", "XGBoost", "0.98", "0.63", "AdaBoost", "0.87", "0.56", "Model", "Training", "Set", "R2", "Score", "Test", "Set", "R2", "Score", "Least-Squares", "0.76", "0.44"],
+  "renderURL": "jpeg175-TableI-1.png",
+  "captionBoundary": {
+    "x1": 342.9970703125,
+    "y1": 409.9411315917969,
+    "x2": 528.2101440429688,
+    "y2": 426.6990966796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 315.84,
+    "y1": 53.76,
+    "x2": 555.36,
+    "y2": 208.32
+  },
+  "caption": "Fig. 1. Principal Components Analysis using % Attending College output metric",
+  "imageText": [],
+  "renderURL": "jpeg175-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 217.5189971923828,
+    "x2": 558.0016479492188,
+    "y2": 231.2879638671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 691.68,
+    "x2": 297.12,
+    "y2": 730.0799999999999
+  },
+  "caption": "TABLE V CAUSAL INFERENCE DERIVATIVE APPROXIMATIONS FOR A SINGLE SCHOOL",
+  "imageText": ["%", "Grad.", "%", "Att.", "College", "MCAS", "SAT", "Avg.", "$/pupil", "1.94", "-2.07", "2.65", "-27.57", "Avg.", "Salary", "2.62", "0.44", "2.67", "-16.52", "Avg.", "Class", "Size", "1.26", "1.43", "1.69", "-2.07"],
+  "renderURL": "jpeg175-TableV-1.png",
+  "captionBoundary": {
+    "x1": 62.568939208984375,
+    "y1": 645.660888671875,
+    "x2": 290.23870849609375,
+    "y2": 674.3739013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 58.559999999999995,
+    "y1": 236.64,
+    "x2": 294.24,
+    "y2": 332.15999999999997
+  },
+  "caption": "TABLE IV METRIC: AVERAGE COMPOSITE SAT SCORE",
+  "imageText": ["Extra", "Trees", "Reg.", "0.94", "0.85", "Bagged", "XGBoost", "0.97", "0.86", "Ridge", "0.89", "0.79", "Lasso", "0.89", "0.80", "SVM", "0.49", "-0.02", "Random", "Forest", "0.97", "0.81", "XGBoost", "0.99", "0.82", "AdaBoost", "0.93", "0.79", "Model", "Training", "Set", "R2", "Score", "Test", "Set", "R2", "Score", "Least-Squares", "0.90", "0.78"],
+  "renderURL": "jpeg175-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 101.04000091552734,
+    "y1": 202.5299835205078,
+    "x2": 251.76564025878906,
+    "y2": 219.2869873046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 58.559999999999995,
+    "y1": 88.8,
+    "x2": 294.24,
+    "y2": 184.32
+  },
+  "caption": "TABLE III METRIC: AVERAGE COMPOSITE 10th GRADE MCAS",
+  "imageText": ["Extra", "Trees", "Reg.", "0.94", "0.73", "Bagged", "XGBoost", "0.95", "0.75", "Ridge", "0.83", "0.68", "Lasso", "0.75", "0.66", "SVM", "0.99", "-0.02", "Random", "Forest", "0.95", "0.60", "XGBoost", "0.99", "0.67", "AdaBoost", "0.92", "0.64", "Model", "Training", "Set", "R2", "Score", "Test", "Set", "R2", "Score", "Least-Squares", "0.84", "0.65"],
+  "renderURL": "jpeg175-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 87.29999542236328,
+    "y1": 54.52198791503906,
+    "x2": 265.500732421875,
+    "y2": 71.27899169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 270.71999999999997,
+    "x2": 557.28,
+    "y2": 427.2
+  },
+  "caption": "Fig. 2. Causal Inference of Avg. Expenditures per Pupil vs. % Graduated for a single school (Athol High School)",
+  "imageText": [],
+  "renderURL": "jpeg175-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 436.0630187988281,
+    "x2": 558.0016479492188,
+    "y2": 449.83099365234375
+  }
+}]

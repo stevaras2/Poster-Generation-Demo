@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 142.56,
+    "y1": 180.95999999999998,
+    "x2": 469.44,
+    "y2": 226.07999999999998
+  },
+  "caption": "Table 2: Evaluation results over 100 episodes, training time, and model size information in a four-ball environment.",
+  "imageText": ["A3C", "(discrete", "action)", "-24.86", "52", "min", "152", "KB", "Random", "-41.024", "-", "-", "Methods", "Average", "Reward", "Training", "Time", "Model", "Size", "A3C", "(continuous", "action)", "-50.0", "28", "min", "11", "KB"],
+  "renderURL": "jpeg249-Table2-1.png",
+  "captionBoundary": {
+    "x1": 75.60598754882812,
+    "y1": 226.81552124023438,
+    "x2": 536.0872802734375,
+    "y2": 232.8179931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 142.56,
+    "y1": 475.68,
+    "x2": 469.44,
+    "y2": 543.36
+  },
+  "caption": "Table 1: Evaluation results over 100 episodes, training time, and model size information in a two-ball environment.",
+  "imageText": ["A3C", "(discrete", "action)", "-18.46", "17", "min", "149", "KB", "Random", "-22.8", "-", "-", "DQN", "-21.3", "27", "min", "162", "KB", "A3C", "(continuous", "action)", "-19.44", "13", "min", "8", "KB", "Methods", "Average", "Reward", "Training", "Time", "Model", "Size", "Q-Table", "-6.4", "136", "min", "1.12", "GB"],
+  "renderURL": "jpeg249-Table1-1.png",
+  "captionBoundary": {
+    "x1": 76.38299560546875,
+    "y1": 544.4765625,
+    "x2": 535.3101196289062,
+    "y2": 550.47900390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 346.56,
+    "y1": 70.56,
+    "x2": 532.3199999999999,
+    "y2": 211.2
+  },
+  "caption": "Figure 2: Average rewards over 1000 training episodes for A3C with continuous action and discrete action in a four-ball environment.",
+  "imageText": [],
+  "renderURL": "jpeg249-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.2130126953125,
+    "y1": 218.84555053710938,
+    "x2": 567.2301025390625,
+    "y2": 246.666015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 86.88,
+    "y1": 70.56,
+    "x2": 273.12,
+    "y2": 211.2
+  },
+  "caption": "Figure 1: Average rewards over 1000 training episodes for QTable, DQN, A3C with continuous action, A3C with discrete action, and random policy in a two-ball environment.",
+  "imageText": [],
+  "renderURL": "jpeg249-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 53.691001892089844,
+    "y1": 218.84555053710938,
+    "x2": 307.65008544921875,
+    "y2": 246.666015625
+  }
+}]

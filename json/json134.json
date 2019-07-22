@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 103.67999999999999,
+    "y1": 519.84,
+    "x2": 508.32,
+    "y2": 629.28
+  },
+  "caption": "Figure 3: Diagram of our Multi-Modal Model, which utilizes the same idea as our Wikipedia Embedding MLP, but also concatenates in the nighlights histogram as input to a more complicated network.",
+  "imageText": [],
+  "renderURL": "jpeg134-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 637.3065795898438,
+    "x2": 558.004638671875,
+    "y2": 653.27099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 103.67999999999999,
+    "y1": 237.6,
+    "x2": 508.32,
+    "y2": 361.44
+  },
+  "caption": "Figure 2: Diagram of our Wikipedia embedding model. The ten (hyperparameter) closest geolocated Wikipedia articles are obtained and the Doc2Vec embeddings are generated and concatenated into one large 3000-dimensional vector. We then append 10 nodes to that vector, representing the distance between each doc and the point of interest.",
+  "imageText": ["...", "Ten", "300-D", "doc2vec", "embeddings", "...", "Pove", "rty", "Predi", "ction", "...", "Multi-Layer", "Perceptron", "10", "closest", "Wikipedia", "Articles", "Concatenate", "Embeddings", "...Doc2Vec", "Doc2Vec", "...", "...", "..."],
+  "renderURL": "jpeg134-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 369.1435241699219,
+    "x2": 559.1231079101562,
+    "y2": 395.0710144042969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 105.6,
+    "x2": 560.16,
+    "y2": 267.36
+  },
+  "caption": "Figure 6",
+  "imageText": ["(a)", "Wikipedia", "Embeddings", "PCA", "Analysis.", "(b)", "Masked", "Activation", "Results", "(all", "other", "indices", "set", "to", "0),", "with", "pearson’s", "r2", "for", "each", "index", "shown."],
+  "renderURL": "jpeg134-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 289.2580261230469,
+    "y1": 278.5865173339844,
+    "x2": 322.7423095703125,
+    "y2": 284.5889892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 380.64,
+    "x2": 549.12,
+    "y2": 489.12
+  },
+  "caption": "Figure 7: Left: Titles with largest values at indices in embedding most predictive of wealth level (24, 182; larger words indicate larger values); Right: Admin 2 level prediction vs ground truth for model trained on Ghana, evaluated on Tanzania.",
+  "imageText": [],
+  "renderURL": "jpeg134-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 497.5715637207031,
+    "x2": 558.0036010742188,
+    "y2": 514.4830322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 180.0,
+    "x2": 540.0,
+    "y2": 320.15999999999997
+  },
+  "caption": "Figure 1: Left: Tsne of a subset of Ghanaian articles, with a cluster of rural village articles noted; Tsne clusters similar embeddings together; Middle: Heatmap of wealth coordinates for Ghana, with red being wealthier and blue being poorer. Right: Distribution of groundtruth wealth data after scaling (range between -2 and 2.)",
+  "imageText": ["(c)", "Distribution", "of", "wealth", "data", "(a)", "Tsne", "of", "Ghanaian", "articles.", "(b)", "Wealth", "coordinate", "map", "for", "Ghana"],
+  "renderURL": "jpeg134-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 330.2525329589844,
+    "x2": 559.3810424804688,
+    "y2": 358.072998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 72.0,
+    "x2": 530.4,
+    "y2": 175.2
+  },
+  "caption": "Figure 4: Left: Comparison of average cross-boundary performance for all models; Right: Multi-Modal Model Results - Trained on column country, tested on row; metric - pearson’s r2.",
+  "imageText": [],
+  "renderURL": "jpeg134-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 183.34854125976562,
+    "x2": 558.0,
+    "y2": 200.260009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 125.75999999999999,
+    "y1": 459.84,
+    "x2": 486.24,
+    "y2": 555.36
+  },
+  "caption": "Figure 5: Model results trained on Malawi and tested on Uganda. The leftmost graph shows results for a model trained only on Doc2Vec, the centermost shows results for a model trained only on the nighlights imagery, and the rightmost shows results for our Multi-Modal Model, which combines both inputs. As is clear, the combination of inputs yields the best results.",
+  "imageText": [],
+  "renderURL": "jpeg134-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 563.5535888671875,
+    "x2": 558.171142578125,
+    "y2": 591.375
+  }
+}]

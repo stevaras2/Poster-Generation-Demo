@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 449.76,
+    "x2": 235.2,
+    "y2": 570.24
+  },
+  "caption": "FIG. 1. Energy landscape of silicon—the bandgap is shaded.2",
+  "imageText": [],
+  "renderURL": "jpeg214-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 41.930999755859375,
+    "y1": 585.1797485351562,
+    "x2": 290.6039123535156,
+    "y2": 589.6629638671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 613.92,
+    "x2": 299.03999999999996,
+    "y2": 653.28
+  },
+  "caption": "FIG. 4. Pipeline for model predictions.",
+  "imageText": [],
+  "renderURL": "jpeg214-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 87.84600067138672,
+    "y1": 668.65576171875,
+    "x2": 245.18836975097656,
+    "y2": 673.1389770507812
+  }
+}]

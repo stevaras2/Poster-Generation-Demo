@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 72.0,
+    "x2": 546.24,
+    "y2": 230.39999999999998
+  },
+  "caption": "Figure 1. Average differences in cosine similarity score over 10 trials between the modified embedding space and the original embedding space. Blue is all appended features; orange is condensed time.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 235.35775756835938,
+    "x2": 545.108642578125,
+    "y2": 273.636962890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 285.59999999999997,
+    "x2": 544.3199999999999,
+    "y2": 383.03999999999996
+  },
+  "caption": "Figure 2. Comparing our algorithm against native CoSal and the labeled data. The (i, j)th entry in each grid is the number of tweets that are ranked more similar than tweet j to tweet i.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 388.2437438964844,
+    "x2": 545.114990234375,
+    "y2": 415.56396484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 72.0,
+    "x2": 288.0,
+    "y2": 310.08
+  },
+  "caption": "Figure 5. t-SNE applied to the modified embedding space, with the two tweets marked in red.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 315.1577453613281,
+    "x2": 286.35870361328125,
+    "y2": 331.51898193359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 345.59999999999997,
+    "x2": 288.0,
+    "y2": 584.16
+  },
+  "caption": "Figure 6. t-SNE applied to the original embedding space of the 2016 election subset, with the three tweets colored.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 589.2557373046875,
+    "x2": 286.35870361328125,
+    "y2": 605.6170043945312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 72.0,
+    "x2": 547.1999999999999,
+    "y2": 310.08
+  },
+  "caption": "Figure 7. t-SNE applied to the modified embedding space of the subset, with the three tweets colored.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 315.1577453613281,
+    "x2": 545.108642578125,
+    "y2": 331.51898193359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 72.0,
+    "x2": 547.1999999999999,
+    "y2": 310.08
+  },
+  "caption": "Figure 4. t-SNE applied to the original embedding space, with the two tweets marked in red.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 315.1577453613281,
+    "x2": 545.108642578125,
+    "y2": 331.51898193359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 72.0,
+    "x2": 293.28,
+    "y2": 231.35999999999999
+  },
+  "caption": "Figure 3. Average user-reported similarity scores (n=4) measured over randomly selected pairs of tweets from the new embedding space that the model marked as highly similar, versus the number of components that are selected. Blue is all appended features, orange is condensed time, and green is the original embedding space with PCA applied.",
+  "imageText": [],
+  "renderURL": "jpeg203-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 235.63772583007812,
+    "x2": 286.35870361328125,
+    "y2": 295.83392333984375
+  }
+}]

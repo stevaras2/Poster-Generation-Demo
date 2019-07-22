@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 165.6,
+    "y1": 172.79999999999998,
+    "x2": 445.44,
+    "y2": 262.08
+  },
+  "caption": "Figure 4: Test accuracies of models with highest validation performance on both the BLESS and LHD sets (F1 score for piecewise-projection classifier.",
+  "imageText": [],
+  "renderURL": "jpeg057-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 278.9356994628906,
+    "x2": 477.4784851074219,
+    "y2": 295.8719787597656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 168.0,
+    "y1": 402.71999999999997,
+    "x2": 444.47999999999996,
+    "y2": 591.36
+  },
+  "caption": "Figure 5: Accuracies for the piecewise-projection and stacked LSTM models over the LHD set.",
+  "imageText": [],
+  "renderURL": "jpeg057-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 607.36669921875,
+    "x2": 477.47540283203125,
+    "y2": 624.302978515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 10,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 199.68,
+    "y1": 124.32,
+    "x2": 411.35999999999996,
+    "y2": 665.28
+  },
+  "caption": "Table 1: Dataset Comparison.The top 15 most common hyponyms and hypernyms in the BLESS and Weeds data. The BLESS data contains 1337 pairings while the Weeds data contains 2564. 11",
+  "imageText": ["cottage", "-", "11", "nursery", "-", "1", "sweater", "-", "11", "manager", "-", "1", "?ghter", "-", "11", "adjective", "-", "1", "shirt", "-", "11", "livelihood", "-", "1", "dress", "-", "11", "skit", "-", "1", "vest", "-", "11", "scratch-", "1", "sweater", "-", "11", "underbrush", "-", "1", "blouse", "-", "11", "anglican", "-", "1", "robe", "-", "11", "codi?cation", "-", "1", "cloak", "-11", "matron", "-", "1", "bomber", "-", "11", "throbbing", "-", "1", "glove", "-", "12", "beachhead", "-", "1", "hat", "-", "14", "gown", "-", "1", "castle", "-", "15", "stock", "-", "1", "BLESS", "Hyponym", "Weeds", "Hyponym", "vehicle", "-", "19", "signi?cance", "-", "2", "commodity", "-", "23", "voting", "-", "2", "mammal", "-", "23", "letter", "-", "2", "good", "-", "23", "murder", "-", "2", "implement", "-", "25", "truthfulness", "-", "2", "beast", "-", "26", "?eck", "-", "2", "produce", "-", "31", "delight", "-", "2", "device", "-", "32", "therapy", "-", "2", "food", "-", "43", "caterpillar", "-", "2", "vertebrate", "-", "52", "sociability", "-", "2", "chordate", "-", "52", "feature", "-", "2", "creature", "-", "60", "artillery", "-", "2", "animal", "-", "60", "knoll", "-", "2", "object", "-", "71", "anthropology", "-", "2", "artifact", "-", "91", "confederate", "-", "2", "BLESS", "Hypernym", "Weeds", "Hypernym"],
+  "renderURL": "jpeg057-Table1-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 677.2186889648438,
+    "x2": 477.47625732421875,
+    "y2": 706.1110229492188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 148.79999999999998,
+    "y1": 291.84,
+    "x2": 462.24,
+    "y2": 410.4
+  },
+  "caption": "Figure 1: Plots of the 3 principal components for each data set. Left: BLESS. Right: Linked Hypernyms",
+  "imageText": [],
+  "renderURL": "jpeg057-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 426.17669677734375,
+    "x2": 477.47845458984375,
+    "y2": 443.11297607421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 11,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 241.92,
+    "y1": 124.32,
+    "x2": 369.12,
+    "y2": 665.28
+  },
+  "caption": "Table 2: Indicative Pairs. All indicative pairs for k = 30 clusters.",
+  "imageText": ["cat", "mammal", "saw", "utensil", "?ute", "artifact", "pine", "tree", "mackerel", "chordate", "cabbage", "veggie", "bear", "creature", "bear", "animal", "sword", "implement", "jacket", "commodity", "pistol", "device", "hotel", "building", "salmon", "food", "coat", "clothing", "bear", "chordate", "bear", "vertebrate", "saw", "object", "saw", "artefact", "car", "vehicle", "frigate", "ship", "cat", "beast", "rat", "rodent", "cabbage", "food", "dress", "good", "radio", "system", "jacket", "clothing", "beetle", "arthropod", "rat", "rodent", "banana", "food", "saw", "artifact", "Hyponym", "Hypernym"],
+  "renderURL": "jpeg057-Table2-1.png",
+  "captionBoundary": {
+    "x1": 158.2969970703125,
+    "y1": 677.2186889648438,
+    "x2": 452.9491271972656,
+    "y2": 682.2000122070312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 165.6,
+    "y1": 336.96,
+    "x2": 445.44,
+    "y2": 432.47999999999996
+  },
+  "caption": "Figure 3: F1 score of training phase for k clusters and a threshold ä. Left: 2.7k pairs, BLESS. Right: 1.5M pairs, LHD.",
+  "imageText": [],
+  "renderURL": "jpeg057-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 133.76797485351562,
+    "y1": 448.2057189941406,
+    "x2": 477.4810791015625,
+    "y2": 465.1419982910156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 136.79999999999998,
+    "y1": 123.83999999999999,
+    "x2": 474.24,
+    "y2": 200.16
+  },
+  "caption": "Figure 2: Analogy task accuracy of word vector models. The accuracy of the model with optimal parameters is shown as the black dot. Parameters are fixed at (d = 200, c = 5, sn = 3).",
+  "imageText": [],
+  "renderURL": "jpeg057-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 216.62368774414062,
+    "x2": 477.4825439453125,
+    "y2": 247.010009765625
+  }
+}]

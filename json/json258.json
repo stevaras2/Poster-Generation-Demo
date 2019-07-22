@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 82.56,
+    "x2": 552.0,
+    "y2": 175.2
+  },
+  "caption": "Table 2: Anomalous labels",
+  "imageText": ["Distance", "from", "Center", "Label", "1.9203707947953235", "Subjects[1000]", "1.9626659852879147", "Instruction[11811]", "2.0156069220765436", "Books[283155]", "2.0276880269223216", "Poetry[9966]", "2.1297687095091673", "Foreign", "Languages[11773]", "2.2177811099675195", "Dictionaries", "&", "Thesauruses[11475]", "2.4396388017039103", "General[725800]"],
+  "renderURL": "jpeg258-Table2-1.png",
+  "captionBoundary": {
+    "x1": 384.90301513671875,
+    "y1": 177.98011779785156,
+    "x2": 490.95770263671875,
+    "y2": 183.61102294921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 52.8,
+    "y1": 382.56,
+    "x2": 295.2,
+    "y2": 574.0799999999999
+  },
+  "caption": "Figure 3: Full Method Workflow Diagram",
+  "imageText": [],
+  "renderURL": "jpeg258-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 90.28800201416016,
+    "y1": 587.7940673828125,
+    "x2": 257.5561828613281,
+    "y2": 593.4249877929688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 52.8,
+    "y1": 149.76,
+    "x2": 306.24,
+    "y2": 312.96
+  },
+  "caption": "Figure 2: (a) K-Means clustering (6 clusters), (b) DBSCAN",
+  "imageText": ["((a))", "((b))"],
+  "renderURL": "jpeg258-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 59.62699890136719,
+    "y1": 327.8760986328125,
+    "x2": 288.2164306640625,
+    "y2": 333.5069885253906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 78.72,
+    "y1": 92.64,
+    "x2": 533.28,
+    "y2": 563.04
+  },
+  "caption": "Figure 6: Annotated results of the embed and cluster process applied to the clusters in Figure 5: (Figure 5 cluster, Figure 6 subplot) relationships are (Orange, Figure 6(a)), (Red, Figure 6(b)), (Purple, Figure 6(c)), (Green, Figure 6(d))",
+  "imageText": ["((c))", "((d))", "((a))", "((b))"],
+  "renderURL": "jpeg258-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 53.798004150390625,
+    "y1": 578.18310546875,
+    "x2": 558.202880859375,
+    "y2": 594.77197265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 100.8,
+    "y1": 295.68,
+    "x2": 246.72,
+    "y2": 380.15999999999997
+  },
+  "caption": "Table 1: Dataset Statistics",
+  "imageText": ["Nonfiction", "55,923", "Children’s", "Books", "46,533", "Religion", "and", "Spirituality", "43,528", "Literature", "and", "Fiction", "41,899", "Professional", "and", "Technical", "41,838", "Number", "of", "books", "393,561", "Book", "categories", "14,874", "Most", "common", "categories"],
+  "renderURL": "jpeg258-Table1-1.png",
+  "captionBoundary": {
+    "x1": 122.6610107421875,
+    "y1": 385.33905029296875,
+    "x2": 224.88699340820312,
+    "y2": 390.9699401855469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 82.56,
+    "x2": 559.1999999999999,
+    "y2": 234.23999999999998
+  },
+  "caption": "Figure 1: K-Means: Onset to Convergence [12]",
+  "imageText": [],
+  "renderURL": "jpeg258-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 345.45098876953125,
+    "y1": 247.36109924316406,
+    "x2": 530.7058715820312,
+    "y2": 252.99200439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 52.8,
+    "y1": 92.64,
+    "x2": 306.24,
+    "y2": 255.84
+  },
+  "caption": "Figure 4: (a) Original clustering (6 clusters), (b) Anomalies removed from graph and re-embedded before another clustering.",
+  "imageText": ["((a))", "((b))"],
+  "renderURL": "jpeg258-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 53.798004150390625,
+    "y1": 270.9181213378906,
+    "x2": 295.6486511230469,
+    "y2": 298.46697998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 427.68,
+    "x2": 539.04,
+    "y2": 618.24
+  },
+  "caption": "Figure 5: Embedding and clustering of top sales-ranked books.",
+  "imageText": [],
+  "renderURL": "jpeg258-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 317.9549865722656,
+    "y1": 631.3590698242188,
+    "x2": 558.2008056640625,
+    "y2": 647.948974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 319.68,
+    "y1": 82.56,
+    "x2": 556.3199999999999,
+    "y2": 227.04
+  },
+  "caption": "Table 3: Examples of clusters identified",
+  "imageText": ["Photography[2020]", "[172282]", "Project", "Photo", "Software", "Photo", "Specialty", "Photographers,", "[229534]", "Photography", "Cluster", "1", "Cluster", "2", "Cluster", "3", "Regions[17228]", "Computer", "Arts", "Regions[640504]", "Computers", "Camera", "States[17263]", "Design", "Categories[493964]", "States[640538]", "Digital", "Collections,", "United", "Internet[768564]", "Collections,", "United", "Programming[3839]", "General[2050]"],
+  "renderURL": "jpeg258-Table3-1.png",
+  "captionBoundary": {
+    "x1": 358.55999755859375,
+    "y1": 229.98512268066406,
+    "x2": 517.3012084960938,
+    "y2": 235.61602783203125
+  }
+}]

@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 165.6,
+    "y1": 354.71999999999997,
+    "x2": 444.47999999999996,
+    "y2": 407.03999999999996
+  },
+  "caption": "Figure 2: Architecture of the FCNN",
+  "imageText": [],
+  "renderURL": "jpeg82-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 234.1750030517578,
+    "y1": 418.8705139160156,
+    "x2": 377.82568359375,
+    "y2": 424.87298583984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 218.88,
+    "y1": 164.64,
+    "x2": 385.44,
+    "y2": 199.2
+  },
+  "caption": "Table 4: Confusion matrix for LGBM",
+  "imageText": ["Pred", "Class", "0", "Pred", "Class", "1", "Class", "0", "0.495", "0.504", "Class", "1", "0.389", "0.611"],
+  "renderURL": "jpeg82-Table4-1.png",
+  "captionBoundary": {
+    "x1": 226.73199462890625,
+    "y1": 150.76553344726562,
+    "x2": 377.34649658203125,
+    "y2": 156.76800537109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 270.24,
+    "y1": 86.88,
+    "x2": 478.08,
+    "y2": 121.44
+  },
+  "caption": "Table 3: Confusion matrix for FCNN",
+  "imageText": ["Pred", "Class", "0", "Pred", "Class", "1", "Class", "0", "0.458", "0.542", "Class", "1", "0.347", "0.653", "1"],
+  "renderURL": "jpeg82-Table3-1.png",
+  "captionBoundary": {
+    "x1": 321.4070129394531,
+    "y1": 72.7525405883789,
+    "x2": 469.8098449707031,
+    "y2": 78.7550048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 165.6,
+    "y1": 450.71999999999997,
+    "x2": 444.47999999999996,
+    "y2": 601.4399999999999
+  },
+  "caption": "Figure 1: Closing prices by quantiles",
+  "imageText": [],
+  "renderURL": "jpeg82-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 232.22799682617188,
+    "y1": 612.4395751953125,
+    "x2": 379.7740173339844,
+    "y2": 618.4420166015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 169.92,
+    "y1": 177.6,
+    "x2": 442.08,
+    "y2": 236.16
+  },
+  "caption": "Table 1: Validation accuracy, score and test score of the 3 models",
+  "imageText": ["Val-score", "0.247", "0.781", "0.731", "Competition", "score", "0.259", "0.645", "0.644", "Metric", "LR", "FC", "Neural", "Network", "Light-GBM", "Train-accuracy", "0.503", "0.561", "0.554", "Val-accuracy", "0.485", "0.557", "0.538"],
+  "renderURL": "jpeg82-Table1-1.png",
+  "captionBoundary": {
+    "x1": 175.90899658203125,
+    "y1": 162.52951049804688,
+    "x2": 436.09228515625,
+    "y2": 168.531982421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 209.76,
+    "y1": 548.64,
+    "x2": 382.08,
+    "y2": 665.28
+  },
+  "caption": "Figure 5: ROC curve for the LGBM",
+  "imageText": [],
+  "renderURL": "jpeg82-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 234.02999877929688,
+    "y1": 676.1595458984375,
+    "x2": 377.9696044921875,
+    "y2": 682.1619873046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 122.88,
+    "y1": 412.8,
+    "x2": 487.2,
+    "y2": 529.4399999999999
+  },
+  "caption": "Figure 3: ROC curve for Logistic Regression Figure 4: ROC curve for the FC Neural Network",
+  "imageText": [],
+  "renderURL": "jpeg82-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 119.83300018310547,
+    "y1": 540.299560546875,
+    "x2": 497.5716857910156,
+    "y2": 546.302001953125
+  }
+}]

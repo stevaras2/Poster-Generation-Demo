@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 61.919999999999995,
+    "x2": 289.44,
+    "y2": 125.28
+  },
+  "caption": "TABLE 1 AUC FOR DIFFERENT MODEL AND FEATURES COMBINATION. LR: LOGISTIC REGRESSION. NB: NAIVE BAYES. RF: RANDOM FOREST. IT SEEMS THAT THE MINIMAL FEATURE HAS CONTAINS MOST OF THE PREDICTIVE POWER, AND ALL MODELS HAVE SIMILAR PERFORMANCE.",
+  "imageText": ["LR", "NB", "AdaBoost", "RF", "Raw", "hand", "0.619", "0.605", "0.591", "0.612", "Compressed", "hand", "0.624", "0.619", "0.609", "0.627", "Minimal", "Pattern", "(4", "features)", "0.626", "0.552", "0.625", "0.627", "Full", "Pattern", "(13", "features)", "0.628", "0.582", "0.622", "0.620", "Full", "Pattern", "+", "Compressed", "hand", "0.624", "0.595", "0.618", "0.622"],
+  "renderURL": "jpeg137-Table1-1.png",
+  "captionBoundary": {
+    "x1": 52.614990234375,
+    "y1": 134.7379913330078,
+    "x2": 293.19580078125,
+    "y2": 172.85491943359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 307.68,
+    "x2": 556.3199999999999,
+    "y2": 371.03999999999996
+  },
+  "caption": "TABLE 4 AUC FOR TICHU PREDICTION WITH DIFFERENT MODEL/FEATURE COMBINATIONS.",
+  "imageText": ["LR", "NB", "AdaBoost", "RF", "Raw", "hand", "0.785", "0783", "0.786", "0.783", "Compressed", "hand", "0.791", "0.789", "0.804", "0.802", "Minimal", "Pattern", "(6", "features)", "0.827", "0.827", "0.82", "0.827", "Full", "Pattern", "(14", "features)", "0.834", "0.74", "0.832", "0.837", "Full", "Pattern", "+", "Compressed", "hand", "0.837", "0.80", "0.833", "0.835"],
+  "renderURL": "jpeg137-Table4-1.png",
+  "captionBoundary": {
+    "x1": 329.9020080566406,
+    "y1": 380.89501953125,
+    "x2": 549.6065063476562,
+    "y2": 402.3550109863281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 96.0,
+    "y1": 190.56,
+    "x2": 248.16,
+    "y2": 223.2
+  },
+  "caption": "TABLE 2 COEFFICIENTS FOR THE 4 MOST IMPORTANT FEATURES FOR GRAND TICHU PREDICTION.",
+  "imageText": ["NA", "Ndragon", "Nphoenix", "Nbomb", "Coeff", "1.0", "2.8", "2.8", "3.4", "Approx", "1", "3", "3", "3"],
+  "renderURL": "jpeg137-Table2-1.png",
+  "captionBoundary": {
+    "x1": 58.18199920654297,
+    "y1": 233.43702697753906,
+    "x2": 287.6260986328125,
+    "y2": 254.89599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 142.56,
+    "x2": 562.0799999999999,
+    "y2": 276.0
+  },
+  "caption": "FIG. 3.— With input as 14 identified patterns plus card hand. Naive Bayes performs worse than the other models.",
+  "imageText": [],
+  "renderURL": "jpeg137-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 317.5899658203125,
+    "y1": 281.6610412597656,
+    "x2": 561.9129638671875,
+    "y2": 294.791015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 61.919999999999995,
+    "x2": 558.24,
+    "y2": 94.08
+  },
+  "caption": "TABLE 3 COEFFICIENTS FOR THE 6 MOST IMPORTANT FEATURES FOR TICHU PREDICTION.",
+  "imageText": ["NA", "Ndog", "Ndragon", "Nphoenix", "Nbomb", "Nstraight", "Nsmall", "Coeff", "2.0", "-1.9", "5.9", "5.7", "4.7", "1.0", "-1.1", "Approx", "2", "-2", "6", "6", "5", "1", "-1"],
+  "renderURL": "jpeg137-Table3-1.png",
+  "captionBoundary": {
+    "x1": 326.7139892578125,
+    "y1": 103.97499084472656,
+    "x2": 552.7926635742188,
+    "y2": 125.4339599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 410.88,
+    "x2": 296.15999999999997,
+    "y2": 534.24
+  },
+  "caption": "FIG. 2.— With input as 14 identified patterns plus card hand. Naive Bayes performs worse than the other models.",
+  "imageText": [],
+  "renderURL": "jpeg137-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 50.73999786376953,
+    "y1": 539.9859619140625,
+    "x2": 295.0631408691406,
+    "y2": 553.1170043945312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 61.919999999999995,
+    "x2": 296.15999999999997,
+    "y2": 228.48
+  },
+  "caption": "FIG. 4.— An example of the histogram of Tichu success probabilities given a fixed 8 card starting hand. Each count in the yellow histogram is a random realization of the next 6 cards, and the probability is the output of our Tichu Logistic Regressoin model given the 14 card hands. Since when Ptichu < 0.5, players won’t call Tichu, the histogram that is smaller than 0.5 is equivalently at 0.5, since Ptichu = 0.5 has expected return 0 when you call Tichu. The expected histogram is plotted in blue. The equivalent Tichu probability P?tichu is therefore the average of the blue histogram. The red vertical line is the Grand Tichu probability Pgrand , the yellow line is the mean Tichu probability ?Ptichu?, and the blue line is the mean equivalent Tichu probability ?P?tichu?",
+  "imageText": [],
+  "renderURL": "jpeg137-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 50.739959716796875,
+    "y1": 234.3880157470703,
+    "x2": 295.0645446777344,
+    "y2": 318.5109558105469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 330.71999999999997,
+    "x2": 296.15999999999997,
+    "y2": 528.0
+  },
+  "caption": "FIG. 5.— Pgrand , ?P?tichu?, and 0.5?P?tichu? + 0.25 at different Grand Tichu index Ig",
+  "imageText": [],
+  "renderURL": "jpeg137-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 50.74000549316406,
+    "y1": 535.2890014648438,
+    "x2": 295.0670166015625,
+    "y2": 549.416015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 508.79999999999995,
+    "x2": 562.0799999999999,
+    "y2": 545.28
+  },
+  "caption": "FIG. 1.— An example of a 14 card hand. We want to predict the success rate of making Tichu with an input hand like this.",
+  "imageText": [],
+  "renderURL": "jpeg137-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 317.5899963378906,
+    "y1": 551.3289794921875,
+    "x2": 561.9179077148438,
+    "y2": 564.4599609375
+  }
+}]

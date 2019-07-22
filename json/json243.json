@@ -1,0 +1,241 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 61.44,
+    "x2": 269.28,
+    "y2": 216.95999999999998
+  },
+  "caption": "Figure 4: Value Gradient architecture using a single hidden layer",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 233.5282745361328,
+    "x2": 290.269287109375,
+    "y2": 253.6500244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 438.71999999999997,
+    "x2": 305.76,
+    "y2": 540.0
+  },
+  "caption": "Figure 5: Evolutionary Strategies",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 108.4260025024414,
+    "y1": 555.917236328125,
+    "x2": 253.84429931640625,
+    "y2": 562.489990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 370.56,
+    "y1": 467.52,
+    "x2": 462.24,
+    "y2": 672.9599999999999
+  },
+  "caption": "Figure 8: Vanilla E-A2C",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 362.60101318359375,
+    "y1": 689.8102416992188,
+    "x2": 470.2192077636719,
+    "y2": 696.3829956054688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 61.44,
+    "x2": 493.44,
+    "y2": 168.95999999999998
+  },
+  "caption": "Figure 6: Weighted Combination of Candidates",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 312.7359924316406,
+    "y1": 185.3452911376953,
+    "x2": 520.0851440429688,
+    "y2": 191.91802978515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 206.88,
+    "x2": 493.44,
+    "y2": 313.92
+  },
+  "caption": "Figure 7: Maximum Candidate Parameters",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 323.14300537109375,
+    "y1": 330.06329345703125,
+    "x2": 509.6775207519531,
+    "y2": 336.6360168457031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 61.44,
+    "x2": 257.28,
+    "y2": 168.95999999999998
+  },
+  "caption": "Figure 11: A2C",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 146.56300354003906,
+    "y1": 185.3452911376953,
+    "x2": 215.70486450195312,
+    "y2": 191.91802978515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "14",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 495.84,
+    "x2": 257.28,
+    "y2": 601.92
+  },
+  "caption": "Figure 14: Evolutionary A2C",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure14-1.png",
+  "captionBoundary": {
+    "x1": 116.82499694824219,
+    "y1": 618.6682739257812,
+    "x2": 245.44325256347656,
+    "y2": 625.2410278320312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "12",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 206.88,
+    "x2": 257.28,
+    "y2": 312.96
+  },
+  "caption": "Figure 12: ES",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure12-1.png",
+  "captionBoundary": {
+    "x1": 150.50100708007812,
+    "y1": 329.7862854003906,
+    "x2": 211.76651000976562,
+    "y2": 336.3590087890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "13",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 104.64,
+    "y1": 350.88,
+    "x2": 257.28,
+    "y2": 457.91999999999996
+  },
+  "caption": "Figure 13: Vanilla E-A2C",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure13-1.png",
+  "captionBoundary": {
+    "x1": 124.5979995727539,
+    "y1": 474.227294921875,
+    "x2": 237.6708221435547,
+    "y2": 480.8000183105469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 102.72,
+    "y1": 501.59999999999997,
+    "x2": 260.15999999999997,
+    "y2": 649.92
+  },
+  "caption": "Figure 2: actor-critic architecture (Sutton and Barto, 1998)",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 666.0642700195312,
+    "x2": 290.2693176269531,
+    "y2": 686.18603515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 319.68,
+    "x2": 519.36,
+    "y2": 456.0
+  },
+  "caption": "Figure 10: Mountain Car Problem",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 341.84100341796875,
+    "y1": 472.5662841796875,
+    "x2": 490.9792175292969,
+    "y2": 479.1390075683594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 322.56,
+    "y1": 61.44,
+    "x2": 510.24,
+    "y2": 268.32
+  },
+  "caption": "Figure 9: Evolutionary A2C",
+  "imageText": [],
+  "renderURL": "jpeg243-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 354.8280029296875,
+    "y1": 284.5442810058594,
+    "x2": 477.9917297363281,
+    "y2": 291.11700439453125
+  }
+}]

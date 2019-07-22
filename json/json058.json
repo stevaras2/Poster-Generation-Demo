@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 64.8,
+    "x2": 556.3199999999999,
+    "y2": 187.2
+  },
+  "caption": "Table 3. Summary of Classification Results After Adjustments for Unbalanced Data",
+  "imageText": ["0.13", "0.89", "0.22", "0.14", "0.24", "0.18", "Overall", "Accuracy:", "27.1", "%", "Edited", "Token", "Accuracy:", "53.4%", "0.81", "0.80", "0.80", "0.36", "0.53", "0.43", "Edited", "Token", "Accuracy:", "69.1%", "Precision", "Recall", "F1-Score", "Conditional", "Random", "Field", "Overall", "Accuracy:", "91.3", "%", "0.10", "0.94", "0.18", "0.14", "0.41", "0.20", "Overall", "Accuracy:", "34.7", "%", "Edited", "Token", "Accuracy:", "65.0%", "0.74", "0.65", "0.69", "0.33", "0.26", "0.29", "Edited", "Token", "Accuracy:", "49.5%", "Precision", "Recall", "F1-Score", "Structured", "Perceptron", "Overall", "Accuracy:", "90.6", "%", "0.45", "0.60", "0.52", "0.28", "0.45", "0.35", "Overall", "Accuracy:", "83.2", "%", "Edited", "Token", "Accuracy:", "51.8%", "0.71", "0.50", "0.58", "0.24", "0.24", "0.24", "Edited", "Token", "Accuracy:", "39.4%", "Precision", "Recall", "F1-Score", "Hidden", "Markov", "Model", "Overall", "Accuracy:", "88.8", "%", "RUS", "Inserted", "Bigrams", "Deleted", "Edited", "Inserted", "Sentences", "Deleted"],
+  "renderURL": "jpeg058-Table3-1.png",
+  "captionBoundary": {
+    "x1": 136.0540008544922,
+    "y1": 198.0856475830078,
+    "x2": 475.6388854980469,
+    "y2": 204.6510009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 94.56,
+    "y1": 225.6,
+    "x2": 556.8,
+    "y2": 416.15999999999997
+  },
+  "caption": "Figure 2. Visualized Classification Results for Training On All Sentences (Green represents correct classifications while red represents incorrect classification. Names redacted for this paper are indicated with [NAME].)",
+  "imageText": ["Conditional", "Random", "Field:", "<del>Within", "ten", "days<\\del><ins>Promptly,<\\ins>after", "being", "so", "requested", "by", "the", "Company", "or", "[NAME]", "<del", ">[NAME]<\\del><ins>[NAME]", "in", "writ-", "ing,<\\ins>except", "to", "the", "extent", "you", "are", "advised", "by", "legal", "counsel", "that", "comply-", "ing", "with", "such", "request", "would", "be", "prohibited", "by", "law", "or", "regulatory", "authority,", "you", "will", "return", "or", "destroy", "at", "your", "cost", "all", "Evaluation", "<del", ">Material", "at", "the", "op-", "tion<\\del><ins>Material.", "Structured", "Averaged", "Perceptron:", "<del>Within", "ten", "days<\\del><ins>Promptly,<\\ins>after", "being", "so", "requested", "by", "the", "Company", "or", "[NAME]", "<del", ">[NAME]<\\del><ins>[NAME]", "in", "writ-", "ing,<\\ins>except", "to", "the", "extent", "you", "are", "advised", "by", "legal", "counsel", "that", "comply-", "ing", "with", "such", "request", "would", "be", "prohibited", "by", "law", "or", "regulatory", "authority,", "you", "will", "return", "or", "destroy", "at", "your", "cost", "all", "Evaluation", "<del", ">Material", "at", "the", "op-", "tion<\\del><ins>Material.", "Hidden", "Markov", "Model:", "<del>Within", "ten", "days", "<\\del>", "<ins>Promptly,<\\ins>after", "being", "so", "requested", "by", "the", "Company", "or", "[NAME]", "<del", ">[NAME]<\\del><ins>[NAME]", "in", "writ-", "ing,<\\ins>", "except", "to", "the", "extent", "you", "are", "advised", "by", "legal", "counsel", "that", "comply-", "ing", "with", "such", "request", "would", "be", "prohibited", "by", "law", "or", "regulatory", "authority,", "you", "will", "return", "or", "destroy", "at", "your", "cost", "all", "Evaluation", "<del", ">Material", "at", "the", "op-", "tion<\\del><ins>Material.", "Conditional", "Random", "Field:", "Structured", "Averaged", "Perceptron:", "Hidden", "Markov", "Model:"],
+  "renderURL": "jpeg058-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 56.69300079345703,
+    "y1": 433.39666748046875,
+    "x2": 539.0040283203125,
+    "y2": 450.9209899902344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 325.44,
+    "x2": 556.8,
+    "y2": 514.0799999999999
+  },
+  "caption": "Figure 1. Text Processing Overview (’O’, ’I’, and ’D’ represent original, inserted, and deleted labels.)",
+  "imageText": ["Labeled", "Tokens:", "[...(‘will’,", "’O’),", "(‘have’,", "’O’),", "(‘ani’,", "’O’),", "(‘le-", "gal’,", "’O’),", "(‘effect’,", "’O’)][(‘within’,", "’D’),", "(‘ten’,", "’D’)", "(‘days’,", "’D’),", "(‘promptli’,", "’I’),", "(‘after’,", "’O’),", "(‘being’,", "’O’),", "(‘so’,", "’O’),", "(‘re-", "quested’,", "’O’),...]", "Sentence", "and", "Word", "Tokens", "after", "Stemming:", "[...(‘will’),", "(‘have’),", "(‘ani’),", "(‘legal’),", "(‘effect’)][", "(‘within’),", "(‘ten’)", "(‘days’),", "(‘promptli’),", "(‘after’),", "(‘being’),", "(‘so’),", "(‘requested’)...]", "Text", "with", "HTML", "Tags", "Representing", "Edits:", "‘...will", "have", "any", "legal", "effect.", "<del>", "Within", "ten", "days,<\\del><ins>", "Promptly", "<\\ins>", ",", "after", "being", "so", "requested...’", "Original", "Text:", "‘...will", "have", "any", "legal", "effect.", "Within", "ten", "days,", "after", "being", "so", "requested...’", "5.", "Label", "each", "token", "as", "“original”,", "“inserted”,", "or", "“deleted”", "based", "on", "its", "position", "relative", "to", "the", "HTML", "tags.", "4.", "Normalize", "the", "tokens", "by", "removing", "suf?xes", "with", "the", "Porter", "stemmer", "from", "the", "NLTK", "package.", "3.", "Tokenize", "the", "sentences", "into", "words", "using", "a", "customized", "regular", "expressions", "tokenizer", "in", "the", "NLTK", "package,", "which", "accom-", "modates", "the", "HTML", "tags.", "2.", "Tokenize", "the", "text", "into", "sentences", "with", "the", "Punkt", "tokenizer", "provided", "by", "the", "Natural", "Language", "Tool", "Kit", "(“NLTK”)", "Python", "package.", "The", "Punkt", "tokenizer", "recognizes", "periods", "ending", "sentences", "versus", "those", "within", "sentences", "using", "unsupervised", "learning.", "1.", "Identify", "the", "inserted", "or", "deleted", "portion", "of", "the", "text", "by", "running", "an", "advanced", "version", "of", "the", "“diff”", "terminal", "command", "on", "the", "original", "and", "edited", "version", "of", "each", "document.", "HTML", "tags", "mark", "the", "start", "and", "end", "of", "these", "edited", "portions", "of", "the", "text."],
+  "renderURL": "jpeg058-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 113.52999877929688,
+    "y1": 525.8986206054688,
+    "x2": 498.4736633300781,
+    "y2": 532.4639892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 60.0,
+    "y1": 64.8,
+    "x2": 552.0,
+    "y2": 153.12
+  },
+  "caption": "Table 1. Summary of Classification Results for Training On All Sentences (Edited token accuracy is defined as (number of true positives for inserted tokens + number of true positives for deleted tokens) / (total number of inserted tokens + total number of deleted tokens). Boundary errors are not taken into account when calculating precision and recall.)",
+  "imageText": ["0.96", "0.98", "0.97", "0.94", "0.78", "0.85", "0.61", "0.46", "0.52", "0.94", "0.95", "0.94", "Edited", "Token", "Accuracy:", "65.5%", "Precision", "Recall", "F1-Score", "Conditional", "Random", "Field", "Overall", "Accuracy:", "94.6", "%", "0.92", "0.99", "0.96", "0.89", "0.46", "0.61", "0.64", "0.17", "0.27", "0.91", "0.92", "0.90", "Edited", "Token", "Accuracy:", "34.9%", "Precision", "Recall", "F1-Score", "Structured", "Perceptron", "Overall", "Accuracy:", "91.9", "%", "0.93", "0.98", "0.95", "0.85", "0.49", "0.62", "0.34", "0.20", "0.25", "0.89", "0.91", "0.90", "Edited", "Token", "Accuracy:", "37.5%", "Precision", "Recall", "F1-Score", "Hidden", "Markov", "Model", "Overall", "Accuracy:", "90.8", "%", "Total", "21,168", "Support", "Original", "18,767", "Inserted", "1,458", "Deleted", "943"],
+  "renderURL": "jpeg058-Table1-1.png",
+  "captionBoundary": {
+    "x1": 56.38399887084961,
+    "y1": 164.8106231689453,
+    "x2": 546.9073486328125,
+    "y2": 193.29400634765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 208.79999999999998,
+    "x2": 537.12,
+    "y2": 275.03999999999996
+  },
+  "caption": "Table 2. Confusion Matrices for Training On All Sentences",
+  "imageText": ["299", "1,142", "17", "491", "21", "431", "Original", "Inserted", "Deleted", "18,447", "58", "262", "Conditional", "Random", "Field", "Predicted", "768", "674", "16", "761", "17", "165", "Original", "Inserted", "Deleted", "18,621", "70", "76", "Structured", "Perceptron", "Predicted", "720", "711", "27", "730", "23", "190", "Original", "Inserted", "Deleted", "18,312", "106", "349", "Hidden", "Markov", "Model", "Predicted", "Inserted", "Deleted", "ua", "l", "Original", "A", "ct"],
+  "renderURL": "jpeg058-Table2-1.png",
+  "captionBoundary": {
+    "x1": 185.20899963378906,
+    "y1": 286.0386657714844,
+    "x2": 426.48297119140625,
+    "y2": 292.60400390625
+  }
+}]

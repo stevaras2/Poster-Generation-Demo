@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 482.88,
+    "x2": 289.44,
+    "y2": 605.28
+  },
+  "caption": "Fig. 4: Sample SPDs at Bytes and the Circle",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 86.31999969482422,
+    "y1": 613.0473022460938,
+    "x2": 270.585693359375,
+    "y2": 619.0499877929688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 60.0,
+    "x2": 544.3199999999999,
+    "y2": 214.07999999999998
+  },
+  "caption": "Fig. 5: Variance Explained Vs # of Principal Components",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 314.8599853515625,
+    "y1": 221.5773162841797,
+    "x2": 552.23876953125,
+    "y2": 227.58001708984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 60.0,
+    "x2": 288.0,
+    "y2": 212.16
+  },
+  "caption": "Fig. 3: Sample MFCCs at Bytes and the Circle",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 81.62000274658203,
+    "y1": 219.99729919433594,
+    "x2": 275.290771484375,
+    "y2": 226.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 322.56,
+    "x2": 544.3199999999999,
+    "y2": 499.2
+  },
+  "caption": "Fig. 6: Rains vs Tressider using the first 3 PCs",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 336.79998779296875,
+    "y1": 507.0072937011719,
+    "x2": 530.3016357421875,
+    "y2": 513.010009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 538.56,
+    "x2": 544.3199999999999,
+    "y2": 708.0
+  },
+  "caption": "Fig. 7: Oval vs Circle using the first 3 PCs",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 344.7799987792969,
+    "y1": 715.8273315429688,
+    "x2": 522.3209228515625,
+    "y2": 721.8300170898438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 60.0,
+    "x2": 556.3199999999999,
+    "y2": 144.0
+  },
+  "caption": "Fig. 11: Human Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 363.3399963378906,
+    "y1": 151.51731872558594,
+    "x2": 503.7586975097656,
+    "y2": 157.52001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 160.79999999999998,
+    "x2": 289.44,
+    "y2": 233.28
+  },
+  "caption": "Fig. 10: Confusion Matrix with Balanced Classes",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 77.08000183105469,
+    "y1": 240.49729919433594,
+    "x2": 279.8270568847656,
+    "y2": 246.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 60.0,
+    "x2": 288.0,
+    "y2": 131.04
+  },
+  "caption": "Fig. 9: Overall Confusion Matrix",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 110.52999877929688,
+    "y1": 138.39732360839844,
+    "x2": 246.37550354003906,
+    "y2": 144.4000244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 60.0,
+    "x2": 289.44,
+    "y2": 213.12
+  },
+  "caption": "Fig. 1: System Block Diagram",
+  "imageText": [],
+  "renderURL": "jpeg014-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 115.70999908447266,
+    "y1": 220.9172821044922,
+    "x2": 241.19398498535156,
+    "y2": 226.91998291015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 585.6,
+    "x2": 556.3199999999999,
+    "y2": 678.24
+  },
+  "caption": "TABLE II: Classifier Comparison",
+  "imageText": ["Random", "Forest", "14.09%", "28.26%", "Gaussian", "SVM", "+", "Logistic", "Ensemble", "13.89%", "19.68%", "Logistic", "15.45%", "21.22%", "Linear", "Kernel", "SVM", "27.84%", "32.74%", "Gaussian", "Kernel", "SVM", "13.65%", "21.72%", "Classi?er", "X-Validation", "Generalization"],
+  "renderURL": "jpeg014-TableII-1.png",
+  "captionBoundary": {
+    "x1": 364.8599853515625,
+    "y1": 570.6373291015625,
+    "x2": 502.239990234375,
+    "y2": 576.6400146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 516.0,
+    "y1": 30.72,
+    "x2": 555.36,
+    "y2": 206.4
+  },
+  "caption": "Fig. 8: Error vs. Number of Subsamples",
+  "imageText": ["4"],
+  "renderURL": "jpeg014-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 350.8599853515625,
+    "y1": 213.85728454589844,
+    "x2": 516.236083984375,
+    "y2": 219.8599853515625
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 39.839999999999996,
+    "x2": 540.0,
+    "y2": 233.76
+  },
+  "caption": "Figure 4: Energy predicted by regression tree versus true energy for a sample of test pulses using 2 template method (13% error).4a. Predicted energy using 15 templates generated with K-means Clustering (0.1% error).",
+  "imageText": ["(a)", "(b)", "5", "0.0", "0.5", "1.0", "1.5", "2.0", "2.5", "3.0", "true", "energy", "[MeV]", "0.0", "0.5", "1.0", "1.5", "2.0", "2.5", "3.0", "pr", "ed", "ic", "te", "d", "en", "er", "gy", "[M", "eV", "]", "induction", "charge", "collection"],
+  "renderURL": "jpeg009-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 249.0914764404297,
+    "x2": 540.0025634765625,
+    "y2": 281.64404296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 308.64,
+    "x2": 496.32,
+    "y2": 468.47999999999996
+  },
+  "caption": "Figure 5: WFs with noise Figure 5b and the Energy prediction for these WFs Figure 5a. Observed 17% error on 10k WF test set in measurement of energy for collection signals. In addition many of the induction signals were assigned large energies.",
+  "imageText": ["(a)", "(b)"],
+  "renderURL": "jpeg009-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 483.6534423828125,
+    "x2": 540.005859375,
+    "y2": 516.20703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 39.36,
+    "x2": 540.0,
+    "y2": 236.16
+  },
+  "caption": "Figure 1: Templates of Induction and collection signals used in the optimal filter in the time domain. Signals represent pure collection and induction pulses.",
+  "imageText": ["(b)", "Induction", "Signal.", "EXO-200", "Waveform", "Template", "1400", "1200", "1000", "800", "600", "400", "200", "0", "-200", "-400", "-600", "s", "ou", "nt", "C", "C", "A", "D", "s]µTime[", "0", "200", "400", "600", "800", "1000", "1200", "1400", "1600", "1800", "2000", "2200", "(a)", "Collection", "Signal.", "4", "s]µTime[", "0", "200", "400", "600", "800", "1000", "1200", "1400", "1600", "1800", "2000", "2200", "A", "D", "C", "C", "ou", "nt", "s", "-5000", "0", "5000", "10000", "15000", "20000", "EXO-200", "Waveform", "Template"],
+  "renderURL": "jpeg009-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 251.3464813232422,
+    "x2": 540.0057983398438,
+    "y2": 270.35003662109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 501.59999999999997,
+    "x2": 519.36,
+    "y2": 662.4
+  },
+  "caption": "Figure 3: Templates generated using K-means clustering with 10 clusters. Appears to find both collection like and induction like signals.",
+  "imageText": [],
+  "renderURL": "jpeg009-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 688.6714477539062,
+    "x2": 540.003662109375,
+    "y2": 707.6749877929688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 223.2,
+    "y1": 312.96,
+    "x2": 381.12,
+    "y2": 437.28
+  },
+  "caption": "Figure 2: Projection of waveforms into collection and induction space using the 2 templates generated with a charge deposit in the detector center.",
+  "imageText": ["Induction", "Collection", "de", "pl", "itu", "n", "Am", "ct", "io", "In", "du", "120", "100", "80", "60", "40", "20", "0", "0", "20", "40", "60", "80", "100", "Collection", "Amplitude"],
+  "renderURL": "jpeg009-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 454.4304504394531,
+    "x2": 540.0025634765625,
+    "y2": 473.43402099609375
+  }
+}]

@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 418.56,
+    "y1": 656.64,
+    "x2": 542.4,
+    "y2": 724.3199999999999
+  },
+  "caption": "Figure 5: Mean Average Precision (using different values of k) for our kernel methods. The algorithms are numbered in order of discussion in this section.",
+  "imageText": [],
+  "renderURL": "jpeg017-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 419.4570007324219,
+    "y1": 740.0516967773438,
+    "x2": 541.2766723632812,
+    "y2": 804.8090209960938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 185.76,
+    "y1": 645.12,
+    "x2": 541.4399999999999,
+    "y2": 785.28
+  },
+  "caption": "Figure 4: Pearson correlation matrix for the processed features.",
+  "imageText": ["Our", "most", "successful", "class", "of", "algorithms", "involve", "a", "novel", "combination", "of", "clus-", "tering,", "kernelized", "similarity", "and", "weighting", "distance,", "inspired", "by", "user", "similarity", "algorithms", "commonly", "used", "in", "recommendation", "systems.", "[3]", "First,", "we", "cluster", "all", "of", "training", "data", "based", "on", "the", "src", "destination", "id", "feature.", "The", "idea", "was", "that", "people", "who", "travel", "to", "similar", "destinations", "are", "more", "likely", "to", "book", "into", "the", "same", "hotel", "clusters.", "Originally", "we", "attempted", "to", "cluster", "based", "on", "hotel", "market", "(due", "to", "the", "relatively", "high", "correlation", "with", "the", "target", "hotel", "clusters,", "see", "?gure", "3)", "but", "this", "resulted", "in", "poor", "results,", "as", "the", "number", "of", "hotel", "markets", "represented", "in", "the", "data", "was", "too", "small,", "We", "experimented", "with", "several", "regularization", "terms", "and", "stepsizes,", "but", "found", "that", "they", "had", "no", "real", "impact", "on", "our", "results.", "For", "the", "number", "of", "rounds", "to", "train,", "we", "chose", "6", "as", "a", "reasonable", "trade-o?", "between", "complexity", "of", "the", "model", "and", "time", "needed", "to", "train", "it."],
+  "renderURL": "jpeg017-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 774.8756713867188,
+    "x2": 175.81666564941406,
+    "y2": 803.7680053710938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 418.56,
+    "y1": 471.84,
+    "x2": 542.4,
+    "y2": 534.24
+  },
+  "caption": "Figure 3: Mean Average Precision (using different values of k) for our baseline methods.",
+  "imageText": [],
+  "renderURL": "jpeg017-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 419.4570007324219,
+    "y1": 550.2077026367188,
+    "x2": 541.2786865234375,
+    "y2": 591.0549926757812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 418.56,
+    "y1": 239.51999999999998,
+    "x2": 542.4,
+    "y2": 324.96
+  },
+  "caption": "Figure 2: The distribution of the target hotel clusters.",
+  "imageText": [],
+  "renderURL": "jpeg017-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 419.4570007324219,
+    "y1": 341.3877258300781,
+    "x2": 541.2796020507812,
+    "y2": 358.3240051269531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 296.64,
+    "y1": 271.68,
+    "x2": 542.4,
+    "y2": 428.15999999999997
+  },
+  "caption": "Figure 6: Precision, recall, f1 and ”MAP5” scores for each algorithm across the chosen subset of the data. (MAP5 refers to mean average precision over 5 recommendations)",
+  "imageText": [],
+  "renderURL": "jpeg017-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 297.63800048828125,
+    "y1": 444.24371337890625,
+    "x2": 541.2792358398438,
+    "y2": 485.0909729003906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 185.76,
+    "y1": 645.6,
+    "x2": 541.4399999999999,
+    "y2": 786.24
+  },
+  "caption": "Figure 1: Threedimensional PCA plot of the three most popular hotel clusters. Each is given a different color.",
+  "imageText": ["The", "data", "consisted", "of", "37", "million", "users", "and", "anonymized", "features", "including", "aspects", "such", "as", "number", "of", "children,", "number", "of", "rooms", "booked,", "destination", "visited,", "sate", "of", "check", "in", "and", "check", "out,", "location", "of", "user", "when", "booking,", "whether", "or", "not", "the", "booking", "was", "part", "of", "a", "package,", "etc.", "We", "were", "tasked", "with", "using", "this", "data", "to", "predict", "which", "hotel", "cluster", "the", "user", "was", "going", "to", "book", "into.", "Some", "feature", "engineering", "was", "used", "on", "the", "data", "set", "to", "extract", "more", "useful", "features.", "The", "date", "of", "check", "in,", "date", "of", "check", "out", "and", "date", "of", "booking", "were", "removed", "and", "replaced", "with", "length", "of", "stay", "(in", "days),", "month", "(valued", "from", "1", "to", "12),", "year", "(valued", "1,", "2", "or", "3", "as", "the", "data", "was", "from", "2013", "to", "2014)", "and", "week", "(numbered", "from", "one", "to", "52).", "The", "purpose", "was", "to", "discretize", "the", "dates", "into", "a", "format", "more", "amenable", "to", "our", "learning", "algorithms.", "It", "should", "be", "noted", "that", "the", "given", "data", "is", "known", "to", "have", "a", "data", "leak", "a?ecting", "roughly", "thirty", "percent", "of", "the", "test", "data", "and", "if", "used", "would", "boost", "our", "accuracy", "scores", "by", "roughly", "twenty"],
+  "renderURL": "jpeg017-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 759.3817138671875,
+    "x2": 175.81967163085938,
+    "y2": 812.1840209960938
+  }
+}]

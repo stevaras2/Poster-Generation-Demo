@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 433.91999999999996,
+    "x2": 540.0,
+    "y2": 598.0799999999999
+  },
+  "caption": "Figure 2: Projection of training and validation data onto first 2 principal components. The symmetry of the plots is a likely consequence of data augmentation procedures.",
+  "imageText": [],
+  "renderURL": "jpeg153-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.02400207519531,
+    "y1": 603.3099975585938,
+    "x2": 528.8787841796875,
+    "y2": 622.27001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 72.0,
+    "x2": 540.0,
+    "y2": 271.2
+  },
+  "caption": "Figure 3: ROC curves across training and validation datasets for the best-performing (on the validation dataset) model of each model type. The ROC curve for the overall best-performing model is also shown for the test dataset. AUROC values in the legend correspond to performance on the validation dataset.",
+  "imageText": [],
+  "renderURL": "jpeg153-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 72.02400207519531,
+    "y1": 275.3800048828125,
+    "x2": 532.9818725585938,
+    "y2": 307.7799987792969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 324.0,
+    "x2": 541.4399999999999,
+    "y2": 619.1999999999999
+  },
+  "caption": "Table 1: Results for all models tested. *Did not converge after 1000 iterations. **Did not converge after 50 iterations.",
+  "imageText": ["Logistic", "regression", "?=0.1", "0.7713", "0.7605", "--", "Logistic", "regression", "?=1", "0.7713", "0.7605", "--", "Logistic", "regression", "?=10", "0.7713", "0.7605", "--", "SVM", "(linear)*", "?=0.1", "0.7731", "0.7625", "--", "SVM", "(linear)*", "?=1", "0.7346", "0.7292", "--", "SVM", "(linear)*", "?=10", "0.6195", "0.6165", "--", "Random", "forest", "10", "trees,", "max", "depth", "n/a", "0.9932", "0.7811", "--", "Random", "forest", "10", "trees,", "max", "depth", "10", "0.8306", "0.7657", "--", "Random", "forest", "10", "trees,", "max", "depth", "50", "0.9932", "0.7812", "--", "Random", "forest", "100", "trees,", "max", "depth", "n/a", "0.9995", "0.8243", "--", "Random", "forest", "100", "trees,", "max", "depth", "10", "0.8545", "0.7846", "--", "Random", "forest", "100", "trees,", "max", "depth", "50", "0.9995", "0.8245", "0.8268", "Random", "forest", "200", "trees,", "max", "depth", "5", "0.7707", "0.7527", "--", "Random", "forest", "200", "trees,", "max", "depth", "10", "0.858", "0.7869", "--", "SVM", "(RBF)**", "?=0.1", "0.48", "0.4817", "--", "SVM", "(RBF)**", "?=1", "0.4794", "0.4822", "--", "SVM", "(RBF)**", "?=10", "0.4774", "0.4799", "--", "Neural", "network", "?=0.0001", "0.9783", "0.7829", "--", "Neural", "network", "?=0.001", "0.9775", "0.7832", "--", "Neural", "network", "?=0.01", "0.9756", "0.783", "--", "Model", "Hyperparameters", "AUROC", "(train)", "AUROC", "(validation)", "AUROC", "(test)"],
+  "renderURL": "jpeg153-Table1-1.png",
+  "captionBoundary": {
+    "x1": 72.02400207519531,
+    "y1": 623.949951171875,
+    "x2": 535.078125,
+    "y2": 642.9100341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 433.91999999999996,
+    "x2": 258.24,
+    "y2": 555.36
+  },
+  "caption": "Figure 1. Comparison of disorder prevalence between transcription factors and control (random) sequences from the human genome. A motivating example in the study of disordered PPI’s is the difference in percent disorder between transcription factors (TFs) and random sequences in the human genome. TFs are thought to recruit transcriptional complexes (such as mediator) via their disordered domains.",
+  "imageText": [],
+  "renderURL": "jpeg153-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 277.0799865722656,
+    "y1": 443.9000244140625,
+    "x2": 530.6243896484375,
+    "y2": 543.530029296875
+  }
+}]

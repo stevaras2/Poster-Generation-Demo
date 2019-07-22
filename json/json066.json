@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 555.84,
+    "x2": 544.3199999999999,
+    "y2": 690.24
+  },
+  "caption": "Table 1: Results of Feature Tweaking",
+  "imageText": ["Characteristics", "SVM", "Score", "Linreg", "Score", "SVM-1-0.1", "0.24", "0.16", "SVM-10000-0.1", "-.4", "0.16", "SVM-10-1e-06", "0.24", "0.16", "Mean-Centered", "0.24", "0.16", "Headway", "-0.007", "0.36", "VyAy", "-0.004", "-0.05", "Frame", "History", "0.24", "0.06", "Inital", "Position", "0.29", "0.26"],
+  "renderURL": "jpeg066-Table1-1.png",
+  "captionBoundary": {
+    "x1": 335.9410095214844,
+    "y1": 533.47021484375,
+    "x2": 515.0418701171875,
+    "y2": 540.6732177734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 225.6,
+    "x2": 307.2,
+    "y2": 344.15999999999997
+  },
+  "caption": "Figure 4: Example of multi-lane merge",
+  "imageText": [],
+  "renderURL": "jpeg066-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 92.78800201416016,
+    "y1": 356.53900146484375,
+    "x2": 280.23358154296875,
+    "y2": 363.74200439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 70.56,
+    "x2": 307.2,
+    "y2": 189.12
+  },
+  "caption": "Figure 3: A well-behaved, single lane merge",
+  "imageText": [],
+  "renderURL": "jpeg066-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 80.05599975585938,
+    "y1": 201.8709716796875,
+    "x2": 292.9661560058594,
+    "y2": 209.073974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 70.56,
+    "x2": 307.2,
+    "y2": 197.28
+  },
+  "caption": "Figure 1: Visualization of Highway Vehicles",
+  "imageText": [],
+  "renderURL": "jpeg066-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 79.81700134277344,
+    "y1": 209.6519775390625,
+    "x2": 293.2053527832031,
+    "y2": 216.85498046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 233.76,
+    "x2": 306.24,
+    "y2": 361.44
+  },
+  "caption": "Figure 2: LinReg Baseline Losses",
+  "imageText": [],
+  "renderURL": "jpeg066-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 105.21499633789062,
+    "y1": 373.7539978027344,
+    "x2": 267.80572509765625,
+    "y2": 380.9570007324219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 423.84,
+    "x2": 538.0799999999999,
+    "y2": 469.44
+  },
+  "caption": "Table 3: Clustering Scores",
+  "imageText": ["Model", "cluster", "0", "cluster", "1", "cluster", "2", "SVM", "0.19", "No", "examples", "0.48", "Linreg", "-3.92", "No", "examples", "-0.01"],
+  "renderURL": "jpeg066-Table3-1.png",
+  "captionBoundary": {
+    "x1": 362.02099609375,
+    "y1": 411.33807373046875,
+    "x2": 488.9613037109375,
+    "y2": 418.54107666015625
+  }
+}]

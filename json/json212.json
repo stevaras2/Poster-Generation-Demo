@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 144.96,
+    "y1": 490.56,
+    "x2": 464.15999999999997,
+    "y2": 555.36
+  },
+  "caption": "Figure 3: Procedure for assessing accuracy of VAE model by generating random examples. Random points are sampled from the latent space and decoded. The accuracy is defined as the MSE between the reconstructed spectrum and the real spectrum of the reconstructed device.",
+  "imageText": [],
+  "renderURL": "jpeg212-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 136.5800018310547,
+    "y1": 562.9315185546875,
+    "x2": 475.06597900390625,
+    "y2": 589.4199829101562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 70.56,
+    "x2": 562.0799999999999,
+    "y2": 184.32
+  },
+  "caption": "Figure 2: Left: Schematic of variational autoencoder showing input and output vectors, encoder and decoder portions and latent space. Right: Loss function during training.",
+  "imageText": [],
+  "renderURL": "jpeg212-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 148.33999633789062,
+    "y1": 194.72149658203125,
+    "x2": 464.18902587890625,
+    "y2": 210.02001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 118.56,
+    "y1": 129.6,
+    "x2": 459.35999999999996,
+    "y2": 173.28
+  },
+  "caption": "Table 2: Correlation between latent variables and decoded layer thicknesses based on a grid sampling of the latent space. Each entry is a correlation cor(?? , ??). The layer thicknesses ?2 and ?4 correspond to the high-index silicon layers, which have a larger effect on the spectrum than the three glass layers.",
+  "imageText": ["?1", "?2", "?3", "?4", "?5", "?1", "-0.23", "0.33", "0.34", "0.82", "-0.22", "?2", "-0.04", "0.80", "0.10", "-0.24", "0.16", "?3", "-0.84", "0.02", "-0.06", "-0.11", "-0.49"],
+  "renderURL": "jpeg212-Table2-1.png",
+  "captionBoundary": {
+    "x1": 119.30000305175781,
+    "y1": 80.36150360107422,
+    "x2": 457.4410400390625,
+    "y2": 119.53997802734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 169.92,
+    "y1": 290.88,
+    "x2": 425.28,
+    "y2": 391.68
+  },
+  "caption": "Figure 6: Application of VAE for inverse design. A random device is input with the target spectrum. Example outputs are shown on the right.",
+  "imageText": [],
+  "renderURL": "jpeg212-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 136.5800018310547,
+    "y1": 392.7514953613281,
+    "x2": 463.5760498046875,
+    "y2": 408.04998779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 150.72,
+    "y1": 198.72,
+    "x2": 435.35999999999996,
+    "y2": 331.2
+  },
+  "caption": "Figure 1: a) Schematic of transfer matrix method. b) Representative example of a discretized transmission spectrum",
+  "imageText": [],
+  "renderURL": "jpeg212-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 123.5,
+    "y1": 338.2715148925781,
+    "x2": 460.717041015625,
+    "y2": 353.57000732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 216.95999999999998,
+    "y1": 97.44,
+    "x2": 400.32,
+    "y2": 198.72
+  },
+  "caption": "Table 1: VAE Hyperparameter Tuning",
+  "imageText": ["PCA", "Baseline", "17.81", "100", "20", "1.86", "100", "50", "1.43", "100", "80", "1.17", "100", "200", "1.7", "1000", "80", "1.255", "Accuracy", "(MSE)", "Hidden", "Neurons", "Mini-Batch", "Size"],
+  "renderURL": "jpeg212-Table1-1.png",
+  "captionBoundary": {
+    "x1": 242.4499969482422,
+    "y1": 80.48149871826172,
+    "x2": 383.9620056152344,
+    "y2": 84.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 148.79999999999998,
+    "y1": 276.0,
+    "x2": 463.2,
+    "y2": 397.44
+  },
+  "caption": "Figure 4: Example spectra sampled from the test set showing a comparison between the input, reconstructed and actual output spectra.",
+  "imageText": [],
+  "renderURL": "jpeg212-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 136.5800018310547,
+    "y1": 407.1715087890625,
+    "x2": 454.51708984375,
+    "y2": 422.4700012207031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 141.6,
+    "y1": 565.92,
+    "x2": 450.24,
+    "y2": 683.04
+  },
+  "caption": "Figure 5: (Left) Latent space representation of the test set. (Right) Decoded thickness parameter ?2 (thickness of the first silicon layer) after sampling on a grid in the latent space with the trained VAE. The latent parameter ?2 appears to be strongly correlated with ?2.",
+  "imageText": ["z", "3", "z", "2", "z", "1"],
+  "renderURL": "jpeg212-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 120.62000274658203,
+    "y1": 685.8414916992188,
+    "x2": 451.153076171875,
+    "y2": 714.2160034179688
+  }
+}]

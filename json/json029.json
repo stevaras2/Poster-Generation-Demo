@@ -1,0 +1,301 @@
+[{
+  "renderDpi": 150,
+  "name": "V",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 362.88,
+    "y1": 605.76,
+    "x2": 508.32,
+    "y2": 635.04
+  },
+  "caption": "TABLE V LINEAR DISCRIMINANT ANALYSIS RESULTS",
+  "imageText": ["Quantile", "Grouping", "Accuracy", "Error", "Quartiles", ".665", "1.10", "Deciles", ".440", "1.72"],
+  "renderURL": "jpeg029-TableV-1.png",
+  "captionBoundary": {
+    "x1": 360.5030212402344,
+    "y1": 577.626953125,
+    "x2": 510.7013854980469,
+    "y2": 594.3839111328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 180.95999999999998,
+    "x2": 296.15999999999997,
+    "y2": 238.07999999999998
+  },
+  "caption": "TABLE II MEDICARE.GOV ESTIMATOR RESULTS",
+  "imageText": ["Model", "Residual", "Sum", "of", "Squares", "R2", "Score", "Explained", "Variance", "Score", "Linear", "Regression", "0.00430412", "0.11957590", "0.13182519", "SVM", "0.00451941", "0.06599637", "0.08464518", "Gradient", "Boosting", "0.00377542", "0.22417090", "0.23331060"],
+  "renderURL": "jpeg029-TableII-1.png",
+  "captionBoundary": {
+    "x1": 111.61602020263672,
+    "y1": 152.5670928955078,
+    "x2": 241.1884307861328,
+    "y2": 169.3240966796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 450.71999999999997,
+    "x2": 296.15999999999997,
+    "y2": 508.32
+  },
+  "caption": "TABLE III HRR BASELINE ESTIMATOR RESULTS",
+  "imageText": ["Model", "Residual", "Sum", "of", "Squares", "R2", "Score", "Explained", "Variance", "Score", "Linear", "Regression", "50,447,836", "-26.28506791", "-25.9796321", "SVM", "2,026,808", "-0.09621391", "-0.08512193", "Gradient", "Boosting", "1,540,374", ".16687749", ".19183267"],
+  "renderURL": "jpeg029-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 111.90299224853516,
+    "y1": 422.6169128417969,
+    "x2": 240.90139770507812,
+    "y2": 439.3748779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 57.12,
+    "y1": 537.6,
+    "x2": 295.68,
+    "y2": 661.4399999999999
+  },
+  "caption": "Fig. 1. Training/Test Set Deviance and Most Important Features for HRR Baseline Estimator Regression",
+  "imageText": ["Gradient", "Boosting", "for", "HRR-level", "Data", "Baseline", "Estimator"],
+  "renderURL": "jpeg029-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 674.073974609375,
+    "x2": 298.8016357421875,
+    "y2": 687.8419799804688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 322.56,
+    "y1": 156.0,
+    "x2": 549.12,
+    "y2": 213.12
+  },
+  "caption": "TABLE IV HRR REGRESSION RESULTS",
+  "imageText": ["Model", "Residual", "Sum", "of", "Squares", "R2", "Score", "Explained", "Variance", "Score", "Linear", "Regression", "759,045", ".58946504", ".59364512", "SVM", "706,283", ".61800151", ".6248149", "Gradient", "Boosting", "595,374", ".67798742", ".68243715"],
+  "renderURL": "jpeg029-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 387.4210205078125,
+    "y1": 127.59608459472656,
+    "x2": 483.7823791503906,
+    "y2": 144.35308837890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 240.95999999999998,
+    "x2": 544.3199999999999,
+    "y2": 365.28
+  },
+  "caption": "Fig. 2. Training/Test Set Deviance and Most Important Features for HRR Regression",
+  "imageText": ["Gradient", "Boosting", "for", "HRR-level", "Data"],
+  "renderURL": "jpeg029-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 377.2860412597656,
+    "x2": 558.0015869140625,
+    "y2": 391.0550231933594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 105.6,
+    "y1": 209.28,
+    "x2": 247.2,
+    "y2": 322.08
+  },
+  "caption": "Fig. 8. Gradient boosting learning curve produced from Hospital level data with training sets of varying sizes",
+  "imageText": ["Gradient", "Boosting", "Learning", "Curve"],
+  "renderURL": "jpeg029-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 335.0940246582031,
+    "x2": 298.80157470703125,
+    "y2": 348.86199951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 112.8,
+    "y1": 53.76,
+    "x2": 240.48,
+    "y2": 167.04
+  },
+  "caption": "Fig. 7. SVM learning curve produced from Hospital level data with training sets of varying size",
+  "imageText": ["SVM", "Learning", "Curve"],
+  "renderURL": "jpeg029-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 179.4390411376953,
+    "x2": 298.80157470703125,
+    "y2": 193.2080078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 368.64,
+    "y1": 53.76,
+    "x2": 503.03999999999996,
+    "y2": 166.07999999999998
+  },
+  "caption": "Fig. 4. Hospital level data projected onto two dimensions using PCA",
+  "imageText": ["PCA", "with", "k-means", "(k", "=", "5)"],
+  "renderURL": "jpeg029-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 319.4360046386719,
+    "y1": 178.75599670410156,
+    "x2": 551.764404296875,
+    "y2": 183.5579833984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 196.79999999999998,
+    "x2": 553.4399999999999,
+    "y2": 334.08
+  },
+  "caption": "Fig. 5. Hospital level data projected onto two dimensions using various Manifold Learning techniques",
+  "imageText": ["Manifold", "Learning", "with", "10,046", "points", "and", "100", "neighbors"],
+  "renderURL": "jpeg029-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 347.05303955078125,
+    "x2": 558.0017700195312,
+    "y2": 360.8210144042969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 60.0,
+    "y1": 182.88,
+    "x2": 293.28,
+    "y2": 240.48
+  },
+  "caption": "TABLE VI HOSPITAL REGRESSION RESULTS",
+  "imageText": ["Model", "Residual", "Sum", "of", "Squares", "R2", "Score", "Explained", "Variance", "Score", "Linear", "Regression", "77,321,554", ".7843928", ".78697434", "SVM", "36,016,307", ".8932150", ".89335357", "Gradient", "Boosting", "45,902,257", ".8655878", ".86390434"],
+  "renderURL": "jpeg029-TableVI-1.png",
+  "captionBoundary": {
+    "x1": 119.7490005493164,
+    "y1": 154.7490997314453,
+    "x2": 233.05441284179688,
+    "y2": 171.507080078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 273.59999999999997,
+    "x2": 285.12,
+    "y2": 397.44
+  },
+  "caption": "Fig. 3. Training/Test Set Deviance and Most Important Features for Hospital Level Regression",
+  "imageText": ["Gradient", "Boosting", "for", "Hospital-level", "Data"],
+  "renderURL": "jpeg029-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 409.8620300292969,
+    "x2": 298.8016052246094,
+    "y2": 423.6310119628906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 364.8,
+    "y1": 467.52,
+    "x2": 506.4,
+    "y2": 581.28
+  },
+  "caption": "Fig. 6. Linear regression learning curve produced from Hospital level data with training sets of varying size",
+  "imageText": ["Linear", "Regression", "Learning", "Curve"],
+  "renderURL": "jpeg029-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 593.2979736328125,
+    "x2": 558.0016479492188,
+    "y2": 607.0670166015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VII",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 96.96,
+    "y1": 552.96,
+    "x2": 256.32,
+    "y2": 620.16
+  },
+  "caption": "TABLE VII DAHC HOSPITAL LEVEL k-MEANS CLUSTERS",
+  "imageText": ["Number", "of", "Clusters", "Silhouette", "Coef?cient", "k", "=", "3", "0.493468", "k", "=", "4", "0.464665", "k", "=", "5", "0.449925", "k", "=", "6", "0.424073", "k", "=", "7", "0.398933", "k", "=", "8", "0.382540"],
+  "renderURL": "jpeg029-TableVII-1.png",
+  "captionBoundary": {
+    "x1": 97.59700012207031,
+    "y1": 524.8309326171875,
+    "x2": 255.20681762695312,
+    "y2": 541.5879516601562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 0,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 178.56,
+    "x2": 558.24,
+    "y2": 376.32
+  },
+  "caption": "TABLE I RAW DATA FILES",
+  "imageText": ["Medicare.gov", "Structural", "Measures", "-", "Hospital.csv", "2014", "Medicare.gov", "Timely", "and", "Effective", "Care", "-", "Hospital.csv", "2014", "Medicare.gov", "Healthcare", "Associated", "Infections", "-", "Hospital.csv", "2014", "Medicare.gov", "Outpatient", "Imaging", "Ef?ciency", "-", "Hospital.csv", "2014", "Medicare.gov", "READMISSION", "REDUCTION.csv", "2014", "Medicare.gov", "Readmissions", "and", "Deaths", "-", "Hospital.csv", "2015", "Medicare.gov", "Complications", "-", "Hospital.csv", "2015", "Medicare.gov", "Structural", "Measures", "-", "Hospital.csv", "2015", "Medicare.gov", "Timely", "and", "Effective", "Care", "-", "Hospital.csv", "2015", "Medicare.gov", "Healthcare", "Associated", "Infections", "-", "Hospital.csv", "2015", "Medicare.gov", "Outpatient", "Imaging", "Ef?ciency", "-", "Hospital.csv", "2015", "Medicare.gov", "READMISSION", "REDUCTION.csv", "2015", "pital.csv", "2014", "Source", "Name", "Year", "DAHC", "TA1", "demographics.xls", "N/A", "DAHC", "DAP", "hrr", "data", "2011.xls", "2011", "DAHC", "DAP", "hospital", "data", "2010.xls", "2010", "DAHC", "DAP", "hospital", "data", "2011.xls", "2011", "DAHC", "DAP", "hospital", "data", "2012.xls", "2012", "DAHC", "DAP", "hospital", "data", "2013.xls", "2013", "Medicare.gov", "Readmissions", "Complications", "and", "Deaths", "-", "Hos-"],
+  "renderURL": "jpeg029-TableI-1.png",
+  "captionBoundary": {
+    "x1": 406.17498779296875,
+    "y1": 150.1630401611328,
+    "x2": 465.031494140625,
+    "y2": 166.9210205078125
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 298.56,
+    "x2": 526.0799999999999,
+    "y2": 458.4
+  },
+  "caption": "Figure 3. LSTM configuration",
+  "imageText": [],
+  "renderURL": "jpeg122-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 372.6910095214844,
+    "y1": 463.9907531738281,
+    "x2": 481.28314208984375,
+    "y2": 469.39300537109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 70.56,
+    "x2": 526.0799999999999,
+    "y2": 221.28
+  },
+  "caption": "Figure 2. Rating Distribution of Amazon Reviews",
+  "imageText": [],
+  "renderURL": "jpeg122-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 337.5169982910156,
+    "y1": 227.05276489257812,
+    "x2": 516.45947265625,
+    "y2": 232.45501708984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 374.88,
+    "x2": 290.4,
+    "y2": 556.3199999999999
+  },
+  "caption": "Table 1. Performance of different models",
+  "imageText": ["Models", "Training", "Acc.", "Test", "Acc.", "Multinomial", "NB", "75.1%", "70.6%", "Linear", "SVM", "83.4%", "69.6%", "RBF", "SVM", "69.7%", "69.2%", "KNN-4", "61.7%", "61.7%", "KNN-5", "65.5%", "65.4%", "KNN-6", "64.9%", "64.6%", "LSTM", "73.5%", "71.5%", "Gaussian", "NB", "w/", "Glove", "52.2%", "52.4%", "Linear", "SVM", "w/", "Glove", "68.7%", "68.6%", "KNN-4", "w/", "Glove", "58.1%", "57.6%", "KNN-5", "w/", "Glove", "62.6%", "62.2%", "KNN-6", "w/", "Glove", "61.3%", "61.6%", "LSTM", "w/", "Glove", "70.1%", "70.2%", "LSTM", "w/", "Glove(Resample)", "85.6%", "65.6%"],
+  "renderURL": "jpeg122-Table1-1.png",
+  "captionBoundary": {
+    "x1": 94.50700378417969,
+    "y1": 567.6487426757812,
+    "x2": 241.96835327148438,
+    "y2": 573.051025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 70.56,
+    "x2": 557.28,
+    "y2": 221.28
+  },
+  "caption": "Figure 4. Ranking of different models by test accuracy",
+  "imageText": [],
+  "renderURL": "jpeg122-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 329.1780090332031,
+    "y1": 227.31576538085938,
+    "x2": 524.7979736328125,
+    "y2": 232.718017578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 554.88,
+    "x2": 268.32,
+    "y2": 651.36
+  },
+  "caption": "Figure 1. Published Papers on Sentiment Analysis",
+  "imageText": [],
+  "renderURL": "jpeg122-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 78.51599884033203,
+    "y1": 657.4837036132812,
+    "x2": 257.9605712890625,
+    "y2": 662.885986328125
+  }
+}]

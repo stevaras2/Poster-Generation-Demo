@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 315.84,
+    "y1": 352.8,
+    "x2": 560.16,
+    "y2": 438.24
+  },
+  "caption": "Fig. 4. An example of LSTM visualized, side-by-side with the relevant equations. [14]",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 312.0,
+    "y1": 453.218994140625,
+    "x2": 563.9999389648438,
+    "y2": 467.1709899902344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.0,
+    "y1": 579.84,
+    "x2": 568.3199999999999,
+    "y2": 671.04
+  },
+  "caption": "Fig. 5. CNN + RNN + DenseNet-based model",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 312.0,
+    "y1": 685.553955078125,
+    "x2": 473.38397216796875,
+    "y2": 690.5059814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 252.95999999999998,
+    "x2": 304.32,
+    "y2": 387.36
+  },
+  "caption": "Fig. 8. Performance plotted against various models",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 48.0,
+    "y1": 401.5010070800781,
+    "x2": 227.9999542236328,
+    "y2": 406.4530029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.0,
+    "y1": 42.72,
+    "x2": 288.0,
+    "y2": 197.28
+  },
+  "caption": "Fig. 7. Logistic Regression (LR); RNN (R); CNN (C); NN (N); SVM (L)inear, (P)oly 2, (S)igmoid, (RB)F; Yellow = Best model; Blue = Best model - age",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 48.0,
+    "y1": 211.56399536132812,
+    "x2": 300.0,
+    "y2": 234.5159912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 218.88,
+    "x2": 298.08,
+    "y2": 426.24
+  },
+  "caption": "Fig. 1. Example time-series plots from two patients with ICA parcellation. a) female non-heavy drinker b) male heavy drinker.",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 48.0,
+    "y1": 441.0260009765625,
+    "x2": 299.9999694824219,
+    "y2": 454.9779968261719
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.0,
+    "y1": 254.88,
+    "x2": 568.3199999999999,
+    "y2": 345.12
+  },
+  "caption": "Fig. 3. Craddock Parcellation examples [11]",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 312.0,
+    "y1": 359.75799560546875,
+    "x2": 465.927978515625,
+    "y2": 364.7099914550781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 525.6,
+    "x2": 276.0,
+    "y2": 604.3199999999999
+  },
+  "caption": "Fig. 2. BOLD Signal Histograms. a) Normal b) Skewed",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 48.0,
+    "y1": 618.8099365234375,
+    "x2": 240.46395874023438,
+    "y2": 623.761962890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 366.71999999999997,
+    "y1": 643.68,
+    "x2": 509.28,
+    "y2": 704.16
+  },
+  "caption": "Fig. 6. Confusion Matrix for a representative result of a single K-Fold cross validation instance for Logistic Regression (ICA)",
+  "imageText": [],
+  "renderURL": "jpeg35-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 312.0,
+    "y1": 718.625,
+    "x2": 564.0,
+    "y2": 732.5770263671875
+  }
+}]

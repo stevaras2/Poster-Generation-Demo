@@ -1,0 +1,21 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 193.92,
+    "y1": 89.75999999999999,
+    "x2": 418.08,
+    "y2": 162.23999999999998
+  },
+  "caption": "Table 1: All-periods classification metrics",
+  "imageText": ["Period", "0.82", "1.00", "0.90", "1942", "QMark", "0.00", "0.00", "0.00", "198", "ExPoint", "0.00", "0.00", "0.00", "240", "Micro", "0.82", "0.82", "0.82", "2370", "Macro", "0.27", "0.33", "0.30", "2370", "Class", "Precision", "Recall", "F1-Score", "Support"],
+  "renderURL": "jpeg370-Table1-1.png",
+  "captionBoundary": {
+    "x1": 229.78199768066406,
+    "y1": 73.141357421875,
+    "x2": 381.9236145019531,
+    "y2": 78.9739990234375
+  }
+}]

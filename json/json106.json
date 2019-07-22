@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 544.8,
+    "x2": 541.4399999999999,
+    "y2": 715.1999999999999
+  },
+  "caption": "Figure 3: Classification algorithm results for Voting Classifiers.",
+  "imageText": ["(a)", "(b)", "(c)"],
+  "renderURL": "jpeg106-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 168.40499877929688,
+    "y1": 729.431640625,
+    "x2": 443.595703125,
+    "y2": 734.4129638671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 87.84,
+    "y1": 221.76,
+    "x2": 524.16,
+    "y2": 293.28
+  },
+  "caption": "Figure 2: Optimized parameters for (a) RF and (b) NN models per output task",
+  "imageText": [],
+  "renderURL": "jpeg106-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 131.8470001220703,
+    "y1": 305.9757080078125,
+    "x2": 480.1551818847656,
+    "y2": 310.9570007324219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 136.79999999999998,
+    "x2": 543.36,
+    "y2": 314.88
+  },
+  "caption": "Figure 6: Maps of correct and incorrect classifications for (a) Functionality, (b) Water Quality, and (c) Water Quantity.",
+  "imageText": ["(a)", "(b)", "(c)"],
+  "renderURL": "jpeg106-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 329.2886962890625,
+    "x2": 558.0006103515625,
+    "y2": 346.2249755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 62.879999999999995,
+    "x2": 528.0,
+    "y2": 235.2
+  },
+  "caption": "Figure 1: Maps of Tanzania’s hand pump (a) functionality, (b) water quality, and (c) quantity.",
+  "imageText": ["(a)", "(b)", "(c)"],
+  "renderURL": "jpeg106-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 99.12298583984375,
+    "y1": 249.51071166992188,
+    "x2": 512.8814086914062,
+    "y2": 254.49200439453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 144.0,
+    "y1": 126.72,
+    "x2": 468.47999999999996,
+    "y2": 286.08
+  },
+  "caption": "Figure 4: Micro-averaged F1 Scores for train and test datasets",
+  "imageText": [],
+  "renderURL": "jpeg106-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 169.64999389648438,
+    "y1": 298.4696960449219,
+    "x2": 442.3450622558594,
+    "y2": 303.45098876953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 144.0,
+    "y1": 507.84,
+    "x2": 468.47999999999996,
+    "y2": 667.1999999999999
+  },
+  "caption": "Figure 5: MCC for all algorithms",
+  "imageText": [],
+  "renderURL": "jpeg106-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 233.2169952392578,
+    "y1": 679.6506958007812,
+    "x2": 378.786376953125,
+    "y2": 684.6320190429688
+  }
+}]

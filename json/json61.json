@@ -1,0 +1,241 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 374.88,
+    "y1": 160.79999999999998,
+    "x2": 501.12,
+    "y2": 287.03999999999996
+  },
+  "caption": "Figure 1: Grayscale video of the interaction between a male and female fly that served as the input for this project.",
+  "imageText": [],
+  "renderURL": "jpeg61-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 317.9549865722656,
+    "y1": 300.662109375,
+    "x2": 558.2007446289062,
+    "y2": 317.25201416015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 122.88,
+    "y1": 82.56,
+    "x2": 225.12,
+    "y2": 189.12
+  },
+  "caption": "Figure 2: The dataset consisted of individual video frames labeled with various key points on both flies.",
+  "imageText": ["fa", "fp", "fh", "mw", "mw", "mh", "ma", "mp", "mp2"],
+  "renderURL": "jpeg61-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 53.79800033569336,
+    "y1": 202.5570831298828,
+    "x2": 294.043701171875,
+    "y2": 219.14697265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 78.72,
+    "y1": 238.56,
+    "x2": 532.3199999999999,
+    "y2": 355.68
+  },
+  "caption": "Figure 4: The “FlyCount” pipeline stage.",
+  "imageText": ["contourArea", "Apply", "a", "decision", "tree", "to", "determine", "if", "the", "contour", "contains", "one", "?y,", "both,", "or", "neither.", "For", "each", "contour,", "compute", "its", "area.", "Extract", "contours", "in", "the", "thresholded", "image.", "Threshold", "image,", "keeping", "only", "the", "central", "part", "of", "the", "?y", "body", "value", "=", "[0,", "0,", "34]", "class", "=", "both", "gini", "=", "0.0", "samples", "=", "34", "value", "=", "[0,", "416,", "0]", "class", "=", "one", "gini", "=", "0.0", "samples", "=", "416", "False", "class", "=", "one", "samples", "=", "450", "value", "=", "[0,", "416,", "34]", "area", "?", "10442.5", "gini", "=", "0.14", "True", "value", "=", "[309,", "0,", "0]", "class", "=", "neither", "gini", "=", "0.0", "samples", "=", "309", "class", "=", "one", "samples", "=", "759", "value", "=", "[309,", "416,", "34]", "area", "?", "1413.5", "gini", "=", "0.532"],
+  "renderURL": "jpeg61-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 224.85000610351562,
+    "y1": 371.7571105957031,
+    "x2": 387.1509704589844,
+    "y2": 377.38800048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 128.64,
+    "y1": 391.68,
+    "x2": 479.03999999999996,
+    "y2": 481.91999999999996
+  },
+  "caption": "Figure 5: The “?? vs ??” pipeline stage.",
+  "imageText": ["?", "?", "apply", "logistic", "regression", "to", "determine…", "…", "which", "contour", "is", "the", "male", "?y", "and", "which", "is", "the", "female", "?y", "…", "compute", "the", "area", "and", "aspect", "ratio", "of", "both", "contours", "apply", "feature", "rescaling", "StandardScalar", "LogisticRegression", "area1", "aspectRatio1", "area2", "aspectRatio2", "when", "there", "two", "are", "contours", "with", "one", "?y", "each…"],
+  "renderURL": "jpeg61-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 225.68299865722656,
+    "y1": 497.3721008300781,
+    "x2": 386.31695556640625,
+    "y2": 503.77899169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 103.67999999999999,
+    "y1": 85.92,
+    "x2": 507.35999999999996,
+    "y2": 202.56
+  },
+  "caption": "Figure 3: The image processing pipeline developed in this project.",
+  "imageText": ["Read", "frame", "from", "video.", "Threshold", "image", "and", "extract", "contours.", "Classify", "each", "contour", "as", "containing", "0,", "1,", "or", "2", "?ies.", "If", "there", "are", "two", "one-?y", "contours,", "identify", "which", "is", "the", "male", "?y", "and", "which", "is", "the", "female", "?y.", "For", "both", "?ies,", "determine", "the", "0-360?", "orientation", "of", "the", "?y", "body.", "For", "the", "male", "?y,", "determine", "the", "0-90?", "angle", "of", "each", "wing", "with", "respect", "to", "the", "major", "axis", "of", "its", "body.", "I/O", "FlyCount", "??", "vs", "??", "Orientation", "WingAngle"],
+  "renderURL": "jpeg61-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 173.19500732421875,
+    "y1": 218.73109436035156,
+    "x2": 438.8068542480469,
+    "y2": 224.36199951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 83.52,
+    "x2": 547.1999999999999,
+    "y2": 160.32
+  },
+  "caption": "Table 1: Model accuracy summary.",
+  "imageText": ["Model", "Train", "Error", "Test", "Error", "Ntrain", "Ntest", "FlyCount", "0.0%", "0.0%", "759", "253", "??", "vs.", "??", "0.2%", "0.7%", "423", "141", "?", "orientation", "0.0%", "0.0%", "358", "120", "?", "orientation", "0.8%", "0.0%", "259", "87", "WingAngle", "ó", "=", "2.06?", "ó", "=", "2.92?", "354", "118"],
+  "renderURL": "jpeg61-Table1-1.png",
+  "captionBoundary": {
+    "x1": 368.1809997558594,
+    "y1": 162.4370880126953,
+    "x2": 507.68035888671875,
+    "y2": 168.0679931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 372.96,
+    "y1": 196.79999999999998,
+    "x2": 503.03999999999996,
+    "y2": 273.12
+  },
+  "caption": "Table 2: Timing breakdown for the image processing pipeline.",
+  "imageText": ["I/O", "3.9", "ms", "32.5", "%", "FlyCount", "2.2", "ms", "18.3%", "??", "vs.", "??", "0.7", "ms", "5.8%", "Orientation", "1.9", "ms", "15.8%", "WingAngle", "3.3", "ms", "27.5%", "Step", "Runtime", "%", "total"],
+  "renderURL": "jpeg61-Table2-1.png",
+  "captionBoundary": {
+    "x1": 317.65899658203125,
+    "y1": 275.9731140136719,
+    "x2": 558.2008666992188,
+    "y2": 292.56298828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 70.08,
+    "y1": 317.76,
+    "x2": 277.44,
+    "y2": 473.28
+  },
+  "caption": "Figure 8: The first two principal components of the HOG descriptor used in the “Orientation” pipeline stage (for female flies).",
+  "imageText": ["normal", "flipped", "PC", "A", "2", "2", "1", "0", "?1", "?2", "?3", "?2", "?1", "0", "1", "2", "3", "PCA", "1"],
+  "renderURL": "jpeg61-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 53.79800033569336,
+    "y1": 492.42010498046875,
+    "x2": 295.6487121582031,
+    "y2": 519.968994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 344.64,
+    "y1": 516.48,
+    "x2": 530.88,
+    "y2": 655.1999999999999
+  },
+  "caption": "Figure 10: Male fly wing angle, as determined by the “WingAngle” stage of the processing pipeline.",
+  "imageText": ["Right", "Wing", "Left", "Wing", ")", "re", "es", "(d", "eg", "gl", "e", "g", "An", "W", "in", "80", "60", "40", "20", "0", "20", "0", "2", "4", "6", "8", "10", "12", "14", "16", "Time", "(s)"],
+  "renderURL": "jpeg61-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 316.77197265625,
+    "y1": 672.4850463867188,
+    "x2": 558.2008056640625,
+    "y2": 689.0750122070312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 128.64,
+    "y1": 85.44,
+    "x2": 480.47999999999996,
+    "y2": 159.84
+  },
+  "caption": "Figure 6: The “Orientation” pipeline stage.",
+  "imageText": ["128x64", "image", "or", "3780x1", "descriptor", "apply", "logistic", "regression", "to", "determine", "if", "the", "input", "image", "is", "upside", "down…", "…", "if", "so", "add", "180?", "to", "the", "original", "angle", "estimate", "and", "set", "it", "upright.", "project", "onto", "a", "basis", "of", "15", "principal", "components", "compute", "HOG", "descriptor", "PCA", "(15", "components)", "LogisticRegression", "start", "with", "a", "vertically-", "oriented", "?y", "image", "(possibly", "upside-down)"],
+  "renderURL": "jpeg61-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 220.29100036621094,
+    "y1": 176.20509338378906,
+    "x2": 391.7107238769531,
+    "y2": 181.83599853515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 128.64,
+    "y1": 199.68,
+    "x2": 480.0,
+    "y2": 272.15999999999997
+  },
+  "caption": "Figure 7: The “WingAngle” pipeline stage.",
+  "imageText": ["crop", "to", "right", "side", "of", "?y", "3564x1", "descriptor", "96x80", "image", "apply", "linear", "regression", "to", "estimate", "wing", "angle", "project", "onto", "a", "basis", "of", "40", "principal", "components", "compute", "HOG", "descriptor", "PCA", "(40", "components)", "LinearRegression"],
+  "renderURL": "jpeg61-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 220.927001953125,
+    "y1": 288.8441162109375,
+    "x2": 391.0736083984375,
+    "y2": 294.4750061035156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 345.59999999999997,
+    "y1": 315.36,
+    "x2": 530.4,
+    "y2": 456.47999999999996
+  },
+  "caption": "Figure 9: The wing angle can be predicted fairly well with even just the first principal component of the HOG descriptor.",
+  "imageText": [")", "gl", "e", "(d", "eg", "W", "in", "g", "an", "80", "70", "60", "50", "40", "30", "20", "10", "0", "?1", "0", "1", "2", "3", "4", "5", "PCA", "Component", "1"],
+  "renderURL": "jpeg61-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 317.9549865722656,
+    "y1": 474.7231140136719,
+    "x2": 559.8057861328125,
+    "y2": 502.27197265625
+  }
+}]

@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 107.03999999999999,
+    "y1": 187.2,
+    "x2": 505.44,
+    "y2": 312.0
+  },
+  "caption": "Fig. 4: Mean and standard deviation of the errors.",
+  "imageText": ["Baseline", "Baseline", "+", "Feature", "Subset", "Baseline", "+", "Features", "Neural", "Network", "0.35", "Test", "Error", "Standard", "Deviation", "0.30", "0.25", "0.20", "0.15", "0.10", "0.05", "0.00", "1", "2", "3", "4", "Motor", "0.05", "Test", "Error", "Mean", "0.04", "0.03", "0.02", "0.01", "0.00", "1", "2", "3", "4", "Motor"],
+  "renderURL": "jpeg211-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 234.15199279785156,
+    "y1": 322.18829345703125,
+    "x2": 377.84722900390625,
+    "y2": 326.3900146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 489.59999999999997,
+    "x2": 297.12,
+    "y2": 671.52
+  },
+  "caption": "Fig. 5: Error distributions for the baseline and neural network models.",
+  "imageText": ["Baseline", "Neural", "Network", "100", "50", "0", "50", "100", "w4", "Baseline", "Neural", "Network", "100", "50", "0", "50", "100", "w3", "Baseline", "Neural", "Network", "100", "50", "0", "50", "100", "w2", "Baseline", "Neural", "Network", "100", "50", "0", "50", "100", "w1"],
+  "renderURL": "jpeg211-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 75.3949966430664,
+    "y1": 680.7882690429688,
+    "x2": 277.405029296875,
+    "y2": 684.989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 52.32,
+    "x2": 556.3199999999999,
+    "y2": 156.48
+  },
+  "caption": "Fig. 3: Training loss at each optimization iteration.",
+  "imageText": ["Neural", "Network", "Training", "Loss", "Lo", "ss", "2.0", "1.5", "1.0", "0.5", "0.0", "0", "500", "1000", "1500", "2000", "Iteration", "Baseline", "+", "Features", "Training", "Loss", "Lo", "ss", "2.0", "1.5", "1.0", "0.5", "0.0", "0", "500", "1000", "1500", "2000", "Iteration", "Baseline", "+", "Feature", "Subset", "Training", "Loss", "Lo", "ss", "2.0", "1.5", "1.0", "0.5", "0.0", "0", "500", "1000", "1500", "2000", "Iteration", "Baseline", "1.5", "2.0", "Lo", "ss", "Training", "Loss", "1.0", "0.5", "0.0", "0", "500", "1000", "1500", "2000", "Iteration"],
+  "renderURL": "jpeg211-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 232.8800048828125,
+    "y1": 166.37225341796875,
+    "x2": 379.1207275390625,
+    "y2": 170.573974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 90.72,
+    "y1": 75.84,
+    "x2": 261.12,
+    "y2": 190.07999999999998
+  },
+  "caption": "Fig. 1: Quadrotor Reference Frame",
+  "imageText": [],
+  "renderURL": "jpeg211-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 125.91000366210938,
+    "y1": 196.74627685546875,
+    "x2": 226.89064025878906,
+    "y2": 200.947998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.28,
+    "y1": 492.47999999999996,
+    "x2": 553.92,
+    "y2": 588.0
+  },
+  "caption": "Fig. 2: Example data: motor commands and position trajectories.",
+  "imageText": ["x", "y", "z", "Trajectory", "Sample", "m", ")", "ti", "o", "n", "(", "P", "o", "si", "3.5", "3.0", "2.5", "2.0", "1.5", "1.0", "0.5", "0.0", "0.5", "1.0", "0", "5", "10", "15", "20", "25", "30", "Time", "(s)", "w1c", "w2c", "w3c", "w4c", "Motor", "Command", "Sample", "m", "a", "n", "d", "o", "m", "r", "C", "M", "o", "to", "150", "140", "130", "120", "110", "100", "90", "80", "70", "0", "5", "10", "15", "20", "25", "30", "Time", "(s)"],
+  "renderURL": "jpeg211-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 342.3500061035156,
+    "y1": 596.6792602539062,
+    "x2": 528.8505859375,
+    "y2": 600.8809814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 49.92,
+    "x2": 532.3199999999999,
+    "y2": 116.16
+  },
+  "caption": "TABLE I: Training, validation, and test dataset losses for each model.",
+  "imageText": ["Neural", "Network", "0.240", "0.264", "0.257", "Baseline", "+", "Features", "0.393", "0.422", "0.389", "Baseline", "+", "Feature", "Subset", "0.483", "0.505", "0.426", "Baseline", "0.599", "0.568", "0.411", "Training", "Validation", "Test"],
+  "renderURL": "jpeg211-TableI-1.png",
+  "captionBoundary": {
+    "x1": 334.92999267578125,
+    "y1": 123.03528594970703,
+    "x2": 536.2706298828125,
+    "y2": 127.23699951171875
+  }
+}]

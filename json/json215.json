@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 376.8,
+    "x2": 479.03999999999996,
+    "y2": 467.03999999999996
+  },
+  "caption": "Figure 1: SEM image of BiV O42 Figure 2: Theoretical progress in photoelectrochemical cell",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 108.66500091552734,
+    "y1": 481.9085388183594,
+    "x2": 515.2212524414062,
+    "y2": 500.1310119628906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 475.68,
+    "x2": 478.08,
+    "y2": 552.0
+  },
+  "caption": "Figure 4: Edge Detection Methods",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 221.85699462890625,
+    "y1": 567.3715209960938,
+    "x2": 373.4160461425781,
+    "y2": 573.6380004882812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 125.75999999999999,
+    "y1": 247.67999999999998,
+    "x2": 470.4,
+    "y2": 360.0
+  },
+  "caption": "Figure 3: Data Augmentation for high (a) and low (b) working distance",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 140.5570068359375,
+    "y1": 375.0245361328125,
+    "x2": 454.7206115722656,
+    "y2": 381.291015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 116.64,
+    "y1": 195.84,
+    "x2": 479.03999999999996,
+    "y2": 258.24
+  },
+  "caption": "Figure 5: SVM with HOG",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 240.24899291992188,
+    "y1": 272.7025146484375,
+    "x2": 355.02313232421875,
+    "y2": 278.968994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 86.88,
+    "y1": 351.84,
+    "x2": 509.28,
+    "y2": 414.24
+  },
+  "caption": "Figure 6: Shallow CNN architecture",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 218.81399536132812,
+    "y1": 429.4995422363281,
+    "x2": 376.46319580078125,
+    "y2": 435.7660217285156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 228.95999999999998,
+    "y1": 631.68,
+    "x2": 366.24,
+    "y2": 709.92
+  },
+  "caption": "Figure 7: Residual learning: a building block 3",
+  "imageText": [],
+  "renderURL": "jpeg215-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 195.60800170898438,
+    "y1": 724.6215209960938,
+    "x2": 399.169189453125,
+    "y2": 730.8880004882812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 122.88,
+    "y1": 163.68,
+    "x2": 473.28,
+    "y2": 251.04
+  },
+  "caption": "Table 1: Results of different models",
+  "imageText": ["ResNet18", "(non-pretrained)", "63.49%", "66.20%", "ResNet18", "70.34%", "75.62%", "ResNet50", "74.82%", "80.57%", "Shallow", "CNN", "(with", "DropOut)", "99.79%", "87.16%", "Shallow", "CNN", "(L2", "Regularization)", "98.76%", "85.17%", "Model", "Training", "Accuracy", "Test", "Accuracy", "SVM", "with", "HOG", "100.00%", "61.60%"],
+  "renderURL": "jpeg215-Table1-1.png",
+  "captionBoundary": {
+    "x1": 219.86500549316406,
+    "y1": 262.31451416015625,
+    "x2": 375.40509033203125,
+    "y2": 268.58099365234375
+  }
+}]

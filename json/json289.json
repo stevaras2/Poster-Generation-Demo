@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 77.75999999999999,
+    "y1": 41.76,
+    "x2": 546.24,
+    "y2": 420.47999999999996
+  },
+  "caption": "Figure 4",
+  "imageText": [],
+  "renderURL": "jpeg289-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 286.5,
+    "y1": 430.88018798828125,
+    "x2": 325.38214111328125,
+    "y2": 438.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 72.0,
+    "x2": 542.4,
+    "y2": 108.96
+  },
+  "caption": "Figure 3 demonstrates the use of a particular ingredient (soy sauce) across various cuisines. This example shows a strong connection between a small set of countries and an ingredient.",
+  "imageText": [],
+  "renderURL": "jpeg289-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 38.94261932373047,
+    "x2": 317.5980529785156,
+    "y2": 81.75
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 309.59999999999997,
+    "x2": 542.4,
+    "y2": 485.28
+  },
+  "caption": "Table 1",
+  "imageText": ["Multinomial", "NB", "69%", "Yes", "5", "73%", "74%", "Random", "Forest", "66%", "No", "-", "-", "-", "Passive", "Agg", "74%", "Yes", "5", "75%", "75%", "Decision", "Tree", "64%", "No", "-", "-", "-", "SVM", "79%", "Yes", "5", "81%", "82%", "Logistic", "Reg", "79%", "Yes", "5", "79%", "80%", "MLP", "Neural", "Net", "77%", "Yes", "-", "-", "80%", "Final", "Accuracy", "on", "Test", "Set", "CV", "#", "CV", "Score", "on", "Training", "Set", "HP", "Opt", "Algorithm", "Initial", "Accuracy", "on", "Test", "Set"],
+  "renderURL": "jpeg289-Table1-1.png",
+  "captionBoundary": {
+    "x1": 288.75,
+    "y1": 496.13018798828125,
+    "x2": 323.19537353515625,
+    "y2": 503.25
+  }
+}]

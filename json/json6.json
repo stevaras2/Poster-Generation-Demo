@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 204.95999999999998,
+    "x2": 250.07999999999998,
+    "y2": 314.4
+  },
+  "caption": "Fig. 1. We achieved our best results with this architecture. Our architecture had size Layer1(n, 512), Layer2(512, k), where n is the number of data features ranging from 12 ? 52 and k = 18 is the number of class labels. We use ReLU activation, softmax final activation, cross entropy loss, and applied dropout to avoid overfitting.",
+  "imageText": [],
+  "renderURL": "jpeg6-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 48.9639892578125,
+    "y1": 326.14202880859375,
+    "x2": 300.0221252441406,
+    "y2": 366.80902099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 627.84,
+    "x2": 564.0,
+    "y2": 678.24
+  },
+  "caption": "Fig. 2. Training and Test Results for all Methods, for both Full and Limited Feature-sets",
+  "imageText": [],
+  "renderURL": "jpeg6-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 690.3170166015625,
+    "x2": 563.0361938476562,
+    "y2": 704.0859985351562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 108.0,
+    "x2": 301.44,
+    "y2": 170.4
+  },
+  "caption": "Fig. 5. Confidence Matrix for Boosted Decision Trees on Limited Featureset. The four most frequent misclassifications are highlighted in yellow. These represented misclassifications between ascending and descending stairs, and between vacuum cleaning and ascending/descending stairs. These misclassifications are expected because of the relative similarity in hand motions and heart rate between these activities.",
+  "imageText": [],
+  "renderURL": "jpeg6-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 182.3000030517578,
+    "x2": 300.0221862792969,
+    "y2": 231.9339599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 161.76,
+    "x2": 564.0,
+    "y2": 264.0
+  },
+  "caption": "Fig. 4. Left: Training and Validation Curves for Limited Feature-set using Ordinary Decision Trees. Right: Training loss and accuracy for the Multilayer Perceptron neural net when trained on the reduced feature-set.",
+  "imageText": [],
+  "renderURL": "jpeg6-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 276.7240295410156,
+    "x2": 563.036376953125,
+    "y2": 299.4590148925781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 257.76,
+    "x2": 301.44,
+    "y2": 364.32
+  },
+  "caption": "Fig. 3. Validation curves for a given range of regularization constants C for the SVM and logistic regression models. Training curves for logistic regression cannot be seen easily as they lie just above the validation curves",
+  "imageText": [],
+  "renderURL": "jpeg6-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 376.50103759765625,
+    "x2": 300.0221862792969,
+    "y2": 399.2350158691406
+  }
+}]

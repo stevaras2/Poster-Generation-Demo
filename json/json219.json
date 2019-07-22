@@ -1,0 +1,321 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 618.72,
+    "x2": 255.35999999999999,
+    "y2": 688.3199999999999
+  },
+  "caption": "Figure 1: Optimization process",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 100.55599975585938,
+    "y1": 711.0386962890625,
+    "x2": 236.46473693847656,
+    "y2": 716.02001953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 355.68,
+    "y1": 378.71999999999997,
+    "x2": 531.36,
+    "y2": 467.03999999999996
+  },
+  "caption": "Figure 3: CFD simulation of the mAEWing2",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 345.3450012207031,
+    "y1": 489.9797058105469,
+    "x2": 541.635986328125,
+    "y2": 494.96099853515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 183.84,
+    "x2": 572.16,
+    "y2": 261.12
+  },
+  "caption": "Figure 2: µ1 changes the dihedral angle (left) and tµ2, µ3u changes the sweep angle (right) of the mAEWing2",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 284.0917053222656,
+    "x2": 575.9993896484375,
+    "y2": 301.0279846191406
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 94.56,
+    "y1": 84.0,
+    "x2": 242.39999999999998,
+    "y2": 177.12
+  },
+  "caption": "Figure 4: Mesh for the mAEWing2",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 91.7969970703125,
+    "y1": 199.87271118164062,
+    "x2": 245.22598266601562,
+    "y2": 204.85400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 584.64,
+    "x2": 577.4399999999999,
+    "y2": 677.28
+  },
+  "caption": "Figure 5: On the left global ROM approach. On the right our proposed piecewise ROM approach",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 699.9136962890625,
+    "x2": 575.9979248046875,
+    "y2": 716.8499755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.0,
+    "y1": 472.79999999999995,
+    "x2": 277.44,
+    "y2": 551.04
+  },
+  "caption": "Figure 6: Offline phase scheme",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 101.4000015258789,
+    "y1": 573.94970703125,
+    "x2": 235.62110900878906,
+    "y2": 578.9310302734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 668.64,
+    "x2": 276.0,
+    "y2": 701.28
+  },
+  "caption": "Figure 7: Online phase scheme",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 101.4000015258789,
+    "y1": 723.5296630859375,
+    "x2": 235.62210083007812,
+    "y2": 728.510986328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 36.0,
+    "x2": 541.4399999999999,
+    "y2": 103.2
+  },
+  "caption": "Figure 11: Error with different numbers of clusters",
+  "imageText": ["2", "clusters", "0.255", "23.072", "3", "clusters", "0.288", "23.520", "4", "clusters", "0.354", "26.133", "5", "clusters", "0.417", "29.826", "Number", "of", "clusters", "MSE", "Max", "Error", "%"],
+  "renderURL": "jpeg219-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 332.614990234375,
+    "y1": 116.05269622802734,
+    "x2": 554.3703002929688,
+    "y2": 121.03399658203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "14",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.15999999999997,
+    "y1": 666.72,
+    "x2": 580.3199999999999,
+    "y2": 722.4
+  },
+  "caption": "Figure 14: Relative error with different methods",
+  "imageText": ["Cluster", "2", "(12,", "8)", "0.051", "7.726", "Cluster", "4", "(5,", "7,", "5,", "3)", "0.200", "17.439", "Global", "-", "14", "0.194", "21.156", "Method", "#", "Clusters", "ROM", "Sizes", "MSE", "Max", "Error", "%"],
+  "renderURL": "jpeg219-Figure14-1.png",
+  "captionBoundary": {
+    "x1": 338.0940246582031,
+    "y1": 734.7796630859375,
+    "x2": 548.8843994140625,
+    "y2": 739.760986328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "12",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 308.64,
+    "x2": 573.12,
+    "y2": 406.08
+  },
+  "caption": "Figure 12: On the left, gradient B liftdrag Bµ of the training points. On the right, training points clustered into two clusters.",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure12-1.png",
+  "captionBoundary": {
+    "x1": 310.98101806640625,
+    "y1": 433.0007019042969,
+    "x2": 576.0050048828125,
+    "y2": 449.9369812011719
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "y1": 333.59999999999997,
+    "x2": 265.44,
+    "y2": 389.28
+  },
+  "caption": "Figure 8: Error of different clustering methods",
+  "imageText": ["K-Means", "0.327", "23.117", "Gaussian", "mixtures", "0.421", "28.898", "Agglomerative", "clus.", "0.340", "23.917", "Clustering", "analysis", "MSE", "Max", "Error", "%"],
+  "renderURL": "jpeg219-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 66.80699920654297,
+    "y1": 402.0967102050781,
+    "x2": 270.21240234375,
+    "y2": 407.0780029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "y1": 600.0,
+    "x2": 308.64,
+    "y2": 696.9599999999999
+  },
+  "caption": "Figure 10: Error with different clustering features",
+  "imageText": ["0.3409", "30.955", "?", "µ,", "liftdrag", ",", "B", "liftdrag", "Bµ", "0.3145", "30.955", "?", "?", "µ,", "B", "liftdrag", "Bµ", "0.3543", "30.955", "?", "?", "µ,", "liftdrag", "Cluster", "features", "MSE", "Max", "Error", "%", "?"],
+  "renderURL": "jpeg219-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 60.01300048828125,
+    "y1": 700.2546997070312,
+    "x2": 277.0043640136719,
+    "y2": 705.2360229492188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "13",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 378.71999999999997,
+    "y1": 513.6,
+    "x2": 508.32,
+    "y2": 611.04
+  },
+  "caption": "Figure 13: Testing point labeled after classification.",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure13-1.png",
+  "captionBoundary": {
+    "x1": 330.95404052734375,
+    "y1": 633.606689453125,
+    "x2": 556.0230712890625,
+    "y2": 638.5880126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 46.559999999999995,
+    "y1": 474.71999999999997,
+    "x2": 289.44,
+    "y2": 517.4399999999999
+  },
+  "caption": "Figure 9: Error of different classification methods",
+  "imageText": ["Logistic", "regression", "0.341", "29.490", "Nearest", "centroid", "0.318", "29.490", "Classi?cation", "algorithm", "MSE", "Max", "Error", "%"],
+  "renderURL": "jpeg219-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 60.428001403808594,
+    "y1": 530.2866821289062,
+    "x2": 276.5904846191406,
+    "y2": 535.2680053710938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "16",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.96,
+    "y1": 444.96,
+    "x2": 300.0,
+    "y2": 543.36
+  },
+  "caption": "Figure 16: On the left, Silhouette Score versus average relative error. On the right, Calinski-Harabaz Index versus average relative error.",
+  "imageText": [],
+  "renderURL": "jpeg219-Figure16-1.png",
+  "captionBoundary": {
+    "x1": 36.0,
+    "y1": 565.49267578125,
+    "x2": 301.0190124511719,
+    "y2": 594.385009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "15",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 75.84,
+    "y1": 333.59999999999997,
+    "x2": 261.12,
+    "y2": 389.28
+  },
+  "caption": "Figure 15: Clustering score correlation with relative error",
+  "imageText": ["Silhouette", "Score", "-0.68548199", "Calinski-Harabaz", "Index", "-0.68738437", "Davies-Bouldin", "Index", "-0.50457497", "Cluster", "Scoring", "Method", "Correlation"],
+  "renderURL": "jpeg219-Figure15-1.png",
+  "captionBoundary": {
+    "x1": 43.03499984741211,
+    "y1": 411.938720703125,
+    "x2": 293.9878234863281,
+    "y2": 416.9200134277344
+  }
+}]

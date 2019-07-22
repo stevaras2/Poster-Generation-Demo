@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 132.96,
+    "y1": 123.83999999999999,
+    "x2": 301.44,
+    "y2": 254.39999999999998
+  },
+  "caption": "Figure 1: move() vs turnLeft() 2D cross section for k = 3",
+  "imageText": [],
+  "renderURL": "jpeg006-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 270.4917297363281,
+    "x2": 300.6414489746094,
+    "y2": 287.4280090332031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 123.83999999999999,
+    "x2": 478.08,
+    "y2": 254.39999999999998
+  },
+  "caption": "Figure 3: k-means clustering for k = 3",
+  "imageText": [],
+  "renderURL": "jpeg006-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 310.6050109863281,
+    "y1": 270.8697204589844,
+    "x2": 477.482421875,
+    "y2": 275.85101318359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 132.96,
+    "y1": 298.56,
+    "x2": 301.44,
+    "y2": 425.28
+  },
+  "caption": "Figure 2: Coordinate clustering for k = 3",
+  "imageText": [],
+  "renderURL": "jpeg006-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 441.5887145996094,
+    "x2": 286.5563049316406,
+    "y2": 458.5249938964844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 132.96,
+    "y1": 123.83999999999999,
+    "x2": 301.44,
+    "y2": 309.12
+  },
+  "caption": "Figure 5: Softmax regression with logistic and clustering for training data.",
+  "imageText": [],
+  "renderURL": "jpeg006-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 133.76800537109375,
+    "y1": 325.5027160644531,
+    "x2": 300.6444396972656,
+    "y2": 342.4389953613281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 132.96,
+    "y1": 123.83999999999999,
+    "x2": 301.44,
+    "y2": 273.12
+  },
+  "caption": "Figure 4: Logistic function regression",
+  "imageText": [],
+  "renderURL": "jpeg006-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 135.85800170898438,
+    "y1": 289.4967041015625,
+    "x2": 298.5501708984375,
+    "y2": 294.4779968261719
+  }
+}]

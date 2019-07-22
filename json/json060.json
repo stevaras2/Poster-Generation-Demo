@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 56.64,
+    "x2": 558.24,
+    "y2": 244.32
+  },
+  "caption": "TABLE I: Rewards Table",
+  "imageText": ["10", "a?", "a", "11", "end", "12", "Update", "game", "parameter", "13", "end", "Q(s,", "a)", "+", "·(r?", "+", "„Q(s?,", "a?)?Q(s,", "a))", "9", "s?", "s", "Algorithm", "2:", "The", "algorithm", "for", "SARSA", "1", "Start", "the", "game", "snake", "2", "while", "do", "3", "Initialize", "Q(s,", "a)", "arbitrarily", "4", "Choose", "a", "from", "s", "using", "-greedy", "policy", "5", "while", "do", "6", "Take", "action", "a", "7", "Choose", "a", "from", "s", "using", "-greedy", "policy", "8", "Q(st,", "at)?"],
+  "renderURL": "jpeg060-TableI-1.png",
+  "captionBoundary": {
+    "x1": 383.5400085449219,
+    "y1": 261.0325012207031,
+    "x2": 487.6591491699219,
+    "y2": 267.03497314453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 630.72,
+    "x2": 278.4,
+    "y2": 679.1999999999999
+  },
+  "caption": "TABLE II: Performance Comparison",
+  "imageText": ["104", "77.504", "36.858", "18.023", "105", "77.504", "51.994", "25.789", "106", "77.504", "61.830", "36.567", "iterations", "method", "Optimal", "SARSA", "Q-learning"],
+  "renderURL": "jpeg060-TableII-1.png",
+  "captionBoundary": {
+    "x1": 101.0780029296875,
+    "y1": 615.9774780273438,
+    "x2": 251.7224884033203,
+    "y2": 621.9799194335938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 333.59999999999997,
+    "y1": 52.8,
+    "x2": 537.12,
+    "y2": 257.28
+  },
+  "caption": "Fig. 4: performance comparison among 3 different algorithms",
+  "imageText": [],
+  "renderURL": "jpeg060-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 264.8405456542969,
+    "x2": 558.0010375976562,
+    "y2": 282.79901123046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 209.76,
+    "x2": 278.4,
+    "y2": 350.4
+  },
+  "caption": "Fig. 3: Learning curves from SARSA",
+  "imageText": [],
+  "renderURL": "jpeg060-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 99.2699966430664,
+    "y1": 357.4685363769531,
+    "x2": 253.53085327148438,
+    "y2": 363.47100830078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 52.8,
+    "x2": 278.4,
+    "y2": 193.44
+  },
+  "caption": "Fig. 2: Learning curves from Q-Learning",
+  "imageText": [],
+  "renderURL": "jpeg060-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 92.08699798583984,
+    "y1": 200.93954467773438,
+    "x2": 260.7139587402344,
+    "y2": 206.9420166015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.96,
+    "y1": 148.79999999999998,
+    "x2": 553.4399999999999,
+    "y2": 261.12
+  },
+  "caption": "Fig. 1: Game Snake",
+  "imageText": [],
+  "renderURL": "jpeg060-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 394.5840148925781,
+    "y1": 268.9945373535156,
+    "x2": 476.6160583496094,
+    "y2": 274.99700927734375
+  }
+}]

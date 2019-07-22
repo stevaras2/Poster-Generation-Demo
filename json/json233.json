@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 161.76,
+    "x2": 504.0,
+    "y2": 418.08
+  },
+  "caption": "Figure 3: Permittivities and predicted fields for samples in the test set with good, typical, and poor performance. The lower right panel shows the predicted fields for a uniform-random permittivity input from a distribution the model was not trained on.",
+  "imageText": [],
+  "renderURL": "jpeg233-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 429.48553466796875,
+    "x2": 504.3531188964844,
+    "y2": 457.3059997558594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 391.68,
+    "x2": 504.0,
+    "y2": 445.44
+  },
+  "caption": "Figure 2: Evolution of the predicted field as the network is trained on a single permittivity input. The top panel of each image depicts the permittivity at each point (grey), the “true” electric field from an FDFD simulation (blue) and the predicted field at the given iteration (orange). The bottom panel depicts LM at each iteration. An animated version of this figure (which is more informative and which we encourage readers to view) is available online at https://gfycat.com/TestyWanIsopod.",
+  "imageText": [],
+  "renderURL": "jpeg233-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 107.64099884033203,
+    "y1": 456.67352294921875,
+    "x2": 504.0032043457031,
+    "y2": 506.31201171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 108.0,
+    "y1": 70.56,
+    "x2": 504.0,
+    "y2": 125.28
+  },
+  "caption": "Figure 1: Final architecture for the neural Maxwell solver. The model takes as inputs a vector of permittivities ~ . Three successive convolutional layers (kernel sizes: 5, 7, 9, channels: 32, 64, 128) output into two appropriately-sized dense layers. This outputs into three successive transposedconvolutional layers (kernel sizes: 9, 7, 5, channels: 128, 64, 32), expanding the signal to the original dimensions of ~ . Dropout layers with p = 0.1 and ReLU activations follow all but the last layer.",
+  "imageText": [],
+  "renderURL": "jpeg233-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 107.25299835205078,
+    "y1": 136.17453002929688,
+    "x2": 505.6536865234375,
+    "y2": 185.81298828125
+  }
+}]

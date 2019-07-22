@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 310.56,
+    "x2": 545.28,
+    "y2": 404.15999999999997
+  },
+  "caption": "Table 1: Summary of properties for the datasets used in this study. The final number of genes is the intersection of common genes represented in both datasets.",
+  "imageText": ["Number", "of", "different", "genes", "represented", "7,157", "5493", "5395", "Number", "of", "positive", "interactions", "738,333", "-", "737,000", "Datatype", "Boolean", "Float", "Mix", "BioGRID", "Microarray", "data", "Final", "Dataset"],
+  "renderURL": "jpeg164-Table1-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 415.603515625,
+    "x2": 545.1151123046875,
+    "y2": 445.5159606933594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 51.839999999999996,
+    "y1": 80.64,
+    "x2": 512.16,
+    "y2": 231.35999999999999
+  },
+  "caption": "Figure 1: Comparison of SVM performance depending on parameters. Scale from violet (low score, minimum at 0), to bright yellow (high score, maximum at 1, for example the precision of all the RBF kernel SVM).",
+  "imageText": ["(a)", "Accuracy.", "(b)", "AUROC", "score.", "(c)", "Recall.", "(d)", "Precision."],
+  "renderURL": "jpeg164-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 245.13851928710938,
+    "x2": 545.1136474609375,
+    "y2": 263.09600830078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 285.59999999999997,
+    "x2": 546.24,
+    "y2": 490.08
+  },
+  "caption": "Table 2: Accurary and AUROC scores for SVM classifiers alone versus Bayes net predictions for selected GO nodes",
+  "imageText": [],
+  "renderURL": "jpeg164-Table2-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 502.2575378417969,
+    "x2": 545.1149291992188,
+    "y2": 520.2149658203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 496.79999999999995,
+    "x2": 263.03999999999996,
+    "y2": 645.12
+  },
+  "caption": "Figure 3: Subtree of GO nodes used in Bayesian predictions (some ids are from out of data GO) [3]",
+  "imageText": [],
+  "renderURL": "jpeg164-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 656.7455444335938,
+    "x2": 286.3650207519531,
+    "y2": 674.7030029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 285.59999999999997,
+    "x2": 287.03999999999996,
+    "y2": 437.28
+  },
+  "caption": "Figure 2: Structure of Bayes net. y?i represent SVM predictions, yi represent the true label of the input example for GO node i [3]",
+  "imageText": [],
+  "renderURL": "jpeg164-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 448.7315368652344,
+    "x2": 286.3619689941406,
+    "y2": 478.6449890136719
+  }
+}]

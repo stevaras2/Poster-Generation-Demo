@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 74.88,
+    "x2": 281.28,
+    "y2": 202.07999999999998
+  },
+  "caption": "Fig. 4. Thresholding the normalized fat signal dataset gives a binary mask corresponding to voxels to be associated with fat-based tissues.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 214.1280059814453,
+    "x2": 291.66387939453125,
+    "y2": 227.89599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 246.72,
+    "x2": 281.28,
+    "y2": 373.91999999999996
+  },
+  "caption": "Fig. 5. The water and fat features were combined to provide a binary mask to encourage the separation of tissue voxels from background noise.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 386.0400390625,
+    "x2": 291.6638488769531,
+    "y2": 408.7740173339844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 501.59999999999997,
+    "x2": 513.12,
+    "y2": 628.3199999999999
+  },
+  "caption": "Fig. 8. The median intensity value over each region in Fig. 6 was assigned to every voxel within that region to promote uniform classification by region and voxel intensity.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 303.614990234375,
+    "y1": 640.89599609375,
+    "x2": 523.2789916992188,
+    "y2": 663.6309814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 607.68,
+    "x2": 281.28,
+    "y2": 735.36
+  },
+  "caption": "Fig. 6. Each connected region in the volume was assigned a unique integer label. The labels were then normalized to a maximum value of one.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 747.0640258789062,
+    "x2": 291.6639404296875,
+    "y2": 769.7980346679688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 207.84,
+    "x2": 513.12,
+    "y2": 334.08
+  },
+  "caption": "Fig. 7. Thresholding out the largest of the regions leaves a fair estimate of voxel regions expected to relate to the connective tissues class.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 303.614990234375,
+    "y1": 346.5660400390625,
+    "x2": 523.2791748046875,
+    "y2": 369.301025390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "12",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 74.88,
+    "x2": 281.28,
+    "y2": 202.07999999999998
+  },
+  "caption": "Fig. 12. The k-means algorithm produces an integer-labeled mapping of the dataset. A 2D slice of the labeled tissues with each tissue class represented by a different grayscale value is provided. In order of increasing ”whiteness,” the classes are background (black), fat, muscle, skin, and connective tissue (white).",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure12-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 214.1280059814453,
+    "x2": 291.6639404296875,
+    "y2": 254.79595947265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 74.88,
+    "x2": 281.28,
+    "y2": 202.07999999999998
+  },
+  "caption": "Fig. 1. Selected slice from the water-only dataset. Gray levels closer to white indicate a stronger water signal at that pixel.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 214.1280059814453,
+    "x2": 291.66387939453125,
+    "y2": 227.89599609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 553.4399999999999,
+    "x2": 513.12,
+    "y2": 680.16
+  },
+  "caption": "Fig. 3. Thresholding the normalized water signal dataset gives a binary mask corresponding to voxels to be associated with waterbased tissues.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 303.614990234375,
+    "y1": 692.885986328125,
+    "x2": 523.2789306640625,
+    "y2": 715.6210327148438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 254.88,
+    "x2": 281.28,
+    "y2": 381.12
+  },
+  "caption": "Fig. 2. Selected slice from the fat-only dataset. Gray levels closer to white indicate a stronger fat signal at that pixel.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 393.5540466308594,
+    "x2": 291.6639404296875,
+    "y2": 407.3230285644531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 526.56,
+    "x2": 281.28,
+    "y2": 654.24
+  },
+  "caption": "Fig. 10. The convolution described in Eqn. 3 produces a volume with local horizontal gradients represented by voxel intensity.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 666.1500244140625,
+    "x2": 291.6638488769531,
+    "y2": 679.9180297851562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 158.88,
+    "x2": 281.28,
+    "y2": 285.12
+  },
+  "caption": "Fig. 9. Taking a weighted logarithm of the vertical voxel locations enforces the prior expectation regarding the spatial distribution of abdominal tissues.",
+  "imageText": [],
+  "renderURL": "jpeg013-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 297.8480529785156,
+    "x2": 291.6639099121094,
+    "y2": 320.58203125
+  }
+}]

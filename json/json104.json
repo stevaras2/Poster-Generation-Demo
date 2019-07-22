@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 195.84,
+    "y1": 494.88,
+    "x2": 416.15999999999997,
+    "y2": 568.3199999999999
+  },
+  "caption": "Table 2: 1st Hyper-Parameter Search",
+  "imageText": ["#", "Neurons", "per", "layer", "8", "to", "512", "Dropout", "prob.", "0.0", "to", "0.6", "Batch", "size", "16,", "32,", "64,", "128,", "256,", "512", "#", "Hidden", "layers", "2", "to", "5", "Hyper-Parameter", "Range", "Learning", "rate", "(á)", "10?4", "to", "10?2", "(log", "scale)"],
+  "renderURL": "jpeg104-Table2-1.png",
+  "captionBoundary": {
+    "x1": 224.32699584960938,
+    "y1": 484.18450927734375,
+    "x2": 387.3132629394531,
+    "y2": 490.45098876953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 297.59999999999997,
+    "x2": 556.3199999999999,
+    "y2": 384.0
+  },
+  "caption": "Table 4: Feature Influence",
+  "imageText": ["Sales", "Tax", "Rate", "0.46", "Poverty", "Level", "-0.24", "%", "of", "Dem.", "Voters", "(2016)", "0.67", "Population", "Age", "5-9", "-0.57", "Solar", "Irradiance", "(KWh/yr)", "0.66", "#", "Frost", "Days", "-0.29", "%", "of", "Dem.", "Voters", "(2012)", "0.85", "Population", "Density", "-1.00", "Median", "Power", "Usage", "0.84", "%", "of", "Rep.", "Voters", "(2012)", "-0.64", "Median", "House", "Value", "0.81", "%", "of", "Rep.", "Voters", "(2016)", "-0.63", "Feature", "Name", "Relative", "Pos.", "Correlation", "Feature", "Name", "Relative", "Neg.", "Correlation"],
+  "renderURL": "jpeg104-Table4-1.png",
+  "captionBoundary": {
+    "x1": 248.4669952392578,
+    "y1": 287.9405212402344,
+    "x2": 363.1694641113281,
+    "y2": 294.2070007324219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 86.88,
+    "x2": 522.24,
+    "y2": 136.32
+  },
+  "caption": "Table 3: Model Performance Summary",
+  "imageText": ["Neural", "Network", "7.3", "10.5", "18.5", "0.95", "0.79", "0.71", "SVR", "w/", "Linear", "Kernel", "29.1", "29.9", "29.3", "0.26", "0.16", "0.22", "SVR", "w/", "RBF", "Kernel", "4.2", "17.4", "18.1", "0.93", "0.79", "0.78", "Model", "Train", "MAE", "Dev", "MAE", "Test", "MAE", "Train", "R2", "Dev", "R2", "Test", "R2"],
+  "renderURL": "jpeg104-Table3-1.png",
+  "captionBoundary": {
+    "x1": 221.04800415039062,
+    "y1": 76.02753448486328,
+    "x2": 390.5926513671875,
+    "y2": 82.29400634765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 628.8,
+    "x2": 539.04,
+    "y2": 717.12
+  },
+  "caption": "Table 1: Features Contributing Top Variance to Each Principal Component",
+  "imageText": ["Master’s", "Education", "0.1887", "Overall", "Electricity", "Price", "0.1698", "Per-Capita", "Income", "0.1887", "Rebate", "0.1717", "Median", "Household", "Income", "0.1905", "Residential", "Incentive", "0.1773", "Feature", "Name", "Var.", "retained:", "PC-1", "Feature", "Name", "Var.", "retained:", "PC-2", "High", "School", "Graduation", "Rate", "-0.1618", "%", "2016", "Rep.", "Vote", "-0.1399", "Rate", "of", "Families", "Below", "Poverty", "-0.1586", "Frost", "Days", "-0.1389", "Public", "Health", "Insurance", "Rate", "-0.1496", "Relative", "Humidity", "-0.1356"],
+  "renderURL": "jpeg104-Table1-1.png",
+  "captionBoundary": {
+    "x1": 140.63299560546875,
+    "y1": 609.3074951171875,
+    "x2": 471.0058288574219,
+    "y2": 615.573974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 133.92,
+    "y1": 157.92,
+    "x2": 478.08,
+    "y2": 276.48
+  },
+  "caption": "Figure 1: Where the Data Comes From",
+  "imageText": ["(a)", "Example", "Density", "(b)", "Solar", "System", "Density"],
+  "renderURL": "jpeg104-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 219.8170166015625,
+    "y1": 289.8225402832031,
+    "x2": 392.1878967285156,
+    "y2": 296.0890197753906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 405.59999999999997,
+    "y1": 384.0,
+    "x2": 534.24,
+    "y2": 512.16
+  },
+  "caption": "Figure 2: 2-Component PCA",
+  "imageText": [],
+  "renderURL": "jpeg104-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 406.2879943847656,
+    "y1": 523.08251953125,
+    "x2": 533.3081665039062,
+    "y2": 529.3489990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 141.6,
+    "y1": 416.64,
+    "x2": 470.4,
+    "y2": 543.36
+  },
+  "caption": "Figure 4: Left: SVR-RBF Results Right: LinearSVR Results",
+  "imageText": [],
+  "renderURL": "jpeg104-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 159.45700073242188,
+    "y1": 554.6365356445312,
+    "x2": 452.5473937988281,
+    "y2": 560.9030151367188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 164.64,
+    "y1": 52.8,
+    "x2": 447.35999999999996,
+    "y2": 166.07999999999998
+  },
+  "caption": "Figure 3: Neural Network Performance: a) Test predictions vs test labels. b) Histogram of the error (difference) between the model predictions and the true test labels.",
+  "imageText": [],
+  "renderURL": "jpeg104-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 177.42449951171875,
+    "x2": 559.1614990234375,
+    "y2": 195.64697265625
+  }
+}]

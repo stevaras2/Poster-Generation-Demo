@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 546.72,
+    "x2": 269.28,
+    "y2": 694.0799999999999
+  },
+  "caption": "Fig. 1: A car-like vehicle. No slip is assumed, so differential constraints must be obeyed which limit the vehicle’s movement abilities in the lateral direction.",
+  "imageText": [],
+  "renderURL": "jpeg061-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 701.945556640625,
+    "x2": 298.8009948730469,
+    "y2": 731.8580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 160.79999999999998,
+    "x2": 558.24,
+    "y2": 510.24
+  },
+  "caption": "Fig. 2: The path of a car as it moves through time in an unknown environment. It’s knowledge of the environment improves as it progresses. Green is the executed path, magenta is the planned path given its current knowledge, pink is the boundary into the unknown, and blue are the inferred walls.",
+  "imageText": ["(e)", "(f)", "(c)", "(d)", "(a)", "(b)"],
+  "renderURL": "jpeg061-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 520.2335205078125,
+    "x2": 558.0011596679688,
+    "y2": 586.011962890625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 52.8,
+    "x2": 559.1999999999999,
+    "y2": 243.35999999999999
+  },
+  "caption": "Fig. 4: All possible quarter second actions for a car with a max speed of 32 m/s.",
+  "imageText": [],
+  "renderURL": "jpeg061-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 250.68252563476562,
+    "x2": 558.0009765625,
+    "y2": 268.6400146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 487.68,
+    "x2": 269.28,
+    "y2": 658.0799999999999
+  },
+  "caption": "Fig. 3: Computing ICS. The blue line depicts a candidate action, with green and red showing valid and invalid emergency stopping maneuvers respectively. Even though the grey un-seen space is obstacle free, the vehicle doesn’t know that from its initial position. So to be conservative, it assumes such space is an obstacle.",
+  "imageText": [],
+  "renderURL": "jpeg061-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 666.07958984375,
+    "x2": 298.801025390625,
+    "y2": 731.8580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 413.76,
+    "x2": 559.1999999999999,
+    "y2": 716.16
+  },
+  "caption": "Fig. 5: Maps used to train the machine learning planner.",
+  "imageText": ["(c)", "hybrid", "(b)", "forest", "(a)", "maze"],
+  "renderURL": "jpeg061-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 319.739990234375,
+    "y1": 725.8555908203125,
+    "x2": 551.4601440429688,
+    "y2": 731.8580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 364.8,
+    "y1": 684.9599999999999,
+    "x2": 506.4,
+    "y2": 731.52
+  },
+  "caption": "TABLE I: Time for completion of multiple maps. All results in seconds.",
+  "imageText": ["M.L.", "new", "9.65", "3.15", "4.25", "M.L.", "9.25", "2.9", "3.4", "Baseline", "11.45", "2.5", "3.9", "Maze", "Forest", "Hybrid"],
+  "renderURL": "jpeg061-TableI-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 653.7264404296875,
+    "x2": 558.0008544921875,
+    "y2": 671.6838989257812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 52.8,
+    "x2": 299.03999999999996,
+    "y2": 254.88
+  },
+  "caption": "Fig. 6: Simulation results for the maze map from the two algorithms. Color denotes speed of the vehicle where dark blue is zero and red is high-speed.",
+  "imageText": ["(b)", "Machine", "Learning", "(a)", "Baseline"],
+  "renderURL": "jpeg061-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 264.2955627441406,
+    "x2": 298.801025390625,
+    "y2": 294.2090148925781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 235.67999999999998,
+    "x2": 559.1999999999999,
+    "y2": 421.44
+  },
+  "caption": "Fig. 7: Difference in velocity between the ML planner and baseline.",
+  "imageText": [],
+  "renderURL": "jpeg061-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 428.5455322265625,
+    "x2": 558.0009765625,
+    "y2": 446.50299072265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 105.6,
+    "y1": 75.84,
+    "x2": 247.2,
+    "y2": 108.96
+  },
+  "caption": "TABLE II: Percent Reduction compared to baseline",
+  "imageText": ["M.L.", "new", "15.72", "-26.00", "-8.97", "M.L.", "19.21", "-16.00", "12.82", "Maze", "Forest", "Hybrid"],
+  "renderURL": "jpeg061-TableII-1.png",
+  "captionBoundary": {
+    "x1": 70.39299774169922,
+    "y1": 56.36655044555664,
+    "x2": 282.40704345703125,
+    "y2": 62.3690185546875
+  }
+}]

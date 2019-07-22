@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 54.72,
+    "x2": 538.0799999999999,
+    "y2": 288.0
+  },
+  "caption": "Fig. 1: Example of K-means clustering of location ID 261. The left image shows the pickup locations latitude and longitude that fall within location ID 261. The right image shows the result of K-means clustering of these trips into 10 clusters.",
+  "imageText": [],
+  "renderURL": "jpeg255-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 297.37225341796875,
+    "x2": 563.0416259765625,
+    "y2": 330.64398193359375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 358.56,
+    "x2": 564.0,
+    "y2": 523.1999999999999
+  },
+  "caption": "Fig. 2: Architecture of Our Fully-Connected network",
+  "imageText": [],
+  "renderURL": "jpeg255-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 317.8529968261719,
+    "y1": 531.769287109375,
+    "x2": 557.1624145507812,
+    "y2": 538.3720092773438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 74.88,
+    "y1": 562.56,
+    "x2": 270.24,
+    "y2": 684.0
+  },
+  "caption": "TABLE I: Bucketed Labels",
+  "imageText": ["0", "<0", "<0.5", "<2", "1", "0-5", "0.5-1.0", "2-5", "2", "5-10", "1.0-1.5", "5-7", "3", "10-15", "1.5-2.0", "7-10", "4", "15-25", "2.0-3.0", "10-15", "5", "25-50", "3.0-5.0", "15-25", "6", "50-60", "5.0-10.0", "25-35", "7", ">60", ">10.0", "35-45", "8", "-", "-", ">45", "Trip", "Distance", "(Miles)", "Activity", "(#", "Trips)", "Fare", "($)", "Bucket", "ID"],
+  "renderURL": "jpeg255-TableI-1.png",
+  "captionBoundary": {
+    "x1": 112.99803161621094,
+    "y1": 546.0152587890625,
+    "x2": 235.98976135253906,
+    "y2": 552.6179809570312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 340.8,
+    "y1": 614.88,
+    "x2": 531.36,
+    "y2": 661.4399999999999
+  },
+  "caption": "TABLE II: Prediction Accuracy for Each Model",
+  "imageText": ["Model", "Activity", "Fare", "Trip", "Distance", "RFC", "51.02%", "45.71%", "30.08%", "FCNN", "35.67%", "45.72%", "23.16%", "LSTM", "26.65%", "27.72%", "23.10%"],
+  "renderURL": "jpeg255-TableII-1.png",
+  "captionBoundary": {
+    "x1": 328.5980224609375,
+    "y1": 597.6810913085938,
+    "x2": 546.4171752929688,
+    "y2": 604.2838134765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 54.72,
+    "x2": 538.0799999999999,
+    "y2": 285.12
+  },
+  "caption": "Fig. 3: Heatmap representation of ground truth activity (left) versus predicted activity (right). The lighter the color, the heavier the activity. Despite not being able to predict the exact magnitude of activity well, our model is able to capture the relative activity between different locations.",
+  "imageText": [],
+  "renderURL": "jpeg255-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 293.417236328125,
+    "x2": 563.0349731445312,
+    "y2": 326.6899719238281
+  }
+}]

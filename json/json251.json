@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 66.72,
+    "x2": 530.4,
+    "y2": 150.23999999999998
+  },
+  "caption": "Table 1. Final results from CP averaged across 5 trials.",
+  "imageText": ["ES-PPO", "200.0", "515.03", "MAX-PPO", "200.0", "363.52", "ALT-PPO", "200.0", "131.24", "ES", "200.0", "60.59", "PPO", "200.0", "53.74", "Episodic", "Rewards", "Training", "Time"],
+  "renderURL": "jpeg251-Table1-1.png",
+  "captionBoundary": {
+    "x1": 325.9800109863281,
+    "y1": 161.56375122070312,
+    "x2": 522.9013671875,
+    "y2": 166.96600341796875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 197.76,
+    "x2": 246.23999999999998,
+    "y2": 296.15999999999997
+  },
+  "caption": "Figure 3. Initial state of BW.",
+  "imageText": [],
+  "renderURL": "jpeg251-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 120.75199890136719,
+    "y1": 310.76373291015625,
+    "x2": 224.1295166015625,
+    "y2": 316.1659851074219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.88,
+    "y1": 66.72,
+    "x2": 246.23999999999998,
+    "y2": 165.12
+  },
+  "caption": "Figure 2. Initial state of CP.",
+  "imageText": [],
+  "renderURL": "jpeg251-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 122.5770034790039,
+    "y1": 179.68777465820312,
+    "x2": 222.30517578125,
+    "y2": 185.09002685546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 66.72,
+    "x2": 547.1999999999999,
+    "y2": 302.4
+  },
+  "caption": "Figure 5. Episodic/sum of rewards (in 10’s of iterations) over training across 5 trials each.",
+  "imageText": ["(c)", "ES-PPO", "(d)", "MAX-PPO", "(e)", "ALT-PPO", "(a)", "ES", "(b)", "PPO"],
+  "renderURL": "jpeg251-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 137.00198364257812,
+    "y1": 319.5777587890625,
+    "x2": 459.8793640136719,
+    "y2": 324.9800109863281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 372.0,
+    "y1": 66.72,
+    "x2": 477.12,
+    "y2": 146.4
+  },
+  "caption": "Figure 1. Diagram of ES-PPO and MAX-PPO.",
+  "imageText": ["è(1)?", "è(2)?", "è(k)?", "è(1)", "è(2)", "è(k)", "Update", "è?", "PPO", "PPO", "PPO", "è(i)", "?", "È"],
+  "renderURL": "jpeg251-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 340.0880126953125,
+    "y1": 161.70175170898438,
+    "x2": 508.7938537597656,
+    "y2": 167.10400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 66.72,
+    "x2": 513.12,
+    "y2": 302.4
+  },
+  "caption": "Figure 4. Episodic/sum of rewards over training CP (in 10’s of iterations) across 5 trials each. Vertical bars are the standard deviation.",
+  "imageText": ["(c)", "ES-PPO", "(d)", "MAX-PPO", "(e)", "ALT-PPO", "(a)", "ES", "(b)", "PPO"],
+  "renderURL": "jpeg251-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 54.93798828125,
+    "y1": 319.5777587890625,
+    "x2": 534.660888671875,
+    "y2": 324.9800109863281
+  }
+}]

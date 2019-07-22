@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 79.67999999999999,
+    "y1": 510.71999999999997,
+    "x2": 532.3199999999999,
+    "y2": 639.36
+  },
+  "caption": "Figure 3. K-Means based pixel classification",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 214.01100158691406,
+    "y1": 650.60546875,
+    "x2": 397.9900817871094,
+    "y2": 656.8619995117188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 79.67999999999999,
+    "y1": 281.76,
+    "x2": 532.3199999999999,
+    "y2": 409.44
+  },
+  "caption": "Figure 2. Bounding boxes generated using MobileNet SSD Single-Shot Multi-Box Detector to track golfer",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 90.31099700927734,
+    "y1": 420.74249267578125,
+    "x2": 521.691162109375,
+    "y2": 426.9989929199219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 62.879999999999995,
+    "x2": 542.4,
+    "y2": 190.07999999999998
+  },
+  "caption": "Figure 6. Test classification example. The classifier successfully detects the near traversable terrain and target. Areas of the background and sky are misclassified, as well as the cart path.",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 56.692996978759766,
+    "y1": 202.06446838378906,
+    "x2": 553.816650390625,
+    "y2": 220.2769775390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 79.67999999999999,
+    "y1": 219.84,
+    "x2": 532.3199999999999,
+    "y2": 347.03999999999996
+  },
+  "caption": "Figure 1. Example supervised training example. Images were hand-classified using image editing software and color codes.",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 56.69300079345703,
+    "y1": 358.7804870605469,
+    "x2": 555.3027954101562,
+    "y2": 365.0369873046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 79.67999999999999,
+    "y1": 62.879999999999995,
+    "x2": 532.3199999999999,
+    "y2": 190.07999999999998
+  },
+  "caption": "Figure 4. Felzenszwalb segmentation followed with cluster pooling",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 168.80099487304688,
+    "y1": 202.0354766845703,
+    "x2": 443.2005310058594,
+    "y2": 208.2919921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 69.6,
+    "y1": 339.84,
+    "x2": 542.4,
+    "y2": 467.03999999999996
+  },
+  "caption": "Figure 5. Test classification example. The classifier successfully detects the green, edges of the background, sky, and parts of the traversable terrain, but mistakenly adds a background layer surrounding the green.",
+  "imageText": [],
+  "renderURL": "jpeg12-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 56.69300079345703,
+    "y1": 478.6195068359375,
+    "x2": 555.109130859375,
+    "y2": 496.8320007324219
+  }
+}]

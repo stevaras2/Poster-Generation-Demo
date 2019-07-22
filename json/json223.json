@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 123.83999999999999,
+    "y1": 193.92,
+    "x2": 488.15999999999997,
+    "y2": 293.28
+  },
+  "caption": "Figure 1: Autonomous spacecraft motion planning.",
+  "imageText": [],
+  "renderURL": "jpeg223-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 183.86300659179688,
+    "y1": 310.3244323730469,
+    "x2": 428.1319885253906,
+    "y2": 315.77899169921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 120.96,
+    "y1": 165.6,
+    "x2": 491.03999999999996,
+    "y2": 445.44
+  },
+  "caption": "Figure 3: Hyperparameters tuning - aSC NN (top left), eSC NN (top right), iSC NN (bottom).",
+  "imageText": [],
+  "renderURL": "jpeg223-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 79.62899780273438,
+    "y1": 462.32940673828125,
+    "x2": 532.371337890625,
+    "y2": 469.4719543457031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 188.64,
+    "y1": 492.96,
+    "x2": 423.35999999999996,
+    "y2": 553.4399999999999
+  },
+  "caption": "Table 1: Accuracy results.",
+  "imageText": ["RMSEtrain", "RMSEdev", "RMSEtest", "aSC", "[km]", "2.36", "4.77", "3.13", "eSC", "[-]", "0.044", "0.075", "0.074", "iSC", "[deg]", "0.39", "3.00", "2.43"],
+  "renderURL": "jpeg223-Table1-1.png",
+  "captionBoundary": {
+    "x1": 243.33299255371094,
+    "y1": 565.3124389648438,
+    "x2": 368.66864013671875,
+    "y2": 570.7669677734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 210.72,
+    "y1": 72.96,
+    "x2": 401.28,
+    "y2": 217.44
+  },
+  "caption": "Figure 2: Pareto Front.",
+  "imageText": [],
+  "renderURL": "jpeg223-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 250.12100219726562,
+    "y1": 234.6754608154297,
+    "x2": 361.87933349609375,
+    "y2": 240.1300048828125
+  }
+}]

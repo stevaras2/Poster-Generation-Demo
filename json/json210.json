@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 206.88,
+    "y1": 71.52,
+    "x2": 392.15999999999997,
+    "y2": 191.04
+  },
+  "caption": "Figure 1: Example input variable. Green Chlorophyll Vegetation Index (GCVI) at 1 km resolution ranges from 0 to 6 (dark to light green). Shown for July 15, 2018.",
+  "imageText": [],
+  "renderURL": "jpeg210-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 207.38400268554688,
+    "y1": 192.46197509765625,
+    "x2": 391.6376037597656,
+    "y2": 232.31207275390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 171.84,
+    "y1": 95.52,
+    "x2": 423.35999999999996,
+    "y2": 174.23999999999998
+  },
+  "caption": "Table 4: Additional statistics for the three models (C, R).",
+  "imageText": ["No", "Fire", "(MLP)", "0.80", "0.94", "0.86", "Fire", "(MLP)", "0.61", "0.28", "0.38", "No", "Fire", "(Boosted", "trees)", "0.80", "0.93", "0.86", "Fire", "(Boosted", "trees)", "0.59", "0.30", "0.40", "No", "Fire", "(Logistic", "regression)", "0.80", "0.95", "0.33", "Fire", "(Logistic", "regression)", "0.61", "0.23", "0.86", "Precision", "Recall", "F1"],
+  "renderURL": "jpeg210-Table4-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 77.47981262207031,
+    "x2": 311.70391845703125,
+    "y2": 81.9630126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 206.88,
+    "y1": 266.88,
+    "x2": 378.24,
+    "y2": 438.71999999999997
+  },
+  "caption": "Figure 2: Map of average fire risk for the period June–August 2017. Risk was derived using coefficients from logistic regression (C, R).",
+  "imageText": [],
+  "renderURL": "jpeg210-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 207.38400268554688,
+    "y1": 439.8399658203125,
+    "x2": 377.4657287597656,
+    "y2": 479.6899719238281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 94.56,
+    "y1": 344.64,
+    "x2": 501.12,
+    "y2": 631.1999999999999
+  },
+  "caption": "Table 1: Variables used for fire prediction. Climate variables are italicized; reflectance variables are not italicized.",
+  "imageText": ["Land", "cover", "classi?cation", "(LC)", "MODIS", "1", "km", "Daily", "Presence", "of", "?re", "MODIS", "1", "km", "Daily", "Tasseled", "cap", "greenness", "(TCG)", "MODIS", "1", "km", "Daily", "Tasseled", "cap", "wetness", "(TCW)", "MODIS", "1", "km", "Daily", "Normalized", "burn", "ratio", "1", "(NBR1)", "MODIS", "1", "km", "Daily", "Normalized", "burn", "ratio", "2", "(NBR2)", "MODIS", "1", "km", "Daily", "Normalized", "di?erence", "moisture", "index", "(NDMI)", "MODIS", "1", "km", "Daily", "Normalized", "di?erence", "wetness", "index", "(NDWI)", "MODIS", "1", "km", "Daily", "Normalized", "di?erence", "vegetation", "index", "(NDVI)", "MODIS", "1", "km", "Daily", "Green", "chlorophyll", "vegetation", "index", "(GCVI)", "MODIS", "1", "km", "Daily", "Re?ectance", "(Near-infrared)", "MODIS", "1", "km", "Daily", "Re?ectance", "(Shortwave", "infrared", "1)", "MODIS", "1", "km", "Daily", "Re?ectance", "(Shortwave", "infrared", "2)", "MODIS", "1", "km", "Daily", "Re?ectance", "(Green)", "MODIS", "1", "km", "Daily", "Re?ectance", "(Blue)", "MODIS", "1", "km", "Daily", "Land", "surface", "temperature", "(LST)", "MODIS", "1", "km", "Yearly", "Re?ectance", "(Red)", "MODIS", "1", "km", "Daily", "Soil", "moisture,", "10-40cm", "GLDAS", "27.5", "km", "3-hourly", "Soil", "moisture,", "40-100cm", "GLDAS", "27.5", "km", "3-hourly", "Soil", "moisture,", "100-200cm", "GLDAS", "27.5", "km", "3-hourly", "Wind", "speed", "(WS)", "GLDAS", "27.5", "km", "3-hourly", "Palmer", "Drought", "Severity", "Index", "(PDSI)", "U", "of", "Idaho", "4.6", "km", "10-day", "Soil", "moisture,", "0-10cm", "GLDAS", "27.5", "km", "3-hourly", "Evapotranspiration", "(ET)", "GLDAS", "27.5", "km", "3-hourly", "Precipitation", "CHIRPS", "5.5", "km", "Daily", "Variable", "Source", "Spatial", "Res.", "Temporal", "Res."],
+  "renderURL": "jpeg210-Table1-1.png",
+  "captionBoundary": {
+    "x1": 71.99996948242188,
+    "y1": 317.55169677734375,
+    "x2": 523.2763061523438,
+    "y2": 322.034912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 156.0,
+    "y1": 352.8,
+    "x2": 440.15999999999997,
+    "y2": 464.15999999999997
+  },
+  "caption": "Table 2: Percent errors by model for training and testing. Model labels (C), (R), and (C, R) indicate which subset of data was used (climate, reflectance, or both). The baseline error achieved by classifying all test examples as “no fire” was 27.19%.",
+  "imageText": ["MLP", "(C,", "R)", "18.97", "22.21", "Boosted", "trees", "(C,", "R)", "20.38", "22.37", "MLP", "(C)", "25.20", "24.69", "MLP", "(R)", "20.51", "22.72", "Logistic", "regression", "(C)", "20.62", "22.96", "Logistic", "regression", "(R)", "20.93", "23.24", "Logistic", "regression", "(C,", "R)", "21.33", "22.71", "Boosted", "trees", "(C)", "21.07", "23.11", "Boosted", "trees", "(R)", "19.57", "22.62", "Model", "Train", "Error", "(%)", "Test", "Error", "(%)"],
+  "renderURL": "jpeg210-Table2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 301.177001953125,
+    "x2": 523.2783203125,
+    "y2": 329.57025146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 90.72,
+    "y1": 639.84,
+    "x2": 504.0,
+    "y2": 708.0
+  },
+  "caption": "Table 3: Confusion matrices for (a) logistic regression (C, R), (b) boosted trees (C, R), and (c) MLP (C, R).",
+  "imageText": ["(Actual)", "No", "Fire", "26,755", "1,313", "(Actual)", "Fire", "7,249", "2,055", "(c)", "(Pred.)", "No", "Fire", "(Pred.)", "Fire", "(Actual)", "No", "Fire", "26,453", "1,930", "(Actual)", "Fire", "6,502", "2,802", "(b)", "(Pred.)", "No", "Fire", "(Pred.)", "Fire", "(Actual)", "No", "Fire", "26,996", "1,387", "(Actual)", "Fire", "7,170", "2,134", "(a)", "(Pred.)", "No", "Fire", "(Pred.)", "Fire"],
+  "renderURL": "jpeg210-Table3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 621.9097290039062,
+    "x2": 518.6348876953125,
+    "y2": 626.3929443359375
+  }
+}]

@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 41.76,
+    "x2": 519.36,
+    "y2": 269.28
+  },
+  "caption": "Figure 2: Performance of predictive models on yeast MPRA dataset. (a) True (x-axis) and predicted (y-axis) expression levels for constructs with different numbers of GNC4 motifs. (b) Deep learning models reproduce experimentally the observed behaviors of constructs with different numbers of GNC4 motifs in response to increasing [AA]. (c-d) DeepLIFT importance score for a construct containing three weak GCN4 TFBSs (c) and another one containing three strong GCN4 TFBSs correctly identify motifs driving regulatory activity",
+  "imageText": [],
+  "renderURL": "jpeg400-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 35.4329833984375,
+    "y1": 291.4017028808594,
+    "x2": 576.5702514648438,
+    "y2": 344.20294189453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 159.84,
+    "y1": 686.88,
+    "x2": 452.15999999999997,
+    "y2": 728.16
+  },
+  "caption": "Table 4: Evaluation of sequences produced from 5000 epochs of training for ã = 0.5 on the SHRAPR MPRA dataset.",
+  "imageText": ["1-NN", "LOO", "0.5", "0.89", "Predicted", "Expression", "MSE", "0.0", "64324.5176", "Metric", "Optimal/Real", "Value", "Generated"],
+  "renderURL": "jpeg400-Table4-1.png",
+  "captionBoundary": {
+    "x1": 46.667999267578125,
+    "y1": 740.9126586914062,
+    "x2": 565.3357543945312,
+    "y2": 745.8939819335938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 133.92,
+    "y1": 41.76,
+    "x2": 478.08,
+    "y2": 201.12
+  },
+  "caption": "Table 3: Evaluation of sequences produced from 5000 epochs of training for various ã on the Yeast MPRA dataset.",
+  "imageText": ["1-NN", "LOO", "0.5", "1.0", "Motif", "Count", "Per", "Sequence", "17.54", "8.336", "Predicted", "Expression", "MSE", "0.0", "0.792", "Metric", "Optimal/Real", "Value", "Generated", "ã", "=", "0.0", "1-NN", "LOO", "0.5", "0.77", "Motif", "Count", "Per", "Sequence", "17.54", "11.894", "Predicted", "Expression", "MSE", "0.0", "0.205", "Metric", "Optimal/Real", "Value", "Generated", "ã", "=", "0.5", "1-NN", "LOO", "0.5", "0.65", "Motif", "Count", "Per", "Sequence", "17.54", "14.114", "Predicted", "Expression", "MSE", "0.0", "0.801", "Metric", "Optimal/Real", "Value", "Generated", "ã", "=", "1.0"],
+  "renderURL": "jpeg400-Table3-1.png",
+  "captionBoundary": {
+    "x1": 51.650001525878906,
+    "y1": 214.07669067382812,
+    "x2": 560.349853515625,
+    "y2": 219.0579833984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 166.56,
+    "y1": 657.6,
+    "x2": 442.08,
+    "y2": 750.24
+  },
+  "caption": "Table 1: Architectural search of deep learning CNN models for predicting regulatory activity from sequence. Each architectural property and the corresponding distribution it was drawn from in the random search are shown. Note that for properties relevant to multiple layers, such as units per dense layer, n independent samples were drawn from the distribution corresponding to the relevant number of layers.",
+  "imageText": ["Regularize", "all", "Layers", "?", "Bern(p", "=", "0.5)", "Filter", "Size", "?", "Uni(4,", "15)", "Number", "Dense", "Layers", "?", "Uni(1,", "5)", "Units", "per", "Dense", "Layer", "?", "Uni(5,", "100)", "Number", "Convolutional", "Layers", "?", "Uni(2,", "4)", "Filters", "per", "Convolutional", "Layer", "?", "Uni(5,", "50)", "Architecture", "Property", "Distribution", "Drawn", "From"],
+  "renderURL": "jpeg400-Table1-1.png",
+  "captionBoundary": {
+    "x1": 35.433013916015625,
+    "y1": 603.4283447265625,
+    "x2": 576.5676879882812,
+    "y2": 644.274658203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 41.76,
+    "x2": 519.36,
+    "y2": 159.35999999999999
+  },
+  "caption": "Figure 1: Outline of deep learning strategies for predicting activity and de novo generating functionally active DNA sequences. (a) The regression training phase of the sequence generation pipeline takes a set of sequences and trains a number of models to predict expression driven by these sequences (b) Structure of the GAN component of the sequence generation pipeline, which creates de novo predicted-to-be functionally active sequences.",
+  "imageText": [],
+  "renderURL": "jpeg400-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 35.43299865722656,
+    "y1": 181.94668579101562,
+    "x2": 576.5653686523438,
+    "y2": 222.79302978515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 133.92,
+    "x2": 543.36,
+    "y2": 214.07999999999998
+  },
+  "caption": "Table 2: Top models from random architecture search for the Yeast MPRA and Sharpr-MPRA datasets. For feature importance scoring, we sum the DeepLIFT importance scores ascribed to TFBSs, and divide by the total importance of the input sequence. We sum this score over all sequences in both the training and test datasets.",
+  "imageText": ["3", "0.008275", "0.030267", "11z77.912115", "3", "12927.603", "34713.798", "2", "0.002005", "0.028467", "1084.981529", "2", "7581.866", "34191.550", "1", "0.014043", "0.026653", "1087.418475", "1", "8674.099", "34120.833", "Yeast", "MPRA", "Sharpr-MPRA", "Model", "Rank", "Training", "MSE", "Test", "MSE", "Motif", "Importance", "Model", "Rank", "Training", "MSE", "Test", "MSE"],
+  "renderURL": "jpeg400-Table2-1.png",
+  "captionBoundary": {
+    "x1": 35.4329833984375,
+    "y1": 91.73470306396484,
+    "x2": 576.5703735351562,
+    "y2": 120.62701416015625
+  }
+}]

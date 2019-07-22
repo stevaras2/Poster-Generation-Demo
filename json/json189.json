@@ -1,0 +1,61 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 113.75999999999999,
+    "y1": 374.88,
+    "x2": 511.2,
+    "y2": 478.08
+  },
+  "caption": "Figure 1: A Sample of Users’ Ratings Figure 2: Histogram of User Ratings",
+  "imageText": [],
+  "renderURL": "jpeg189-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 96.31199645996094,
+    "y1": 489.7257080078125,
+    "x2": 513.7664794921875,
+    "y2": 496.3059997558594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 81.6,
+    "y1": 464.64,
+    "x2": 530.4,
+    "y2": 571.1999999999999
+  },
+  "caption": "Figure 5: Predicted Ratings Using NMF Figure 6: Predicted Ratings Using SVD",
+  "imageText": [],
+  "renderURL": "jpeg189-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 89.9749984741211,
+    "y1": 583.6326904296875,
+    "x2": 520.7837524414062,
+    "y2": 588.614013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 249.6,
+    "x2": 549.12,
+    "y2": 341.28
+  },
+  "caption": "Figure 3: Example of Word2vec Skip-Gram Model Recommendation Results (Similarity Scores in Parentheses) Figure 4: t-SNE Visual Representation of a Sample of Dish Names’ Similarity",
+  "imageText": [],
+  "renderURL": "jpeg189-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 50.400001525878906,
+    "y1": 346.8966979980469,
+    "x2": 561.6053466796875,
+    "y2": 371.2459716796875
+  }
+}]

@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 70.56,
+    "x2": 288.0,
+    "y2": 215.04
+  },
+  "caption": "Figure 2. Elastic modulus distribution across the dataset.",
+  "imageText": [],
+  "renderURL": "jpeg207-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 73.44000244140625,
+    "y1": 228.2576141357422,
+    "x2": 269.05181884765625,
+    "y2": 245.280029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 518.88,
+    "x2": 280.32,
+    "y2": 683.04
+  },
+  "caption": "Figure 3. Parameter optimization of the random forest regressor.",
+  "imageText": [],
+  "renderURL": "jpeg207-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 68.87999725341797,
+    "y1": 696.4976196289062,
+    "x2": 279.2455749511719,
+    "y2": 713.52001953125
+  }
+}]

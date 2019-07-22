@@ -1,0 +1,281 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 361.91999999999996,
+    "y1": 160.79999999999998,
+    "x2": 509.28,
+    "y2": 258.24
+  },
+  "caption": "Fig. 1: Distribution of scores of reviews.",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 352.15899658203125,
+    "y1": 266.3225402832031,
+    "x2": 519.0423583984375,
+    "y2": 272.32501220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 75.84,
+    "y1": 528.96,
+    "x2": 277.44,
+    "y2": 641.28
+  },
+  "caption": "Fig. 3: Sentence Representation by Parsing Tree",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 77.50700378417969,
+    "y1": 649.2915649414062,
+    "x2": 275.29449462890625,
+    "y2": 655.2940063476562
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 76.8,
+    "y1": 376.8,
+    "x2": 276.0,
+    "y2": 489.12
+  },
+  "caption": "Fig. 2: Sentence Representation by Averaging",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 82.48799896240234,
+    "y1": 497.0475158691406,
+    "x2": 270.3128662109375,
+    "y2": 503.04998779296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 103.67999999999999,
+    "y1": 234.72,
+    "x2": 249.12,
+    "y2": 375.36
+  },
+  "caption": "Fig. 4: 3 Layers GRU",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 131.2989959716797,
+    "y1": 382.70953369140625,
+    "x2": 221.50035095214844,
+    "y2": 388.7120056152344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 608.64,
+    "x2": 268.32,
+    "y2": 684.0
+  },
+  "caption": "Fig. 5: LSTM for Generation",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 116.43499755859375,
+    "y1": 691.6935424804688,
+    "x2": 236.36474609375,
+    "y2": 697.6959838867188
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 357.59999999999997,
+    "y1": 492.0,
+    "x2": 513.12,
+    "y2": 567.36
+  },
+  "caption": "Fig. 6: Latent Factor Model",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 378.4750061035156,
+    "y1": 574.9785766601562,
+    "x2": 492.7260437011719,
+    "y2": 580.9810180664062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 52.8,
+    "x2": 552.0,
+    "y2": 104.16
+  },
+  "caption": "Fig. 8: Accuracy Table",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 388.6510009765625,
+    "y1": 112.1425552368164,
+    "x2": 482.5484924316406,
+    "y2": 118.14501953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 465.59999999999997,
+    "x2": 542.4,
+    "y2": 519.36
+  },
+  "caption": "Fig. 10: Generated Review",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 380.6759948730469,
+    "y1": 526.8555908203125,
+    "x2": 490.5235900878906,
+    "y2": 532.8580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.96,
+    "y1": 564.0,
+    "x2": 268.32,
+    "y2": 671.04
+  },
+  "caption": "Fig. 7: 3-Layers GRU Loss Function",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 100.77400207519531,
+    "y1": 678.4695434570312,
+    "x2": 252.0261688232422,
+    "y2": 684.4719848632812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 322.56,
+    "x2": 558.24,
+    "y2": 377.28
+  },
+  "caption": "Fig. 9: Level 5 Generation",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 381.0950012207031,
+    "y1": 384.9875183105469,
+    "x2": 490.105712890625,
+    "y2": 390.989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 53.76,
+    "x2": 263.03999999999996,
+    "y2": 184.32
+  },
+  "caption": "Fig. 11: Error decreases as iteration grows, different learning rate",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 191.94454956054688,
+    "x2": 298.801025390625,
+    "y2": 209.90203857421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "14",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 317.76,
+    "y1": 52.8,
+    "x2": 553.4399999999999,
+    "y2": 141.12
+  },
+  "caption": "Fig. 14: Cross validation accuracy curve for QDA and for DT",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure14-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 148.74252319335938,
+    "x2": 558.0009765625,
+    "y2": 166.70001220703125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "12",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 63.839999999999996,
+    "y1": 268.8,
+    "x2": 289.44,
+    "y2": 303.36
+  },
+  "caption": "Fig. 12: Recommendation result example",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure12-1.png",
+  "captionBoundary": {
+    "x1": 92.15699768066406,
+    "y1": 310.40753173828125,
+    "x2": 260.64447021484375,
+    "y2": 316.4100036621094
+  }
+}, {
+  "renderDpi": 150,
+  "name": "13",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 65.75999999999999,
+    "y1": 424.8,
+    "x2": 287.03999999999996,
+    "y2": 493.44
+  },
+  "caption": "Fig. 13: Tag cloud for scores from 1 to 5",
+  "imageText": [],
+  "renderURL": "jpeg043-Figure13-1.png",
+  "captionBoundary": {
+    "x1": 91.23998260498047,
+    "y1": 501.0875244140625,
+    "x2": 261.560546875,
+    "y2": 507.0899963378906
+  }
+}]

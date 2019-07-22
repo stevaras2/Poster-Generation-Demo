@@ -1,0 +1,41 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 58.559999999999995,
+    "y1": 343.68,
+    "x2": 536.16,
+    "y2": 473.28
+  },
+  "caption": "Figure 2: ’fights’ and ’winPlacePerc’ in different clusters (left) ’escape’ and ’winPlacePerc’ in different clusters(right)",
+  "imageText": [],
+  "renderURL": "jpeg127-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 56.69300079345703,
+    "y1": 490.6704406738281,
+    "x2": 538.5880737304688,
+    "y2": 511.10003662109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 72.96,
+    "y1": 321.59999999999997,
+    "x2": 523.1999999999999,
+    "y2": 474.24
+  },
+  "caption": "Figure 1: ’damageDealt’ distribution (left) ’walkDistance’ distribution (right)",
+  "imageText": [],
+  "renderURL": "jpeg127-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 99.11100006103516,
+    "y1": 492.08843994140625,
+    "x2": 496.1672058105469,
+    "y2": 498.072021484375
+  }
+}]

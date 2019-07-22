@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 197.76,
+    "x2": 542.88,
+    "y2": 324.96
+  },
+  "caption": "Figure 1. Example images from dataset (Kaggle, 2018)",
+  "imageText": ["(a)", "Image", "labeled", "by", "“Ships”", "(b)", "Image", "labeled", "by", "“No", "Ships”"],
+  "renderURL": "jpeg58-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 325.2799987792969,
+    "y1": 341.7757568359375,
+    "x2": 523.602783203125,
+    "y2": 347.1780090332031
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 325.92,
+    "y1": 72.0,
+    "x2": 525.12,
+    "y2": 283.2
+  },
+  "caption": "Figure 2. Feature Engineering Examples",
+  "imageText": ["(c)", "Original", "Image", "(d)", "HSV", "Image", "(a)", "Original", "Image", "(b)", "Grayscale", "Image"],
+  "renderURL": "jpeg58-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 350.0360107421875,
+    "y1": 299.92974853515625,
+    "x2": 498.8456726074219,
+    "y2": 305.3320007324219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 308.64,
+    "y1": 458.88,
+    "x2": 539.04,
+    "y2": 533.28
+  },
+  "caption": "Figure 3. Transferred Learning CNN (TL-CNN) Model Framework",
+  "imageText": [],
+  "renderURL": "jpeg58-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 547.8217163085938,
+    "x2": 542.9277954101562,
+    "y2": 564.1829833984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 64.8,
+    "y1": 466.56,
+    "x2": 279.36,
+    "y2": 516.0
+  },
+  "caption": "Table 1. Test Accuracy of Machine Learning Algorithms with different feature extraction techniques, “His” stands for Color Histogram, “Ha”means Haralick Textures and “Hu” ia abbreviation of Hu Moments",
+  "imageText": ["Alg", "His", "Ha", "Hu", "his", "+", "Ha", "Ha", "+", "Hu", "Hu", "+", "His", "w/all", "w/o", "LDA", "0.83", "0.86", "0.83", "0.87", "0.86", "0.83", "0.87", "0.74", "KNN", "0.82", "0.79", "0.82", "0.79", "0.79", "0.82", "0.79", "0.78", "NB", "0.49", "0.84", "0.49", "0.75", "0.84", "0.49", "0.75", "0.42", "RF", "0.92", "0.90", "0.92", "0.93", "0.89", "0.92", "0.93", "0.85", "SVM", "0.85", "0.84", "0.85", "0.83", "0.84", "0.85", "0.83", "0.65"],
+  "renderURL": "jpeg58-Table1-1.png",
+  "captionBoundary": {
+    "x1": 54.893001556396484,
+    "y1": 527.3257446289062,
+    "x2": 290.9333190917969,
+    "y2": 565.60498046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 55.68,
+    "y1": 116.64,
+    "x2": 289.44,
+    "y2": 189.12
+  },
+  "caption": "Figure 4. Simple CNN (SIM-CNN) Model Framework",
+  "imageText": [],
+  "renderURL": "jpeg58-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 73.9260025024414,
+    "y1": 204.34573364257812,
+    "x2": 270.95654296875,
+    "y2": 209.74798583984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 264.0,
+    "x2": 520.3199999999999,
+    "y2": 391.2
+  },
+  "caption": "Figure 5. Box Plot for Test Accuracy of Machine Learning Algorithms",
+  "imageText": [],
+  "renderURL": "jpeg58-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 306.93798828125,
+    "y1": 405.5607604980469,
+    "x2": 542.9264526367188,
+    "y2": 421.9209899902344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 313.92,
+    "y1": 559.68,
+    "x2": 535.1999999999999,
+    "y2": 693.12
+  },
+  "caption": "Figure 6. Training Loss and Accuracy of CNN Models",
+  "imageText": [],
+  "renderURL": "jpeg58-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 324.61199951171875,
+    "y1": 707.7177124023438,
+    "x2": 524.2702026367188,
+    "y2": 713.1199951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 331.68,
+    "y1": 66.72,
+    "x2": 520.3199999999999,
+    "y2": 429.59999999999997
+  },
+  "caption": "Figure 8. Normalized Confusion Matrix",
+  "imageText": ["(b)", "SIM-CNN", "(a)", "TL-CNN"],
+  "renderURL": "jpeg58-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 352.4169921875,
+    "y1": 446.56573486328125,
+    "x2": 496.46502685546875,
+    "y2": 451.9679870605469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 56.64,
+    "y1": 279.84,
+    "x2": 288.0,
+    "y2": 425.28
+  },
+  "caption": "Figure 7. Threshold Scanning of TL-CNN and SIM-CNN",
+  "imageText": [],
+  "renderURL": "jpeg58-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 68.66699981689453,
+    "y1": 439.7077331542969,
+    "x2": 276.2151794433594,
+    "y2": 445.1099853515625
+  }
+}]

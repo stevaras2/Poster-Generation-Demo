@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 312.0,
+    "x2": 558.24,
+    "y2": 387.36
+  },
+  "caption": "Table 2: A matrix of Kullback Leibler divergences for the PCA + KDE approach",
+  "imageText": ["HLA", "B*07:01", "B*15:01", "B*46:01", "B*73:01", "C*01:02", "B*07:01", "0", "0.51", "0.24", "0.40", "0.83", "B*15:01", "0.37", "0", "0.05", "0.24", "0.53", "B*46:01", "0.47", "0.18", "0", "0.29", "0.58", "B*73:01", "0.19", "0.18", "0.09", "0", "0.30", "C*01:02", "0.25", "0.15", "0.07", "0.17", "0"],
+  "renderURL": "jpeg051-Table2-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 290.3009338378906,
+    "x2": 558.0075073242188,
+    "y2": 307.2372131347656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 140.64,
+    "x2": 302.4,
+    "y2": 405.12
+  },
+  "caption": "Figure 4: Example ROC curves, for the same samples shown in Figure 2 (top) and Figure 3 (bottom).",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 53.999996185302734,
+    "y1": 417.4757080078125,
+    "x2": 301.0273132324219,
+    "y2": 434.4119873046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 440.64,
+    "x2": 302.4,
+    "y2": 705.12
+  },
+  "caption": "Figure 5: Box plots of AUC values for 10-fold cross validation results.",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 717.4766845703125,
+    "x2": 301.023681640625,
+    "y2": 734.4130249023438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 430.56,
+    "x2": 558.24,
+    "y2": 506.4
+  },
+  "caption": "Table 3: A matrix of Kullback Leibler divergences for the Auto + KDE approach",
+  "imageText": ["HLA", "B*07:01", "B*15:01", "B*46:01", "B*73:01", "C*01:02", "B*07:01", "0", "13.8", "12.3", "10.8", "12.2", "B*15:01", "9.69", "0", "2.62", "4.68", "1.80", "B*46:01", "29.7", "14.2", "0", "13.9", "10.3", "B*73:01", "540", "401", "402", "0", "335", "C*01:02", "80.9", "39.9", "31.5", "22.9", "0"],
+  "renderURL": "jpeg051-Table3-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 409.4407043457031,
+    "x2": 558.0075073242188,
+    "y2": 426.3769836425781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 516.0,
+    "x2": 558.24,
+    "y2": 672.0
+  },
+  "caption": "Figure 6: Accuracy of SVM methods by varying í. One- and two-class í-support vector machines A simpler prediction model was created using SVM. The one-class SVM was trained on 90% of the experimental sequences, while the two-class SVM used both the",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 685.1976928710938,
+    "x2": 558.0078735351562,
+    "y2": 738.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 476.64,
+    "x2": 302.4,
+    "y2": 717.12
+  },
+  "caption": "Figure 3: t-SNE of the experimental data.",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 83.19400024414062,
+    "y1": 729.4317016601562,
+    "x2": 271.829345703125,
+    "y2": 734.4130249023438
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 352.32,
+    "x2": 302.4,
+    "y2": 443.03999999999996
+  },
+  "caption": "Figure 2: The 36 features generated using the 9 positions and 4 physiochemical amino acid properties.",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 456.3207092285156,
+    "x2": 301.0263366699219,
+    "y2": 473.2569885253906
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 250.56,
+    "x2": 294.24,
+    "y2": 289.44
+  },
+  "caption": "Table 4: Prediction of H1N1 proteome binding",
+  "imageText": ["PCA", "KDE", "Auto", "KDE", "1-SVM", "2-SVM", "Sensitivity", "1", "1", "1", "1", "Speci?city", "0.915", "0.531", "0.100", "0.154"],
+  "renderURL": "jpeg051-Table4-1.png",
+  "captionBoundary": {
+    "x1": 73.39599609375,
+    "y1": 242.13491821289062,
+    "x2": 280.7521667480469,
+    "y2": 247.1162109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 325.92,
+    "y1": 646.56,
+    "x2": 558.24,
+    "y2": 739.68
+  },
+  "caption": "Table 1: A short summary of the sequences used.",
+  "imageText": ["For", "model", "testing,", "I", "randomly", "generated", "sequences", "as", "HLA", "#", "of", "nonamers", "B*07:01", "1488", "B*15:01", "2836", "B*46:01", "1339", "B*73:01", "119", "C*01:02", "436"],
+  "renderURL": "jpeg051-Table1-1.png",
+  "captionBoundary": {
+    "x1": 324.9469909667969,
+    "y1": 637.5946044921875,
+    "x2": 544.0452270507812,
+    "y2": 642.575927734375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 312.0,
+    "x2": 302.4,
+    "y2": 705.12
+  },
+  "caption": "Figure 1: Simple illustrations of HLA function in both healthy and infected cells.",
+  "imageText": [],
+  "renderURL": "jpeg051-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 717.4766845703125,
+    "x2": 301.0153503417969,
+    "y2": 734.4130249023438
+  }
+}]

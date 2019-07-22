@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 330.71999999999997,
+    "y1": 558.72,
+    "x2": 547.68,
+    "y2": 684.0
+  },
+  "caption": "Fig. 2 Test accuracy with various learning algorithms",
+  "imageText": ["Stemming", "+TF-IDF", "+", "Best", "Params", "Baseline", "Stemming", "Stemming", "+", "TF-IDF", "0.65", "Naive", "Bayes", "SVM", "Boosting", "Perceptron", "0.61", "0.57", "0.53", "0.49", "0.45", "y", "ur", "ac", "A", "cc", "Te", "st"],
+  "renderURL": "jpeg010-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 340.8909912109375,
+    "y1": 708.3906860351562,
+    "x2": 531.6600341796875,
+    "y2": 713.79296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 125.75999999999999,
+    "y1": 420.96,
+    "x2": 221.28,
+    "y2": 677.28
+  },
+  "caption": "Fig. 4. Tokens with positive or negative weight from Naive Bayes predictor. In unstemmed form for readability.",
+  "imageText": ["Term", "Weight", "wary", "-0.51", "discourage", "-0.48", "misinform", "-0.48", "reprehensible", "-0.46", "abusive", "-0.45", "dispute", "-0.45", "denounce", "-0.45", "cheapen", "-0.43", "rough", "-0.41", "takeover", "-0.40", "Term", "Weight", "suggest", "0.54", "rumor", "0.51", "high", "0.51", "report", "0.48", "rise", "0.45", "express", "0.44", "staff", "0.43", "soar", "0.42", "diversi?ed", "0.40", "reorganization", "0.40"],
+  "renderURL": "jpeg010-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 55.74800109863281,
+    "y1": 698.4287109375,
+    "x2": 290.7752685546875,
+    "y2": 713.79296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 338.4,
+    "y1": 209.76,
+    "x2": 548.16,
+    "y2": 362.4
+  },
+  "caption": "Fig. 5 MDP returns vs. Random guesser for Tesla, Jan. 01, 2015 to Dec. 31, 2015.",
+  "imageText": ["Random", "Guesser", "Value", "Iteration", "algorithm", "Simulation", "Performance", "tu", "rn", "R", "e", "n", "t", "rc", "e", "P", "e", "4", "2", "0", "-2", "-4", "-6", "-8", "Number", "of", "Days", "0", "50", "100", "150", "200", "250"],
+  "renderURL": "jpeg010-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 316.72198486328125,
+    "y1": 374.71575927734375,
+    "x2": 555.8289184570312,
+    "y2": 390.0810241699219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 52.8,
+    "y1": 207.84,
+    "x2": 308.15999999999997,
+    "y2": 261.12
+  },
+  "caption": "Fig. 3: Tabulated test accuracies from incrementally optimised algorithms",
+  "imageText": ["Naive", "Bayes", "SVM", "Boosting", "Perceptron", "Baseline", "0.516", "0.500", "0.487", "0.516", "+", "stemming", "0.496", "0.522", "0.534", "0.544", "+", "TF-IDF", "0.534", "0.585", "0.604", "0.566", "+", "optimised", "params", "0.546", "0.610", "0.594", "0.604"],
+  "renderURL": "jpeg010-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 61.39699935913086,
+    "y1": 284.4727478027344,
+    "x2": 285.12652587890625,
+    "y2": 299.8380126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 362.88,
+    "y1": 536.16,
+    "x2": 509.28,
+    "y2": 692.16
+  },
+  "caption": "Fig. 1 Webscraping pipeline",
+  "imageText": ["Stemmed", "Text", "INPUT", "OUTPUT", "Stemming", "Algorithm", "Raw", "Text", "Article", "Parsing", "Algorithm", "P", "Q", "N", "S", "A", "r", "t", "i", "c", "l", "e", "U", "R", "L", "s", "XML", "Tree", "Parsing", "Algorithm", "PQNS", "XML", "Tree", "Search", "Terms", "Federated", "Search", "Algorithm"],
+  "renderURL": "jpeg010-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 385.8299865722656,
+    "y1": 708.3906860351562,
+    "x2": 486.7198486328125,
+    "y2": 713.79296875
+  }
+}]

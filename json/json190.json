@@ -1,0 +1,81 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 169.92,
+    "y1": 561.6,
+    "x2": 442.08,
+    "y2": 641.28
+  },
+  "caption": "Table 1: List of features for entity extraction",
+  "imageText": ["i", "the", "position", "of", "w0", "Position", "of", "current", "term", "w?1", "is", "uppercase", "1", "if", "previous", "term", "is", "uppercase", "w0", "is", "uppercase", "1", "if", "current", "term", "is", "uppercase", "w?1,", "w0", "Represents", "bigram", "with", "the", "previous", "term", "w0", "is", "number", "1", "if", "w0", "iconsists", "only", "on", "digits", "otherwise", "0", "w?1", "==", "and", "1", "if", "previous", "term", "is", "\"and\"", "w0", "Represents", "term", "in", "current", "position"],
+  "renderURL": "jpeg190-Table1-1.png",
+  "captionBoundary": {
+    "x1": 217.343994140625,
+    "y1": 552.7655639648438,
+    "x2": 394.3493957519531,
+    "y2": 558.7680053710938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 5,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 201.6,
+    "y1": 220.79999999999998,
+    "x2": 410.4,
+    "y2": 315.36
+  },
+  "caption": "Table 4: Conditional random field",
+  "imageText": ["Precision", "0.925", "0.869", "0.908", "Recall", "0.928", "0.964", "0.940", "F1-score", "0.927", "0.914", "0.924", "Dev", "Set", "Brand", "Category", "ModelName", "Precision", "0.818", "0.621", "0.631", "Recall", "0.614", "0.711", "0.746", "F1-score", "0.701", "0.663", "0.684", "Training", "Set", "Brand", "Category", "ModelName"],
+  "renderURL": "jpeg190-Table4-1.png",
+  "captionBoundary": {
+    "x1": 238.14505004882812,
+    "y1": 212.36154174804688,
+    "x2": 373.5466613769531,
+    "y2": 218.364013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 201.6,
+    "y1": 388.8,
+    "x2": 410.4,
+    "y2": 684.0
+  },
+  "caption": "Table 3: Entity recognition metrics for GBT",
+  "imageText": ["Precision", "0.870", "0.830", "0.860", "Recall", "0.830", "0.840", "0.800", "F1-score", "0.850", "0.840", "0.830", "Dev", "Set", "Brand", "Category", "ModelName", "Precision", "0.793", "0.603", "0.727", "Recall", "0.697", "0.620", "0.480", "F1-score", "0.742", "0.611", "0.578", "Training", "Set", "Brand", "Category", "ModelName"],
+  "renderURL": "jpeg190-Table3-1.png",
+  "captionBoundary": {
+    "x1": 217.95098876953125,
+    "y1": 379.5285339355469,
+    "x2": 393.740966796875,
+    "y2": 385.531005859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 201.6,
+    "y1": 600.0,
+    "x2": 410.4,
+    "y2": 694.0799999999999
+  },
+  "caption": "Table 2: Entity recognition metrics for SVM (RBF kernel)",
+  "imageText": ["Precision", "0.900", "0.900", "0.930", "Recall", "0.750", "0.800", "0.780", "F1-score", "0.820", "0.840", "0.840", "Dev", "Set", "Brand", "Category", "ModelName", "Precision", "0.895", "0.667", "0.800", "Recall", "0.486", "0.531", "0.431", "F1-score", "0.630", "0.591", "0.560", "Training", "Set", "Brand", "Category", "ModelName"],
+  "renderURL": "jpeg190-Table2-1.png",
+  "captionBoundary": {
+    "x1": 189.4980010986328,
+    "y1": 591.2095336914062,
+    "x2": 422.1943664550781,
+    "y2": 597.2119750976562
+  }
+}]

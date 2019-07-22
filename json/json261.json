@@ -1,0 +1,281 @@
+[{
+  "renderDpi": 150,
+  "name": "I",
+  "page": 0,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 426.71999999999997,
+    "x2": 583.1999999999999,
+    "y2": 497.28
+  },
+  "caption": "TABLE I: Paysim dataset statistics",
+  "imageText": ["TOTAL", "6354407", "8213", "6362620", "DEBIT", "41432", "0", "41432", "PAYMENT", "2151494", "0", "2151494", "CASH", "IN", "1399284", "0", "1399284", "CASH", "OUT", "2233384", "4116", "2237500", "TRANSFER", "528812", "4097", "532909", "Transaction", "Type", "Non-fraud", "transactions", "Fraud", "transactions", "Total"],
+  "renderURL": "jpeg261-TableI-1.png",
+  "captionBoundary": {
+    "x1": 364.4079895019531,
+    "y1": 504.9605407714844,
+    "x2": 506.79345703125,
+    "y2": 510.9630126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 150.72,
+    "x2": 289.44,
+    "y2": 516.48
+  },
+  "caption": "Fig. 1: PCA decomposition of Paysim data",
+  "imageText": ["(b)", "CASH", "OUT", "transactions", "(a)", "TRANSFER", "transactions"],
+  "renderURL": "jpeg261-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 88.10699462890625,
+    "y1": 526.1905517578125,
+    "x2": 264.69403076171875,
+    "y2": 532.1929931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 103.67999999999999,
+    "y1": 202.56,
+    "x2": 249.12,
+    "y2": 264.0
+  },
+  "caption": "TABLE II: Dataset split details",
+  "imageText": ["Train", "2868", "370168", "373036", "CV", "614", "79322", "79936", "Test", "615", "79322", "79937", "Total", "4097", "528812", "532909", "TRANSFER", "Split", "Fraud", "Non", "fraud", "Total"],
+  "renderURL": "jpeg261-TableII-1.png",
+  "captionBoundary": {
+    "x1": 112.61000061035156,
+    "y1": 271.8905334472656,
+    "x2": 240.1911163330078,
+    "y2": 277.89300537109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 365.76,
+    "x2": 531.36,
+    "y2": 518.4
+  },
+  "caption": "Fig. 3: TRANSFER - Precision,Recall, F1 trend for increasing fraud class weights",
+  "imageText": ["(c)", "SVM", "with", "RBF", "kernel", "(a)", "Logistic", "Regression", "(b)", "Linear", "SVM"],
+  "renderURL": "jpeg261-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 528.3255615234375,
+    "x2": 558.0011596679688,
+    "y2": 546.2830200195312
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 101.75999999999999,
+    "y1": 656.64,
+    "x2": 251.04,
+    "y2": 718.0799999999999
+  },
+  "caption": "TABLE III: Dataset split details",
+  "imageText": ["Train", "2881", "1563369", "1566250", "CV", "618", "335007", "335625", "Test", "617", "335008", "335625", "Total", "4116", "2233384", "2237500", "CASH", "OUT", "Split", "Fraud", "Non", "fraud", "Total"],
+  "renderURL": "jpeg261-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 110.95099639892578,
+    "y1": 725.8555908203125,
+    "x2": 241.84967041015625,
+    "y2": 731.8580322265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 145.92,
+    "x2": 531.36,
+    "y2": 298.56
+  },
+  "caption": "Fig. 2: CASH OUT - Precision,Recall, F1 trend for increasing fraud class weights",
+  "imageText": ["(c)", "SVM", "with", "RBF", "kernel", "(a)", "Logistic", "Regression", "(b)", "Linear", "SVM"],
+  "renderURL": "jpeg261-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 313.20001220703125,
+    "y1": 308.3475341796875,
+    "x2": 558.0010375976562,
+    "y2": 326.3059997558594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "V",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 93.6,
+    "y1": 528.96,
+    "x2": 258.24,
+    "y2": 632.16
+  },
+  "caption": "TABLE V: Class weights",
+  "imageText": ["Logistic", "regression", "1", "145", "Linear", "SVM", "1", "132", "SVM", "with", "RBF", "kernel", "1", "128", "Algorithm", "non-fraud", "fraud", "Logistic", "regression", "1", "70", "Linear", "SVM", "1", "39", "SVM", "with", "RBF", "kernel", "1", "16", "CASH", "OUT", "TRANSFER", "Algorithm", "non-fraud", "fraud"],
+  "renderURL": "jpeg261-TableV-1.png",
+  "captionBoundary": {
+    "x1": 124.31099700927734,
+    "y1": 639.6285400390625,
+    "x2": 228.48989868164062,
+    "y2": 645.6309814453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VI",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.96,
+    "y1": 388.8,
+    "x2": 566.4,
+    "y2": 501.12
+  },
+  "caption": "TABLE VI: Results on Train set",
+  "imageText": ["Logistic", "Regression", "0.9847", "0.1541", "0.2664", "0.7564", "Linear", "SVM", "0.9361", "0.1225", "0.2119", "0.7063", "SVM", "with", "RBF", "kernel", "0.9875", "0.1355", "0.2383", "0.7631", "CASH", "OUT", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC", "Logistic", "Regression", "0.9958", "0.4452", "0.6153", "0.9204", "Linear", "SVM", "0.9958", "0.4431", "0.6133", "0.9121", "SVM", "with", "RBF", "kernel", "0.9958", "0.6035", "0.7515", "0.9895", "TRANSFER", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC"],
+  "renderURL": "jpeg261-TableVI-1.png",
+  "captionBoundary": {
+    "x1": 368.8559875488281,
+    "y1": 509.4135437011719,
+    "x2": 502.3448181152344,
+    "y2": 515.416015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 52.8,
+    "x2": 269.28,
+    "y2": 354.71999999999997
+  },
+  "caption": "Fig. 4: CV set - Precision-Recall curve",
+  "imageText": ["(b)", "CASH", "OUT", "(a)", "TRANSFER"],
+  "renderURL": "jpeg261-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 96.14700317382812,
+    "y1": 364.62652587890625,
+    "x2": 256.65447998046875,
+    "y2": 370.6289978027344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 52.8,
+    "x2": 528.0,
+    "y2": 354.71999999999997
+  },
+  "caption": "Fig. 5: Train set - Precision-Recall curve",
+  "imageText": ["(b)", "CASH", "OUT", "(a)", "TRANSFER"],
+  "renderURL": "jpeg261-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 351.6510009765625,
+    "y1": 364.62652587890625,
+    "x2": 519.5506591796875,
+    "y2": 370.6289978027344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 386.88,
+    "x2": 306.24,
+    "y2": 499.2
+  },
+  "caption": "TABLE IV: Results on CV set",
+  "imageText": ["Logistic", "Regression", "0.9822", "0.1561", "0.2692", "0.7235", "Linear", "SVM", "0.9352", "0.1263", "0.2226", "0.6727", "SVM", "with", "RBF", "kernel", "0.9773", "0.1315", "0.2318", "0.7598", "CASH", "OUT", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC", "Logistic", "Regression", "0.9983", "0.4416", "0.6123", "0.9248", "Linear", "SVM", "0.9983", "0.4432", "0.6139", "0.9161", "SVM", "with", "RBF", "kernel", "0.9934", "0.5871", "0.7381", "0.9855", "TRANSFER", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC"],
+  "renderURL": "jpeg261-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 113.35199737548828,
+    "y1": 506.6105651855469,
+    "x2": 239.44862365722656,
+    "y2": 512.613037109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VIII",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 321.59999999999997,
+    "y1": 72.48,
+    "x2": 540.0,
+    "y2": 180.0
+  },
+  "caption": "TABLE VIII: Confusion matrices",
+  "imageText": ["True", "-", "78886", "436+", "7", "608", "Pred", "-", "+", "(c)", "SVM", "with", "RBF", "kernel", "True", "-", "78579", "743+", "3", "612", "Pred", "-", "+", "(b)", "Linear", "SVM", "True", "-", "78557", "765+", "3", "612", "Pred", "-", "+", "(a)", "Logistic", "Regression"],
+  "renderURL": "jpeg261-TableVIII-1.png",
+  "captionBoundary": {
+    "x1": 367.1919860839844,
+    "y1": 56.36655044555664,
+    "x2": 504.00830078125,
+    "y2": 62.3690185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 187.68,
+    "x2": 269.28,
+    "y2": 489.59999999999997
+  },
+  "caption": "Fig. 6: Test set - Precision-Recall curve",
+  "imageText": ["(b)", "CASH", "OUT", "(a)", "TRANSFER"],
+  "renderURL": "jpeg261-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 94.83700561523438,
+    "y1": 499.60552978515625,
+    "x2": 257.96466064453125,
+    "y2": 505.6080017089844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "VII",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 534.72,
+    "x2": 306.24,
+    "y2": 647.04
+  },
+  "caption": "TABLE VII: Results on Test set",
+  "imageText": ["Logistic", "Regression", "0.9886", "0.1521", "0.2636", "0.7403", "Linear", "SVM", "0.9411", "0.1246", "0.2201", "0.6893", "SVM", "with", "RBF", "kernel", "0.9789", "0.1321", "0.2327", "0.7271", "CASH", "OUT", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC", "Logistic", "Regression", "0.9951", "0.4444", "0.6144", "0.9063", "Linear", "SVM", "0.9951", "0.4516", "0.6213", "0.8949", "SVM", "with", "RBF", "kernel", "0.9886", "0.5823", "0.7329", "0.9873", "TRANSFER", "Algorithm", "Recall", "Precision", "f1-measure", "AUPRC"],
+  "renderURL": "jpeg261-TableVII-1.png",
+  "captionBoundary": {
+    "x1": 110.38300323486328,
+    "y1": 654.966552734375,
+    "x2": 242.4173583984375,
+    "y2": 660.968994140625
+  }
+}]

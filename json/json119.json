@@ -1,0 +1,141 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.96,
+    "y1": 166.56,
+    "x2": 521.28,
+    "y2": 421.44
+  },
+  "caption": "Figure 1: Training cross entropy loss by iteration for different NN architectures",
+  "imageText": [],
+  "renderURL": "jpeg119-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 106.6683349609375,
+    "y1": 152.53736877441406,
+    "x2": 485.49127197265625,
+    "y2": 160.37548828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 5,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 77.75999999999999,
+    "y1": 513.6,
+    "x2": 509.76,
+    "y2": 774.24
+  },
+  "caption": "Figure 2: Final chosen architecture cross entropy loss by iteration",
+  "imageText": ["?", "Width:", "3", "wide", "?", "Height:", "16", "high", "?", "Activator:ReLu", "?", "Learning:", "0.005", "?", "Iterations:", "1,000", "The", "architecture:"],
+  "renderURL": "jpeg119-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 139.48936462402344,
+    "y1": 494.1745910644531,
+    "x2": 452.0408630371094,
+    "y2": 502.0126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 589.92,
+    "x2": 524.16,
+    "y2": 788.16
+  },
+  "caption": "Table 2: 5-Fold mean accuracy values for Expium dataset (5500 tickets) on NN architectures.",
+  "imageText": ["tanh", "16", "3", "0.5", "0.2954524465503901", "0.06201693043798307", "tanh", "8", "5", "0.005", "0.6857608717141656", "0.05722404894590326", "tanh", "8", "5", "0.05", "0.3177196530281229", "0.3177196530281229", "tanh", "8", "5", "0.5", "0.3177196530281229", "0.3177196530281229", "tanh", "8", "3", "0.005", "0.7701970776212672", "0.08775843265212382", "tanh", "8", "3", "0.05", "0.3215842095242583", "0.30263503198323694", "tanh", "8", "3", "0.5", "0.3177196530281229", "0.3177196530281229", "Activator", "Height", "Depth", "Alpha", "Train", "Accuracy", "Test", "Accuracy"],
+  "renderURL": "jpeg119-Table2-1.png",
+  "captionBoundary": {
+    "x1": 71.60951232910156,
+    "y1": 576.97265625,
+    "x2": 518.3472290039062,
+    "y2": 584.810791015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 6,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 175.68,
+    "y1": 379.68,
+    "x2": 417.12,
+    "y2": 442.08
+  },
+  "caption": "Table 6: LinkedIn Dataset: 39817 tickets",
+  "imageText": ["DNN", "0.9997", "0.2020", "Naive", "Bayes", "0.3968", "0.2255", "Model", "Train", "Accuracy", "Test", "Accuracy"],
+  "renderURL": "jpeg119-Table6-1.png",
+  "captionBoundary": {
+    "x1": 198.4180145263672,
+    "y1": 367.3655090332031,
+    "x2": 393.630859375,
+    "y2": 375.20361328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 6,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 169.92,
+    "y1": 270.71999999999997,
+    "x2": 423.35999999999996,
+    "y2": 353.28
+  },
+  "caption": "Table 4: LinkedIn Dataset: 559 tickets out of total 43483 cp, arospm",
+  "imageText": ["DNN", "5Fodl:", ".996", "5Fold:", "0.0589", "Naive", "Bayes", "5-Fold", "0.65251", "5-Fold", "0.11613", "SVM", "1.0", "w/", "70%", "train*", "0.291", "w/o", "30%", "test", "Model", "Train", "Accuracy", "Test", "Accuracy"],
+  "renderURL": "jpeg119-Table4-1.png",
+  "captionBoundary": {
+    "x1": 132.030029296875,
+    "y1": 258.4597473144531,
+    "x2": 458.8358459472656,
+    "y2": 266.2978515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 6,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 122.88,
+    "y1": 469.91999999999996,
+    "x2": 469.44,
+    "y2": 698.4
+  },
+  "caption": "Figure 3: DNN 5 fold cross validation mean train and test accuracy by number of samples",
+  "imageText": [],
+  "renderURL": "jpeg119-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 81.30663299560547,
+    "y1": 456.1316223144531,
+    "x2": 510.5149841308594,
+    "y2": 463.9697265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 6,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 174.72,
+    "y1": 156.96,
+    "x2": 417.12,
+    "y2": 244.32
+  },
+  "caption": "Table 3: Expium Generated Dataset of 5500 tickets",
+  "imageText": ["DNN", "5-Fold", ":", "1.0", "5-Fold:", "0.0719", "Naive", "Bayes", "5-Fold:", "0.770", "5-Fold:", "0.208", "SVM", "1.0", "w/", "70%", "train*", "0.223", "30%", "test", "Model", "Train", "Accuracy", "Test", "Accuracy"],
+  "renderURL": "jpeg119-Table3-1.png",
+  "captionBoundary": {
+    "x1": 173.0563201904297,
+    "y1": 144.33180236816406,
+    "x2": 417.97271728515625,
+    "y2": 152.169921875
+  }
+}]

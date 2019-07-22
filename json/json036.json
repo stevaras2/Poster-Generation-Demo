@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 192.95999999999998,
+    "y1": 165.6,
+    "x2": 402.24,
+    "y2": 322.08
+  },
+  "caption": "Figure 5. Comparison of 45? deflected transmitted light electric field of the predicted Si structure and the ideal 100% efficiency electric field.",
+  "imageText": [],
+  "renderURL": "jpeg036-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 107.86499786376953,
+    "y1": 336.94940185546875,
+    "x2": 487.4159851074219,
+    "y2": 356.875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 211.67999999999998,
+    "y1": 72.0,
+    "x2": 409.44,
+    "y2": 214.07999999999998
+  },
+  "caption": "Figure 2. Neural networks with 2 hidden layers.",
+  "imageText": ["y?", "2", "{", "1,", "+1}n", "layer", "Hidden", "layer", "2", "Output", "Hidden", "layer", "1", "Input", "layer", "…", "…", "…", "x", "2", "r", "z(1)", "2", "H1", "z(2)", "2", "H2", "f1,", "W1,", "b1", "f2,", "W2,", "b2", "fo,", "Wo,", "bo", "…"],
+  "renderURL": "jpeg036-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 169.61599731445312,
+    "y1": 241.23638916015625,
+    "x2": 425.664306640625,
+    "y2": 247.2139892578125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.32,
+    "y1": 503.52,
+    "x2": 498.24,
+    "y2": 642.24
+  },
+  "caption": "Figure 4. Learning curve with two-layer neural networks for: (a) nearfield electric field training; (b) far-field electric field training.",
+  "imageText": ["(b)", "Training", "Testing", ")", "r", "(", "%", "Er", "ro", "Iterations", "90", "89", "88", "87", "0", "100", "200", "300", "400", "86", "(a)", "Training", "Testing", ")", "r", "(", "%", "Er", "ro", "Iterations", "80", "70", "60", "50", "40", "0", "100", "200", "300", "400", "30"],
+  "renderURL": "jpeg036-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 107.86502075195312,
+    "y1": 663.2304077148438,
+    "x2": 487.4065246582031,
+    "y2": 683.156005859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 84.0,
+    "y1": 72.48,
+    "x2": 512.16,
+    "y2": 225.12
+  },
+  "caption": "Figure 3. (a) 1D Si structure aligned along x-direction at height z = 1000; and (b) the corresponding output electric field given light normal incident on Si structures.",
+  "imageText": ["(a)", "(b)"],
+  "renderURL": "jpeg036-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 107.864990234375,
+    "y1": 246.16741943359375,
+    "x2": 487.41448974609375,
+    "y2": 280.041015625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 170.88,
+    "y1": 494.88,
+    "x2": 424.32,
+    "y2": 575.04
+  },
+  "caption": "Figure 1. Schematic of 1D Si structure with simulation procedure.",
+  "imageText": ["Output", "electric", "field", "Si", "Structure", "Incident", "light", "1", "1", "0", "1", "0", "0", "1", "0", "1", "1"],
+  "renderURL": "jpeg036-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 122.38500213623047,
+    "y1": 598.3303833007812,
+    "x2": 472.8962097167969,
+    "y2": 604.3079833984375
+  }
+}]

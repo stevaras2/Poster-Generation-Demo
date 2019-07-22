@@ -1,0 +1,21 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 339.84,
+    "y1": 689.28,
+    "x2": 576.0,
+    "y2": 745.4399999999999
+  },
+  "caption": "Figure 2a. In a recursive architecture, inputs to later hidden layers are concatenated with outputs of earlier hidden layers. The idea",
+  "imageText": [],
+  "renderURL": "jpeg7-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 36.0,
+    "y1": 705.2791748046875,
+    "x2": 331.407470703125,
+    "y2": 726.0
+  }
+}]

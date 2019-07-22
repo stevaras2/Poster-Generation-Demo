@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 557.28,
+    "x2": 294.24,
+    "y2": 687.36
+  },
+  "caption": "Figure 4 Nicely converged 1st layer weights (left) vs noisy weights (right)",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 36.0,
+    "y1": 690.4454956054688,
+    "x2": 277.93701171875,
+    "y2": 704.9760131835938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 124.8,
+    "x2": 554.4,
+    "y2": 299.03999999999996
+  },
+  "caption": "Figure 5 First layer outputs. 2nd row shows main features and local objects are captured. 3rd row shows some noise is captured.",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 317.45001220703125,
+    "y1": 303.15948486328125,
+    "x2": 557.3499145507812,
+    "y2": 317.69000244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 292.8,
+    "x2": 554.4,
+    "y2": 342.24
+  },
+  "caption": "Figure 3 Our pipeline: applying SVM on extracted features",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 340.2699890136719,
+    "y1": 345.15948486328125,
+    "x2": 553.009033203125,
+    "y2": 349.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 45.6,
+    "y1": 135.35999999999999,
+    "x2": 261.12,
+    "y2": 218.4
+  },
+  "caption": "Figure 2 Caffenet architecture",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 110.18000030517578,
+    "y1": 221.57315063476562,
+    "x2": 230.25079345703125,
+    "y2": 226.0999755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 316.8,
+    "y1": 312.96,
+    "x2": 554.4,
+    "y2": 460.32
+  },
+  "caption": "Figure 8 Plot of our results",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 398.3500061035156,
+    "y1": 463.739501953125,
+    "x2": 495.175048828125,
+    "y2": 467.8299865722656
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 55.68,
+    "x2": 249.12,
+    "y2": 167.04
+  },
+  "caption": "Figure 6 Layer 1 outputs, same column is from the same model. From left to right: K=15 K=11, K=7",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 36.0,
+    "y1": 170.2895050048828,
+    "x2": 288.0260925292969,
+    "y2": 184.82000732421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 78.72,
+    "y1": 227.51999999999998,
+    "x2": 251.04,
+    "y2": 405.12
+  },
+  "caption": "Figure 7 BoW features",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 124.22000122070312,
+    "y1": 408.759521484375,
+    "x2": 206.28802490234375,
+    "y2": 412.8500061035156
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 326.88,
+    "y1": 549.6,
+    "x2": 511.2,
+    "y2": 662.4
+  },
+  "caption": "Figure 1 ##### caption",
+  "imageText": [],
+  "renderURL": "jpeg053-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 404.8299865722656,
+    "y1": 665.2494506835938,
+    "x2": 488.60498046875,
+    "y2": 669.3399658203125
+  }
+}]

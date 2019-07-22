@@ -1,0 +1,121 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 336.0,
+    "y1": 60.96,
+    "x2": 523.1999999999999,
+    "y2": 332.15999999999997
+  },
+  "caption": "Fig. 1: Preprocessing Flowchart",
+  "imageText": ["Indices", "Matrix", "(105,000", "*", "350", "or", "400)", "Embedding", "Matrix", "Word", "vectors", "(dim:", "300)", "Vocabulary", "(size:", "6573)", "300-d", "w2v", "model", "Min", "count:", "3", "Window:", "5", "Gensim", "Word2Vec", "List", "of", "105,000", "word", "lists", "Jieba", "Segmentation", "List", "of", "105,000", "sentences"],
+  "renderURL": "jpeg195-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 365.989990234375,
+    "y1": 373.7412414550781,
+    "x2": 509.0255432128906,
+    "y2": 380.343994140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 2,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 80.64,
+    "y1": 72.0,
+    "x2": 268.32,
+    "y2": 394.08
+  },
+  "caption": "TABLE I: Elements",
+  "imageText": ["willing", "to", "consume", "again", "Others", "overall", "experience", "recommendation", "look", "taste", "portion", "Dish", "cleanness", "space", "noise", "decoration", "Environment", "discount", "cost-effective", "Price", "price", "level", "serving", "speed", "parking", "convenience", "waiter’s", "attitude", "wait", "time", "Service", "easy", "to", "?nd", "distance", "from", "business", "district", "Location", "traf?c"],
+  "renderURL": "jpeg195-TableI-1.png",
+  "captionBoundary": {
+    "x1": 129.77001953125,
+    "y1": 54.50126647949219,
+    "x2": 219.21656799316406,
+    "y2": 61.10400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 91.67999999999999,
+    "y1": 70.56,
+    "x2": 257.28,
+    "y2": 116.16
+  },
+  "caption": "TABLE II: Predictions of the Example Text.",
+  "imageText": ["11:", "-2", "12:", "1", "13:-2", "14:-2", "15:1", "16:", "1", "17:", "-2", "18:", "-2", "19:", "1", "20:", "1", "1:", "-2", "2:", "-2", "3:", "-2", "4:", "-2", "5:", "1", "6:", "-2", "7:", "-2", "8:", "-2", "9:", "-2", "10:", "1"],
+  "renderURL": "jpeg195-TableII-1.png",
+  "captionBoundary": {
+    "x1": 74.32403564453125,
+    "y1": 54.50126647949219,
+    "x2": 274.66363525390625,
+    "y2": 61.10400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 54.72,
+    "x2": 546.24,
+    "y2": 200.16
+  },
+  "caption": "Fig. 4: SVM Weighted F1 Scores and Test Accuracies across 20 elements",
+  "imageText": [],
+  "renderURL": "jpeg195-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 209.2612762451172,
+    "x2": 563.0353393554688,
+    "y2": 229.19903564453125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 328.8,
+    "y1": 250.56,
+    "x2": 546.24,
+    "y2": 399.36
+  },
+  "caption": "Fig. 5: Test set accuracy across 20 elements with LSTM, SVM and XGBoost",
+  "imageText": [],
+  "renderURL": "jpeg195-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 311.9779968261719,
+    "y1": 408.0042419433594,
+    "x2": 563.035400390625,
+    "y2": 427.9419860839844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 329.76,
+    "x2": 298.08,
+    "y2": 375.36
+  },
+  "caption": "TABLE III: Weighted F1 scores of Test Dataset for 3 Topics",
+  "imageText": ["XGBoost", "0.7582", "0.8326", "0.8382", "Models", "Dish", "Recomm.", "Wait", "Time", "Traf?c", "Convenience", "LSTM", "0.6524", "0.8776", "0.8389", "SVM", "0.7561", "0.8381", "0.8563"],
+  "renderURL": "jpeg195-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 48.9640007019043,
+    "y1": 299.9822998046875,
+    "x2": 300.021484375,
+    "y2": 319.9200439453125
+  }
+}]

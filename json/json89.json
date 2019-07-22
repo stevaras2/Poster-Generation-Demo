@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 57.599999999999994,
+    "x2": 560.16,
+    "y2": 421.91999999999996
+  },
+  "caption": "Figure 5: Outcome vs. Prediction in Training vs. Test Sets",
+  "imageText": [],
+  "renderURL": "jpeg89-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 152.11599731445312,
+    "y1": 38.102542877197266,
+    "x2": 443.1561279296875,
+    "y2": 44.3690185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 454.56,
+    "x2": 560.16,
+    "y2": 750.72
+  },
+  "caption": "Figure 6: Variable Importance in Random Forests on AUD Complete Sample Contiguous Split",
+  "imageText": ["All", "tasks", "were", "performed", "by", "Amy", "and", "Stefan", "in", "equal", "parts.", "6", "Contributions"],
+  "renderURL": "jpeg89-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 62.402000427246094,
+    "y1": 435.4265441894531,
+    "x2": 532.8765258789062,
+    "y2": 441.6930236816406
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 57.599999999999994,
+    "x2": 560.16,
+    "y2": 160.32
+  },
+  "caption": "Figure 2: List of features in each of AUD, JPY, USD",
+  "imageText": [],
+  "renderURL": "jpeg89-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 166.91900634765625,
+    "y1": 38.102542877197266,
+    "x2": 428.3562316894531,
+    "y2": 44.3690185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 57.599999999999994,
+    "x2": 560.16,
+    "y2": 267.36
+  },
+  "caption": "Figure 4: Summary of MSEs from Models on Contiguous Split",
+  "imageText": [],
+  "renderURL": "jpeg89-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 143.27699279785156,
+    "y1": 38.102542877197266,
+    "x2": 452.002685546875,
+    "y2": 44.3690185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 213.6,
+    "x2": 559.68,
+    "y2": 333.59999999999997
+  },
+  "caption": "Figure 1: Covered (three-month) interest-rate parity condition",
+  "imageText": ["CIP", "requires", "that", "the", "payo?", "from", "doing", "the", "blue", "trade", "equal", "to", "the", "payo?", "from", "doing", "the", "orange", "trade.", "The", "?rst", "subscript", "indicates", "the", "time", "when", "a", "rate", "is", "known.", "The", "second", "subscript", "indicates", "the", "duration", "of", "the", "rate."],
+  "renderURL": "jpeg89-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 143.1849822998047,
+    "y1": 194.4266357421875,
+    "x2": 452.0890197753906,
+    "y2": 200.693115234375
+  }
+}]

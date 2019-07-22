@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "5",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 66.72,
+    "y1": 318.71999999999997,
+    "x2": 267.36,
+    "y2": 427.2
+  },
+  "caption": "Fig. 5: CBOE PCR and S&P 500 time series",
+  "imageText": [],
+  "renderURL": "jpeg052-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 108.13999938964844,
+    "y1": 438.0325927734375,
+    "x2": 247.4009246826172,
+    "y2": 442.2699890136719
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "y1": 550.56,
+    "x2": 561.12,
+    "y2": 725.28
+  },
+  "caption": "Fig. 6: Scatter plots of (a) Raw and (b) EMA-smoothed Returns at day (t) vs Returns, PCR fractional change & PCPdev at day (t-1)",
+  "imageText": ["(b)", "(a)"],
+  "renderURL": "jpeg052-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 67.94400024414062,
+    "y1": 724.9785766601562,
+    "x2": 499.1565856933594,
+    "y2": 729.2160034179688
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 389.76,
+    "x2": 558.24,
+    "y2": 543.36
+  },
+  "caption": "Fig. 7: Time series of Returns (red) and PCR fractional change (blue)",
+  "imageText": ["(c)", "(b)", "(a)"],
+  "renderURL": "jpeg052-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 336.07000732421875,
+    "y1": 545.445556640625,
+    "x2": 550.9156494140625,
+    "y2": 549.4299926757812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 44.64,
+    "y1": 597.6,
+    "x2": 284.15999999999997,
+    "y2": 728.16
+  },
+  "caption": "Fig. 8: EMA returns vs AdaBoost margin. Red: 3rd order regression line",
+  "imageText": [],
+  "renderURL": "jpeg052-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 50.040000915527344,
+    "y1": 722.5785522460938,
+    "x2": 284.8982238769531,
+    "y2": 726.8159790039062
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 53.76,
+    "y1": 53.76,
+    "x2": 557.28,
+    "y2": 224.16
+  },
+  "caption": "Fig. 7: AdaBoost learning curves for 6 different sets of features over 100 iterations, 10-fold CV. Blue: Training error; Black: Test error",
+  "imageText": [],
+  "renderURL": "jpeg052-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 77.54399871826172,
+    "y1": 227.74256896972656,
+    "x2": 521.3419189453125,
+    "y2": 231.97998046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 41.76,
+    "y1": 148.79999999999998,
+    "x2": 294.24,
+    "y2": 346.08
+  },
+  "caption": "Fig. 1: (a) Histogram & (b) Intensity map of SMA returns vs Put volume",
+  "imageText": ["(a)", "(b)", "Smoothed", "Put", "Volume", "rn", "s", "et", "u", "r", "R", "f", "o", "M", "A", "ay", "S", "30", "-d"],
+  "renderURL": "jpeg052-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 54.0,
+    "y1": 351.97259521484375,
+    "x2": 292.1278076171875,
+    "y2": 356.2099914550781
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 550.56,
+    "x2": 558.24,
+    "y2": 706.0799999999999
+  },
+  "caption": "Fig. 4: Scatter plot of regression coefficients of 80 independent variables (+ intercept) for 57 companies",
+  "imageText": [],
+  "renderURL": "jpeg052-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 334.3900146484375,
+    "y1": 708.53857421875,
+    "x2": 543.4782104492188,
+    "y2": 722.135986328125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 309.59999999999997,
+    "y1": 432.0,
+    "x2": 566.4,
+    "y2": 534.24
+  },
+  "caption": "Fig. 3: Elastic net results for Y(t) ~ Y(t-1), Y(t-2), X(t-1), X(t-2)",
+  "imageText": [],
+  "renderURL": "jpeg052-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 347.8299865722656,
+    "y1": 537.7525634765625,
+    "x2": 530.071533203125,
+    "y2": 541.989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 54.239999999999995,
+    "y1": 487.68,
+    "x2": 278.4,
+    "y2": 660.0
+  },
+  "caption": "Fig 2: Cross-correlation of returns and implied volatility spread, for (a) raw & (b) smoothed time series",
+  "imageText": ["(b)", "(a)"],
+  "renderURL": "jpeg052-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 54.84000015258789,
+    "y1": 663.3025512695312,
+    "x2": 291.95831298828125,
+    "y2": 676.9000244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 336.96,
+    "y1": 135.84,
+    "x2": 541.4399999999999,
+    "y2": 204.48
+  },
+  "caption": "Table 1: Results for boosting with different feature sets",
+  "imageText": ["37.9%", "33.9%", "32.8%", "w/o", "A", "48.5%", "(raw)", "with", "A", "11.5%", "11.4%", "11.4%", "11.4%", "Returns", "only", "B,", "C", "D,", "E", "B,", "C,", "D,", "E"],
+  "renderURL": "jpeg052-Table1-1.png",
+  "captionBoundary": {
+    "x1": 319.6099853515625,
+    "y1": 212.62257385253906,
+    "x2": 504.1198425292969,
+    "y2": 216.8599853515625
+  }
+}]

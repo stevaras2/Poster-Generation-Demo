@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 234.72,
+    "y1": 438.71999999999997,
+    "x2": 377.28,
+    "y2": 592.3199999999999
+  },
+  "caption": "Figure 2: AdaBoost algorithm visualized [1]",
+  "imageText": [],
+  "renderURL": "jpeg117-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 217.28900146484375,
+    "y1": 603.39453125,
+    "x2": 394.71282958984375,
+    "y2": 609.39697265625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 205.92,
+    "y1": 72.0,
+    "x2": 406.08,
+    "y2": 231.35999999999999
+  },
+  "caption": "Figure 4: 2D visualization of the ICLR 2017 dataset, where blue dots are accepted papers and red x’s are rejected papers.",
+  "imageText": [],
+  "renderURL": "jpeg117-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 108.0,
+    "y1": 242.88052368164062,
+    "x2": 503.99517822265625,
+    "y2": 259.7919921875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 228.95999999999998,
+    "y1": 72.0,
+    "x2": 383.03999999999996,
+    "y2": 224.16
+  },
+  "caption": "Figure 1: PCA visualization of word2vec: Closer words should appear closer together.",
+  "imageText": [],
+  "renderURL": "jpeg117-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 133.7429962158203,
+    "y1": 235.13052368164062,
+    "x2": 478.259521484375,
+    "y2": 241.13299560546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 180.95999999999998,
+    "y1": 407.52,
+    "x2": 431.03999999999996,
+    "y2": 507.35999999999996
+  },
+  "caption": "Table 2: Train and test accuracies for the various models used.",
+  "imageText": ["Majority", "60.17", "60.53", "Logistic", "L2", "42.41", "42.10", "Logistic", "L1", "68.48", "68.42", "SVM", "RBF", "72.49", "71.05", "Random", "Forest", "99.43", "63.16", "AdaBoost", "96.56", "50.00", "Neural", "Network", "63.04", "60.53", "Model", "Train", "Accuracy(%)", "Test", "Accuracy(%)"],
+  "renderURL": "jpeg117-Table2-1.png",
+  "captionBoundary": {
+    "x1": 181.7570037841797,
+    "y1": 393.86053466796875,
+    "x2": 430.24420166015625,
+    "y2": 399.8630065917969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 180.95999999999998,
+    "y1": 70.56,
+    "x2": 431.03999999999996,
+    "y2": 257.28
+  },
+  "caption": "Figure 3: Fully connected neural network diagram [1]",
+  "imageText": [],
+  "renderURL": "jpeg117-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 198.53399658203125,
+    "y1": 268.1975402832031,
+    "x2": 413.467041015625,
+    "y2": 274.20001220703125
+  }
+}]

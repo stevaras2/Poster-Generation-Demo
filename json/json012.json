@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 66.24,
+    "y1": 358.56,
+    "x2": 562.0799999999999,
+    "y2": 473.76
+  },
+  "caption": "Figure 4: Observed images at different time steps k.",
+  "imageText": ["(d)", "k", "=", "5", "90", "100", "v", "80", "70", "60", "50", "40", "30", "20", "10", "0", "u", "0", "20", "40", "60", "80", "100", "(c)", "k", "=", "4", "v", "100", "90", "80", "70", "60", "50", "40", "30", "20", "10", "0", "u", "0", "20", "40", "60", "80", "100", "(b)", "k", "=", "3", "v", "100", "90", "80", "70", "60", "50", "40", "30", "20", "10", "0", "u", "0", "20", "40", "60", "80", "100", "(a)", "k", "=", "2", "v", "100", "90", "80", "70", "60", "50", "40", "30", "20", "10", "0", "u", "0", "20", "40", "60", "80", "100"],
+  "renderURL": "jpeg012-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 192.19400024414062,
+    "y1": 498.3337097167969,
+    "x2": 419.8066101074219,
+    "y2": 503.31500244140625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 57.599999999999994,
+    "y1": 562.56,
+    "x2": 554.4,
+    "y2": 677.76
+  },
+  "caption": "Figure 5: Classification accuracy averaged over 20 simulations.",
+  "imageText": ["(a)", "Class", "1", "(b)", "Class", "2", "(c)", "Class", "3"],
+  "renderURL": "jpeg012-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 169.1929931640625,
+    "y1": 692.3726806640625,
+    "x2": 442.8105773925781,
+    "y2": 697.35400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 323.52,
+    "y1": 91.67999999999999,
+    "x2": 513.12,
+    "y2": 242.88
+  },
+  "caption": "Figure 3: The initial observation and the fitted trajectories.",
+  "imageText": ["trajectory", "class", "1", "trajectory", "class", "2", "trajectory", "class", "3", "true", "image", "v", "100", "90", "80", "70", "60", "50", "40", "30", "20", "10", "0", "u", "0", "20", "40", "60", "80", "100"],
+  "renderURL": "jpeg012-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 307.6600036621094,
+    "y1": 264.5267028808594,
+    "x2": 529.781982421875,
+    "y2": 281.4629821777344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 98.39999999999999,
+    "y1": 89.28,
+    "x2": 288.0,
+    "y2": 242.88
+  },
+  "caption": "Figure 2: The trajectory codebook used in the simulation.",
+  "imageText": ["trajectory", "class", "1", "trajectory", "class", "2", "trajectory", "class", "3", "Trajectory", "Codebook", "(z", "=", "0)", "y", "1", "0.8", "0.6", "0.4", "0.2", "0", "-0.2", "-0.4", "-0.6", "-0.8", "x", "-1", "-0.5", "0", "0.5", "1"],
+  "renderURL": "jpeg012-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 82.22000122070312,
+    "y1": 264.5267028808594,
+    "x2": 304.3420104980469,
+    "y2": 281.4629821777344
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 219.84,
+    "y1": 111.83999999999999,
+    "x2": 391.2,
+    "y2": 302.4
+  },
+  "caption": "Figure 1: Bayesian network structure of the trajectory classification problem.",
+  "imageText": [],
+  "renderURL": "jpeg012-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 137.2570037841797,
+    "y1": 314.71270751953125,
+    "x2": 474.7377624511719,
+    "y2": 319.6940002441406
+  }
+}]

@@ -1,0 +1,221 @@
+[{
+  "renderDpi": 150,
+  "name": "3",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 96.96,
+    "y1": 483.84,
+    "x2": 240.48,
+    "y2": 617.28
+  },
+  "caption": "Figure 3. CNN Architecture",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 117.93599700927734,
+    "y1": 622.7117309570312,
+    "x2": 218.53900146484375,
+    "y2": 628.114013671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "11",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 331.68,
+    "y1": 140.64,
+    "x2": 522.24,
+    "y2": 255.35999999999999
+  },
+  "caption": "Figure 11. Saliency maps for apple, blueberry, and onion examples.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure11-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 260.3317565917969,
+    "x2": 545.108642578125,
+    "y2": 276.6929931640625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 49.92,
+    "y1": 166.56,
+    "x2": 287.03999999999996,
+    "y2": 254.39999999999998
+  },
+  "caption": "Figure 8. CNN loss. Figure 9. CNN MAP@3.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 71.04499816894531,
+    "y1": 259.6687316894531,
+    "x2": 262.71600341796875,
+    "y2": 265.07098388671875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "10",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 86.88,
+    "y1": 468.0,
+    "x2": 250.07999999999998,
+    "y2": 590.4
+  },
+  "caption": "Figure 10. CNN MAP@3 score distribution by category.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure10-1.png",
+  "captionBoundary": {
+    "x1": 66.80599975585938,
+    "y1": 596.1937255859375,
+    "x2": 269.6708068847656,
+    "y2": 601.5960083007812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 67.67999999999999,
+    "y1": 198.72,
+    "x2": 269.28,
+    "y2": 266.4
+  },
+  "caption": "Figure 1. Sample doodles of a sock, elbow, and carrot (left to right) from the training dataset.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 271.1337585449219,
+    "x2": 286.358642578125,
+    "y2": 287.4949951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 375.84,
+    "y1": 330.71999999999997,
+    "x2": 478.08,
+    "y2": 382.08
+  },
+  "caption": "Figure 2. Two of the centroids created by running k-means clustering using k-means++ initialization on the bear training examples.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 386.8377380371094,
+    "x2": 545.1087036132812,
+    "y2": 403.198974609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 118.56,
+    "y1": 72.0,
+    "x2": 476.15999999999997,
+    "y2": 158.4
+  },
+  "caption": "Table 1. MAP@1 and MAP@3 scores for each method across train/dev/test",
+  "imageText": ["1-CC", "KNN++", "KNN++", "(distance)", "KNN++", "(rank)", "CNN", "MAP@1", "(Train)", "18.4%", "29.2%", "28.3%", "29.3%", "52.9%", "MAP@3", "(Train)", "24.2%", "36.7%", "36.3%", "37.1%", "61.8%", "MAP@1", "(Dev)", "18.2%", "17.3%", "26.3%", "26.8%", "53.5%", "MAP@3", "(Dev)", "23.9%", "28.0%", "33.8%", "34.5%", "62.2%", "MAP@1", "(Test)", "17.9%", "17.0%", "26.2%", "26.7%", "53.4%", "MAP@3", "(Test)", "23.6%", "27.7%", "33.7%", "34.4%", "62.1%"],
+  "renderURL": "jpeg98-Table1-1.png",
+  "captionBoundary": {
+    "x1": 161.95199584960938,
+    "y1": 171.34274291992188,
+    "x2": 433.2751159667969,
+    "y2": 176.7449951171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 115.67999999999999,
+    "y1": 370.56,
+    "x2": 220.32,
+    "y2": 422.4
+  },
+  "caption": "Figure 4. Centroids for the circle and octagon categories.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 66.20999908447266,
+    "y1": 427.7017517089844,
+    "x2": 270.2673034667969,
+    "y2": 433.10400390625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 89.75999999999999,
+    "y1": 535.68,
+    "x2": 246.23999999999998,
+    "y2": 587.04
+  },
+  "caption": "Figure 5. Centroids for apple, blueberry, and onion (left to right).",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 50.11199951171875,
+    "y1": 592.3417358398438,
+    "x2": 283.1218566894531,
+    "y2": 597.7440185546875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 344.64,
+    "y1": 306.71999999999997,
+    "x2": 508.32,
+    "y2": 429.12
+  },
+  "caption": "Figure 6. KNN++ (rank weighting, k = 29) MAP@3 score distribution by category.",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 434.395751953125,
+    "x2": 545.1116943359375,
+    "y2": 450.75701904296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 307.68,
+    "y1": 547.68,
+    "x2": 546.24,
+    "y2": 634.0799999999999
+  },
+  "caption": "Figure 7. MAP@3 scores plotted against different values of k for KNN++ with weighted voting (rank, distance).",
+  "imageText": [],
+  "renderURL": "jpeg98-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 308.86199951171875,
+    "y1": 635.2277221679688,
+    "x2": 545.108642578125,
+    "y2": 651.5889892578125
+  }
+}]

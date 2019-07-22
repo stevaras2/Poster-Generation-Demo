@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "4",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 55.68,
+    "x2": 564.0,
+    "y2": 142.07999999999998
+  },
+  "caption": "Fig. 4: Completeness score comparison clusters obtained from the training and validation sets for different algorithms and appliance types.",
+  "imageText": [],
+  "renderURL": "jpeg227-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 106.4000015258789,
+    "y1": 149.1072998046875,
+    "x2": 505.60150146484375,
+    "y2": 153.30902099609375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 176.64,
+    "x2": 307.2,
+    "y2": 287.03999999999996
+  },
+  "caption": "Fig. 5: Histogram of the entropy of load profiles for different consumers for each appliance type",
+  "imageText": [],
+  "renderURL": "jpeg227-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 57.16600036621094,
+    "y1": 285.603271484375,
+    "x2": 291.82037353515625,
+    "y2": 297.7749938964844
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 60.96,
+    "y1": 504.0,
+    "x2": 288.0,
+    "y2": 550.0799999999999
+  },
+  "caption": "TABLE III: Mean squared errors (MSE) for predicting consumer responsiveness to price.",
+  "imageText": ["Method", "Train", "MSE", "(n=20)", "Validation", "MSE", "(n=6)", "Test", "MSE", "(n=6)", "Linear", "regression", "0.0200", "0.0305", "0.0404", "K-Nearest", "Neighbors", "0.0148", "0.0589", "0.0608", "Random", "forests", "1.6907", "0.7048", "0.3187"],
+  "renderURL": "jpeg227-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 55.26600646972656,
+    "y1": 489.4881591796875,
+    "x2": 293.7211608886719,
+    "y2": 501.6598815917969
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 312.0,
+    "y1": 60.0,
+    "x2": 563.04,
+    "y2": 171.35999999999999
+  },
+  "caption": "TABLE II: Features used for predicting consumer responsiveness to price.",
+  "imageText": ["Flexibility", "features", "Units", "Home", "size", "ft2", "Year", "built", "year", "Number", "of", "stories", "-", "Mean", "6-hr", "energy", "consumption", "(24:00-6:00,6:00-", "12:00,12:00-18:00,18:00-24:00)", "kWh", "Mean,", "10%ile,", "and", "90%ile", "of", "daily", "energy", "consumption", "above", "baseload", "kWh", "Mean", "and", "variance", "of", "hourly", "power", "consumption", "kW", "Mean,", "10%ile,", "and", "90%ile", "of", "maximum", "and", "minimum", "daily", "energy", "consumption", "kWh", "Entropy", "of", "load", "pro?le", "(see", "Section", "V-B)", "-"],
+  "renderURL": "jpeg227-TableII-1.png",
+  "captionBoundary": {
+    "x1": 331.0210266113281,
+    "y1": 53.86029815673828,
+    "x2": 543.9940795898438,
+    "y2": 58.06201171875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 54.72,
+    "y1": 67.67999999999999,
+    "x2": 294.24,
+    "y2": 169.44
+  },
+  "caption": "TABLE I: Dataset size for each appliance and the type of analysis applied to each (V=variability, A=availability, F=flexibility).",
+  "imageText": ["Total", "home", "consumption", "132", "V,F", "Refrigerator", "103", "V", "Dishwasher", "82", "V,A", "Clothes", "washer", "80", "V,A", "Dryer", "62", "V,A", "Electric", "vehicle", "(EV)", "29", "V,A", "Water", "heater", "13", "V,A", "Clothes", "washer", "+", "dryer", "heater", "13", "V,A", "Pool", "pump", "9", "V", "Appliance", "Number", "of", "homes", "Analysis", "type", "Air", "conditioner", "(A/C)", "129", "V"],
+  "renderURL": "jpeg227-TableI-1.png",
+  "captionBoundary": {
+    "x1": 55.865020751953125,
+    "y1": 53.86029815673828,
+    "x2": 293.1207275390625,
+    "y2": 66.031982421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 48.0,
+    "y1": 55.68,
+    "x2": 306.24,
+    "y2": 268.32
+  },
+  "caption": "Fig. 1: Cluster assignments for start time distributions of clothes washers for different consumers, obtained with K-means clustering (k=5)",
+  "imageText": [],
+  "renderURL": "jpeg227-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 50.88999938964844,
+    "y1": 276.42626953125,
+    "x2": 298.09722900390625,
+    "y2": 288.5989990234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 320.64,
+    "y1": 339.84,
+    "x2": 554.4,
+    "y2": 553.4399999999999
+  },
+  "caption": "Fig. 3: Intra-cluster variation based on the KL divergence for each unsupervised learning algorithm as a function of the number of clusters",
+  "imageText": [],
+  "renderURL": "jpeg227-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 322.2130126953125,
+    "y1": 560.3023071289062,
+    "x2": 552.8018188476562,
+    "y2": 572.4749755859375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 310.56,
+    "y1": 55.68,
+    "x2": 570.24,
+    "y2": 313.44
+  },
+  "caption": "Fig. 2: Increase in load availability from consumer segmentation for different appliances and numbers of clusters",
+  "imageText": [],
+  "renderURL": "jpeg227-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 326.3380126953125,
+    "y1": 311.92529296875,
+    "x2": 548.6768798828125,
+    "y2": 324.0970153808594
+  }
+}]

@@ -1,0 +1,201 @@
+[{
+  "renderDpi": 150,
+  "name": "1",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 508.79999999999995,
+    "x2": 567.36,
+    "y2": 579.36
+  },
+  "caption": "Table 1. Sensitivity of test MAEs on the type of train-test split. The “Reaction” and “Composition” entries correspond to splits where the model is tested on either reactions or surface compositions, respectively, that it has not seen during training. “Composition + Reaction” is the method used throughout the main text and is described there. “Random” is simply a random split without any constraints.",
+  "imageText": [],
+  "renderURL": "jpeg213-Table1-1.png",
+  "captionBoundary": {
+    "x1": 315.260009765625,
+    "y1": 428.30706787109375,
+    "x2": 576.7014770507812,
+    "y2": 500.7400207519531
+  }
+}, {
+  "renderDpi": 150,
+  "name": "8",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 474.71999999999997,
+    "x2": 303.36,
+    "y2": 550.0799999999999
+  },
+  "caption": "Figure 8. Parity plots for RF (red), GB (green), and CNN (purple).",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure8-1.png",
+  "captionBoundary": {
+    "x1": 36.13999938964844,
+    "y1": 556.70703125,
+    "x2": 297.1400146484375,
+    "y2": 563.3800048828125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "7",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 85.92,
+    "y1": 255.84,
+    "x2": 262.08,
+    "y2": 393.12
+  },
+  "caption": "Figure 7. Learning curves for RF, GB, and CNN.",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure7-1.png",
+  "captionBoundary": {
+    "x1": 36.13999938964844,
+    "y1": 399.5070495605469,
+    "x2": 232.8199920654297,
+    "y2": 406.1800231933594
+  }
+}, {
+  "renderDpi": 150,
+  "name": "9",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 362.88,
+    "y1": 36.0,
+    "x2": 529.4399999999999,
+    "y2": 190.07999999999998
+  },
+  "caption": "Figure 9. Feature importance for RF using the full PDOS spectra as features (black) and average feature values for the surface (blue) and molecular fragment (orange)",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure9-1.png",
+  "captionBoundary": {
+    "x1": 315.260009765625,
+    "y1": 196.22706604003906,
+    "x2": 576.3766479492188,
+    "y2": 224.74005126953125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 36.0,
+    "y1": 591.84,
+    "x2": 297.12,
+    "y2": 689.28
+  },
+  "caption": "Figure 2. Schematic of the data generation process.",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 36.13999938964844,
+    "y1": 691.5870361328125,
+    "x2": 243.13999938964844,
+    "y2": 698.260009765625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 88.8,
+    "y1": 617.76,
+    "x2": 245.28,
+    "y2": 740.16
+  },
+  "caption": "Figure 4. Learning curves for LR, RF, GB and KRR.",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 36.13999938964844,
+    "y1": 747.5070190429688,
+    "x2": 247.46212768554688,
+    "y2": 754.1799926757812
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 327.84,
+    "y1": 183.84,
+    "x2": 563.04,
+    "y2": 367.2
+  },
+  "caption": "Figure 5. Parity plots for Linear Regression (blue), KRR (orange), GB (green) and RF (red).",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 315.260009765625,
+    "y1": 373.5870361328125,
+    "x2": 540.86328125,
+    "y2": 391.3000183105469
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 65.75999999999999,
+    "y1": 63.839999999999996,
+    "x2": 267.36,
+    "y2": 251.04
+  },
+  "caption": "Figure 3. Analysis of present calculations in context of previous work. (a) Correlation between binding energy of C* or O* and the 1st moment of the binding surface atom’s PDOS, (b) correlation between the binding energy of H binding on surface-bound O* and the 1st moment of the O* PDOS, (c) no analogous correlation exists for H binding on surface-bound C*",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 36.13999938964844,
+    "y1": 258.3870849609375,
+    "x2": 297.58056640625,
+    "y2": 319.780029296875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 340.8,
+    "y1": 459.84,
+    "x2": 522.24,
+    "y2": 585.12
+  },
+  "caption": "Figure 6. Feature importance of tree-based methods.",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 315.260009765625,
+    "y1": 592.467041015625,
+    "x2": 524.4199829101562,
+    "y2": 599.1400146484375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 0,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 314.88,
+    "y1": 254.88,
+    "x2": 567.36,
+    "y2": 481.44
+  },
+  "caption": "Figure 1. Schematic describing the conventional approach to binding energy calculations with DFT and the approach explored in the present work.",
+  "imageText": [],
+  "renderURL": "jpeg213-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 315.260009765625,
+    "y1": 483.02703857421875,
+    "x2": 576.3824462890625,
+    "y2": 512.5
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 113.75999999999999,
+    "y1": 70.56,
+    "x2": 499.2,
+    "y2": 360.0
+  },
+  "caption": "Figure 2: The general model structure",
+  "imageText": [],
+  "renderURL": "jpeg72-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 230.30499267578125,
+    "y1": 368.6025390625,
+    "x2": 381.6966247558594,
+    "y2": 374.6050109863281
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 199.68,
+    "y1": 144.48,
+    "x2": 412.32,
+    "y2": 204.48
+  },
+  "caption": "Table 2: Precision/recall of SVM on test set",
+  "imageText": ["Y", "=", "0", "0.48", "0.24", "0.47", "0.33", "Y", "=", "1", "0.56", "0.78", "0.57", "0.71", "Precision", "Recall", "Precision", "Recall", "Google", "News", "NY", "Times"],
+  "renderURL": "jpeg72-Table2-1.png",
+  "captionBoundary": {
+    "x1": 218.6439971923828,
+    "y1": 135.35250854492188,
+    "x2": 393.04925537109375,
+    "y2": 141.35498046875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 184.79999999999998,
+    "y1": 401.76,
+    "x2": 427.2,
+    "y2": 493.44
+  },
+  "caption": "Figure 3: Prediction of Facebook stock movement in 2017",
+  "imageText": [],
+  "renderURL": "jpeg72-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 189.70199584960938,
+    "y1": 500.6205139160156,
+    "x2": 422.29876708984375,
+    "y2": 506.62298583984375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 235.67999999999998,
+    "y1": 382.56,
+    "x2": 376.32,
+    "y2": 487.2
+  },
+  "caption": "Figure 1: Label vs. two principal components of news",
+  "imageText": [],
+  "renderURL": "jpeg72-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 198.0760040283203,
+    "y1": 495.5135192871094,
+    "x2": 413.9256286621094,
+    "y2": 501.5159912109375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 72.0,
+    "y1": 546.72,
+    "x2": 454.08,
+    "y2": 691.68
+  },
+  "caption": "Table 1: Experiments and results",
+  "imageText": ["5.2", "Discussion", "LR", "w/o", "news", "0.5280", "0.5169", "0.5280", "0.5169", "LR", "w/", "news", "0.5337", "0.5046", "0.5308", "0.5185", "Random", "Forest", "0.7770", "0.4870", "0.7601", "0.5006", "SVM", "(RBF)", "0.5650", "0.5430", "0.6005", "0.5414", "NN", "0.6172", "0.5273", "0.5881", "0.5259", "CNN", "0.5816", "0.5100", "0.5464", "0.5204", "RNN", "0.4931", "0.4809", "0.4832", "0.4695", "Training", "acc.", "Test", "acc.", "Training", "acc.", "Test", "acc.", "Google", "News", "NY", "Times"],
+  "renderURL": "jpeg72-Table1-1.png",
+  "captionBoundary": {
+    "x1": 240.36700439453125,
+    "y1": 537.6715698242188,
+    "x2": 371.3253479003906,
+    "y2": 543.6740112304688
+  }
+}]

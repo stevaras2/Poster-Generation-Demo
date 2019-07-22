@@ -1,0 +1,181 @@
+[{
+  "renderDpi": 150,
+  "name": "IV",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 48.96,
+    "y1": 317.76,
+    "x2": 296.64,
+    "y2": 373.91999999999996
+  },
+  "caption": "TABLE IV. ENSEMBLED MODEL PERFORMANCE (F-1 SCORING)",
+  "imageText": ["Multiclass", "values", "represent", "macro-averaged", "f1-scores", "Binary", "classification", "0.89", "0.78", "0.71", "Multi-class", "0.95", "0.63", "0.42", "Model", "Train", "Dev", "Test"],
+  "renderURL": "jpeg168-TableIV-1.png",
+  "captionBoundary": {
+    "x1": 62.6484375,
+    "y1": 305.2493896484375,
+    "x2": 278.241455078125,
+    "y2": 310.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 92.64,
+    "y1": 376.8,
+    "x2": 262.08,
+    "y2": 493.44
+  },
+  "caption": "Fig. 5. Receiver Operator Curve for multi-class ensembled model.",
+  "imageText": [],
+  "renderURL": "jpeg168-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 44.6484375,
+    "y1": 503.2493896484375,
+    "x2": 269.51141357421875,
+    "y2": 508.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "6",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 365.76,
+    "y1": 204.95999999999998,
+    "x2": 516.0,
+    "y2": 317.28
+  },
+  "caption": "Fig. 6. Validation curve of training and cross-validation accuracy for varied C=1/ë parameter values in logistic regression.",
+  "imageText": [],
+  "renderURL": "jpeg168-Figure6-1.png",
+  "captionBoundary": {
+    "x1": 314.6484375,
+    "y1": 325.4993896484375,
+    "x2": 565.89208984375,
+    "y2": 342.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 73.92,
+    "y1": 145.92,
+    "x2": 269.28,
+    "y2": 240.48
+  },
+  "caption": "Fig. 1. Typical MRI appearances of improved CRMO condition after treatment with pamidronate therapy. (left: MRI dated 3-11-14, right: MRI dates 8-14-14)",
+  "imageText": [],
+  "renderURL": "jpeg168-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 44.6484375,
+    "y1": 242.24937438964844,
+    "x2": 296.4353332519531,
+    "y2": 267.0
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 329.76,
+    "y1": 132.96,
+    "x2": 548.16,
+    "y2": 209.28
+  },
+  "caption": "Fig. 2. Class distribution of train/dev sets before and after augmentation.",
+  "imageText": [],
+  "renderURL": "jpeg168-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 314.6484375,
+    "y1": 217.49937438964844,
+    "x2": 559.9445190429688,
+    "y2": 222.75
+  }
+}, {
+  "renderDpi": 150,
+  "name": "II",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 68.64,
+    "x2": 566.88,
+    "y2": 123.36
+  },
+  "caption": "TABLE II. F-1 SCORES OF TRANSFER LEARNING MODELS",
+  "imageText": ["Binary", "classification", "0.95", "0.88", "0.71", "Multiclass", "values", "represent", "macro-averaged", "f1-score", "Multi-class", "0.92", "0.79", "0.36", "Model", "Train", "Dev", "Test"],
+  "renderURL": "jpeg168-TableII-1.png",
+  "captionBoundary": {
+    "x1": 337.1484375,
+    "y1": 56.2493782043457,
+    "x2": 543.3565063476562,
+    "y2": 61.5
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 332.64,
+    "y1": 213.6,
+    "x2": 526.0799999999999,
+    "y2": 331.2
+  },
+  "caption": "Fig. 4. Confusion matrices for best performing models. (Top (multi-class): softmax; visual words; ensembled. Bottom (binary): logistic; visual words; ensembled.",
+  "imageText": [],
+  "renderURL": "jpeg168-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 314.6484375,
+    "y1": 335.9993896484375,
+    "x2": 566.3699340820312,
+    "y2": 360.75
+  }
+}, {
+  "renderDpi": 150,
+  "name": "I",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 68.64,
+    "y1": 495.84,
+    "x2": 296.64,
+    "y2": 647.52
+  },
+  "caption": "TABLE I. FEATURE SET SELECTION OVER MULTIPLE PROCESSING STRATEGIES",
+  "imageText": ["*Aug:", "Data", "Augmentation.", "Norm:", "feature", "normalization,", "FR:", "feature", "reduction", "*Gray", "boxes", "represent", "adjustment", "made", "on", "data", "0.67", "0.41", "0.66", "0.73", "0.45", "0.73", "0.72", "0.62", "0.72", "0.76", "0.66", "0.76", "Feature", "Dissimilarity", "0.80", "0.52", "0.8", "0.40", "0.44", "0.44", "0.56", "0.54", "0.56", "Aug", "Norm", "FR", "Micro", "Macro", "Feature", "Concatenation", "Data", "Adjustment", "F-1", "Score", "Accuracy"],
+  "renderURL": "jpeg168-TableI-1.png",
+  "captionBoundary": {
+    "x1": 57.3984375,
+    "y1": 482.9993896484375,
+    "x2": 282.8082275390625,
+    "y2": 488.25
+  }
+}, {
+  "renderDpi": 150,
+  "name": "III",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 318.71999999999997,
+    "y1": 529.92,
+    "x2": 566.88,
+    "y2": 591.36
+  },
+  "caption": "TABLE III. VISUAL BAG OF WORDS PERFORMANCE (F-1 SCORING)",
+  "imageText": ["Multiclass", "values", "represent", "macro-averaged", "f1-scores", "Binary", "classification", "1.0", "0.37", "0.17", "Multiclass", "model:", "Naive", "Bayes,", "SIFT,", "|V|=500.", "Binary", "model:", "SVM,", "ORB,", "|V|=50.", "Multi-class", "1.0", "0.67", "0.22", "Model", "Train", "Dev", "Test"],
+  "renderURL": "jpeg168-TableIII-1.png",
+  "captionBoundary": {
+    "x1": 326.6484375,
+    "y1": 516.7493896484375,
+    "x2": 554.3614501953125,
+    "y2": 522.0
+  }
+}]

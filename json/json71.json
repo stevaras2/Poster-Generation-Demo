@@ -1,0 +1,161 @@
+[{
+  "renderDpi": 150,
+  "name": "2",
+  "page": 2,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 97.92,
+    "y1": 237.6,
+    "x2": 271.2,
+    "y2": 313.44
+  },
+  "caption": "Figure 2: From left to right, these panels display high spatial autocorrelation (clustering); minimal spatial autocorrelation (randomness that tends to indicate market disequilibrium); and spatial anticorrelation.",
+  "imageText": [],
+  "renderURL": "jpeg71-Figure2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 329.6407165527344,
+    "x2": 301.0181579589844,
+    "y2": 370.48797607421875
+  }
+}, {
+  "renderDpi": 150,
+  "name": "5",
+  "page": 4,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 91.67999999999999,
+    "y1": 500.64,
+    "x2": 278.4,
+    "y2": 641.28
+  },
+  "caption": "Figure 5: Engineered features of spatial clustering were XGBoost’s most important predictors, lending credibility to the theory of endogenous gentrification.",
+  "imageText": [],
+  "renderURL": "jpeg71-Figure5-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 657.1546630859375,
+    "x2": 301.0191345214844,
+    "y2": 686.0460205078125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 4,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 118.56,
+    "y1": 358.56,
+    "x2": 251.04,
+    "y2": 397.44
+  },
+  "caption": "Table 3: The confusion matrix for the Random Forest on the income distribution response reveals that the classifier predicted positive 86% of the time.",
+  "imageText": ["Pred.", "0", "Pred.", "1", "True", "0", "21", "144", "True", "1", "36", "201"],
+  "renderURL": "jpeg71-Table3-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 409.3627014160156,
+    "x2": 301.02105712890625,
+    "y2": 438.25396728515625
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 139.68,
+    "y1": 262.56,
+    "x2": 230.39999999999998,
+    "y2": 396.47999999999996
+  },
+  "caption": "Table 1: The Census discretizes income reporting into bins that are more granular towards the lower end of the income scale.",
+  "imageText": ["Less", "than", "$5,000", "$5,000-$9,999", "$10,000-$14,999", "$15,000-$19,999", "$20,000-$24,999", "$25,000-$34,999", "$35,000-$49,999", "$50,000-$74,999", "$75,000-$99,999", "$99,999-$149,999", "$150,000", "or", "More"],
+  "renderURL": "jpeg71-Table1-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 408.3987121582031,
+    "x2": 301.0231628417969,
+    "y2": 437.2909851074219
+  }
+}, {
+  "renderDpi": 150,
+  "name": "1",
+  "page": 1,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 342.71999999999997,
+    "y1": 72.0,
+    "x2": 505.44,
+    "y2": 193.44
+  },
+  "caption": "Figure 1: In this Census Tract, the income distribution skews towards affluence (and becomes less trimodal) between Year 1 and Year 2. This shift indicates that gentrification occurred.",
+  "imageText": [],
+  "renderURL": "jpeg71-Figure1-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 209.89871215820312,
+    "x2": 540.0040893554688,
+    "y2": 250.74505615234375
+  }
+}, {
+  "renderDpi": 150,
+  "name": "2",
+  "page": 3,
+  "figType": "Table",
+  "regionBoundary": {
+    "x1": 91.67999999999999,
+    "y1": 357.59999999999997,
+    "x2": 277.44,
+    "y2": 446.4
+  },
+  "caption": "Table 2: The grid-search values of ë for XGBoost and C for `1-penalized logistic regression reveal that regularization greatly impacted model performance in classifying Tracts according to the change in the monthly cost of housing. This is likely due to the large feature dimensionality.",
+  "imageText": ["Logistic", "Reg.", "C", "0.005", "XGBoost", "á", "0.25", "XGBoost", "d", "4", "XGBoost", "ë", "25", "Random", "Forest", "n", "125", "Random", "Forest", "p", "18", "Model", "Parameter", "Value"],
+  "renderURL": "jpeg71-Table2-1.png",
+  "captionBoundary": {
+    "x1": 72.0,
+    "y1": 458.793701171875,
+    "x2": 301.0221252441406,
+    "y2": 523.5509033203125
+  }
+}, {
+  "renderDpi": 150,
+  "name": "4",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 406.56,
+    "x2": 523.1999999999999,
+    "y2": 508.32
+  },
+  "caption": "Figure 4: No model outperformed the no information classifier on the income distribution shift response.",
+  "imageText": [],
+  "renderURL": "jpeg71-Figure4-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 524.0406494140625,
+    "x2": 539.9990234375,
+    "y2": 540.9769897460938
+  }
+}, {
+  "renderDpi": 150,
+  "name": "3",
+  "page": 3,
+  "figType": "Figure",
+  "regionBoundary": {
+    "x1": 324.0,
+    "y1": 106.56,
+    "x2": 523.1999999999999,
+    "y2": 207.35999999999999
+  },
+  "caption": "Figure 3: XGBoost and the ensemble model performed best on the change in monthly housing cost response, with a 10% accuracy improvement over the no information classifier.",
+  "imageText": [],
+  "renderURL": "jpeg71-Figure3-1.png",
+  "captionBoundary": {
+    "x1": 310.9809875488281,
+    "y1": 222.94973754882812,
+    "x2": 540.0009765625,
+    "y2": 263.79608154296875
+  }
+}]
