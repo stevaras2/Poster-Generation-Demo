@@ -250,7 +250,7 @@
     <section>
 
         <h2>Summary</h2>
-        <p style="font-size:0.75em">{{data}}</p>
+        <p style="font-size:0.7em">{{data}}</p>
     </section>
 
 
@@ -262,13 +262,17 @@
       </h2>
 
         <img src="static/images/{{images}}" height="250" width="350">
-        <figcaption>{{fig_caption}}</figcaption>
+        <b><figcaption style="font-size:0.75em">{{fig_caption}}</figcaption></b>
   </section>
 
-
-
-
-
+<script>
+var i = 0, ps = document.getElementsByTagName("p");
+for(len = ps.length; i<len; i++)
+{
+ var p = ps[i];
+ p.innerHTML = p.innerHTML.replace(/\b([A-Z]{2,})\b/g, "<b>$1</b>");
+}
+</script>
 </main>
 </body>
 </html>

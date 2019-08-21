@@ -57,14 +57,15 @@ def formPDF():
                     if image_name.__eq__(i['renderURL']):
 
                         caption = i['caption']
+                        break
                     else:
                         caption = " "
 
 
-                    break
 
-            print('cap',caption)
-            return render_template('summary.html', title='About', data=section_text,images = images_ranking[0],fig_caption=caption)
+
+            print('cap',caption,images_ranking[0])
+            return render_template('summary.html', title='About', data=section_text,images = image_name,fig_caption=caption)
 
 
         except:
