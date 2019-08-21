@@ -221,12 +221,12 @@ def extract_features(paper):
 
     return features
 
-
+'''
 def extract_embeddings(paper):
-    '''
+    
     extract the BERT embedding of the sentences and rhe sections of the test set
     :return:
-    '''
+    
 
     test_set = extract_features(paper)#create_test_set()
 
@@ -245,7 +245,6 @@ def extract_embeddings(paper):
             f.write("%s\n"%(line))
 
     os.system('python extract_features.py --input_file=sentences.txt --output_file=output_layer.json --vocab_file=D:/cased_L-12_H-768_A-12/vocab.txt --bert_config_file=D:/cased_L-12_H-768_A-12/bert_config.json --init_checkpoint=C:/Users/user/PycharmProjects/bert/my_dataset_output/model.ckpt-3000  --layers=-3  --max_seq_length=128 --batch_size=8')
-
 
 def get_embeddings():
 
@@ -268,8 +267,102 @@ def get_embeddings():
 
     return sentence_emb
 
+'''
+
+def get_embeddings():
+
+    sentences = dict()
+    with open('test_sentences_list.txt','r') as f:
+        for index,line in enumerate(f):
+            sentences[index] = line.strip()
 
 
+    embeddings = dict()
+    with open('test_output_layer_-3.json', 'r',encoding='utf-8') as f:
+        for line in f:
+            embeddings[json.loads(line)['linex_index']] = np.asarray(json.loads(line)['features'])
+
+    sentence_emb = dict()
+
+    for key,value in sentences.items():
+        sentence_emb[value] = embeddings[key]
+
+
+    return sentence_emb
+
+
+def summarize(paper):
+
+    loaded_model = joblib.load('summarizer.pkl')
+    test_set = extract_features(paper)
+    print(test_set)
+    bert_emb = get_embeddings()
+    length = list()
+    sentence_emb = list()
+    previous_emb = list()
+    section_emb = list()
+    next_list = list()
+    section_of_sentences = dict()
+    jj_redick = 0
+    summary_of_sections = dict()
+
+
+    for row in test_set.iterrows():
+        sentence = row[1][0].strip()
+        #sentences.append(sentence)
+        previous = row[1][1].strip()
+        nexts = row[1][2].strip()
+        section = row[1][3].strip()
+        section_of_sentences[sentence] = section
+
+        if sentence in bert_emb:
+            sentence_emb.append(bert_emb[sentence])
+        else:
+            sentence_emb.append(np.zeros(768))
+            jj_redick += 1
+
+        if previous in bert_emb:
+            previous_emb.append(bert_emb[previous])
+        else:
+            previous_emb.append(np.zeros(768))
+
+        if nexts in bert_emb:
+            next_list.append(bert_emb[nexts])
+        else:
+            next_list.append(np.zeros(768))
+
+        if section in bert_emb:
+            section_emb.append(bert_emb[section])
+        else:
+            section_emb.append(np.zeros(768))
+
+        length.append(row[1][4])
+
+
+
+    next_emb = np.asarray(next_list)
+    previous_emb = np.asarray(previous_emb)
+    section_emb = np.asarray(section_emb)
+    length = np.asarray(length)
+    features = np.concatenate([sentence_emb, previous_emb, next_emb, section_emb], axis=1)
+    features = np.column_stack([features, length])
+    predictions = loaded_model.predict_proba(features)
+
+    for index, pred in enumerate(predictions):
+
+        sentence = str(test_set.iloc[index,0]).strip()
+        if pred[1] > 0.8:
+            section = section_of_sentences[sentence]
+            if section not in summary_of_sections:
+                summary_of_sections[section] = sentence + ". "
+            else:
+                summary_of_sections[section] += sentence + ". "
+
+    return summary_of_sections
+
+
+
+'''
 def summarize(paper):
     loaded_model = joblib.load('summarizer.pkl')
 
@@ -376,122 +469,7 @@ def summarize(paper):
 
     print(jj_redick)
     return summary_of_sections
-
-def third_approach():
-
-    bert_emb = get_embeddings()
-    loaded_model = joblib.load('summarizer.pkl')
-
-    test_set = create_test_set()
-    papers = os.listdir("test_papers")
-    summaries = dict()
-    words_of_summaries = list()
-    sentences_of_summaries = list()
-    cosine = list()
-
-    for paper in papers:
-        print(paper)
-        if paper.__eq__("250.tei.xml"):
-            continue
-        if paper.__eq__("289.tei.xml"):
-            continue
-
-
-        check_me = test_set[test_set['paper'].__eq__(paper)]
-        length = list()
-        sentence_emb = list()
-        previous_emb = list()
-        section_emb = list()
-        next_list = list()
-        sentence_proba = pd.DataFrame()
-        nn_sentence_proba = pd.DataFrame()
-        jj_redick = 0
-        sentences = list()
-        for row in check_me.iterrows():
-            sentence = row[1][0].strip()
-            sentences.append(sentence)
-            previous = row[1][1].strip()
-            nexts = row[1][2].strip()
-            section = row[1][3].strip()
-
-            if sentence in bert_emb:
-                sentence_emb.append(bert_emb[sentence])
-            else:
-                sentence_emb.append(np.zeros(768))
-                jj_redick += 1
-
-            if previous in bert_emb:
-                previous_emb.append(bert_emb[previous])
-            else:
-                previous_emb.append(np.zeros(768))
-
-            if nexts in bert_emb:
-                next_list.append(bert_emb[nexts])
-            else:
-                next_list.append(np.zeros(768))
-
-            if section in bert_emb:
-                section_emb.append(bert_emb[section])
-            else:
-                section_emb.append(np.zeros(768))
-
-            length.append(row[1][4])
-
-        sentence_proba['sentence'] = sentences
-        sentences_set = set()
-        nn_sentence_proba['sentence'] = sentences
-
-        summary_text = ""
-        sentence_emb = np.asarray(sentence_emb)
-        next_emb = np.asarray(next_list)
-        previous_emb = np.asarray(previous_emb)
-        section_emb = np.asarray(section_emb)
-        length = np.asarray(length)
-        features = np.concatenate([sentence_emb, previous_emb, next_emb, section_emb], axis=1)
-        features = np.column_stack([features, length])
-
-        predictions = loaded_model.predict_proba(features)
-        no_sen = 0
-        log_preds = list()
-        for i in predictions:
-            log_preds.append(i[1])
-
-        sentence_proba['probability'] = log_preds
-        sentence_proba.sort_values(by=['probability'], inplace=True, ascending=False)
-
-        for row in sentence_proba.iterrows():
-            sentence = row[1][0].strip()
-
-            if (len(word_tokenize(summary_text)) < 300):
-                sent_len = len(word_tokenize(sentence))
-                if (len(word_tokenize(summary_text)) + sent_len) > 300:
-                    continue
-                max_cosine = 0.0
-                if len(sentences_set) > 0:
-                    for sen in sentences_set:
-                        cos_sim = dot(bert_emb[sen], bert_emb[sentence]) / (norm(bert_emb[sentence]) * norm(bert_emb[sen]))
-                        if max_cosine < cos_sim:
-                            max_cosine = cos_sim
-                    cosine.append(max_cosine)
-                    if max_cosine < 0.90:
-
-                        summary_text += sentence + " "
-                        sentences_set.add(sentence)
-                        no_sen += 1
-                else:
-
-                    summary_text += sentence + " "
-                    sentences_set.add(sentence)
-                    no_sen += 1
-
-
-        sentences_of_summaries.append(no_sen)
-        summaries[paper] = summary_text
-        words_of_summaries.append(len(word_tokenize(summary_text)))
-
-    print("Number of words in summary using Logistic Regression as classifier:", np.mean(words_of_summaries))
-    print("Number of sentences in summary using Logistic Regression as classifier:", np.mean(sentences_of_summaries))
-    return summaries
+'''
 
 if __name__ == '__main__':
 

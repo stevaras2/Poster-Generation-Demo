@@ -245,26 +245,27 @@
     <a href="{{ url_for('index') }}"> Return </a>
 
 <main>
-  {% for name,text in data.items() %}
-  <section>
-    <h2 style="font-size:0.5em">{{ name }}</h2>
-    <p style="font-size:0.5em">{{ text }}</p>
-  </section>
-  {% endfor %}
 
-<div class="row">
-    <!--<img src="../static/images/{{image}}" height="50" width="50">-->
-    {% for img in images %}
-  <section class="col-54 col-offset-2">
-      <h2>
-        folder
-      </h2>
 
-        <img src=" static/images/{{img}}" height="50" width="50">
+    <section>
+
+        <h2>Summary</h2>
+        <p style="font-size:0.75em">{{data}}</p>
     </section>
 
-  {% endfor %}
-</div>
+
+
+
+  <section>
+      <h2>
+        Central Figure
+      </h2>
+
+        <img src="static/images/{{images}}" height="250" width="350">
+        <figcaption>{{fig_caption}}</figcaption>
+  </section>
+
+
 
 
 
