@@ -26,7 +26,7 @@ def formPDF():
     if text.__eq__(default_name):
         return render_template('formPDF.html')
     else:
-        try:
+        #try:
 
             summary = summarize(text + '.tei.xml')
 
@@ -41,8 +41,7 @@ def formPDF():
                     if len(line) > 1:
                         images_ranking.append(img_name)
 
-            json_files = os.listdir('json')
-
+            paper_title = get_paper_name(text + ".tei.xml")
             file = 'json'+text+'.json'
 
             caption = ''
@@ -65,12 +64,15 @@ def formPDF():
 
 
             print('cap',caption,images_ranking[0])
-            return render_template('summary.html', title='About', data=section_text,images = image_name,fig_caption=caption)
 
 
-        except:
-            print(text)
-            return render_template('formPDF.html')
+            return render_template('summary.html', title='About', data=section_text,images = image_name,
+                                   fig_caption=caption,paper_title=paper_title)
+
+
+        #except:
+         #   print(text)
+          #  return render_template('formPDF.html')
 
 
 

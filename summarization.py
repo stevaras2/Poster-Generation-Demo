@@ -471,9 +471,21 @@ def summarize(paper):
     return summary_of_sections
 '''
 
+def get_paper_name(paper):
+    file = ElementTree.parse("test_papers/" + paper)
+
+    titles = list()
+    for item in file.getiterator('{http://www.tei-c.org/ns/1.0}title'):
+        titles.append(item)
+
+    return titles[0].text
+
+
+
 if __name__ == '__main__':
 
-    a = summarize('400.tei.xml')
+    print(get_paper_name('400.tei.xml'))
+    #a = summarize('400.tei.xml')
     #summaries = third_approach()
     #for paper,summary in summaries.items():
       #  print(paper,summary)
