@@ -15,8 +15,9 @@ text = default_name
 
 def index():
     import os
-    papers = os.listdir('static/papers')
-    return render_template('home.html', title='About', data=papers)
+    reports = os.listdir('static/reports')
+
+    return render_template('home.html', title='Papers', data=reports)
 
 
 
