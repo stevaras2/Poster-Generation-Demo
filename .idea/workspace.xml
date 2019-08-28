@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="854bfe09-41a8-4b1b-8065-40851b408917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/reports/243.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/248.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/249.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/250.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/251.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/254.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/255.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/256.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/258.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/261.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/281.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/283.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/289.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/296.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/370.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/reports/400.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -126,6 +117,7 @@
       <find>.</find>
       <find>json</find>
       <find>os</find>
+      <find>Flask Blog</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,12 +127,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/useless.py" />
-        <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/templates/formPDF.html" />
         <option value="$PROJECT_DIR$/templates/summary.html" />
         <option value="$PROJECT_DIR$/summarization.py" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/layout.html" />
       </list>
     </option>
   </component>
@@ -166,7 +158,7 @@
             <path>
               <item name="Poster-Generation-Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Poster-Generation-Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566463578219</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add PDF files">
+      <created>1566465242639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566465242639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -285,7 +284,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,7 +302,8 @@
     <MESSAGE value="First attampt" />
     <MESSAGE value="Changed summarizer" />
     <MESSAGE value="add title" />
-    <option name="LAST_COMMIT_MESSAGE" value="add title" />
+    <MESSAGE value="add PDF files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PDF files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_output_layer_-3.json">
@@ -357,13 +357,6 @@
         <state relative-caret-position="-1887" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/formPDF.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -414,6 +407,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
         </state>
       </provider>
     </entry>
