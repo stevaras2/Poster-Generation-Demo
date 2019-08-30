@@ -260,16 +260,16 @@
 
 
 
-
+    {% for image,fig_caption in images.items() %}
   <section>
       <h2>
         Central Figure
       </h2>
 
-        <img src="static/images/{{images}}" height="250" width="350">
+        <img src="static/images/{{image}}" height="50" width="50">
         <b><figcaption style="font-size:0.75em">{{fig_caption}}</figcaption></b>
   </section>
-
+    {% endfor %}
 <script>
 var i = 0, ps = document.getElementsByTagName("p");
 for(len = ps.length; i<len; i++)

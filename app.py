@@ -27,7 +27,7 @@ def formPDF():
     if text.__eq__(default_name):
         return render_template('formPDF.html')
     else:
-        #try:
+        try:
 
             summary = summarize(text + '.tei.xml')
 
@@ -47,33 +47,25 @@ def formPDF():
 
             caption = ''
 
-            image_name = images_ranking[0]
+            image_name = images_ranking[:3]
+
+
+            img_and_caption = dict()
             with open('json/' + file) as json_file:
                 text = json_file.read()
                 json_data = json.loads(text)
-
-
                 for i in json_data:
-                    if image_name.__eq__(i['renderURL']):
-
-                        caption = i['caption']
-                        break
-                    else:
-                        caption = " "
+                    if i['renderURL'] in image_name:
+                        img_and_caption[i['renderURL']] = i['caption']
 
 
 
 
-            print('cap',caption,images_ranking[0])
-
-
-            return render_template('summary.html', title='About', data=section_text,images = image_name,
-                                   fig_caption=caption,paper_title=paper_title)
-
-
-        #except:
-         #   print(text)
-          #  return render_template('formPDF.html')
+            return render_template('summary.html', title='About', data=section_text,paper_title=paper_title,
+                                   images = img_and_caption)
+        except:
+            print(text)
+            return render_template('formPDF.html')
 
 
 
