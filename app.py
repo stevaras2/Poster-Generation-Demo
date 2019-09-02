@@ -49,18 +49,21 @@ def formPDF():
 
             image_name = images_ranking[:3]
 
-
+            image_section = pd.read_csv(os.path.join('paper ' + text, 'image_section.csv'), header=None)
             img_and_caption = dict()
+            index = 0
             with open('json/' + file) as json_file:
                 text = json_file.read()
                 json_data = json.loads(text)
                 for i in json_data:
                     if i['renderURL'] in image_name:
-                        img_and_caption[i['renderURL']] = i['caption']
+                        img_and_caption[i['renderURL']] = [i['caption'],image_section.iloc[index,1]]
 
+                       # print(image_section.iloc[index,1])
+                        index += 1
 
-
-
+            for k,v in img_and_caption.items():
+                print(k,v)
             return render_template('summary.html', title='About', data=section_text,paper_title=paper_title,
                                    images = img_and_caption)
         except:
